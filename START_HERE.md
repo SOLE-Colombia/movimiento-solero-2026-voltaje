@@ -17,14 +17,20 @@
 
 👉 **[RESUMEN_FINAL_DAVID.md](RESUMEN_FINAL_DAVID.md)** ⭐
 
-### DOS COMANDOS:
+### TRES PASOS SIMPLES:
 
 ```cmd
-scripts\config-git-sole.bat
-scripts\push-to-sole-colombia.bat
+# 1. Configurar SSH con tu key "sole"
+scripts\config-ssh-sole.bat
+
+# 2. Agregar la key en GitHub (te la muestra el script)
+# https://github.com/settings/keys
+
+# 3. Subir a GitHub
+scripts\push-simple.bat
 ```
 
-✅ Configura Git con tu info  
+✅ Configura SSH para usar tu key "sole"  
 ✅ Sube todo a SOLE-Colombia/dev_voltaje  
 ✅ Crea las 3 ramas automáticamente  
 

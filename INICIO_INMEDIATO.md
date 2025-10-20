@@ -8,21 +8,29 @@
 
 ---
 
-## 🚀 DOS COMANDOS para estar en GitHub
+## 🚀 TRES PASOS para estar en GitHub
 
-### 1️⃣ Limpiar y Configurar Git (30 segundos)
+### 1️⃣ Configurar SSH con tu key "sole" (30 segundos) ⭐
 
 ```cmd
-scripts\fix-git-errors.bat
+scripts\config-ssh-sole.bat
 ```
 
-Esto:
-- ✅ Limpia errores de configuración
-- ✅ Configura usuario y email correctamente
-- ✅ Verifica tu SSH
-- ✅ Reinicia Git limpiamente
+**IMPORTANTE**: Tu SSH key se llama `sole.pub`, no `id_ed25519.pub`. Este script:
+- ✅ Encuentra tu key `sole.pub`
+- ✅ Configura SSH para usarla con GitHub
+- ✅ Te muestra la key para copiar
 
-### 2️⃣ Subir a GitHub (5 minutos)
+### 2️⃣ Agregar Key en GitHub (2 minutos)
+
+El script te mostrará tu public key. Cópiala y:
+
+1. Ve a: **https://github.com/settings/keys**
+2. Click **"New SSH key"**
+3. Pega la key
+4. Click **"Add SSH key"**
+
+### 3️⃣ Subir a GitHub (5 minutos)
 
 ```cmd
 scripts\push-simple.bat
@@ -32,40 +40,35 @@ Esto:
 - ✅ Crea el repositorio local
 - ✅ Sube todo a SOLE-Colombia/dev_voltaje
 - ✅ Crea las 3 ramas automáticamente
-- ✅ Sin errores de System32
+- ✅ Usa tu key `sole` correctamente
 
 ---
 
-## ✅ Si te pide agregar SSH Key en GitHub
+## ✅ Ver tu SSH Key en Cualquier Momento
 
-Tu SSH public key es:
+Si necesitas ver tu public key de nuevo:
 
+```cmd
+scripts\mostrar-mi-key.bat
 ```
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIODlIIay9W01gie5F2x0/RfkR4ae3WSE1IZttEHmcFUN voltaje@solecolombia.org
-```
 
-**Agrégala aquí**: https://github.com/settings/keys
-
-1. Click "New SSH key"
-2. Title: `SOLE Voltaje - Windows PC`
-3. Pega la key de arriba
-4. Click "Add SSH key"
+Este script encuentra y muestra tu SSH public key (sea `sole.pub` o `id_ed25519.pub`)
 
 ---
 
 ## 📋 Orden Exacto de Ejecución
 
 ```cmd
-# Paso 1
-scripts\config-git-sole.bat
+# Paso 1: Configurar SSH con tu key "sole"
+scripts\config-ssh-sole.bat
 
-# Paso 2 (si SSH no está en GitHub)
-# Ve a https://github.com/settings/keys y agrega tu key
+# Paso 2: Copiar la key que te muestra y agregarla en:
+# https://github.com/settings/keys
 
-# Paso 3
-scripts\push-to-sole-colombia.bat
+# Paso 3: Subir a GitHub
+scripts\push-simple.bat
 
-# ¡Listo!
+# ¡Listo! Tu código está en GitHub
 ```
 
 ---
