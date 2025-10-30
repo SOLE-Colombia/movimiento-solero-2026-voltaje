@@ -1,0 +1,33 @@
+# Dockerfile para desarrollo local
+FROM node:20-alpine
+
+# Instalar dependencias del sistema
+RUN apk add --no-cache \
+    git \
+    python3 \
+    py3-pip \
+    bash \
+    curl
+
+# Crear directorio de trabajo
+WORKDIR /workspace
+
+# Copiar package.json para cache de dependencias
+COPY quartz/package*.json ./quartz/
+
+# Instalar dependencias de Node
+WORKDIR /workspace/quartz
+RUN npm ci
+
+# Volver al directorio raíz
+WORKDIR /workspace
+
+# El código se monta como volumen, no se copia
+
+# Exponer puerto de desarrollo
+EXPOSE 8080
+
+# Comando por defecto (se sobrescribe en docker-compose)
+CMD ["npm", "run", "dev"]
+
+

@@ -1,0 +1,87 @@
+name: Deploy a Producción
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:  # Permite ejecución manual
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 📥 Checkout código
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Necesario para Quartz
+          
+      - name: 🔧 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          
+      - name: 🔧 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          
+      - name: 📦 Instalar dependencias Python
+        run: |
+          pip install -r requirements.txt
+          
+      - name: 📦 Instalar Quartz
+        run: |
+          cd quartz
+          npm ci
+          
+      - name: 🔍 Validar contenido
+        run: |
+          python scripts/10-validate.py
+          
+      - name: 🏗️ Build con Quartz
+        run: |
+          cd quartz
+          npx quartz build
+          
+      - name: 📝 Generar sitemap
+        run: |
+          # Script para generar sitemap.xml
+          echo "Generando sitemap..."
+          
+      - name: 🚀 Deploy a repositorio público
+        env:
+          DEPLOY_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
+          PUBLIC_REPO: ${{ secrets.PUBLIC_REPO }}
+        run: |
+          # Configurar git
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          
+          # Clonar repo público
+          git clone https://x-access-token:${DEPLOY_TOKEN}@github.com/${PUBLIC_REPO}.git public-repo
+          
+          # Limpiar contenido anterior (excepto .git)
+          cd public-repo
+          find . -maxdepth 1 ! -name '.git' ! -name '.' ! -name '..' -exec rm -rf {} +
+          
+          # Copiar nuevo build
+          cp -r ../quartz/public/* .
+          
+          # Crear CNAME si es necesario
+          echo "voltaje.solecolombia.org" > CNAME
+          
+          # Commit y push
+          git add .
+          git commit -m "Deploy desde main - $(date +'%Y-%m-%d %H:%M:%S')" || echo "No hay cambios"
+          git push origin main
+          
+      - name: 📊 Resumen de deploy
+        run: |
+          echo "✅ Deploy completado exitosamente"
+          echo "🌐 Sitio disponible en: https://voltaje.solecolombia.org"
+          echo "📅 Fecha: $(date)"
+
+

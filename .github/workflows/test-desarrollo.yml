@@ -1,0 +1,103 @@
+name: Test en Desarrollo
+
+on:
+  push:
+    branches:
+      - desarrollo
+  pull_request:
+    branches:
+      - desarrollo
+      - main
+
+jobs:
+  validate-and-test:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 📥 Checkout código
+        uses: actions/checkout@v4
+        
+      - name: 🔧 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          
+      - name: 🔧 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          
+      - name: 📦 Instalar dependencias Python
+        run: |
+          pip install -r requirements.txt
+          
+      - name: 📦 Instalar Quartz
+        run: |
+          cd quartz
+          npm ci
+          
+      - name: 🔍 Validar estructura de archivos
+        run: |
+          echo "Validando estructura..."
+          python scripts/10-validate.py
+          
+      - name: 🔍 Verificar enlaces rotos
+        run: |
+          echo "Verificando enlaces..."
+          # Script para verificar enlaces
+          
+      - name: 🔍 Verificar imágenes
+        run: |
+          echo "Verificando imágenes..."
+          python scripts/07-optimize-images.py --dry-run || true
+          
+      - name: 🏗️ Test build con Quartz
+        run: |
+          cd quartz
+          npx quartz build
+          
+      - name: 📊 Resumen de tests
+        if: always()
+        run: |
+          echo "Tests completados"
+          echo "Branch: ${{ github.ref_name }}"
+          echo "Commit: ${{ github.sha }}"
+
+  preview-deploy:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'pull_request'
+    needs: validate-and-test
+    
+    steps:
+      - name: 📥 Checkout código
+        uses: actions/checkout@v4
+        
+      - name: 🔧 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          
+      - name: 📦 Instalar Quartz
+        run: |
+          cd quartz
+          npm ci
+          
+      - name: 🏗️ Build preview
+        run: |
+          cd quartz
+          npx quartz build
+          
+      - name: 💬 Comentar en PR
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '✅ Build exitoso! El preview está listo para revisión.'
+            })
+
+

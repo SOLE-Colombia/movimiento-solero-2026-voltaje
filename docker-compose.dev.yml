@@ -1,0 +1,49 @@
+version: '3.8'
+
+services:
+  # Servicio principal de desarrollo
+  voltaje-dev:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    container_name: voltaje-dev
+    ports:
+      - "8080:8080"  # Quartz dev server
+      - "3000:3000"  # Preview alternativo
+    volumes:
+      # Montar todo el proyecto
+      - .:/workspace
+      # No montar node_modules ni cache
+      - /workspace/node_modules
+      - /workspace/quartz/node_modules
+      - /workspace/.quartz-cache
+    environment:
+      - NODE_ENV=development
+      - CHOKIDAR_USEPOLLING=true  # Para hot reload en Windows
+    command: npm run dev
+    working_dir: /workspace/quartz
+    stdin_open: true
+    tty: true
+    networks:
+      - voltaje-network
+
+  # Servidor Python para scripts
+  voltaje-scripts:
+    build:
+      context: .
+      dockerfile: Dockerfile.scripts
+    container_name: voltaje-scripts
+    volumes:
+      - .:/workspace
+    environment:
+      - PYTHONUNBUFFERED=1
+    working_dir: /workspace
+    command: tail -f /dev/null  # Mantener contenedor vivo
+    networks:
+      - voltaje-network
+
+networks:
+  voltaje-network:
+    driver: bridge
+
+
