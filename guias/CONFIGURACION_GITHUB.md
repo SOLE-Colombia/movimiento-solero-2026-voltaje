@@ -298,3 +298,5 @@ Crear archivo `guias/FLUJO_DE_TRABAJO_EQUIPO.md` con:
 6. Compartir con el equipo
 
 
+
+

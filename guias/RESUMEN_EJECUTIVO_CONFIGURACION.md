@@ -282,3 +282,5 @@ Este archivo tiene el paso a paso detallado de cada configuración.
 **Contacto para dudas**: [Tu email o canal de comunicación]
 
 
+
+

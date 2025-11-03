@@ -1,17 +1,124 @@
-name: Test en Desarrollo
+name: Development Build and Deploy
 
 on:
   push:
     branches:
       - desarrollo
-  pull_request:
-    branches:
-      - desarrollo
-      - main
+  workflow_dispatch:  # Permite ejecución manual
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-development
+  cancel-in-progress: false
+
+defaults:
+  run:
+    shell: bash
 
 jobs:
-  validate-and-test:
+  build:
     runs-on: ubuntu-latest
+    env:
+      ENVIRONMENT: desarrollo
+      NODE_VERSION: 20
+      TZ: America/Bogota
+      
+    steps:
+      - name: 📥 Checkout código fuente
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Necesario para git history en Quartz
+          submodules: recursive
+          
+      - name: 🔧 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'npm'
+          cache-dependency-path: 'quartz/package-lock.json'
+          
+      - name: 📦 Instalar dependencias de Quartz
+        run: |
+          cd quartz
+          npm ci
+          
+      - name: ℹ️ Verificar instalación
+        run: |
+          echo "Node.js: $(node --version)"
+          echo "npm: $(npm --version)"
+          echo "Environment: ${{ env.ENVIRONMENT }}"
+          echo "Quartz instalado correctamente"
+          
+      - name: 🏗️ Build del sitio con Quartz
+        run: |
+          cd quartz
+          npx quartz build
+          
+      - name: 📊 Verificar build
+        run: |
+          if [ -d "quartz/public" ]; then
+            echo "✅ Build completado exitosamente"
+            echo "📁 Archivos generados:"
+            ls -lah quartz/public
+          else
+            echo "❌ Error: No se generó la carpeta public"
+            exit 1
+          fi
+          
+      - name: 🔧 Configurar Git para deploy
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "github-actions@github.com"
+          
+      - name: 📥 Checkout repositorio de desarrollo
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ secrets.DEVELOPMENT_REPO }}
+          path: deploy-dev
+          token: ${{ secrets.DEPLOY_TOKEN }}
+          
+      - name: 🚀 Deploy a desarrollo
+        run: |
+          # Copiar archivos del build
+          cp -r quartz/public/* deploy-dev/
+          
+          # Ir al directorio de deploy
+          cd deploy-dev
+          
+          # Crear archivo .nojekyll (necesario para GitHub Pages)
+          touch .nojekyll
+          
+          # Banner de desarrollo (opcional)
+          echo "<!-- SITE EN DESARROLLO -->" >> index.html
+          
+          # Agregar todos los cambios
+          git add .
+          
+          # Commit con SHA del commit original
+          git commit -m "🔧 Deploy desde desarrollo - ${{ github.sha }}" || echo "No hay cambios nuevos"
+          
+          # Push a main (del repo de desarrollo)
+          git push origin main
+          
+      - name: 📊 Resumen del deploy
+        run: |
+          echo "✅ Deploy a DESARROLLO completado"
+          echo "📅 Fecha: $(date)"
+          echo "🔗 Commit: ${{ github.sha }}"
+          echo "👤 Por: ${{ github.actor }}"
+          echo ""
+          echo "🌐 El sitio de desarrollo estará disponible en:"
+          echo "   https://<tu-usuario>.github.io/<repo-desarrollo>"
+          echo ""
+          echo "⏰ Puede tomar 1-2 minutos en actualizarse"
+          
+  test:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'pull_request'
     
     steps:
       - name: 📥 Checkout código
@@ -22,74 +129,19 @@ jobs:
         with:
           node-version: '20'
           cache: 'npm'
-          
-      - name: 🔧 Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-          cache: 'pip'
-          
-      - name: 📦 Instalar dependencias Python
-        run: |
-          pip install -r requirements.txt
+          cache-dependency-path: 'quartz/package-lock.json'
           
       - name: 📦 Instalar Quartz
         run: |
           cd quartz
           npm ci
           
-      - name: 🔍 Validar estructura de archivos
-        run: |
-          echo "Validando estructura..."
-          python scripts/10-validate.py
-          
-      - name: 🔍 Verificar enlaces rotos
-        run: |
-          echo "Verificando enlaces..."
-          # Script para verificar enlaces
-          
-      - name: 🔍 Verificar imágenes
-        run: |
-          echo "Verificando imágenes..."
-          python scripts/07-optimize-images.py --dry-run || true
-          
-      - name: 🏗️ Test build con Quartz
+      - name: 🏗️ Test build
         run: |
           cd quartz
           npx quartz build
           
-      - name: 📊 Resumen de tests
-        if: always()
-        run: |
-          echo "Tests completados"
-          echo "Branch: ${{ github.ref_name }}"
-          echo "Commit: ${{ github.sha }}"
-
-  preview-deploy:
-    runs-on: ubuntu-latest
-    if: github.event_name == 'pull_request'
-    needs: validate-and-test
-    
-    steps:
-      - name: 📥 Checkout código
-        uses: actions/checkout@v4
-        
-      - name: 🔧 Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-          
-      - name: 📦 Instalar Quartz
-        run: |
-          cd quartz
-          npm ci
-          
-      - name: 🏗️ Build preview
-        run: |
-          cd quartz
-          npx quartz build
-          
-      - name: 💬 Comentar en PR
+      - name: 💬 Comentar resultado en PR
         uses: actions/github-script@v7
         with:
           script: |
@@ -97,7 +149,8 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: '✅ Build exitoso! El preview está listo para revisión.'
+              body: '✅ Build de prueba exitoso! Los cambios están listos para revisión.'
             })
+
 
 

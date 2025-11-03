@@ -1,4 +1,4 @@
-name: Deploy a Producción
+name: Production Build and Deploy
 
 on:
   push:
@@ -6,82 +6,115 @@ on:
       - main
   workflow_dispatch:  # Permite ejecución manual
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-production
+  cancel-in-progress: false
+
+defaults:
+  run:
+    shell: bash
+
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-latest
-    
+    env:
+      ENVIRONMENT: production
+      NODE_VERSION: 20
+      TZ: America/Bogota
+      
     steps:
-      - name: 📥 Checkout código
+      - name: 📥 Checkout código fuente
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Necesario para Quartz
+          fetch-depth: 0  # Necesario para git history en Quartz
+          submodules: recursive
           
       - name: 🔧 Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: ${{ env.NODE_VERSION }}
           cache: 'npm'
+          cache-dependency-path: 'quartz/package-lock.json'
           
-      - name: 🔧 Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-          cache: 'pip'
-          
-      - name: 📦 Instalar dependencias Python
-        run: |
-          pip install -r requirements.txt
-          
-      - name: 📦 Instalar Quartz
+      - name: 📦 Instalar dependencias de Quartz
         run: |
           cd quartz
           npm ci
           
-      - name: 🔍 Validar contenido
+      - name: ℹ️ Verificar instalación
         run: |
-          python scripts/10-validate.py
+          echo "Node.js: $(node --version)"
+          echo "npm: $(npm --version)"
+          echo "Quartz instalado correctamente"
           
-      - name: 🏗️ Build con Quartz
+      - name: 🏗️ Build del sitio con Quartz
         run: |
           cd quartz
           npx quartz build
           
-      - name: 📝 Generar sitemap
+      - name: 📊 Verificar build
         run: |
-          # Script para generar sitemap.xml
-          echo "Generando sitemap..."
+          if [ -d "quartz/public" ]; then
+            echo "✅ Build completado exitosamente"
+            echo "📁 Archivos generados:"
+            ls -lah quartz/public
+          else
+            echo "❌ Error: No se generó la carpeta public"
+            exit 1
+          fi
           
-      - name: 🚀 Deploy a repositorio público
-        env:
-          DEPLOY_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
-          PUBLIC_REPO: ${{ secrets.PUBLIC_REPO }}
+      - name: 🔧 Configurar Git para deploy
         run: |
-          # Configurar git
           git config --global user.name "GitHub Actions Bot"
-          git config --global user.email "actions@github.com"
+          git config --global user.email "github-actions@github.com"
           
-          # Clonar repo público
-          git clone https://x-access-token:${DEPLOY_TOKEN}@github.com/${PUBLIC_REPO}.git public-repo
+      - name: 📥 Checkout repositorio de producción
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ secrets.PRODUCTION_REPO }}
+          path: deploy-production
+          token: ${{ secrets.DEPLOY_TOKEN }}
           
-          # Limpiar contenido anterior (excepto .git)
-          cd public-repo
-          find . -maxdepth 1 ! -name '.git' ! -name '.' ! -name '..' -exec rm -rf {} +
+      - name: 🚀 Deploy a producción
+        run: |
+          # Copiar archivos del build
+          cp -r quartz/public/* deploy-production/
           
-          # Copiar nuevo build
-          cp -r ../quartz/public/* .
+          # Ir al directorio de deploy
+          cd deploy-production
           
-          # Crear CNAME si es necesario
-          echo "voltaje.solecolombia.org" > CNAME
+          # Crear archivo .nojekyll (necesario para GitHub Pages)
+          touch .nojekyll
           
-          # Commit y push
+          # Crear CNAME si tienes dominio personalizado
+          # Descomenta la siguiente línea y cambia el dominio
+          # echo "voltaje.solecolombia.org" > CNAME
+          
+          # Agregar todos los cambios
           git add .
-          git commit -m "Deploy desde main - $(date +'%Y-%m-%d %H:%M:%S')" || echo "No hay cambios"
+          
+          # Commit con SHA del commit original
+          git commit -m "🚀 Deploy desde main - ${{ github.sha }}" || echo "No hay cambios nuevos"
+          
+          # Push a main
           git push origin main
           
-      - name: 📊 Resumen de deploy
+      - name: 📊 Resumen del deploy
         run: |
-          echo "✅ Deploy completado exitosamente"
-          echo "🌐 Sitio disponible en: https://voltaje.solecolombia.org"
+          echo "✅ Deploy a PRODUCCIÓN completado"
           echo "📅 Fecha: $(date)"
+          echo "🔗 Commit: ${{ github.sha }}"
+          echo "👤 Por: ${{ github.actor }}"
+          echo ""
+          echo "🌐 El sitio estará disponible en:"
+          echo "   https://<tu-usuario>.github.io/<repo-produccion>"
+          echo ""
+          echo "⏰ Puede tomar 1-2 minutos en actualizarse"
+
 
 
