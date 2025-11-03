@@ -20,6 +20,7 @@ yarn-error.log*
 # Quartz
 quartz/.quartz-cache/
 quartz/public/
+quartz/content/          # Sincronizado desde content/ raíz
 
 # Temporales y reportes de migración
 temp/
