@@ -20,6 +20,8 @@ yarn-error.log*
 # Quartz
 quartz/.quartz-cache/
 quartz/public/
+quartz/content/          # Sincronizado desde content/ raíz
+quartz/node_modules/     # Dependencias de npm
 
 # Temporales y reportes de migración
 temp/
