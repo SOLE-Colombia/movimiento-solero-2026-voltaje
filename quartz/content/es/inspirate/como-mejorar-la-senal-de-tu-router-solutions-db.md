@@ -1,0 +1,178 @@
+---
+title: ¿Cómo mejorar la señal de tu router?
+lang: es
+slug: como-mejorar-la-senal-de-tu-router-solutions-db
+aspectos:
+- señal
+- electricidad
+- dispositivos
+- espacio
+fecha: '2025-10-11'
+---
+
+# ¿Cómo mejorar la señal de tu router?
+
+Created: 30 de agosto de 2025 23:19
+Autor: Manuela
+Solucionas: Señal
+Dificultad: Promedio
+Cuesta: Gratis
+Ayudantes: 2-3 personas
+Tardas: Horas
+pilar/dispositivos: 0: No aporta a equipos
+pilar/espacio: 0: No aporta a tener un espacio público
+pilar/personas: 0: No aporta a reunir personas
+pilar/senal: 3: Aporta señal permanente (Antena comercial instalada)
+pilar/electricidad: No consigues electricidad
+impacto/personas: 30
+impacto/sostenibilidad: 0: Se mantiene solo
+recursos/dinero: 0: Sin dinero
+recursos/personas: 2: Entre 2 y 3 personas
+recursos/tiempo: 1: Horas
+R-reactions: No
+
+*Descarga esta solución para usarla desconectado*
+
+[Como_mejorar_la_seal_de_tu_router_20250729.pdf](/downloads/como-mejorar-la-seal-de-tu-router-20250729.pdf)
+
+*Download this solution to use it disconnected*
+
+### índice
+
+# **Algunos consejos para sacarle el mayor provecho al router**
+
+## **Bienvenida**
+
+¡Hola! Soy Manu, la cuentera de SOLE Colombia, y también me he sentido muy frustrada por perder la señal de Internet justo en medio de una reunión importante o de un SOLE.  
+
+## ¿Qué es mejorar la señal de tu router?
+
+Justo, cuando más la necesitas, la conexión  desaparece, ¿te ha pasado? A mí, más de una vez. Pero no te preocupes, porque estás a punto de aprender cómo mejorar la señal de tu [**Router**](/modem-router-o-enrutador-modem-or-router-conceptorio) para que eso ocurra con menos frecuencia.
+
+Además, te enseñaré cómo optimizar la configuración del [**Router**](/modem-router-o-enrutador-modem-or-router-conceptorio) para que navegues más rápido cambiando los servidores [**DNS**](/dns-sistema-de-nombres-de-dominio-dns-domain-name-system-conceptorio) y ajustando el canal de [**WiFi**](/wifi-fidelidad-inalambrica-wifi-wireless-fidelity-conceptorio). ¡Esto no es difícil y lo puedes hacer desde casa! Así que prepárate, que vamos a sacarle el máximo provecho a tu red.
+
+## **¿Para qué sirve?**
+
+Voy a acompañarte para que puedas sacarle el máximo provecho al **Router**. Juntos, vamos a  mejorar la distribución de la señal **WiFi** en tu espacio, logrando una conexión más estable, para que no te vaya a fallar en esos momentos  que más lo necesitas, ya sea para una reunión, una clase, o una sesión de SOLE. ¡No más señales interrumpidas cuando estás investigando una  Gran Pregunta!
+
+Recuerda que estos ajustes no aumentarán la velocidad contratada, pero sí te ayudarán a que la señal llegue mejor a cada rincón de tu casa al optimizar los DNS.
+
+## **¿Qué necesitas?**
+
+- Usar un servicio de Internet que se conecte a través de un **Router**.
+- Las claves de acceso del Router.
+- Un computador conectado a la red.
+- Un poco de paciencia (¡espero que no tanta!).
+- Actitud **Cacharrera.**
+
+## ¿Cómo hacerlo?
+
+Ahora sí, voy a acompañarte paso a paso para que mejores la señal de tu WiFi. ¡Confía! ¡Algo tendrá que cambiar!
+
+- **Momento 1: Mide la velocidad de tu conexión**
+    
+    Lo primero que tienes que hacer es medir la velocidad de tu conexión actual. Esto te permitirá comparar el "antes" y "después" de hacer los ajustes. Descarga la aplicación [**Fast**](https://fast.com/es/) o usa el medidor de velocidad que prefieras, y realiza pruebas desde varios puntos de tu casa.
+    
+    <img src="/assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\WhatsApp_Image_2024-11-07_at_10.07.39-800w.webp" alt="Pantallazo, tomado por Manuela Córdoba, (2024)." srcset="/assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\WhatsApp_Image_2024-11-07_at_10.07.39-400w.webp 400w, /assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\WhatsApp_Image_2024-11-07_at_10.07.39-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    
+    Pantallazo, tomado por Manuela Córdoba, (2024).
+    
+    <img src="/assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\WhatsApp_Image_2024-11-07_at_10.10.22-800w.webp" alt="Pantallazo, tomado por Manuela Córdoba, (2024)." srcset="/assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\WhatsApp_Image_2024-11-07_at_10.10.22-400w.webp 400w, /assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\WhatsApp_Image_2024-11-07_at_10.10.22-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    
+    Pantallazo, tomado por Manuela Córdoba, (2024).
+    
+    <img src="/assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\pexels-mizunokozuki-12899121-800w.webp" alt="Foto tomada de Pexels, (2024)." srcset="/assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\pexels-mizunokozuki-12899121-400w.webp 400w, /assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\pexels-mizunokozuki-12899121-800w.webp 800w, /assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\pexels-mizunokozuki-12899121-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    
+    Foto tomada de Pexels, (2024).
+    
+    ¿Listo? ¡Perfecto! Ahora ya tienes una referencia clara para notar las mejoras. 
+    
+- **Momento 2: Explora tu espacio y ubica el Router**
+    
+    Puede parecer obvio, pero muchas veces olvidamos lo más simple: acércate al **Router**. Si estás organizando una sesión de SOLE o tienes varios dispositivos conectados, asegúrate de que estén lo más cerca posible para que la señal llegue con más fuerza. 
+    
+    El lugar donde pongas el **Router** es clave. Asegúrate de colocarlo en un punto elevado, como sobre una mesa, o, incluso, en el techo. Lo ideal, es que esté en un lugar central, no en un rincón o cerca de una ventana, donde muchas veces lo dejan los instaladores. Mover el **Router** a un lugar más estratégico hará que la señal se reparta, de manera más uniforme, por toda la casa.
+    
+    <img src="/assets\images\¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91\20240612_SOLEWLH_Sintonizacion_Misak_Piscitau_Piendamo81-800w.webp" alt="Foto tomada de Pexels, (2024)." srcset="/assets\images\¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91\20240612_SOLEWLH_Sintonizacion_Misak_Piscitau_Piendamo81-400w.webp 400w, /assets\images\¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91\20240612_SOLEWLH_Sintonizacion_Misak_Piscitau_Piendamo81-800w.webp 800w, /assets\images\¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91\20240612_SOLEWLH_Sintonizacion_Misak_Piscitau_Piendamo81-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    
+    Foto tomada de Pexels, (2024).
+    
+    <img src="/assets\images\How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675\20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao102-800w.webp" alt="Foto tomada por Manuela Córdoba, (2024)." srcset="/assets\images\How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675\20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao102-400w.webp 400w, /assets\images\How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675\20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao102-800w.webp 800w, /assets\images\How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675\20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao102-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    
+    Foto tomada por Manuela Córdoba, (2024).
+    
+- **Momento 3: Coloca las antenas del Router en posición perpendicular**
+    
+    ¿Ya viste las antenas de tu router? Revísalas ahora mismo. Un detalle importante para mejorar la señal es asegurarte de que estén en posición perpendicular, es decir, que apunten hacia el techo. Esto ayuda a que las ondas de señal se distribuyan mejor.
+    
+    <img src="/assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\99957012-74ac-46ea-bb9d-920cf7b81c01-800w.webp" alt="Diseño sin título(11).png" srcset="/assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\99957012-74ac-46ea-bb9d-920cf7b81c01-400w.webp 400w, /assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\99957012-74ac-46ea-bb9d-920cf7b81c01-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    
+    <img src="/assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\d0166214-58fc-4f91-a447-a5ea27f6e558-800w.webp" alt="2.jpg" srcset="/assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\d0166214-58fc-4f91-a447-a5ea27f6e558-400w.webp 400w, /assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\d0166214-58fc-4f91-a447-a5ea27f6e558-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    
+    Haz ese ajuste y notarás la diferencia. ¡Bien hecho!
+    
+
+Con estas 3 acciones ya debes ver algún tipo mejora. Si quieres ir más allá, despliega los últimos pasos más avanzados:
+
+- **Momento 4: Configura los DNS**
+    
+    
+    ¿Qué es esa vaina? 
+    
+    **Los DNS son como una libreta de direcciones que ayuda a tu computadora a encontrar sitios web más rápido. Usando servidores DNS más rápidos, como los de Google o Cloudflare, te aseguras de que las páginas carguen con mayor velocidad.** Los servidores predeterminados de tu proveedor de Internet no siempre son los más óptimos, por lo que cambiar a otros más eficientes puede mejorar tu experiencia de navegación.
+
+    
+    Ahora vamos a hacer algo interesante: configurar los **DNS**. Esto ayudará a que las páginas web que visitas se carguen más rápido, ya que los **DNS** son los directorios de direcciones IP que el **Router** consulta al navegar. 
+    
+     Si quieres cambiar a servidores **DNS** más rápidos y confiables harás que tus consultas en Internet sean más ágiles. Para lograrla, sigue estos pasos:
+    
+    1. Accede a la interfaz de administración de tu **Router**. Para ello, en la configuración de red de tu computador, busca la **puerta de enlace** o **gateway**. Allí encontrarás una dirección IP, algo como **192.168.0.1** o **192.168.1.1**.
+    2. Inicia sesión con las credenciales, que suelen ser **admin**/**admin**, o revisa el manual de tu dispositivo para las claves por defecto.
+    3. Cambia los valores por **1.1.1.1**, **1.0.0.1** (de **Cloudflare**) y **8.8.8.8** (de **Google**).
+    4. Abre tu navegador e ingresa esa dirección en la barra de direcciones. Esto te llevará al panel de control del **Router**.
+    5. Busca la sección de **Configuración de red** y, allí, la opción de **Servidores DNS**.
+    6. Guarda los cambios y reinicia el **Router**.
+    
+    ¡Muy bien! Ahora tu red usará estos servidores DNS, que son más rápidos y confiables.
+    
+- **Momento 5: Configura el canal del WiFi**
+    
+    Otro ajuste clave es la configuración del canal de **WiFi**. Los canales determinan la frecuencia en la que el **Router** emite la señal. Para evitar interferencias con otras redes cercanas, configura tu **Router** en los canales recomendados: **1**, **6** o **11**. Para hacerlo:
+    
+    1. Entra nuevamente a la interfaz de configuración de tu **Router**.
+    2. Busca la sección de **Wireless** o **Inalámbrico**.
+    3. Elige uno de los canales recomendados: **1**, **6** o **11**.
+    4. Guarda los cambios y reinicia el **Router**.
+    
+    Con este ajuste, reducirás las interferencias y mejorarás la calidad de la señal. ¡Muy bien, ya casi terminamos!
+    
+
+## ¿Cómo saber si esta solución funciona?
+
+¿Lo lograste? ¡Seguro que sí! Siguiendo estos pasos estoy segura que la señal de Router habrá mejorado y por ende, la  distribución de WiFi en tu espacio. 
+
+¿Por qué podría 
+
+Aunque no podrás aumentar la velocidad más allá de lo que tienes contratado :c, sí habrás asegurado que cada rincón de tu casa reciba una señal más fuerte y estable. 
+
+Espero que estos consejos te sean útiles y que ya no tengas más cortes de Internet en medio de una reunión importante o una investigación emocionante en SOLE. 
+
+[https://notionreactions.com/embed/UXlD7EXG9hr2qhaQFCPI](https://notionreactions.com/embed/UXlD7EXG9hr2qhaQFCPI)
+
+---
+
+[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
+
+[Inspírate](/inspirate-sole-voltaje)
+
+[Soluciona](/soluciona-sole-voltaje)
+
+[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
+
+[¿Desconectado?](/desconectado-sole-voltaje)
+
+[Conceptorio](/conceptorio-sole-voltaje)
+
+*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
+
+[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
