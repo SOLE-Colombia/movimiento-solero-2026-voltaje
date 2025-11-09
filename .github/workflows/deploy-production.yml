@@ -24,7 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       ENVIRONMENT: production
-      NODE_VERSION: 20
+      NODE_VERSION: 22
       TZ: America/Bogota
       
     steps:

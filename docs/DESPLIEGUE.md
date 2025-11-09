@@ -12,6 +12,8 @@
 on:
   push:
     branches: [desarrollo]
+env:
+  NODE_VERSION: 22  # ⚠️ Quartz requiere Node.js 22+
 ```
 
 **Acciones:**
@@ -29,6 +31,8 @@ on:
 on:
   push:
     branches: [main]
+env:
+  NODE_VERSION: 22  # ⚠️ Quartz requiere Node.js 22+
 ```
 
 **Acciones:**

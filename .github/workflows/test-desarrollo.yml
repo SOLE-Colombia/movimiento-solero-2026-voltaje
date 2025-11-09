@@ -24,7 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       ENVIRONMENT: desarrollo
-      NODE_VERSION: 20
+      NODE_VERSION: 22
       TZ: America/Bogota
       
     steps:
@@ -127,7 +127,7 @@ jobs:
       - name: 🔧 Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
           cache: 'npm'
           cache-dependency-path: 'quartz/package-lock.json'
           
