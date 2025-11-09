@@ -98,7 +98,7 @@ Al optimizar la señal, tendrás una conexión más rápida y estable para poder
     - [ ]  4G, LTE: videollamadas y videos en alta definición
 - **Paso 4: Haz una prueba de velocidad**
     
-    <img src="/assets\images\¿Cómo saber qué tan buena es tu conexión a Interne 1362bd68c5b680328cbffbdeb8b00c4d\Como_caharrear_tu_senal_movil_20241202_SOLE_Desconectado_v2-800w.webp" alt="Como caharrear tu señal movil_20241202_SOLE_Desconectado v2.png" srcset="/assets\images\¿Cómo saber qué tan buena es tu conexión a Interne 1362bd68c5b680328cbffbdeb8b00c4d\Como_caharrear_tu_senal_movil_20241202_SOLE_Desconectado_v2-400w.webp 400w, /assets\images\¿Cómo saber qué tan buena es tu conexión a Interne 1362bd68c5b680328cbffbdeb8b00c4d\Como_caharrear_tu_senal_movil_20241202_SOLE_Desconectado_v2-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo saber qué tan buena es tu conexión a Interne 1362bd68c5b680328cbffbdeb8b00c4d/Como_caharrear_tu_senal_movil_20241202_SOLE_Desconectado_v2-800w.webp)
     
 
 ## ¿Cómo saber si esta solución funciona?

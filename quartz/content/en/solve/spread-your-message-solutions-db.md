@@ -108,7 +108,7 @@ Whether others can appreciate the value and importance of what you say is relate
         
         Here is an example of what an invitation sent by WhatsApp could look like:
         
-        ![WhatsApp Image 2024-04-11 at 4.23.41 PM.jpeg](Difunde tu mensaje 12a2bd68c5b680588087f05f6f249a90/WhatsApp_Image_2024-04-11_at_4.23.41_PM.jpeg)
+        ![WhatsApp Image 2024-04-11 at 4.23.41 PM.jpeg](/Difunde tu mensaje 12a2bd68c5b680588087f05f6f249a90/WhatsApp_Image_2024-04-11_at_4.23.41_PM.jpeg)
         
     - **Analogous dissemination channels**
         
@@ -121,7 +121,7 @@ Whether others can appreciate the value and importance of what you say is relate
         
         Here are some posters we have put up in stores to invite the Boca de Camarones community to build The Library of the Future: 
         
-        <img src="/assets\images\Difunde tu mensaje 12a2bd68c5b680588087f05f6f249a90\WhatsApp_Image_2024-08-01_at_10.07.32-800w.webp" alt="WhatsApp Image 2024-08-01 at 10.07.32.jpeg" srcset="/assets\images\Difunde tu mensaje 12a2bd68c5b680588087f05f6f249a90\WhatsApp_Image_2024-08-01_at_10.07.32-400w.webp 400w, /assets\images\Difunde tu mensaje 12a2bd68c5b680588087f05f6f249a90\WhatsApp_Image_2024-08-01_at_10.07.32-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+        ![Imagen](/assets/images/Difunde tu mensaje 12a2bd68c5b680588087f05f6f249a90/WhatsApp_Image_2024-08-01_at_10.07.32-800w.webp)
         
         **Get out on the street**
         

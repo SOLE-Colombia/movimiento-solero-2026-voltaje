@@ -86,7 +86,7 @@ Con esta receta podrás convertir tu [**Raspberry Pi**](/raspberry-pi-conceptor
     - Asegúrate de tener conexión a Internet para poder continuar con los siguientes pasos.
 - **Momento 2: Actualiza el sistema de tu Raspberry Pi**
     
-    <img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
     
     El primer paso, es realizar una actualización de todo el [sistema](../../Conceptorio 2602bd68c5b681c182aed46fccc7c4ea/Conceptorio 2602bd68c5b68191afe2e809f2a2154d/Sistema informático (SI)%20Information%20system%20(IS)%202602bd68c5b681e88757d51ee7d2fb0b.md), para asegurarnos que tenemos las últimas versiones de los programas que se ejecutan en nuestro Pi. 
     
@@ -100,7 +100,7 @@ Con esta receta podrás convertir tu [**Raspberry Pi**](/raspberry-pi-conceptor
     
 - **Momento 3: Instala el software necesario**
     
-    <img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db/image 1-275w.webp)
     
     A continuación, debemos instalar dos programas en nuestro Pi:
     
@@ -113,7 +113,7 @@ Con esta receta podrás convertir tu [**Raspberry Pi**](/raspberry-pi-conceptor
 - **Momento 4: Configura una IP estática**
     - **Deshabilitar la interfaz inalámbrica**
         
-        <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+        ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 2-800w.webp)
         
         En este paso configuraremos una [dirección IP estática](/direccion-ip-ip-address-conceptorio) en la [interfaz inalámbrica](/interfaz-interface-conceptorio) de nuestro PI. Es importante que no estés conectado de manera inalámbrica al Pi, porque durante los pasos siguientes la comunicación inalámbrica estará suspendida. Así que, asegúrate de estar conectado por medio de un cable, o tener una pantalla y teclado conectado directamente al Pi para continuar.
         
@@ -133,7 +133,7 @@ Con esta receta podrás convertir tu [**Raspberry Pi**](/raspberry-pi-conceptor
         
     - **Asignar una IP estática**
         
-        <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+        ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 3-800w.webp)
         
         Ahora debemos asignar a la [interfaz](/interfaz-interface-conceptorio) `wlan0` una [dirección IP estática](/direccion-ip-ip-address-conceptorio) en otro rango diferente al de nuestra red cableada. Vamos a editar el archivo:
         
@@ -158,7 +158,7 @@ Con esta receta podrás convertir tu [**Raspberry Pi**](/raspberry-pi-conceptor
         
 - **Momento 5: Configurar nuestro punto de acceso inalámbrico**
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 4-800w.webp)
     
     Es el momento de indicarle a **hostapd** como operar. Vamos a indicarle que emita el nombre de la red ([SSID](/identificador-ssid-ssid-identifier-conceptorio)) y que opere en un canal en específico. Estas configuraciones las pondremos en el archivo:
     
@@ -229,24 +229,24 @@ Con esta receta podrás convertir tu [**Raspberry Pi**](/raspberry-pi-conceptor
     
 - **Momento 7: Haz una primera prueba**
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 5-800w.webp)
     
     Desde otro computador o teléfono, busca en las redes inalámbricas la red que acabamos de crear, en nuestro caso **SOLEVOLTAJE** y conéctate a ella.
     
     Si revisas las configuraciones de la red, deberías ver que la dirección IP asignada debe estar en el rango que seleccionamos en la configuración de **dnsmasq.** En nuestro caso, el dispositivo tiene asignada la IP `192.168.10.143`
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 6-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 6-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 6-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 6-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 6-800w.webp)
     
 - **Momento 8: Ya puedes compartir la conexión cableada**
     
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 7-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 7-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 7-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 7-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 7-800w.webp)
     
     En este punto, quienes se conecten a nuestro punto de acceso podrán ver los archivos y servicios que tengamos configurados en nuestro Raspberry Pi. Si quieres compartir la conexión a Internet cableada por medio de la red inalámbrica continua con los siguientes pasos.
     
 - **Momento 9: Reenviar el tráfico hacia la conexión cableada**
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 8-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 8-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 8-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 8-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 8-800w.webp)
     
     Es necesario que nuestro sistema reenvíe el tráfico de la interfaz inalámbrica hacia la cableada, para poder compartir la conexión. En este punto, tenemos que editar el archivo:
     
@@ -258,7 +258,7 @@ Con esta receta podrás convertir tu [**Raspberry Pi**](/raspberry-pi-conceptor
     
 - **Momento 10: Finalmente, asegura el Firewall**
     
-    <img src="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 9-800w.webp" alt="image.png" srcset="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 9-400w.webp 400w, /assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 9-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340/image 9-800w.webp)
     
     Ya estamos en el último paso de la configuración. Acá tenemos que decirle al [Firewall](/cortafuegos-firewall-conceptorio) que permita el transito del tráfico de la red entre las interfaces inalámbricas y cableadas, para ello, entramos estos comandos en nuestro terminal:
     
@@ -276,7 +276,7 @@ Con esta receta podrás convertir tu [**Raspberry Pi**](/raspberry-pi-conceptor
     
 - **Momento 11: Ahora, ¡con Internet!**
     
-    <img src="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 10-800w.webp" alt="image.png" srcset="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 10-400w.webp 400w, /assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 10-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340/image 10-800w.webp)
     
     Luego de este largo proceso, los [clientes](/cliente-client-conceptorio) conectados a nuestro Pi podrán tener acceso a la conexión de Internet compartida desde nuestro Raspberry Pi… ¡CONSEGUIDO!
     

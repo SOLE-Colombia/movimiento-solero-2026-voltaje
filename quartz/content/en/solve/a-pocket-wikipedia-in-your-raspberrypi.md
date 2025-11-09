@@ -90,7 +90,7 @@ This recipe is part of a series of useful things you can do with your [**Raspber
 - **Step 2: Download what you need**
     - The Kiwix server
         
-        <img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+        ![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
         
 - 
 - **Moment 2: Descarga lo necesario**
@@ -98,7 +98,7 @@ This recipe is part of a series of useful things you can do with your [**Raspber
         
         The first component we are going to download is the application that will allow us to serve the compressed Wikipedia file, so that we can access it from our [local network](/lan-red-local-lan-local-area-network-conceptorio).
         
-        <img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+        ![Imagen](/assets/images/Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db/image 1-275w.webp)
         
         On the [Kiwix download page](https://www.kiwix.org/en/downloads/kiwix-serve/), copy the link titled GNU/Linux ARM (32-bit). Then, to download the file to your Pi, type the following into your terminal:
         
@@ -108,7 +108,7 @@ This recipe is part of a series of useful things you can do with your [**Raspber
         
     - The compressed Wikipedia
         
-        <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+        ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 2-800w.webp)
         
         Now, let's download the compressed Wikipedia file. On the [Kiwix contents](https://library.kiwix.org/?lang=spa&category=wikipedia) page, find the version of Wikipedia that best suits your needs. We recommend downloading the 3.3GB version, which has enough information to do SOLE.
         
@@ -123,7 +123,7 @@ This recipe is part of a series of useful things you can do with your [**Raspber
 - **Moment 3: Now, we install everything**
     - First the Kiwix server
         
-        <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+        ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 3-800w.webp)
         
         Installing the Kiwix server is very simple; it only takes two steps:
         
@@ -134,7 +134,7 @@ This recipe is part of a series of useful things you can do with your [**Raspber
         
         ```
         
-        <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+        ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 4-800w.webp)
         
         1. We move the files to a system directory where the executable files are located:
             
@@ -144,7 +144,7 @@ This recipe is part of a series of useful things you can do with your [**Raspber
             
     - Now, the Wikipedia archive
         
-        <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+        ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 5-800w.webp)
         
         Installing the .zim file involves moving it to another directory on your system so that the Kiwix server can easily find it:
         
@@ -154,7 +154,7 @@ This recipe is part of a series of useful things you can do with your [**Raspber
         
 - **Moment 4: Let's create a service**
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 6-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 6-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 6-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 6-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 6-800w.webp)
     
     A service in Linux-like systems allows us to start, stop, and restart programs that run constantly on our operating system. Let's create a file with the service configuration so that the Kiwix server is automatically launched when the Pi boots.
     
@@ -187,7 +187,7 @@ This recipe is part of a series of useful things you can do with your [**Raspber
     
 - **Step 5: We start our server**
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 7-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 7-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 7-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 7-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 7-800w.webp)
     
     The final step is to enable the new service and start it. With these two lines, the Kiwix server will start automatically every time we turn on our Pi.
     
@@ -198,7 +198,7 @@ This recipe is part of a series of useful things you can do with your [**Raspber
     
 - **Moment 5: We test that everything works**
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 8-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 8-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 8-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 8-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 8-800w.webp)
     
     And now... the moment we've been waiting for!! Let's visit our pocket Wikipedia. In the browser of your computer or phone connected to the local network, navigate to the address [http://solevoltaje.local:8080](http://solevoltaje.local:8080/) . Once it loads, you can browse all the information we just downloaded :D
     

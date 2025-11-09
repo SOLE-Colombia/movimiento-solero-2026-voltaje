@@ -27,7 +27,7 @@ Nos propusimos crear este espacio divergente que estas explorando llamado **SOLE
 
 - Macro-eventos: Son unas fases que diseñamos para el desarrollo y puesta en marcha de SOLE Voltaje. Se pueden ver en el siguiente esquema:
 
-<img src="/assets\images\Trayectoria socio-técnica Comunidad de Cacharreras 8ef1e514da844382a8f32833728559b6\20240313_SOLEBOLT_DiseoExperiencia_SOLELab_(1)-800w.webp" alt="20240313_SOLE+BOLT_DiseñoExperiencia_SOLELab (1).jpg" srcset="/assets\images\Trayectoria socio-técnica Comunidad de Cacharreras 8ef1e514da844382a8f32833728559b6\20240313_SOLEBOLT_DiseoExperiencia_SOLELab_(1)-400w.webp 400w, /assets\images\Trayectoria socio-técnica Comunidad de Cacharreras 8ef1e514da844382a8f32833728559b6\20240313_SOLEBOLT_DiseoExperiencia_SOLELab_(1)-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
+![Imagen](/assets/images/Trayectoria socio-técnica Comunidad de Cacharreras 8ef1e514da844382a8f32833728559b6/20240313_SOLEBOLT_DiseoExperiencia_SOLELab_(1)-800w.webp).jpg)
 
 - Micro-eventos: Son los acontecimientos significativos particulares que suceden en cada una de las trayectorias.
 - Trayectoria socio-técnica: Una trayectoria socio-técnica es un proceso de co-construcción de productos, procesos productivos y organizacionales, instituciones, relaciones usuario-productor, procesos de aprendizaje, relaciones problema-solución, procesos de construcción de funcionamiento/no funcionamiento de una tecnología, racionalidades, políticas y estrategias determinadas. Para entender más sobre el análisis socio-técnico puedes ir nuestro [conceptorio](https://www.notion.so/1992bd68c5b680a9a298f368c4d7d5d4?pvs=21).

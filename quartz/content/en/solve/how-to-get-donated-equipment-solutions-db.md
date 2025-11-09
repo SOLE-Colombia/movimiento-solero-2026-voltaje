@@ -58,7 +58,7 @@ This solution is composed of three steps in which we will tell you everything we
 
 - **Step 1: Search for potential donors**
     
-    <img src="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-veerasak-piyawatanakul-1143513-800w.webp" alt="pexels-veerasak-piyawatanakul-1143513.jpg" srcset="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-veerasak-piyawatanakul-1143513-400w.webp 400w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-veerasak-piyawatanakul-1143513-800w.webp 800w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-veerasak-piyawatanakul-1143513-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9/pexels-veerasak-piyawatanakul-1143513-800w.webp)
     
     Photo by veerasak Piyawatanakul: [https://www.pexels.com/es-es/foto/mujer-con-portatil-negro-mientras-se-inclina-sobre-la-mesa-de-madera-marron-1143513/](https://www.pexels.com/es-es/foto/mujer-con-portatil-negro-mientras-se-inclina-sobre-la-mesa-de-madera-marron-1143513/)
     
@@ -78,7 +78,7 @@ This solution is composed of three steps in which we will tell you everything we
     
 - **Moment 2: Find the donor company and identify the relationship model.**
     
-    <img src="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-fauxels-3184416-800w.webp" alt="pexels-fauxels-3184416.jpg" srcset="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-fauxels-3184416-400w.webp 400w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-fauxels-3184416-800w.webp 800w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-fauxels-3184416-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9/pexels-fauxels-3184416-800w.webp)
     
     Photo by fauxels: [https://www.pexels.com/es-es/foto/foto-de-personas-haciendo-apretones-de-manos-3184416/](https://www.pexels.com/es-es/foto/foto-de-personas-haciendo-apretones-de-manos-3184416/)
     
@@ -95,11 +95,11 @@ This solution is composed of three steps in which we will tell you everything we
 - **Moment 3: Receiving the equipment and building a relationship**
     
     
-    <img src="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-ketut-subiyanto-4246186-800w.webp" alt="pexels-ketut-subiyanto-4246186.jpg" srcset="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-ketut-subiyanto-4246186-400w.webp 400w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-ketut-subiyanto-4246186-800w.webp 800w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-ketut-subiyanto-4246186-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9/pexels-ketut-subiyanto-4246186-800w.webp)
     
     Photo by Ketut Subiyanto: [https://www.pexels.com/es-es/foto/pareja-amor-relacion-casa-4246186/](https://www.pexels.com/es-es/foto/pareja-amor-relacion-casa-4246186/)
     
-    <img src="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-cytonn-photography-955393-800w.webp" alt="pexels-cytonn-photography-955393.jpg" srcset="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-cytonn-photography-955393-400w.webp 400w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-cytonn-photography-955393-800w.webp 800w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-cytonn-photography-955393-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9/pexels-cytonn-photography-955393-800w.webp)
     
     Photo by Cytonn photography: [https://www.pexels.com/es-es/foto/persona-que-firma-el-papel-955393/](https://www.pexels.com/es-es/foto/persona-que-firma-el-papel-955393/)
     

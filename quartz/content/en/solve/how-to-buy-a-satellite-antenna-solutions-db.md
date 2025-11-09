@@ -41,7 +41,7 @@ recursos/tiempo: 0: Minutos
 
 # How to choose an internet service for non-interconnected locations?
 
-![Photo taken from wikipedia, [https://upload.wikimedia.org/wikipedia/commons/7/7e/Tooway_satellite_antenna_drawing.png](https://upload.wikimedia.org/wikipedia/commons/7/7e/Tooway_satellite_antenna_drawing.png) ](https://images.pexels.com/photos/5790645/pexels-photo-5790645.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![Photo taken from wikipedia, [https://upload.wikimedia.org/wikipedia/commons/7/7e/Tooway_satellite_antenna_drawing.png](/https:/upload.wikimedia.org/wikipedia/commons/7/7e/Tooway_satellite_antenna_drawing.png) ](https://images.pexels.com/photos/5790645/pexels-photo-5790645.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 Photo taken from wikipedia, [https://upload.wikimedia.org/wikipedia/commons/7/7e/Tooway_satellite_antenna_drawing.png](https://upload.wikimedia.org/wikipedia/commons/7/7e/Tooway_satellite_antenna_drawing.png) 
 
@@ -86,14 +86,14 @@ Now, the quality of the internet service you can choose will depend on your poss
     - **Satellite dish**
         
         
-        ![](https://cdn.colombia.com/sdi/2018/05/04/mas-internet-satelital-en-colombia-la-meta-de-bansat-632396.webp)
+        ![](/https:/cdn.colombia.com/sdi/2018/05/04/mas-internet-satelital-en-colombia-la-meta-de-bansat-632396.webp)
         
         The most popular internet option for rural or remote areas these days is the satellite dish. The great advantage of this solution is its coverage, accessibility and price, which makes it a viable and functional option.  To access this technology, the company in charge must install a satellite dish in your home.
         
     - **WiMax**
         
         
-        ![Image taken from wikipedia, [https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg](https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg) ](https://upload.wikimedia.org/wikipedia/commons/d/db/Alvarion_CPE.jpg)
+        ![Image taken from wikipedia, [https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg](/https:/es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg) ](https://upload.wikimedia.org/wikipedia/commons/d/db/Alvarion_CPE.jpg)
         
         Image taken from wikipedia, [https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg](https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg) 
         

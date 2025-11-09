@@ -30,7 +30,7 @@ R-reactions: No
 
 # Invierte bien tu dinero para instalar Internet
 
-<img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
 
 ## Bienvenida
 
@@ -77,12 +77,12 @@ En esta solución trabajaremos tres tecnologías disponibles en Colombia: Intern
     
     La opción más popular de internet en la ruralidad es el internet por satélite. Aunque el nombre se explica a sí mismo, se trata de la conexión a internet mediante satélites. La gran ventaja de esta opción es que puede llegar a cualquier lugar, ¡Incluidas las áreas rurales más apartadas! Para acceder a esta tecnología la compañía deberá instalar una antena parabólica en tu casa.
     
-    <img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db/image 1-275w.webp)
     
 - **WiMax**
     
     
-    ![Imagen tomada de wikipedia, [https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg](https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg) ](../../../../../Soluciona%201292bd68c5b681c6b5b5cec1700cc864/Solutions%20DB%201292bd68c5b681d1b87ccbb89a1b1d39/%C2%BFQu%C3%A9%20Internet%20satelital%20elegir,%20seg%C3%BAn%20mis%20necesida%2012a2bd68c5b6803f9042e811506863cb/Alvarion_CPE.jpg)
+    ![Imagen tomada de wikipedia, [https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg](/https:/es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg) ](../../../../../Soluciona%201292bd68c5b681c6b5b5cec1700cc864/Solutions%20DB%201292bd68c5b681d1b87ccbb89a1b1d39/%C2%BFQu%C3%A9%20Internet%20satelital%20elegir,%20seg%C3%BAn%20mis%20necesida%2012a2bd68c5b6803f9042e811506863cb/Alvarion_CPE.jpg)
     
     Imagen tomada de wikipedia, [https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg](https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg) 
     

@@ -100,11 +100,11 @@ Para empezar, te sorprenderás si te digo que no queremos darte fórmulas mágic
     
     - ¿Cómo se sintieron con la distribución de los peces? ¿Les parece justa?
 
-<img src="/assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\WhatsApp_Image_2024-04-11_at_10.00.17_PM-800w.webp" alt="WhatsApp Image 2024-04-11 at 10.00.17 PM.jpeg" srcset="/assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\WhatsApp_Image_2024-04-11_at_10.00.17_PM-400w.webp 400w, /assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\WhatsApp_Image_2024-04-11_at_10.00.17_PM-800w.webp 800w, /assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\WhatsApp_Image_2024-04-11_at_10.00.17_PM-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679/WhatsApp_Image_2024-04-11_at_10.00.17_PM-800w.webp)
 
-<img src="/assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\72883d16-5ed6-4940-a4d9-de6b4be2db5f-800w.webp" alt="WhatsApp Image 2024-04-11 at 10.01.07 PM.jpeg" srcset="/assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\72883d16-5ed6-4940-a4d9-de6b4be2db5f-400w.webp 400w, /assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\72883d16-5ed6-4940-a4d9-de6b4be2db5f-800w.webp 800w, /assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\72883d16-5ed6-4940-a4d9-de6b4be2db5f-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679/72883d16-5ed6-4940-a4d9-de6b4be2db5f-800w.webp)
 
-<img src="/assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\e87c2304-4724-4159-9a40-0f1d6310ffc3-800w.webp" alt="WhatsApp Image 2024-04-11 at 10.03.52 PM.jpeg" srcset="/assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\e87c2304-4724-4159-9a40-0f1d6310ffc3-400w.webp 400w, /assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\e87c2304-4724-4159-9a40-0f1d6310ffc3-800w.webp 800w, /assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\e87c2304-4724-4159-9a40-0f1d6310ffc3-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679/e87c2304-4724-4159-9a40-0f1d6310ffc3-800w.webp)
 
 - **Momento 2: segundo juego**
     
@@ -145,9 +145,9 @@ Para empezar, te sorprenderás si te digo que no queremos darte fórmulas mágic
         
         Asimismo, entre menos peces cojamos, más peces se reproducirán en la mesa y la comunidad tendrá más recursos. 
         
-        <img src="/assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\WhatsApp_Image_2024-04-11_at_10.09.11_PM-800w.webp" alt="WhatsApp Image 2024-04-11 at 10.09.11 PM.jpeg" srcset="/assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\WhatsApp_Image_2024-04-11_at_10.09.11_PM-400w.webp 400w, /assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\WhatsApp_Image_2024-04-11_at_10.09.11_PM-800w.webp 800w, /assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\WhatsApp_Image_2024-04-11_at_10.09.11_PM-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+        ![Imagen](/assets/images/¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679/WhatsApp_Image_2024-04-11_at_10.09.11_PM-800w.webp)
         
-        <img src="/assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\WhatsApp_Image_2024-04-11_at_10.09.01_PM-800w.webp" alt="WhatsApp Image 2024-04-11 at 10.09.01 PM.jpeg" srcset="/assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\WhatsApp_Image_2024-04-11_at_10.09.01_PM-400w.webp 400w, /assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\WhatsApp_Image_2024-04-11_at_10.09.01_PM-800w.webp 800w, /assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\WhatsApp_Image_2024-04-11_at_10.09.01_PM-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+        ![Imagen](/assets/images/¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679/WhatsApp_Image_2024-04-11_at_10.09.01_PM-800w.webp)
 
     
 - **Momento 5: lleguemos a un acuerdo**

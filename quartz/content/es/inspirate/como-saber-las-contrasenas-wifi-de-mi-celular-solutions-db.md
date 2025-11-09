@@ -68,17 +68,17 @@ Con esta solución podrás explorar las contraseñas [**WiFi](/wifi-fidelidad-i
     
     Lo primero, accede a la “Configuración” de tu teléfono. A continuación, sigue la sección “[**WiFi**](https://sole-doc.tiddlyhost.com/#WiFi)”, donde verás todas las redes disponibles a tu alrededor. Presiona la red de Internet a la que ya tienes acceso y de la que quieres conocer la contraseña. Al hacerlo, aparecerá un código QR con esta información. Luego toma un pantallazo de esta imagen.
     
-    <img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
     
 - **Momento 2: Descifrar la contraseña**
     
     El siguiente paso es poder usar un lector que tenga permiso para poder leer esta información. No podemos usar el lector de QR de nuestro propio teléfono, así que podemos usar uno en línea en la siguiente página: [https://zxing.org](https://zxing.org/)
     
-    <img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db/image 1-275w.webp)
     
     Una vez estemos en esta página, cargamos nuestra imagen y oprimimos en el botón “Submit Query”. Al hacerlo, nos aparecerá el nombre de la red y la contraseña para poder compartirla.
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 2-800w.webp)
     
 - **Momento 3: ¡Ya puedes compartirla!**
     

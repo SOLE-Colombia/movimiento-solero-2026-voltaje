@@ -31,7 +31,7 @@ Usa el juego de cartas para entre **2 y 10 jugadores** que encuentras en
     
     Estas cartas les ayudarán a navegar por el internet mientras aprenden sobre la importancia de hacernos Grandes Preguntas. También aprenderán sobre cómo viaja el internet, qué tan rápido es, qué señal tienes, cómo aprovecharla y mucho más. 
     
-    <img src="/assets\images\Instrucciones para jugar SOLE Voltaje Desconectado 21c2bd68c5b68041906ddb260530815d\SOLE_Voltaje_Desconectado_V1_Cartas_Navegadoras_-800w.webp" alt="SOLE Voltaje Desconectado_V1_Cartas Navegadoras .jpg" srcset="/assets\images\Instrucciones para jugar SOLE Voltaje Desconectado 21c2bd68c5b68041906ddb260530815d\SOLE_Voltaje_Desconectado_V1_Cartas_Navegadoras_-400w.webp 400w, /assets\images\Instrucciones para jugar SOLE Voltaje Desconectado 21c2bd68c5b68041906ddb260530815d\SOLE_Voltaje_Desconectado_V1_Cartas_Navegadoras_-800w.webp 800w, /assets\images\Instrucciones para jugar SOLE Voltaje Desconectado 21c2bd68c5b68041906ddb260530815d\SOLE_Voltaje_Desconectado_V1_Cartas_Navegadoras_-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Instrucciones para jugar SOLE Voltaje Desconectado 21c2bd68c5b68041906ddb260530815d/SOLE_Voltaje_Desconectado_V1_Cartas_Navegadoras_-800w.webp)
     
     Para jugar este juego puedes seguir los siguientes pasos:
     
@@ -44,7 +44,7 @@ Usa el juego de cartas para entre **2 y 10 jugadores** que encuentras en
     
     Para entender cómo funciona el internet en cualquier parte del mundo en el que estén, pueden empezar por cacharrear la señal que tengan. Pero ¿qué señal tienen? ¿Cómo funciona? Tenemos dos **Cartas Cacharreras** que les ayudarán a responder estas preguntas en la práctica: [**¿cómo cacharrear tu señal móvil?](/como-cacharrear-tu-senal-movil-voltaje-desconectado)** o [**¿cómo cacharrear tu señal WiFi?**](/como-cacharrear-tu-senal-wifi-voltaje-desconectado) Esta primera distinción les permitirá distinguir cómo llega la señal de internet a cualquier dispositivo. 
     
-    <img src="/assets\images\Instrucciones para jugar SOLE Voltaje Desconectado 21c2bd68c5b68041906ddb260530815d\SOLE_Voltaje_Desconectado_V1_Cartas_Cacharreras-800w.webp" alt="SOLE Voltaje Desconectado_V1_Cartas Cacharreras.jpg" srcset="/assets\images\Instrucciones para jugar SOLE Voltaje Desconectado 21c2bd68c5b68041906ddb260530815d\SOLE_Voltaje_Desconectado_V1_Cartas_Cacharreras-400w.webp 400w, /assets\images\Instrucciones para jugar SOLE Voltaje Desconectado 21c2bd68c5b68041906ddb260530815d\SOLE_Voltaje_Desconectado_V1_Cartas_Cacharreras-800w.webp 800w, /assets\images\Instrucciones para jugar SOLE Voltaje Desconectado 21c2bd68c5b68041906ddb260530815d\SOLE_Voltaje_Desconectado_V1_Cartas_Cacharreras-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Instrucciones para jugar SOLE Voltaje Desconectado 21c2bd68c5b68041906ddb260530815d/SOLE_Voltaje_Desconectado_V1_Cartas_Cacharreras-800w.webp)
     
     1. Divide el grupo en dos y escojan cualquiera de las dos cartas. Luego sigan las instrucciones para empezar a navegar. 
         1. **Si sí hay señal de Internet**, sigan  las instrucciones de las Cartas.
@@ -60,7 +60,7 @@ Usa el juego de cartas para entre **2 y 10 jugadores** que encuentras en
     3. Luego cuéntales que con la señal que tienen - o no - hay varias opciones. Presenta las  **Cartas Conectivas:** les mostrarán diferentes soluciones de conectividad que podrán encontrar en la página web de **Desconectado o impresas**. 
         
         
-        <img src="/assets\images\Instrucciones para jugar SOLE Voltaje Desconectado 21c2bd68c5b68041906ddb260530815d\SOLE_Voltaje_Desconectado_V1_Cartas_Conectivas-800w.webp" alt="SOLE Voltaje Desconectado_V1_Cartas Conectivas.jpg" srcset="/assets\images\Instrucciones para jugar SOLE Voltaje Desconectado 21c2bd68c5b68041906ddb260530815d\SOLE_Voltaje_Desconectado_V1_Cartas_Conectivas-400w.webp 400w, /assets\images\Instrucciones para jugar SOLE Voltaje Desconectado 21c2bd68c5b68041906ddb260530815d\SOLE_Voltaje_Desconectado_V1_Cartas_Conectivas-800w.webp 800w, /assets\images\Instrucciones para jugar SOLE Voltaje Desconectado 21c2bd68c5b68041906ddb260530815d\SOLE_Voltaje_Desconectado_V1_Cartas_Conectivas-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+        ![Imagen](/assets/images/Instrucciones para jugar SOLE Voltaje Desconectado 21c2bd68c5b68041906ddb260530815d/SOLE_Voltaje_Desconectado_V1_Cartas_Conectivas-800w.webp)
         
         Pueden abrir cualquier carta, seguir las instrucciones y reconocerán si esa solución les sirve o no para aquello que quieren aprender o solucionar. Estas cartas son conectivas porque les llevarán a encontrar soluciones para conectarse a Internet. 
         

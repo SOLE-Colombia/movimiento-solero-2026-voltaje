@@ -397,7 +397,7 @@ Internet para lugares no interconectados.
     - PRESENCIAL “Reiniciar y compartir el internet de su teléfono con otros”.
 - **PRUEBA DE COMPARACIÓN ENTRE CATEGORIAS: comprobar los cambios necesarios entre las pruebas sobre cómo “convocar a tu comunidad” y “la señal de internet es mala”.** Las otras dos participantes de la prueba 01 podrían trabajar en las dos pruebas nuevas sobre “cómo convocar a tu comunidad”.
 
-<img src="/assets\images\Prueba # 02 SOLE Voltaje 12a2bd68c5b68020bb47d48c9175a22f\image1-800w.webp" alt="" srcset="/assets\images\Prueba # 02 SOLE Voltaje 12a2bd68c5b68020bb47d48c9175a22f\image1-400w.webp 400w, /assets\images\Prueba # 02 SOLE Voltaje 12a2bd68c5b68020bb47d48c9175a22f\image1-800w.webp 800w, /assets\images\Prueba # 02 SOLE Voltaje 12a2bd68c5b68020bb47d48c9175a22f\image1-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/Prueba # 02 SOLE Voltaje 12a2bd68c5b68020bb47d48c9175a22f/image1-800w.webp)
 
 3. Reunión virtual opcional para que el o la participante nos cuente cómo le fue con la prueba.
 

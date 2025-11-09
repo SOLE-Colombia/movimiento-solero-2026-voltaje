@@ -103,7 +103,7 @@ Si eres una comunidad de bajos recursos, o en zonas remotas, puedes ser consider
     
     Los siguientes pasos tienen que ver con la solicitud del BigBox.
     
-    ![](https://archive.org/download/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/JangalaBixBox/JangalaBigBox_Home.png)
+    ![](/https:/archive.org/download/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/JangalaBixBox/JangalaBigBox_Home.png)
     
 - **Momento 2: Diligenciar el formulario en línea**
     

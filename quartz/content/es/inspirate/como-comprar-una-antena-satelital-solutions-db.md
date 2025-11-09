@@ -41,7 +41,7 @@ R-reactions: No
 
 # ¿Cómo escoger un servicio de internet para lugares no interconectados?
 
-![Foto tomada de wikipedia, [https://upload.wikimedia.org/wikipedia/commons/7/7e/Tooway_satellite_antenna_drawing.png](https://upload.wikimedia.org/wikipedia/commons/7/7e/Tooway_satellite_antenna_drawing.png) ](https://images.pexels.com/photos/5790645/pexels-photo-5790645.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![Foto tomada de wikipedia, [https://upload.wikimedia.org/wikipedia/commons/7/7e/Tooway_satellite_antenna_drawing.png](/https:/upload.wikimedia.org/wikipedia/commons/7/7e/Tooway_satellite_antenna_drawing.png) ](https://images.pexels.com/photos/5790645/pexels-photo-5790645.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 Foto tomada de wikipedia, [https://upload.wikimedia.org/wikipedia/commons/7/7e/Tooway_satellite_antenna_drawing.png](https://upload.wikimedia.org/wikipedia/commons/7/7e/Tooway_satellite_antenna_drawing.png) 
 
@@ -86,14 +86,14 @@ Ahora bien, la calidad del servicio de internet que puedas escoger dependerá de
     - **Antena parabólica**
         
         
-        ![](https://cdn.colombia.com/sdi/2018/05/04/mas-internet-satelital-en-colombia-la-meta-de-bansat-632396.webp)
+        ![](/https:/cdn.colombia.com/sdi/2018/05/04/mas-internet-satelital-en-colombia-la-meta-de-bansat-632396.webp)
         
         La opción más popular de internet para zonas rurales o alejadas en estos tiempos es la antena parabólica. La gran ventaja de esta solución es su cobertura, accesibilidad y precio, esto la hace una opción viable y funcional.  Para acceder a esta tecnología la compañía encargada deberá instalar una antena parabólica en tu casa.
         
     - **WiMax**
         
         
-        ![Imagen tomada de wikipedia, [https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg](https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg) ](https://upload.wikimedia.org/wikipedia/commons/d/db/Alvarion_CPE.jpg)
+        ![Imagen tomada de wikipedia, [https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg](/https:/es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg) ](https://upload.wikimedia.org/wikipedia/commons/d/db/Alvarion_CPE.jpg)
         
         Imagen tomada de wikipedia, [https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg](https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg) 
         

@@ -151,9 +151,9 @@ We have created a “hack” which is using our paid user to login to the Notion
     
     ![Notion AI emoji.png](../../../../¿Nuevo aquí 1292bd68c5b681afa5e1c781d3cef5c6/New here 1352bd68c5b6809eb312e337de94c769/Notion_AI_emoji.png)
     
-    <img src="/assets\images\New here 1352bd68c5b6809eb312e337de94c769\Screen_Shot_2024-12-04_at_2.50.48_PM-800w.webp" alt="Screen Shot 2024-12-04 at 2.50.48 PM.png" srcset="/assets\images\New here 1352bd68c5b6809eb312e337de94c769\Screen_Shot_2024-12-04_at_2.50.48_PM-400w.webp 400w, /assets\images\New here 1352bd68c5b6809eb312e337de94c769\Screen_Shot_2024-12-04_at_2.50.48_PM-800w.webp 800w, /assets\images\New here 1352bd68c5b6809eb312e337de94c769\Screen_Shot_2024-12-04_at_2.50.48_PM-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/New here 1352bd68c5b6809eb312e337de94c769/Screen_Shot_2024-12-04_at_2.50.48_PM-800w.webp)
     
-    <img src="/assets\images\New here 1352bd68c5b6809eb312e337de94c769\Screen_Shot_2024-12-04_at_2.51.02_PM-800w.webp" alt="Screen Shot 2024-12-04 at 2.51.02 PM.png" srcset="/assets\images\New here 1352bd68c5b6809eb312e337de94c769\Screen_Shot_2024-12-04_at_2.51.02_PM-400w.webp 400w, /assets\images\New here 1352bd68c5b6809eb312e337de94c769\Screen_Shot_2024-12-04_at_2.51.02_PM-800w.webp 800w, /assets\images\New here 1352bd68c5b6809eb312e337de94c769\Screen_Shot_2024-12-04_at_2.51.02_PM-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/New here 1352bd68c5b6809eb312e337de94c769/Screen_Shot_2024-12-04_at_2.51.02_PM-800w.webp)
     
 
 You can continue doing this on all the pages you visit. 

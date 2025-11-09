@@ -108,7 +108,7 @@ Que otros puedan apreciar el valor y la importancia de lo que dices está relaci
         
         Aquí tienes un ejemplo de cómo podría ser una invitación enviada por WhatsApp:
         
-        ![WhatsApp Image 2024-04-11 at 4.23.41 PM.jpeg](Difunde tu mensaje 12a2bd68c5b680588087f05f6f249a90/WhatsApp_Image_2024-04-11_at_4.23.41_PM.jpeg)
+        ![WhatsApp Image 2024-04-11 at 4.23.41 PM.jpeg](/Difunde tu mensaje 12a2bd68c5b680588087f05f6f249a90/WhatsApp_Image_2024-04-11_at_4.23.41_PM.jpeg)
         
     - **Los canales de difusión análogos**
         
@@ -121,7 +121,7 @@ Que otros puedan apreciar el valor y la importancia de lo que dices está relaci
         
         Aquí te comparto algunos carteles que hemos puesto en tiendas para invitar a la comunidad de Boca de Camarones a construir La Biblioteca del futuro: 
         
-        <img src="/assets\images\Difunde tu mensaje 12a2bd68c5b680588087f05f6f249a90\WhatsApp_Image_2024-08-01_at_10.07.32-800w.webp" alt="WhatsApp Image 2024-08-01 at 10.07.32.jpeg" srcset="/assets\images\Difunde tu mensaje 12a2bd68c5b680588087f05f6f249a90\WhatsApp_Image_2024-08-01_at_10.07.32-400w.webp 400w, /assets\images\Difunde tu mensaje 12a2bd68c5b680588087f05f6f249a90\WhatsApp_Image_2024-08-01_at_10.07.32-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+        ![Imagen](/assets/images/Difunde tu mensaje 12a2bd68c5b680588087f05f6f249a90/WhatsApp_Image_2024-08-01_at_10.07.32-800w.webp)
         
         **Sal a la calle**
         

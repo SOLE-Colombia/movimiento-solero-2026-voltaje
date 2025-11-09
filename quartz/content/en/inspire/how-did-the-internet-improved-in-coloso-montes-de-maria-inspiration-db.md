@@ -56,19 +56,19 @@ In addition, the community has created its own website to tell the world about i
 
 [https://padlet.com/soleenlaesmeralda/sole-la-esmeralda-69evsm5b9drhbsv3](https://padlet.com/soleenlaesmeralda/sole-la-esmeralda-69evsm5b9drhbsv3)
 
-<img src="/assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(94)-800w.webp" alt="SOLE led by women Ambassadors - La Esmeralda, (2024)." srcset="/assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(94)-400w.webp 400w, /assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(94)-800w.webp 800w, /assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(94)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
+![Imagen](/assets/images/¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867/20240709_SOLEWLH_Sintonizacin_MM_Colos_(94)-800w.webp).jpg)
 
 SOLE led by women Ambassadors - La Esmeralda, (2024).
 
-<img src="/assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(76)-800w.webp" alt="Visita de Sintonización, Montes de María, (2024)." srcset="/assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(76)-400w.webp 400w, /assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(76)-800w.webp 800w, /assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(76)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
+![Imagen](/assets/images/¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867/20240709_SOLEWLH_Sintonizacin_MM_Colos_(76)-800w.webp).jpg)
 
 Visita de Sintonización, Montes de María, (2024).
 
-<img src="/assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(49)-800w.webp" alt="Visita de Sintonización, Montes de María, (2024)." srcset="/assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(49)-400w.webp 400w, /assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(49)-800w.webp 800w, /assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(49)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
+![Imagen](/assets/images/¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867/20240709_SOLEWLH_Sintonizacin_MM_Colos_(49)-800w.webp).jpg)
 
 Visita de Sintonización, Montes de María, (2024).
 
-<img src="/assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(13)-800w.webp" alt="Visita de Sintonización, Montes de María, (2024)." srcset="/assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(13)-400w.webp 400w, /assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(13)-800w.webp 800w, /assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(13)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
+![Imagen](/assets/images/¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867/20240709_SOLEWLH_Sintonizacin_MM_Colos_(13)-800w.webp).jpg)
 
 Visita de Sintonización, Montes de María, (2024).
 

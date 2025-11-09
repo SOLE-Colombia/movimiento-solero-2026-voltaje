@@ -43,7 +43,7 @@ Between the two, there is **a** **dielectric** **insulating layer**, the charact
 
 The whole assembly is usually **protected by an insulating jacket** (also called outer jacket).
 
-<img src="/assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\RG-59-400w.webp" alt="" srcset="/assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\RG-59-400w.webp 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6/RG-59-400w.webp)
 
 💡 Partes del cable coaxial RG-59 (para señales):
 A: cubierta protectora de plástico (elastómero termoplástico)

@@ -30,7 +30,7 @@ Tardas: Horas
 
 # **Mejora tu conexión a la red móvil**
 
-<img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
 
 ## **Audiolectura de la solución**
 
@@ -56,7 +56,7 @@ En esta receta, vamos a construir una **antena casera** preparada para recibir o
 
 ## **¿Qué necesitas?**
 
-<img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db/image 1-275w.webp)
 
 - **Materiales**
     1. Varilla de aluminio de 3 mm de grosor (tiene que ser exactamente de 3mm).
@@ -105,14 +105,14 @@ En esta receta, vamos a construir una **antena casera** preparada para recibir o
     
     A continuación te mostramos el esquema final y algunas de las partes del ensamblaje para que tengas mayor claridad del montaje final.
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 2-800w.webp)
     
 - **Momento 3: Medir, cortar y marcar**
     
     
     ¡Es momento de empezar! Acá nos ponemos manos a la obra, debes cortar cada uno de los 10 elementos que forman la antena. Con la ayuda del calibrador (o regla), hay que marcar el largo de cada uno y cortarlos con la segueta o la pulidora. Es recomendable que cortes uno o medio milímetro de más y termines de ajustar su longitud limando los bordes con la lima metálica. A continuación está listada de la longitud de las 10 varillas metálicas que debes cortar, en el mundo de las antenas estas tienen sus nombres específicos (director, reflector y dipolo) relacionados a la función que cumplen.
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 3-800w.webp)
     
     Esta es lista de cortes que son necesarios:
     
@@ -131,25 +131,25 @@ En esta receta, vamos a construir una **antena casera** preparada para recibir o
 📏 Recuerda que 10 mm=1 cm
 
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 4-800w.webp)
     
     Es importante marcar cada uno de los cortes con una cinta, como se ve en la foto, para que el paso siguiente sea más fácil de hacer.
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 5-800w.webp)
     
 - **Momento 4: Doblar el dipolo**
     
     
     El dipolo es un elemento doblado en forma de “C”. Su largo total debe ser de 7.6 cm, pero la varilla debe ser un poco más larga (aproximadamente de 18.0 cm). Hacer esta pieza es una tarea de prueba y error. En mi caso me ha servido doblar lentamente la varilla contra un tubo circular de 2 cm de diámetro para darle la curvatura.
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 6-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 6-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 6-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 6-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 6-800w.webp)
     
 - **Momento 5: Ensamblando la antena**
     
     
     Ya vamos llegando a la mitad del proceso ¡No te desanimes falta muy poco! ****Ahora es momento de hacer el montaje de los elementos sobre la canaleta. Esta puede ser reemplazada por madera o algún otro material que haya a la mano, mientras que este no conduzca electricidad.
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 7-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 7-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 7-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 7-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 7-800w.webp)
     
     En la superficie de la canaleta, hay que marcar las siguientes distancias, sobre las que posteriormente, se colocará cada uno de los cortes de la varilla realizados en el paso anterior.
     
@@ -166,25 +166,25 @@ En esta receta, vamos a construir una **antena casera** preparada para recibir o
     
     Una vez marcadas las líneas puedes pegar cada una de las varillas con el pegante epóxico sobre la canaleta, sin embargo, hemos visto que esta configuración es muy frágil y hace que nuestra antena no dure mucho. Por esta razón encontramos una mejor manera de acoplar las varillas a la canaleta. Para esto nos podemos valer del cautín caliente que con su fina punta puede atravesar fácilmente el plástico, entonces con esta herramienta vamos a perforar los laterales hasta que tenga un diámetro suficiente para que pase la varilla. Aprovecha apenas el plástico esté caliente recién lo perforas para pasar la varilla y asegurarte que tiene el diámetro adecuado. Esto se debe hacer en ambos laterales de la canaleta para que la varilla pueda atravesar de lado a lado.
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 8-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 8-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 8-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 8-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 8-800w.webp)
     
     Una vez termines las 20 perforaciones debes desarmar la canaleta y utilizar la lima metálica para quitar la rebaba del plástico para permitir que las varillas puedan entrar con facilidad.
     
-    <img src="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 9-800w.webp" alt="image.png" srcset="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 9-400w.webp 400w, /assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 9-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340/image 9-800w.webp)
     
     Ahora, antes de posicionar cada una de las varillas debemos hacer un pequeño corte para facilitar la entrada del dipolo, para esto debemos desarmar la canaleta y  con la segueta hacer un corte vertical de forma que atraviese los laterales de la segunda medida (5.0 cm) hasta llegar a la perforación que abrimos con el cautín.
     
-    <img src="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 10-800w.webp" alt="image.png" srcset="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 10-400w.webp 400w, /assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 10-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340/image 10-800w.webp)
     
     Una vez incrustado el dipolo podemos insertar las demás varillas según el orden ya mencionado.
     
-    <img src="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_14-52-10-800w.webp" alt="photo_2024-02-15_14-52-10.jpg" srcset="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_14-52-10-400w.webp 400w, /assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_14-52-10-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18/photo_2024-02-15_14-52-10-800w.webp)
     
     s
     
     Se puede añadir un poco de pegamento epóxico sobre la varilla, para garantizar que los elementos queden bien adheridos a la canaleta. Espera el tiempo necesario para que el pegamento se seque, antes de continuar con la unión del cable a tu nueva antena.
     
-    <img src="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_14-52-15-800w.webp" alt="photo_2024-02-15_14-52-15.jpg" srcset="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_14-52-15-400w.webp 400w, /assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_14-52-15-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18/photo_2024-02-15_14-52-15-800w.webp)
     
 - **Momento 6: Preparar el cable**
     
@@ -195,49 +195,49 @@ En esta receta, vamos a construir una **antena casera** preparada para recibir o
     
     (puedes revisar la anterior entrada para entender cómo está conformado un cable coaxial antes de desarmarlo).
     
-    <img src="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 11-800w.webp" alt="image.png" srcset="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 11-400w.webp 400w, /assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 11-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340/image 11-800w.webp)
     
     Para hacer esta parte puedes valerte de un pelacables o un cortador para separar cada capa del cable, debes tener cuidado en el corte para no romper la primera capa que es una malla metálica. Así, en un extremo hay que dejar libres el alambre de cobre y la malla del cable. La malla la puedes separar con cuidado y después volver a trenzarla.
     
-    <img src="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_15-19-07-800w.webp" alt="photo_2024-02-15_15-19-07.jpg" srcset="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_15-19-07-400w.webp 400w, /assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_15-19-07-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18/photo_2024-02-15_15-19-07-800w.webp)
     
     En el otro extremo, con el alambre de cobre, se hace una onda, que será el elemento que entra en contacto con el teléfono, o Mifi, para mejorar la señal.
     
-    <img src="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_15-19-05-800w.webp" alt="photo_2024-02-15_15-19-05.jpg" srcset="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_15-19-05-400w.webp 400w, /assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_15-19-05-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18/photo_2024-02-15_15-19-05-800w.webp)
     
 - **Momento 7: Soldar el dipolo**
     
     
     Este es uno de los pasos de más cuidado, después de esto pasamos al montaje. Recuerda que el dipolo es uno de los componentes fundamentales de la antena, este debe ir soldado el extremo del cable coaxial que separamos en la malla y el alambre de cobre, y este a su vez se conecta con un alambre de cobre haciendo puente entre cada extremo del dipolo. Primero hacemos el puente con el cable de cobre como se ve en la imagen, donde se trenza cada extremo y luego se suelda.
     
-    <img src="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_15-56-36-800w.webp" alt="photo_2024-02-15_15-56-36.jpg" srcset="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_15-56-36-400w.webp 400w, /assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_15-56-36-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18/photo_2024-02-15_15-56-36-800w.webp)
     
     Una vez tengamos el cable de cobre soldado a los dos extremos del coaxial podemos acoplarlo al dipolo, para esto podemos primero apretarlo un poco las pinzas y luego si procedemos a soldar.
     
-    <img src="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_15-56-34-800w.webp" alt="photo_2024-02-15_15-56-34.jpg" srcset="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_15-56-34-400w.webp 400w, /assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_15-56-34-800w.webp 800w, /assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_15-56-34-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18/photo_2024-02-15_15-56-34-800w.webp)
     
     Recuerda que el dipolo debe estar perpendicular a la canaleta, por esto para evitar movimientos bruscos del cable que cambien esta posición debemos asegurar el cable con unos amarres plásticos.
     
-    <img src="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_16-06-52-800w.webp" alt="photo_2024-02-15_16-06-52.jpg" srcset="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_16-06-52-400w.webp 400w, /assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_16-06-52-800w.webp 800w, /assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_16-06-52-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18/photo_2024-02-15_16-06-52-800w.webp)
     
 - **Momento 8: Montaje final**
     
     
     Finalmente terminamos, ¡ya puedes hacer el montaje e instalación de la antena! Para ello, asegúrate que está bien ajustada con amarres plásticos en la parte más alta del poste, la antena debe estar orientada de tal forma que el dipolo esté lo más cerca posible del poste.
     
-    <img src="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 12-800w.webp" alt="image.png" srcset="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 12-400w.webp 400w, /assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 12-800w.webp 800w, /assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 12-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340/image 12-800w.webp)
     
     Recuerda también amarrar el cable al poste, para que este no se suelte de los puntos de soldadura en la antena. Ahora, hay que izar el poste y asegurarse de que la posición de la antena está mirando en la dirección de la torre de telefonía más cercana.
     
     Ahora, en el otro extremo del cable pon tu celular de forma tal que la serpentina de cobre quede tocando el respaldo del aparato.
     
-    <img src="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-16_08-25-07-800w.webp" alt="photo_2024-02-16_08-25-07.jpg" srcset="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-16_08-25-07-400w.webp 400w, /assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-16_08-25-07-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18/photo_2024-02-16_08-25-07-800w.webp)
     
-    <img src="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-16_08-25-05-800w.webp" alt="photo_2024-02-16_08-25-05.jpg" srcset="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-16_08-25-05-400w.webp 400w, /assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-16_08-25-05-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18/photo_2024-02-16_08-25-05-800w.webp)
     
     El proceso de direccionamiento de la antena debe ser realizado lenta y cuidadosamente, las ondas son muy sensibles al movimiento. Primero, pueden establecer la posición 0 y, de ahí, pueden ir girando hacia la derecha o izquierda en intervalos pequeños. Después de cada movimiento, puedes revisar la calidad de conexión con la red celular desde la pantalla “Ajustes” del teléfono. Este es un número expresado en decibeles (Db), cuanto más alto sea, menor será la calidad de la señal. También lo puedes hacer viendo la intensidad del icono de señal que aparece en la parte superior del celular. El reto es encontrar el lugar donde el número de decibeles es más bajo o donde el icono de intensidad de la señal es mayor.
     
-    <img src="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-16_08-24-02-800w.webp" alt="photo_2024-02-16_08-24-02.jpg" srcset="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-16_08-24-02-400w.webp 400w, /assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-16_08-24-02-800w.webp 800w, /assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-16_08-24-02-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18/photo_2024-02-16_08-24-02-800w.webp)
     
     Ahora, se puede proceder a asegurar el poste en esta posición y ¡listo! ¡A navegar!
     

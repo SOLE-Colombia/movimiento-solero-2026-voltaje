@@ -52,7 +52,7 @@ The computer where the information you are consulting is stored is called the **
 
 In order for the information sent by a **server** to reach your home, neighborhood, village or community, the **client** you use connects to the Internet. Let's take, for example, your cell phone somewhere in Colombia and the response is on a server in Europe. This is the great adventure that your question takes.
 
-<img src="/assets\images\¿Cómo funciona el Internet 1362bd68c5b680c3b903ead1b7123665\20241101_Grafico__como_viaja_tu_pregunta_por_internet-800w.webp" alt="How does your question travel through the Internet? SOLE Colombia, 2024." srcset="/assets\images\¿Cómo funciona el Internet 1362bd68c5b680c3b903ead1b7123665\20241101_Grafico__como_viaja_tu_pregunta_por_internet-400w.webp 400w, /assets\images\¿Cómo funciona el Internet 1362bd68c5b680c3b903ead1b7123665\20241101_Grafico__como_viaja_tu_pregunta_por_internet-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/¿Cómo funciona el Internet 1362bd68c5b680c3b903ead1b7123665/20241101_Grafico__como_viaja_tu_pregunta_por_internet-800w.webp)
 
 How does your question travel through the Internet? SOLE Colombia, 2024.
 

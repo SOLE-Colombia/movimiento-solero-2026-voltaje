@@ -102,7 +102,7 @@ If you are from a low-income community or in remote areas, you may be considered
     Go to [www.janga.la](https://www.janga.la/request-a-box) to the "Request a Box" section. There you can decide if you need a **Get Box**, which is smaller, or a **Big Box**.
     The next steps concern requesting a Big Box
     
-    ![](https://archive.org/download/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/JangalaBixBox/JangalaBigBox_Home.png)
+    ![](/https:/archive.org/download/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/JangalaBixBox/JangalaBigBox_Home.png)
     
 - **Moment 2: Complete the online form**
     

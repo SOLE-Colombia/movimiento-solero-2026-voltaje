@@ -110,7 +110,7 @@ La mejor manera de superar esto es **dudar, ser curioso y hacer nuevas preguntas
 
 En SOLE Colombia hemos descubierto que mucha gente que no tiene acceso a buena educación puede aprender a aprender casi cualquier cosa usando internet en grupo pues pueden dudar, ser curiosos y hacer nuevas preguntas juntos. Es como ser autodidacta pero en grupo que no solo es más fácil, divertido y potente que usar el internet solo, sino que propone una nueva forma de estar juntos. A esto le llamamos SOLEar.  
 
-<img src="https://www.notion.so/icons/new-alert_green.svg" alt="https://www.notion.so/icons/new-alert_green.svg" width="40px" />
+![Imagen](/https:/www.notion.so/icons/new-alert_green.svg)
 
 **¿QUÉ ES SOLE?** 
 

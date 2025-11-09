@@ -42,7 +42,7 @@ recursos/tiempo: 0: Minutos
 
 # Comprar un plan de celular que se ajuste a tus capacidades y necesidades
 
-<img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
 
 ## Bienvenida
 
@@ -79,7 +79,7 @@ Si, después de hacer un barrido de tus opciones, definitivamente consideras que
 
 ## **¿Cómo hacerlo?**
 
-<img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db/image 1-275w.webp)
 
 - **Antes de empezar: ¡ALERTA! ¿prepago o pospago?**
     
@@ -153,7 +153,7 @@ Si, después de hacer un barrido de tus opciones, definitivamente consideras que
     
     *Selectra, ¿Cuál es el mejor plan prepago celular en Colombia?*
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 2-800w.webp)
     
 - **Momento 4: Evaluar cuál es la mejor opción: ¿Qué es lo que realmente necesito?**
     
@@ -240,7 +240,7 @@ Hay un pequeña oferta disponible en operadores pequeños, estos son planes prep
 
 Yo, que vivo en Bogotá, estoy evaluando cambiarme a Móvil Éxito. Actualmente tengo un plan pospago en WOM en el que **pago $40,000 COP**, esto me da derecho a **60 Gb y minutos ilimitados** ¡esto es un montón! Inicialmente, me pasé a WOM porque, haciendo portabilidad, me daban los **tres primeros meses gratis, más 20Gb** y me **cobraban $35,000 COP.** Ahora que ando en Bogotá y trabajo desde casa y oficina, tengo internet disponible desde estos lugares. Estuve revisando opciones mientras escribía esta solución y vi que Móvil Éxito ofrece los suientes planes prepago:
 
-<img src="/assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-800w.webp" alt="Untitled" srcset="/assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-400w.webp 400w, /assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-800w.webp 800w, /assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f/Untitled-800w.webp)
 
 Al mes, mi consumo no supera los 5 Gb y hago, por mucho, 30 llamadas al mes. Por esta razón el primer plan me saldría a **$13,000 COP, ¡Menos de la tercera parte de lo que pago ahora!** Eso si, tengo que hacer el pago de todo el año de una sola vez, pero no estoy atado a ningún tipo de contrato. 
 

@@ -108,7 +108,7 @@ The best way to overcome this is to **doubt, be curious and ask new questions**.
 
 At SOLE Colombia we have found that many people who do not have access to good education can learn to learn almost anything using the internet in a group because they can doubt, be curious and ask new questions together. It is like being self-taught but in a group which is not only easier, funnier and more powerful than using the internet alone, but also proposes a new way of being together. We call this SOLEar.  
 
-<img src="https://www.notion.so/icons/new-alert_green.svg" alt="https://www.notion.so/icons/new-alert_green.svg" width="40px" />
+![Imagen](/https:/www.notion.so/icons/new-alert_green.svg)
 
 **WHAT IS SOLE?** 
 

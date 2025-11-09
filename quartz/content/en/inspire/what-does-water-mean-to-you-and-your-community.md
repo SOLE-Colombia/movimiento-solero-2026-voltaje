@@ -37,7 +37,7 @@ traducción: Yes
 
 SOLE conducted by students from the IV Water and Energy Observatory of the School of Industrial Design at the National University. April 25, 2025.
 
-<img src="/assets\images\¿Qué significa el agua para ti y tu comunidad 1df2bd68c5b680dfa36ad9b908e0ecf6\20250425_SOLE_en_Universidad_Nacional-800w.webp" alt="20250425_SOLE en Universidad Nacional.jpg" srcset="/assets\images\¿Qué significa el agua para ti y tu comunidad 1df2bd68c5b680dfa36ad9b908e0ecf6\20250425_SOLE_en_Universidad_Nacional-400w.webp 400w, /assets\images\¿Qué significa el agua para ti y tu comunidad 1df2bd68c5b680dfa36ad9b908e0ecf6\20250425_SOLE_en_Universidad_Nacional-800w.webp 800w, /assets\images\¿Qué significa el agua para ti y tu comunidad 1df2bd68c5b680dfa36ad9b908e0ecf6\20250425_SOLE_en_Universidad_Nacional-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/¿Qué significa el agua para ti y tu comunidad 1df2bd68c5b680dfa36ad9b908e0ecf6/20250425_SOLE_en_Universidad_Nacional-800w.webp)
 
 Add your answers here. Be careful! Don't delete other people's work. You can add photos, videos, links, etc.
 
@@ -70,7 +70,7 @@ Deidy Rosero
 
 Answer:
 
-<img src="/assets\images\Inspiration DB 1292bd68c5b681648195d390c6a9282f\¿Qué significa el agua para ti y tu comunidad 1df2bd68c5b680dfa36ad9b908e0ecf6-800w.webp" alt="¿.jpg" srcset="/assets\images\Inspiration DB 1292bd68c5b681648195d390c6a9282f\¿Qué significa el agua para ti y tu comunidad 1df2bd68c5b680dfa36ad9b908e0ecf6-400w.webp 400w, /assets\images\Inspiration DB 1292bd68c5b681648195d390c6a9282f\¿Qué significa el agua para ti y tu comunidad 1df2bd68c5b680dfa36ad9b908e0ecf6-800w.webp 800w, /assets\images\Inspiration DB 1292bd68c5b681648195d390c6a9282f\¿Qué significa el agua para ti y tu comunidad 1df2bd68c5b680dfa36ad9b908e0ecf6-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/Inspiration DB 1292bd68c5b681648195d390c6a9282f/¿Qué significa el agua para ti y tu comunidad 1df2bd68c5b680dfa36ad9b908e0ecf6-800w.webp)
 
 # **Group 3**
 
@@ -92,7 +92,7 @@ Data discrimination based on the following concepts:
 4. Relationship with nature (traditional knowledge and environmental awareness)
 5. Education and the future (community water conservation projects)
 
-<img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
 
 # **Group 4**
 

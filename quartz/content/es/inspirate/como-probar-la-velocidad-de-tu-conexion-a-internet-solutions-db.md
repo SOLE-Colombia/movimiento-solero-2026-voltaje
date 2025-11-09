@@ -54,13 +54,13 @@ Estos tests son útiles para verificar si la velocidad contratada con tu proveed
     
     Puedes utilizar sitios web como [**Speedtest.net**](https://www.speedtest.net/es), [**Fast.com**](https://fast.com/es/), o nPerf.com. También existen aplicaciones móviles como [**Speedtest by Ookla**](https://www.speedtest.net/es/mobile/android/help). 
     
-    <img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
     
 - **Momento 2: Realiza la prueba**
     
     Inicia la prueba en el sitio web o la aplicación. 
     
-    <img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db/image 1-275w.webp)
     
 - **Momento 3: Interpreta los resultados**
     
@@ -70,7 +70,7 @@ Estos tests son útiles para verificar si la velocidad contratada con tu proveed
     - **Velocidad de subida:** Es la velocidad a la que puedes enviar datos a Internet, como al enviar correos electrónicos o subir videos a redes sociales.
     - **Latencia (ping):** Es el tiempo que tarda una señal en ir y volver entre tu dispositivo y un servidor remoto, medido en milisegundos. Un ping bajo es preferible, especialmente para juegos en línea o videollamadas.
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 2-800w.webp)
     
 
 **Consideraciones adicionales:**

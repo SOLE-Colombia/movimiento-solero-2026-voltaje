@@ -44,7 +44,7 @@ recursos/tiempo: 3: Semanas
 
 # Buying and setting up an electricity generation system with a bicycle
 
-<img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
 
 [](data:image/svg+xml,%3Csvg%20id%3D%22Dinero_M_on%22%20data-name%3D%22Dinero%20M%20on%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3Cstyle%3E%0A%20%20%20%20%20%20.cls-1%20%7B%0A%20%20%20%20%20%20%20%20fill%3A%20%23fff%3B%0A%20%20%20%20%20%20%20%20stroke%3A%20%23707070%3B%0A%20%20%20%20%20%20%7D%0A%0A%20%20%20%20%20%20.cls-1%2C%20.cls-2%20%7B%0A%20%20%20%20%20%20%20%20stroke-width%3A%202px%3B%0A%20%20%20%20%20%20%7D%0A%0A%20%20%20%20%20%20.cls-2%2C%20.cls-4%20%7B%0A%20%20%20%20%20%20%20%20fill%3A%20none%3B%0A%20%20%20%20%20%20%7D%0A%0A%20%20%20%20%20%20.cls-2%20%7B%0A%20%20%20%20%20%20%20%20stroke%3A%20%23000%3B%0A%20%20%20%20%20%20%7D%0A%0A%20%20%20%20%20%20.cls-3%20%7B%0A%20%20%20%20%20%20%20%20stroke%3A%20none%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%3C%2Fstyle%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Cg%20id%3D%22Grupo_356%22%20data-name%3D%22Grupo%20356%22%3E%0A%20%20%20%20%3Cg%20id%3D%22Grupo_355%22%20data-name%3D%22Grupo%20355%22%3E%0A%20%20%20%20%20%20%3Cg%20id%3D%22Elipse_199%22%20data-name%3D%22Elipse%20199%22%20class%3D%22cls-1%22%3E%0A%20%20%20%20%20%20%20%20%3Ccircle%20class%3D%22cls-3%22%20cx%3D%2212%22%20cy%3D%2212%22%20r%3D%2212%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Ccircle%20class%3D%22cls-4%22%20cx%3D%2212%22%20cy%3D%2212%22%20r%3D%2211%22%2F%3E%0A%20%20%20%20%20%20%3C%2Fg%3E%0A%20%20%20%20%20%20%3Cg%20id%3D%22Elipse_200%22%20data-name%3D%22Elipse%20200%22%20class%3D%22cls-2%22%3E%0A%20%20%20%20%20%20%20%20%3Ccircle%20class%3D%22cls-3%22%20cx%3D%2212%22%20cy%3D%2212%22%20r%3D%2212%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Ccircle%20class%3D%22cls-4%22%20cx%3D%2212%22%20cy%3D%2212%22%20r%3D%2211%22%2F%3E%0A%20%20%20%20%20%20%3C%2Fg%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fg%3E%0A%20%20%3Cg%20id%3D%22Grupo_357%22%20data-name%3D%22Grupo%20357%22%20transform%3D%22translate(7.667%204.352)%22%3E%0A%20%20%20%20%3Cpath%20id%3D%22Trazado_708%22%20data-name%3D%22Trazado%20708%22%20d%3D%22M10.556-204.242a5.451%2C5.451%2C0%2C0%2C1-2.3-.461%2C3.563%2C3.563%2C0%2C0%2C1-1.567-1.354%2C3.984%2C3.984%2C0%2C0%2C1-.566-2.174v-.409H7.882v.409a2.232%2C2.232%2C0%2C0%2C0%2C.729%2C1.822%2C2.947%2C2.947%2C0%2C0%2C0%2C1.944.607%2C2.849%2C2.849%2C0%2C0%2C0%2C1.854-.516%2C1.653%2C1.653%2C0%2C0%2C0%2C.626-1.338%2C1.35%2C1.35%2C0%2C0%2C0-.287-.886%2C1.981%2C1.981%2C0%2C0%2C0-.831-.55%2C10.949%2C10.949%2C0%2C0%2C0-1.3-.385l-.606-.148a9.532%2C9.532%2C0%2C0%2C1-1.9-.649A3.1%2C3.1%2C0%2C0%2C1%2C6.864-211.3a2.818%2C2.818%2C0%2C0%2C1-.444-1.641%2C3.024%2C3.024%2C0%2C0%2C1%2C.492-1.739%2C3.188%2C3.188%2C0%2C0%2C1%2C1.38-1.116%2C5.089%2C5.089%2C0%2C0%2C1%2C2.085-.394%2C5.355%2C5.355%2C0%2C0%2C1%2C2.142.409%2C3.425%2C3.425%2C0%2C0%2C1%2C1.493%2C1.215%2C3.5%2C3.5%2C0%2C0%2C1%2C.549%2C2.02v.59H12.806v-.59a2.141%2C2.141%2C0%2C0%2C0-.3-1.2%2C1.767%2C1.767%2C0%2C0%2C0-.853-.673%2C3.528%2C3.528%2C0%2C0%2C0-1.271-.213%2C2.647%2C2.647%2C0%2C0%2C0-1.624.435%2C1.429%2C1.429%2C0%2C0%2C0-.575%2C1.206%2C1.382%2C1.382%2C0%2C0%2C0%2C.253.862%2C1.806%2C1.806%2C0%2C0%2C0%2C.748.55%2C6.772%2C6.772%2C0%2C0%2C0%2C1.215.377l.606.148a10.059%2C10.059%2C0%2C0%2C1%2C1.971.633%2C3.308%2C3.308%2C0%2C0%2C1%2C1.337%2C1.041%2C2.777%2C2.777%2C0%2C0%2C1%2C.483%2C1.691%2C3.164%2C3.164%2C0%2C0%2C1-.518%2C1.806%2C3.439%2C3.439%2C0%2C0%2C1-1.467%2C1.206A5.391%2C5.391%2C0%2C0%2C1%2C10.556-204.242Zm-.819%2C1.674v-15.3h1.624v15.3Z%22%20transform%3D%22translate(-6.126%20217.865)%22%2F%3E%0A%20%20%3C%2Fg%3E%0A%3C%2Fsvg%3E%0A)
 
@@ -102,7 +102,7 @@ This solution is a step-by-step explanation of how to buy, and assemble, a bicyc
     
     The bike machine will be able to generate up to 200 watts/hour, pedaling at medium speed and up to 400 watts/hour at high speed.
     
-    <img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db/image 1-275w.webp)
     
 - **Moment 2: Estimate the characteristics of the complementary equipment.**
     
@@ -112,35 +112,35 @@ This solution is a step-by-step explanation of how to buy, and assemble, a bicyc
         
         It is any device capable of capturing and transforming some type of energy (mechanical, solar, thermal, hydraulic, chemical) into electrical energy. In this case, it is the bicycle combined with an electric motor and a static support, but we can also think of a gasoline generator, a solar panel, a Pelton turbine, a wind turbine, etc.
         
-        <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+        ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 2-800w.webp)
         
-        <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+        ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 3-800w.webp)
         
-        <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+        ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 4-800w.webp)
         
     - A charge controller
         
         Its function is to regulate the flow of energy from the motor to the batteries, it controls both the intensity and the voltage. The purpose of this is to ensure that the recharge is in optimal conditions, does not damage the batteries and extends their useful life.
         
-        <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+        ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 5-800w.webp)
         
     - A battery
         
         Stores the energy generated in the form of chemical energy and then releases it as direct current in a controlled manner.
         
-        <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 6-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 6-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 6-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 6-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+        ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 6-800w.webp)
         
     - A power inverter
         
         Converts the direct current coming out of the battery to alternating current to be able to connect our equipment.
         
-        <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 7-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 7-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 7-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 7-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+        ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 7-800w.webp)
         
     - Solar cable and accessories
         
         It is a sufficiently robust electrical cable to be able to transmit the electrical energy that we generate. In addition, we can buy some plastic connectors that help to make the connections more robust and do not disconnect easily.
         
-        <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 8-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 8-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 8-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 8-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+        ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 8-800w.webp)
         
         As I note, here we can use all the same complementary assembly system for a solar panel system. For this reason we will make the calculations of the equipment as if they were for neutral solar panel system, since they will have the same capacity.
         
@@ -155,7 +155,7 @@ This solution is a step-by-step explanation of how to buy, and assemble, a bicyc
     
     To calculate the capacity of the battery in Ampere-hours (ah) we use the following formula. Ah= 1.15*(Wh/día*días) /(Pd*V)=1.15*(135*21.5)/(70%*12)=27.72Ah. This is the minimum capacity needed, so we decided to buy a 12V and 35Ah battery.
     
-    <img src="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 9-800w.webp" alt="image.png" srcset="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 9-400w.webp 400w, /assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 9-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340/image 9-800w.webp)
     
 - **Moment 4: How to estimate the characteristics of a controller?**
     
@@ -165,7 +165,7 @@ This solution is a step-by-step explanation of how to buy, and assemble, a bicyc
     
     To calculate the input current we just have to multiply 3 values: *1.25: A safety factor of 1.25 this is done to calculate with 25% more than necessary to avoid errors due to a very tight calculation. It is a common practice in engineering to oversize the calculations for safety parameters in case of failure. *Imod,sc: Unit current of the PV panel under short circuit conditions, can be found at the back of the panel. For this case it is 2.32 A.
     
-    <img src="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 10-800w.webp" alt="image.png" srcset="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 10-400w.webp 400w, /assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 10-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340/image 10-800w.webp)
     
     - Np: number of panels in series. For this case it is 2.
     
@@ -179,7 +179,7 @@ This solution is a step-by-step explanation of how to buy, and assemble, a bicyc
     
     Calculating we have: Isalide= 1.25*(0+(120+15)/0.95)/12=14.80 A Finally we just need to round up our calculations. Input=5.8≃6A Isalide=14.80≃15A So our controller should support at least an input current of 6A and an output current of 15A. So we bought one of 20A and a voltage of 12/24V (it switches automatically).
     
-    <img src="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 11-800w.webp" alt="image.png" srcset="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 11-400w.webp 400w, /assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 11-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340/image 11-800w.webp)
     
 - **Moment 5: How to estimate the characteristics of an inverter?**
     
@@ -189,7 +189,7 @@ This solution is a step-by-step explanation of how to buy, and assemble, a bicyc
     
     Usually solar cables are sized using the term AWG (American Wire Gauges) in order to estimate the gauge scale. But for solar cables the gauge is usually specified by its section or area in mm². Thus in Colombia we can find from 2.5mm² to 16mm² depending on the manufacturer.
     
-    <img src="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 12-800w.webp" alt="image.png" srcset="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 12-400w.webp 400w, /assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 12-800w.webp 800w, /assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 12-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340/image 12-800w.webp)
     
     It must be chosen in relation to the current to be transported. In this case, we will not carry more than 20A, so a 14 AGW cable, i.e. 2.5 mm2, is fine. As far as connectors are concerned in our case, we will buy two, but it will depend on the configuration that each one of us will put together.
     
@@ -210,19 +210,19 @@ This solution is a step-by-step explanation of how to buy, and assemble, a bicyc
     
     The motor has a negative and a positive pole, it is important to identify which one is which to build the new circuit. Generally the positive is represented by red and the negative by black. In the case of the connection of a motor you must identify which way it turns when it is connected in one way or another, the motor must be connected in such a way that it turns in the same direction that the bicycle will turn, that is to say "forward". Remember that for this solution what we are doing is to reverse the operation of a motor, that is, when the motor rotates, an electromagnetic field will be created which will interact with the permanent magnets of the electric motor, generating an electric current.
     
-    <img src="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 13-800w.webp" alt="image.png" srcset="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 13-400w.webp 400w, /assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 13-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340/image 13-800w.webp)
     
     Now, connect the negative and positive wires coming out of the motor to the controller, it is clearly marked on the controller where each wire is connected. Then cut two wires and strip their ends to make the connection to the battery.
     
-    <img src="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 14-800w.webp" alt="image.png" srcset="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 14-400w.webp 400w, /assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 14-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340/image 14-800w.webp)
     
     Now connect these wires coming out of the controller to the battery, respecting the positive and negative connection.
     
-    <img src="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 15-800w.webp" alt="image.png" srcset="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 15-400w.webp 400w, /assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 15-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340/image 15-800w.webp)
     
     When you have connected them, join the wires from the inverter to the battery and this is how you will have your system ready. Once the whole system is assembled you will be able to connect the computer or router to the inverter.
     
-    <img src="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 16-800w.webp" alt="image.png" srcset="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 16-400w.webp 400w, /assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 16-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340/image 16-800w.webp)
     
 
 ## How to know if this solution works?

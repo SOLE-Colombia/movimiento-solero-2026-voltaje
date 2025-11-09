@@ -76,7 +76,7 @@ Even if its features are many and obvious, this is a solution that requires a po
         
         To install it on your computer visit [https://www.raspberrypi.com/software/.](https://www.raspberrypi.com/software/) There you can download the version of the Raspberry Pi Imager that works on your operating system (Windows, Linux or Mac) once installed you can proceed to the next step.
         
-        <img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+        ![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
         
     - **Connect the MicroSD to your computer**
         
@@ -88,7 +88,7 @@ Even if its features are many and obvious, this is a solution that requires a po
         
     - **Open the Raspberry Pi Imager and choose your operating system.**
         
-        <img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+        ![Imagen](/assets/images/Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db/image 1-275w.webp)
         
 - **Moment 2: Connect your Pi**
     - **Place it on the Pi Imager**
@@ -101,7 +101,7 @@ Even if its features are many and obvious, this is a solution that requires a po
         
         Here we are going to make use of the name we gave to our Pi, in our case *solevoltage*. In the terminal we type `ping solevoltaje.local` and the program will answer us with the [**IP**](https://sole-doc.tiddlyhost.com/#IP) `192.168.0.25`, which indicates that our Pi is available for us to connect and start working.
         
-        <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+        ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 2-800w.webp)
         
     - **Connect to the Pi**
         
@@ -113,7 +113,7 @@ Even if its features are many and obvious, this is a solution that requires a po
         
     - **Update the software**
         
-        ![](https://archive.org/download/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/ServerAtPi/upgrade.png)
+        ![](/https:/archive.org/download/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/ServerAtPi/upgrade.png)
         
         Once we are connected to the Pi we must do a couple of administration tasks. The first is to update our operating system software. We do this by typing the following in the terminal:
         
@@ -127,7 +127,7 @@ Even if its features are many and obvious, this is a solution that requires a po
         > 
     - **Expand the SWAP**
         
-        ![](https://archive.org/download/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/ServerAtPi/swap.png)
+        ![](/https:/archive.org/download/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/ServerAtPi/swap.png)
         
         Now, it is necessary to expand the [SWAP Memory](https://sole-doc.tiddlyhost.com/#SWAPhttps://www.notion.so/solecolombia/Memoria-SWAP-2342bd68c5b680cbad43fe0b7fa090c0?source=copy_link) space so that our Pi can easily deal with operations that require more memory than we have available in [RAM](/memoria-ram-ram-memory-conceptorio). Perform the following steps one after the other:
         
@@ -167,7 +167,7 @@ Even if its features are many and obvious, this is a solution that requires a po
         
     - **Now, we install the server**
         
-        ![](https://ia601406.us.archive.org/10/items/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/ServerAtPi/nginx.png)
+        ![](/https:/ia601406.us.archive.org/10/items/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/ServerAtPi/nginx.png)
         
         After all this preparatory process, which is simpler than it seems we proceed to install [nginx](https://www.nginx.com/), a program that will allow our Pi can function as a web server and thus we can access from other devices through a web browser to resources that we have hosted there.
         
@@ -181,7 +181,7 @@ Even if its features are many and obvious, this is a solution that requires a po
         
 - **Moment 3: Test that everything works fine**
     
-    ![](https://archive.org/download/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/ServerAtPi/test.png)
+    ![](/https:/archive.org/download/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/ServerAtPi/test.png)
     
     Now, we test that everything is working. 
     

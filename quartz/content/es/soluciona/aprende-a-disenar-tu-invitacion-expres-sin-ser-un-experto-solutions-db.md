@@ -77,7 +77,7 @@ Muchas veces sentimos que no vamos a ser capaces de hacer una invitación tan bo
     
     ¡Vamos a comenzar! Abre tu navegador y visita canva.com. Si aún no tienes una cuenta, puedes crear una de forma gratuita.
     
-    <img src="/assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-800w.webp" alt="Untitled" srcset="/assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-400w.webp 400w, /assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-800w.webp 800w, /assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f/Untitled-800w.webp)
     
 - **Selecciona un tamaño**
     
@@ -85,7 +85,7 @@ Muchas veces sentimos que no vamos a ser capaces de hacer una invitación tan bo
     
     **Elige una Plantilla o Comienza Desde Cero** ¿Prefieres empezar con una plantilla prediseñada o dejar volar tu creatividad desde cero? Aquí puedes explorar las opciones y encontrar el estilo que más te guste:
     
-    <img src="/assets\images\¡Aprende a diseñar tu invitación exprés sin ser un 12a2bd68c5b6805ea10deb06a5635a72\Untitled 1-400w.webp" alt="Untitled" srcset="/assets\images\¡Aprende a diseñar tu invitación exprés sin ser un 12a2bd68c5b6805ea10deb06a5635a72\Untitled 1-400w.webp 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¡Aprende a diseñar tu invitación exprés sin ser un 12a2bd68c5b6805ea10deb06a5635a72/Untitled 1-400w.webp)
     
 - **Personaliza tu Diseño**
     
@@ -93,13 +93,13 @@ Muchas veces sentimos que no vamos a ser capaces de hacer una invitación tan bo
     
     Mira cómo quedó la mía:
     
-    <img src="/assets\images\¡Aprende a diseñar tu invitación exprés sin ser un 12a2bd68c5b6805ea10deb06a5635a72\Untitled 2-400w.webp" alt="Untitled" srcset="/assets\images\¡Aprende a diseñar tu invitación exprés sin ser un 12a2bd68c5b6805ea10deb06a5635a72\Untitled 2-400w.webp 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¡Aprende a diseñar tu invitación exprés sin ser un 12a2bd68c5b6805ea10deb06a5635a72/Untitled 2-400w.webp)
     
 - **Descarga tu Invitación**
     
     Cuando estés contento con tu diseño, haz clic en el botón de descarga y elige el formato deseado (JPEG o PNG). ¡Tu invitación está lista para imprimir o compartir en línea!
     
-    <img src="/assets\images\¡Aprende a diseñar tu invitación exprés sin ser un 12a2bd68c5b6805ea10deb06a5635a72\Untitled 3-800w.webp" alt="Untitled" srcset="/assets\images\¡Aprende a diseñar tu invitación exprés sin ser un 12a2bd68c5b6805ea10deb06a5635a72\Untitled 3-400w.webp 400w, /assets\images\¡Aprende a diseñar tu invitación exprés sin ser un 12a2bd68c5b6805ea10deb06a5635a72\Untitled 3-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¡Aprende a diseñar tu invitación exprés sin ser un 12a2bd68c5b6805ea10deb06a5635a72/Untitled 3-800w.webp)
     
 
 ## ¿Cómo saber si esta solución funciona?

@@ -9,7 +9,7 @@ fecha: '2025-10-11'
 
 # Descarga aquí el juego de cartas del Desconectado
 
-![Juego de cartas.jpg](Descarga aquí el juego de cartas del Desconectado e25d495dd2f046cea10c39798ff3d0fe/Juego_de_cartas.jpg)
+![Juego de cartas.jpg](/Descarga aquí el juego de cartas del Desconectado e25d495dd2f046cea10c39798ff3d0fe/Juego_de_cartas.jpg)
 
 **Descarga la versión de Desconectado para impresión**
 
