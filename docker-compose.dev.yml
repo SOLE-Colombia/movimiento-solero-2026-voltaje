@@ -1,29 +1,41 @@
-version: '3.8'
-
 services:
   # Servicio principal de desarrollo
   voltaje-dev:
     build:
       context: .
       dockerfile: Dockerfile.dev
+      args:
+        NODE_VERSION: "22"
     container_name: voltaje-dev
+    hostname: voltaje-dev
     ports:
       - "8080:8080"  # Quartz dev server
       - "3000:3000"  # Preview alternativo
     volumes:
-      # Montar todo el proyecto
-      - .:/workspace
-      # No montar node_modules ni cache
-      - /workspace/node_modules
-      - /workspace/quartz/node_modules
-      - /workspace/.quartz-cache
+      # Montar todo el proyecto con cache optimizado
+      - .:/workspace:cached
+      # Named volumes para mejor rendimiento
+      - quartz-node-modules:/workspace/quartz/node_modules
+      - quartz-cache:/workspace/quartz/.quartz-cache
+      # Montar contenido como read-only para sincronización
+      - ./content:/workspace/content:ro
     environment:
       - NODE_ENV=development
-      - CHOKIDAR_USEPOLLING=true  # Para hot reload en Windows
-    command: npm run dev
+      - CHOKIDAR_USEPOLLING=true
+      - CHOKIDAR_INTERVAL=1000
+      - FORCE_COLOR=1
+      - NPM_CONFIG_LOGLEVEL=info
     working_dir: /workspace/quartz
+    command: npx quartz build --serve
     stdin_open: true
     tty: true
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
     networks:
       - voltaje-network
 
@@ -33,18 +45,30 @@ services:
       context: .
       dockerfile: Dockerfile.scripts
     container_name: voltaje-scripts
+    hostname: voltaje-scripts
     volumes:
-      - .:/workspace
+      - .:/workspace:cached
     environment:
       - PYTHONUNBUFFERED=1
+      - PYTHONDONTWRITEBYTECODE=1
     working_dir: /workspace
-    command: tail -f /dev/null  # Mantener contenedor vivo
+    command: tail -f /dev/null
+    restart: unless-stopped
     networks:
       - voltaje-network
+
+volumes:
+  quartz-node-modules:
+    driver: local
+    name: voltaje-quartz-node-modules
+  quartz-cache:
+    driver: local
+    name: voltaje-quartz-cache
 
 networks:
   voltaje-network:
     driver: bridge
+    name: voltaje-network
 
 
 

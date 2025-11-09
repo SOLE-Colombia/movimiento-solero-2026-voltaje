@@ -1,34 +1,43 @@
-# Dockerfile para desarrollo local
-FROM node:20-alpine
+# Dockerfile para desarrollo local con Quartz
+FROM node:22-slim
+
+# Metadata
+LABEL maintainer="SOLE Colombia"
+LABEL description="Desarrollo local de Voltaje con Quartz"
 
 # Instalar dependencias del sistema
-RUN apk add --no-cache \
+RUN apt-get update && apt-get install -y \
     git \
     python3 \
-    py3-pip \
+    python3-pip \
     bash \
-    curl
+    curl \
+    rsync \
+    && rm -rf /var/lib/apt/lists/*
 
 # Crear directorio de trabajo
 WORKDIR /workspace
 
-# Copiar package.json para cache de dependencias
+# Copiar solo package.json para aprovechar cache de Docker
 COPY quartz/package*.json ./quartz/
 
 # Instalar dependencias de Node
 WORKDIR /workspace/quartz
-RUN npm ci
+RUN npm ci && npm cache clean --force
 
 # Volver al directorio raíz
 WORKDIR /workspace
 
-# El código se monta como volumen, no se copia
+# Script de inicio que sincroniza contenido
+COPY scripts/docker-entrypoint.sh /usr/local/bin/
+RUN chmod +x /usr/local/bin/docker-entrypoint.sh
 
 # Exponer puerto de desarrollo
 EXPOSE 8080
 
-# Comando por defecto (se sobrescribe en docker-compose)
-CMD ["npm", "run", "dev"]
+# Usar script de inicio
+ENTRYPOINT ["/usr/local/bin/docker-entrypoint.sh"]
+CMD ["npx", "quartz", "build", "--serve"]
 
 
 

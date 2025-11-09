@@ -1,0 +1,12 @@
+## Dependencias Python para scripts de SOLE Voltaje
+
+# Procesamiento de imágenes
+Pillow>=11.0.0
+
+# Utilidades
+pathlib>=1.0.1
+colorama>=0.4.6
+
+# Variables de entorno
+python-dotenv>=1.0.1
+
