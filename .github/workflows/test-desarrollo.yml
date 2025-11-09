@@ -77,9 +77,9 @@ jobs:
       - name: 📥 Checkout repositorio de desarrollo
         uses: actions/checkout@v4
         with:
-          repository: ${{ secrets.DEVELOPMENT_REPO }}
+          repository: ${{ secrets.PUBLIC_REPO }}
           path: deploy-dev
-          token: ${{ secrets.DEPLOY_TOKEN }}
+          token: ${{ secrets.PAT }}
           
       - name: 🚀 Deploy a desarrollo
         run: |

@@ -76,9 +76,9 @@ jobs:
       - name: 📥 Checkout repositorio de producción
         uses: actions/checkout@v4
         with:
-          repository: ${{ secrets.PRODUCTION_REPO }}
+          repository: ${{ secrets.PROD_REPO }}
           path: deploy-production
-          token: ${{ secrets.DEPLOY_TOKEN }}
+          token: ${{ secrets.PAT }}
           
       - name: 🚀 Deploy a producción
         run: |
