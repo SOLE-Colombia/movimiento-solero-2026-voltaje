@@ -1,18 +1,12 @@
 ---
 title: Servidor | Server
 lang: es
-slug: servidor-server-conceptorio
+slug: 'servidor-server-conceptorio'
 aspectos:
 - dispositivos
-fecha: '2025-10-11'
+fecha: '2025-07-10'
+autor: Belen Sevilla Morillo
 ---
-
-# Servidor | Server
-
-Fecha de creación: 10 de julio de 2025 16:33
-Autor(a): Belen Sevilla Morillo
-R2025: revisado
-idioma: english, español
 
 ## Español
 

@@ -1,19 +1,13 @@
 ---
 title: Cortafuegos | Firewall
 lang: es
-slug: cortafuegos-firewall-conceptorio
+slug: 'cortafuegos-firewall-conceptorio'
 aspectos:
 - señal
 - dispositivos
-fecha: '2025-10-11'
+fecha: '2025-07-22'
+autor: Belen Sevilla Morillo
 ---
-
-# Cortafuegos | Firewall
-
-Fecha de creación: 22 de julio de 2025 12:24
-Autor(a): Belen Sevilla Morillo
-R2025: revisado
-idioma: english, español
 
 ## Español
 

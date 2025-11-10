@@ -1,18 +1,12 @@
 ---
 title: Nombre de usuario | Username
 lang: es
-slug: nombre-de-usuario-username-conceptorio
+slug: 'nombre-de-usuario-username-conceptorio'
 aspectos:
 - general
-fecha: '2025-10-11'
+fecha: '2025-07-17'
+autor: Belen Sevilla Morillo
 ---
-
-# Nombre de usuario | Username
-
-Fecha de creación: 17 de julio de 2025 22:37
-Autor(a): Belen Sevilla Morillo
-R2025: revisado
-idioma: english, español
 
 ## Español
 

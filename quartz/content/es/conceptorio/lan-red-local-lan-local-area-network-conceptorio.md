@@ -1,20 +1,14 @@
 ---
-title: LAN - Red local | LAN - Local Area Network
+title: 'LAN - Red local | LAN - Local Area Network'
 lang: es
-slug: lan-red-local-lan-local-area-network-conceptorio
+slug: 'lan-red-local-lan-local-area-network-conceptorio'
 aspectos:
 - señal
 - dispositivos
 - personas
 - espacio
-fecha: '2025-10-11'
+fecha: '2025-02-24'
 ---
-
-# LAN - Red local | LAN - Local Area Network
-
-Fecha de creación: 24 de febrero de 2025 7:15
-R2025: revisado
-idioma: english, español
 
 ## Español
 

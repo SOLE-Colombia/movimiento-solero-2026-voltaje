@@ -1,18 +1,12 @@
 ---
 title: Raspberry Pi
 lang: es
-slug: raspberry-pi-conceptorio
+slug: 'raspberry-pi-conceptorio'
 aspectos:
 - electricidad
 - dispositivos
-fecha: '2025-10-11'
+fecha: '2025-02-24'
 ---
-
-# Raspberry Pi
-
-Fecha de creación: 24 de febrero de 2025 5:54
-R2025: revisado
-idioma: english, español
 
 ## Español
 

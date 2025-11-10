@@ -1,19 +1,13 @@
 ---
 title: Protocolo DHCP | DHCP Protocol
 lang: es
-slug: protocolo-dhcp-dhcp-protocol-conceptorio
+slug: 'protocolo-dhcp-dhcp-protocol-conceptorio'
 aspectos:
 - dispositivos
 - espacio
-fecha: '2025-10-11'
+fecha: '2025-07-22'
+autor: Belen Sevilla Morillo
 ---
-
-# Protocolo DHCP | DHCP Protocol
-
-Fecha de creación: 22 de julio de 2025 11:54
-Autor(a): Belen Sevilla Morillo
-R2025: revisado
-idioma: english, español
 
 ## Español
 

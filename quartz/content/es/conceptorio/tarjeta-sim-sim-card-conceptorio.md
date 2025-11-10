@@ -1,20 +1,13 @@
 ---
 title: Tarjeta SIM | SIM Card
 lang: es
-slug: tarjeta-sim-sim-card-conceptorio
+slug: 'tarjeta-sim-sim-card-conceptorio'
 aspectos:
 - señal
 - dispositivos
-fecha: '2025-10-11'
+fecha: '2025-07-09'
+autor: Belen Sevilla Morillo
 ---
-
-# Tarjeta SIM | SIM Card
-
-Fecha de creación: 9 de julio de 2025 16:59
-Tags: material
-Autor(a): Belen Sevilla Morillo
-R2025: revisado
-idioma: english, español
 
 ## Español
 

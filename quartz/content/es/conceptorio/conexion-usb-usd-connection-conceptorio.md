@@ -1,20 +1,14 @@
 ---
 title: Conexión USB | USD Connection
 lang: es
-slug: conexion-usb-usd-connection-conceptorio
+slug: 'conexion-usb-usd-connection-conceptorio'
 aspectos:
 - señal
 - electricidad
 - dispositivos
-fecha: '2025-10-11'
+fecha: '2025-07-15'
+autor: Belen Sevilla Morillo
 ---
-
-# Conexión USB | USD Connection
-
-Fecha de creación: 15 de julio de 2025 18:23
-Autor(a): Belen Sevilla Morillo
-R2025: revisado
-idioma: english, español
 
 ## Español
 

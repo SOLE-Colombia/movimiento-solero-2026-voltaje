@@ -1,18 +1,12 @@
 ---
 title: Demonio (servicio o programa) | Daemon (service or program)
 lang: es
-slug: demonio-servicio-o-programa-daemon-service-or-program-conceptorio
+slug: 'demonio-servicio-o-programa-daemon-service-or-program-conceptorio'
 aspectos:
 - general
-fecha: '2025-10-11'
+fecha: '2025-07-22'
+autor: Belen Sevilla Morillo
 ---
-
-# Demonio (servicio o programa) | Daemon (service or program)
-
-Fecha de creación: 22 de julio de 2025 11:42
-Autor(a): Belen Sevilla Morillo
-R2025: revisado
-idioma: english, español
 
 ## Español
 

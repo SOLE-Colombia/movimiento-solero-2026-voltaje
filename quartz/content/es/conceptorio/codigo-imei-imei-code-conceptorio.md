@@ -1,19 +1,13 @@
 ---
 title: Código IMEI | IMEI Code
 lang: es
-slug: codigo-imei-imei-code-conceptorio
+slug: 'codigo-imei-imei-code-conceptorio'
 aspectos:
 - señal
 - dispositivos
-fecha: '2025-10-11'
+fecha: '2025-07-30'
+autor: Belen Sevilla Morillo
 ---
-
-# Código IMEI | IMEI Code
-
-Fecha de creación: 30 de julio de 2025 17:59
-Autor(a): Belen Sevilla Morillo
-R2025: revisado
-idioma: english, español
 
 ## Español
 

@@ -1,19 +1,14 @@
 ---
 title: UMTS (Sistema Universal de Telecomuniaciones Móviles | UMTS (Universal Mobile
-  Telecommunications System)
 lang: es
-slug: umts-sistema-universal-de-telecomuniaciones-moviles-umts-universal-mobile-telecommunications-system-conceptorio
+slug: 'umts-sistema-universal-de-telecomuniaciones-moviles-umts-universal-mobile-telecommunications-system-conceptorio'
 aspectos:
 - señal
-fecha: '2025-10-11'
+fecha: '2025-08-25'
+autor: Belen Sevilla Morillo
 ---
 
 # UMTS (Sistema Universal de Telecomuniaciones Móviles | UMTS (Universal Mobile Telecommunications System)
-
-Fecha de creación: 25 de agosto de 2025 18:41
-Autor(a): Belen Sevilla Morillo
-R2025: revisado
-idioma: english, español
 
 ### Español
 

@@ -1,18 +1,12 @@
 ---
 title: WhatsApp / wapp
 lang: es
-slug: whatsapp-wapp-conceptorio
+slug: 'whatsapp-wapp-conceptorio'
 aspectos:
 - señal
-fecha: '2025-10-11'
+fecha: '2025-07-15'
+autor: Belen Sevilla Morillo
 ---
-
-# WhatsApp / wapp
-
-Fecha de creación: 15 de julio de 2025 15:44
-Autor(a): Belen Sevilla Morillo
-R2025: revisado
-idioma: english, español
 
 ## Español
 

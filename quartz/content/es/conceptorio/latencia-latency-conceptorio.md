@@ -1,17 +1,11 @@
 ---
 title: Latencia | Latency
 lang: es
-slug: latencia-latency-conceptorio
+slug: 'latencia-latency-conceptorio'
 aspectos:
 - señal
-fecha: '2025-10-11'
+fecha: '2024-02-29'
 ---
-
-# Latencia | Latency
-
-Fecha de creación: 29 de febrero de 2024 15:33
-R2025: revisado
-idioma: english, español
 
 ## Español
 

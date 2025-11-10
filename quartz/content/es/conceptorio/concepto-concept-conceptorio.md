@@ -1,17 +1,11 @@
 ---
 title: Concepto | Concept
 lang: es
-slug: concepto-concept-conceptorio
+slug: 'concepto-concept-conceptorio'
 aspectos:
 - general
-fecha: '2025-10-11'
+fecha: '2024-01-26'
 ---
-
-# Concepto | Concept
-
-Fecha de creación: 26 de enero de 2024 16:17
-R2025: sin revisar
-idioma: english, español
 
 ### Español
 

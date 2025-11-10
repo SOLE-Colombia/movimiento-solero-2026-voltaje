@@ -1,18 +1,12 @@
 ---
 title: Memoria SWAP | SWAP Memory
 lang: es
-slug: memoria-swap-swap-memory-conceptorio
+slug: 'memoria-swap-swap-memory-conceptorio'
 aspectos:
 - espacio
-fecha: '2025-10-11'
+fecha: '2025-07-17'
+autor: Belen Sevilla Morillo
 ---
-
-# Memoria SWAP | SWAP Memory
-
-Fecha de creación: 17 de julio de 2025 22:46
-Autor(a): Belen Sevilla Morillo
-R2025: revisado
-idioma: english, español
 
 ## Español
 

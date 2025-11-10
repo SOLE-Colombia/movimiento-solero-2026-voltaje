@@ -1,19 +1,13 @@
 ---
 title: Terminal o consola | Terminal or console
 lang: es
-slug: terminal-o-consola-terminal-or-console-conceptorio
+slug: 'terminal-o-consola-terminal-or-console-conceptorio'
 aspectos:
 - dispositivos
 - personas
-fecha: '2025-10-11'
+fecha: '2025-07-17'
+autor: Belen Sevilla Morillo
 ---
-
-# Terminal o consola | Terminal or console
-
-Fecha de creación: 17 de julio de 2025 22:09
-Autor(a): Belen Sevilla Morillo
-R2025: revisado
-idioma: english, español
 
 ![](https://ia601406.us.archive.org/10/items/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/ServerAtPi/ping.png)
 

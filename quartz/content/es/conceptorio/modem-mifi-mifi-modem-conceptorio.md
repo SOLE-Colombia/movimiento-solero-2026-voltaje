@@ -1,19 +1,13 @@
 ---
 title: Módem MiFi | MiFi Modem
 lang: es
-slug: modem-mifi-mifi-modem-conceptorio
+slug: 'modem-mifi-mifi-modem-conceptorio'
 aspectos:
 - señal
 - dispositivos
-fecha: '2025-10-11'
+fecha: '2025-07-29'
+autor: Belen Sevilla Morillo
 ---
-
-# Módem MiFi | MiFi Modem
-
-Fecha de creación: 29 de julio de 2025 19:44
-Autor(a): Belen Sevilla Morillo
-R2025: revisado
-idioma: english, español
 
 ## Español
 

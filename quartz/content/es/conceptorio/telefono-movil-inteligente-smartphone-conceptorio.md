@@ -1,19 +1,13 @@
 ---
 title: Teléfono móvil inteligente | Smartphone
 lang: es
-slug: telefono-movil-inteligente-smartphone-conceptorio
+slug: 'telefono-movil-inteligente-smartphone-conceptorio'
 aspectos:
 - señal
 - dispositivos
-fecha: '2025-10-11'
+fecha: '2025-07-09'
+autor: Belen Sevilla Morillo
 ---
-
-# Teléfono móvil inteligente | Smartphone
-
-Fecha de creación: 9 de julio de 2025 17:14
-Autor(a): Belen Sevilla Morillo
-R2025: revisado
-idioma: english, español
 
 ## Español
 

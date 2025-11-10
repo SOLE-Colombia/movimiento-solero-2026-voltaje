@@ -1,19 +1,13 @@
 ---
 title: Conexión EDGE | EDGE Connection
 lang: es
-slug: conexion-edge-edge-connection-conceptorio
+slug: 'conexion-edge-edge-connection-conceptorio'
 aspectos:
 - señal
 - dispositivos
-fecha: '2025-10-11'
+fecha: '2025-08-25'
+autor: Belen Sevilla Morillo
 ---
-
-# Conexión EDGE | EDGE Connection
-
-Fecha de creación: 25 de agosto de 2025 18:36
-Autor(a): Belen Sevilla Morillo
-R2025: revisado
-idioma: english, español
 
 ### Español
 

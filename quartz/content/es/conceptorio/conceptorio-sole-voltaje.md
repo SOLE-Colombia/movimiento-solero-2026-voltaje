@@ -1,15 +1,13 @@
 ---
 title: Conceptorio
 lang: es
-slug: conceptorio-sole-voltaje
+slug: 'conceptorio-sole-voltaje'
 aspectos:
 - señal
 - electricidad
 - personas
 fecha: '2025-10-11'
 ---
-
-# Conceptorio
 
 Tantos términos tecnológicos pueden enloquecer. Explóralos y *cacharrea* sin miedo. 
 

@@ -1,19 +1,13 @@
 ---
 title: Programa ping | Ping program
 lang: es
-slug: programa-ping-ping-program-conceptorio
+slug: 'programa-ping-ping-program-conceptorio'
 aspectos:
 - señal
 - dispositivos
-fecha: '2025-10-11'
+fecha: '2025-07-17'
+autor: Belen Sevilla Morillo
 ---
-
-# Programa ping | Ping program
-
-Fecha de creación: 17 de julio de 2025 22:18
-Autor(a): Belen Sevilla Morillo
-R2025: revisado
-idioma: english, español
 
 ## Español
 

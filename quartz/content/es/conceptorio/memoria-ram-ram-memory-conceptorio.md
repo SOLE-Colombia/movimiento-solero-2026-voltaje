@@ -1,17 +1,11 @@
 ---
 title: Memoria RAM | RAM Memory
 lang: es
-slug: memoria-ram-ram-memory-conceptorio
+slug: 'memoria-ram-ram-memory-conceptorio'
 aspectos:
 - dispositivos
-fecha: '2025-10-11'
+fecha: '2025-02-24'
 ---
-
-# Memoria RAM | RAM Memory
-
-Fecha de creación: 24 de febrero de 2025 7:16
-R2025: revisado
-idioma: english, español
 
 ## Español
 

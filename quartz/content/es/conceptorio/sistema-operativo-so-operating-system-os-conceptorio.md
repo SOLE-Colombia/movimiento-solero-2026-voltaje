@@ -1,19 +1,13 @@
 ---
 title: Sistema operativo (SO) | Operating system (OS)
 lang: es
-slug: sistema-operativo-so-operating-system-os-conceptorio
+slug: 'sistema-operativo-so-operating-system-os-conceptorio'
 aspectos:
 - dispositivos
 - espacio
-fecha: '2025-10-11'
+fecha: '2025-07-17'
+autor: Belen Sevilla Morillo
 ---
-
-# Sistema operativo (SO) | Operating system (OS)
-
-Fecha de creación: 17 de julio de 2025 22:09
-Autor(a): Belen Sevilla Morillo
-R2025: revisado
-idioma: english, español
 
 ## Español
 

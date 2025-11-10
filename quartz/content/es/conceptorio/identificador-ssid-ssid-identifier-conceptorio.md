@@ -1,18 +1,12 @@
 ---
 title: Identificador SSID | SSID Identifier
 lang: es
-slug: identificador-ssid-ssid-identifier-conceptorio
+slug: 'identificador-ssid-ssid-identifier-conceptorio'
 aspectos:
 - dispositivos
-fecha: '2025-10-11'
+fecha: '2025-07-22'
+autor: Belen Sevilla Morillo
 ---
-
-# Identificador SSID | SSID Identifier
-
-Fecha de creación: 22 de julio de 2025 12:04
-Autor(a): Belen Sevilla Morillo
-R2025: revisado
-idioma: english, español
 
 ## Español
 

@@ -1,18 +1,12 @@
 ---
 title: Símbolo de sistema CMD | Command Prompt CMD
 lang: es
-slug: simbolo-de-sistema-cmd-command-prompt-cmd-conceptorio
+slug: 'simbolo-de-sistema-cmd-command-prompt-cmd-conceptorio'
 aspectos:
 - general
-fecha: '2025-10-11'
+fecha: '2025-07-17'
+autor: Belen Sevilla Morillo
 ---
-
-# Símbolo de sistema CMD | Command Prompt CMD
-
-Fecha de creación: 17 de julio de 2025 22:18
-Autor(a): Belen Sevilla Morillo
-R2025: revisado
-idioma: english, español
 
 ## Español
 

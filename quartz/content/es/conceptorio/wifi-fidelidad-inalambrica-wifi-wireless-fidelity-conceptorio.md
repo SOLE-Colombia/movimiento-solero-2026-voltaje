@@ -1,19 +1,12 @@
 ---
-title: WiFi - Fidelidad Inalámbrica | WiFi - Wireless Fidelity
+title: 'WiFi - Fidelidad Inalámbrica | WiFi - Wireless Fidelity'
 lang: es
-slug: wifi-fidelidad-inalambrica-wifi-wireless-fidelity-conceptorio
+slug: 'wifi-fidelidad-inalambrica-wifi-wireless-fidelity-conceptorio'
 aspectos:
 - señal
 - dispositivos
-fecha: '2025-10-11'
+fecha: '2025-02-24'
 ---
-
-# WiFi - Fidelidad Inalámbrica | WiFi - Wireless Fidelity
-
-Fecha de creación: 24 de febrero de 2025 6:48
-Tags: conexión
-R2025: revisado
-idioma: english, español
 
 ## Español
 
