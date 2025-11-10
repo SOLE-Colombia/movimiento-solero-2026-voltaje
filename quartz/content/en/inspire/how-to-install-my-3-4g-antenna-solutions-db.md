@@ -37,7 +37,7 @@ R-reactions: No
 
 ### Index
 
-![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Como_instala_una_antena_34G-800w.webp)
+<img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Como_instala_una_antena_34G-800w.webp" alt="¿Cómo instala una antena 3:4G?.png" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Como_instala_una_antena_34G-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Como_instala_una_antena_34G-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Como_instala_una_antena_34G-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 ---
 
@@ -73,7 +73,7 @@ Remember that you are working with electrical equipment. Be careful when connect
 
 ## **What do you need?**
 
-![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Materiales_para_instalar_Antena_3G-800w.webp)
+<img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Materiales_para_instalar_Antena_3G-800w.webp" alt="Materiales para instalar Antena 3G.jpeg" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Materiales_para_instalar_Antena_3G-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Materiales_para_instalar_Antena_3G-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Materiales_para_instalar_Antena_3G-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 1. Your purchased[3/4G antenna](/antena-3-4g-3-4g-antenna-conceptorio) 
 2. Antenna [coaxial cable](/cable-coaxial-coaxial-cable-conceptorio) 
@@ -109,9 +109,9 @@ This solution has 6 steps, some easier than others, but don't worry, if I could 
     
     Finally, consider where you are going to feed the antenna cable into the space where you will be leaving the modem. You may have to drill a hole in the wall, so that you don't have to leave a window open. For now, you don't need to do this until you have checked where the antenna works and connects best. 
     
-    ![Imagen](/assets/images/Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6/Diagrama_para_ubicar_Antena_y_Modem_-800w.webp)
+    <img src="/assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\Diagrama_para_ubicar_Antena_y_Modem_-800w.webp" alt="Diagrama para ubicar Antena y Modem .jpeg" srcset="/assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\Diagrama_para_ubicar_Antena_y_Modem_-400w.webp 400w, /assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\Diagrama_para_ubicar_Antena_y_Modem_-800w.webp 800w, /assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\Diagrama_para_ubicar_Antena_y_Modem_-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
-    ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Screen_Shot_2024-02-22_at_11.42.38_AM-800w.webp)
+    <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Screen_Shot_2024-02-22_at_11.42.38_AM-800w.webp" alt="Screen Shot 2024-02-22 at 11.42.38 AM.png" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Screen_Shot_2024-02-22_at_11.42.38_AM-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Screen_Shot_2024-02-22_at_11.42.38_AM-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Screen_Shot_2024-02-22_at_11.42.38_AM-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
 - **Step 2: Identify the cell towers in the area.**
     
@@ -122,11 +122,11 @@ This solution has 6 steps, some easier than others, but don't worry, if I could 
     In general, we can say that if there are mountains around you, your antenna will need more height.
     ****The next step is to look for the nearest cell tower: look for tall towers with antennas. They are usually located on the tops of the highest mountains to allow for greater coverage. It is important that you can locate it, because when you have your antenna in your hands, you will need to position it facing that cell tower.
     
-    ![Imagen](/assets/images/Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6/Ubicacion_Antena_Emisora-800w.webp)
+    <img src="/assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\Ubicacion_Antena_Emisora-800w.webp" alt="Ubicación Antena Emisora.jpeg" srcset="/assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\Ubicacion_Antena_Emisora-400w.webp 400w, /assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\Ubicacion_Antena_Emisora-800w.webp 800w, /assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\Ubicacion_Antena_Emisora-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     If you don't know where the nearest cell tower is, you can also ask your neighbors.
     
-    ![Imagen](/assets/images/Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6/Nyakrom_OneTouch_Cell_Phone_Tower_Vodaphone-400w.webp)
+    <img src="/assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\Nyakrom_OneTouch_Cell_Phone_Tower_Vodaphone-400w.webp" alt="Taken from Wikimedia Commons " srcset="/assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\Nyakrom_OneTouch_Cell_Phone_Tower_Vodaphone-400w.webp 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     Taken from Wikimedia Commons 
     
@@ -147,13 +147,13 @@ This solution has 6 steps, some easier than others, but don't worry, if I could 
     
     Inserting the SIM can be complex. I had to make several attempts until I succeeded. You must be careful that the metal part of the SIM chip matches with some metal contacts on the modem. But fear not, let's take it step by step and I'll walk you through it. 
     
-    ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Modem_elementos_-800w.webp)
+    <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Modem_elementos_-800w.webp" alt="Modem elementos .jpeg" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Modem_elementos_-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Modem_elementos_-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Modem_elementos_-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     **Identify the SIM card size that matches the modem tray.**
     
     First, open the place on the modem where the SIM should be inserted. It is usually on the back of the modem. Identify the card size to be inserted. The modem's guide will tell you. The model I have uses the Mini SIM size.
     
-    ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Insertar_SIM_(lugar_de_la_SIM)-800w.webp).jpeg)
+    <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Insertar_SIM_(lugar_de_la_SIM)-800w.webp" alt="Insertar SIM (lugar de la SIM).jpeg" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Insertar_SIM_(lugar_de_la_SIM)-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Insertar_SIM_(lugar_de_la_SIM)-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Insertar_SIM_(lugar_de_la_SIM)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpeg)
     
     **Insert the SIM card into the tray**You will notice that both the SIM tray and the SIM card have a cut or beveled corner. That tells you the position where you should insert the card. 
     
@@ -161,15 +161,15 @@ This solution has 6 steps, some easier than others, but don't worry, if I could 
     
     Then connect ****the power cable to the modem and then to the power outlet. Turn on the modem as instructed in the guide. This can be automatic or on a power button.
     
-    ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Insertar_SIM_(detalle)-800w.webp).jpeg)
+    <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Insertar_SIM_(detalle)-800w.webp" alt="Insertar SIM (detalle).jpeg" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Insertar_SIM_(detalle)-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Insertar_SIM_(detalle)-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Insertar_SIM_(detalle)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpeg)
     
-    ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Insertar_SIM_(Proceso)-800w.webp).jpeg)
+    <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Insertar_SIM_(Proceso)-800w.webp" alt="Insertar SIM (Proceso).jpeg" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Insertar_SIM_(Proceso)-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Insertar_SIM_(Proceso)-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Insertar_SIM_(Proceso)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpeg)
     
     **Check to see if the modem is connected to the Internet.**
     
     On the front of the modem you will find the different connection indicators. The guide tells you what each one means. On the model shown here, the first indicator from left to right is whether it is on or off. The second, if it is red, means it has no signal. If it is blue or green it means it is connected (in this case it is connected). The third says it is broadcasting a wireless or wifi signal in space. The fourth indicates if an ethernet cable is connected (in this case not). The fifth indicator tells about the signal strength - like the bars on the cell phone (in this case it is very good). 
     
-    ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Modem_(Indicadores_de_conexion)-800w.webp).jpeg)
+    <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Modem_(Indicadores_de_conexion)-800w.webp" alt="Modem (Indicadores de conexión).jpeg" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Modem_(Indicadores_de_conexion)-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Modem_(Indicadores_de_conexion)-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Modem_(Indicadores_de_conexion)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpeg)
     
     That's it! You have the modem ready and functional, you are half way through the solution. However, it is possible that the signal indicator, the second one, is red. In that case, simply turn off the modem and let's connect the antenna to it. 
     
@@ -183,25 +183,25 @@ This solution has 6 steps, some easier than others, but don't worry, if I could 
     
     Then adjust the antenna brackets to the higher end of the rod. Remember that the rod should be a little shorter than the length of the cable you have. The brackets have a piece to "wrap" the rod in such a way that when tightening the nuts it clamps the rod as in the picture.
     
-    ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Soporte_Antena_Inicio-800w.webp)
+    <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Soporte_Antena_Inicio-800w.webp" alt="Soporte Antena Inicio.jpeg" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Soporte_Antena_Inicio-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Soporte_Antena_Inicio-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Soporte_Antena_Inicio-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
-    ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Soporte_antena_(Proceso)-800w.webp).jpeg)
+    <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Soporte_antena_(Proceso)-800w.webp" alt="Soporte antena (Proceso).jpeg" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Soporte_antena_(Proceso)-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Soporte_antena_(Proceso)-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Soporte_antena_(Proceso)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpeg)
     
-    ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Soporte_Antena_(detalle)-800w.webp).jpeg)
+    <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Soporte_Antena_(detalle)-800w.webp" alt="Soporte Antena (detalle).jpeg" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Soporte_Antena_(detalle)-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Soporte_Antena_(detalle)-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Soporte_Antena_(detalle)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpeg)
     
     **Extend the cable and connect the end that goes to the antenna cable**. Uncoiling the cable and extending it to its maximum length helps make it easier to handle. Find the connector that matches the antenna connector and connect them.
     
-    ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Conectar_cable_a_antena_(detalle)-800w.webp).jpeg)
+    <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Conectar_cable_a_antena_(detalle)-800w.webp" alt="Conectar cable a antena (detalle).jpeg" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Conectar_cable_a_antena_(detalle)-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Conectar_cable_a_antena_(detalle)-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Conectar_cable_a_antena_(detalle)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpeg)
     
-    ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Conectar_cable_a_antena-800w.webp)
+    <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Conectar_cable_a_antena-800w.webp" alt="Conectar cable a antena.jpeg" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Conectar_cable_a_antena-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Conectar_cable_a_antena-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Conectar_cable_a_antena-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     **Find the connector from the modem to the cable and connect.** 
     
     On this modem model there is a cover on the back of the modem that you must remove with a little force (keep the cover in the modem box). There you will find the place to connect the cable. Tighten the connector thread to the maximum carefully.
     
-    ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Modem_(retirar_tapa_conector_cable)-800w.webp).jpeg)
+    <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Modem_(retirar_tapa_conector_cable)-800w.webp" alt="Modem (retirar tapa conector cable).jpeg" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Modem_(retirar_tapa_conector_cable)-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Modem_(retirar_tapa_conector_cable)-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Modem_(retirar_tapa_conector_cable)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpeg)
     
-    ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Conectar_cable_al_modem-800w.webp)
+    <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Conectar_cable_al_modem-800w.webp" alt="Conectar cable al modem.jpeg" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Conectar_cable_al_modem-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Conectar_cable_al_modem-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Conectar_cable_al_modem-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     Now you can raise the antenna with the help of another person and point it towards the cell tower you identified in the second step. Then turn on the modem and you are done. You have only two steps left to finish. Bravo!
     
@@ -212,7 +212,7 @@ This solution has 6 steps, some easier than others, but don't worry, if I could 
     
     If your computer has an Ethernet input, you can also connect directly through the cable. Connecting via cable will always give you the best possible Internet browsing speed. 
     
-    ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Modem_(detalle_red_y_contrasena)-800w.webp).jpeg)
+    <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Modem_(detalle_red_y_contrasena)-800w.webp" alt="Modem (detalle red y contraseña).jpeg" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Modem_(detalle_red_y_contrasena)-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Modem_(detalle_red_y_contrasena)-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Modem_(detalle_red_y_contrasena)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpeg)
     
     Now, all you need to do is the last step, attach the antenna. 
     
@@ -226,27 +226,27 @@ This solution has 6 steps, some easier than others, but don't worry, if I could 
         
         Log in through a browser on your device (it can be Firefox, Google Chrome, Microsoft Edge or Explorer) to the IP address of your modem. This is usually found on the same sticker underneath the modem. The IP of this modem is **192.168.8.1.**
         
-        ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Modem_(Sticker_base)-800w.webp).jpeg)
+        <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Modem_(Sticker_base)-800w.webp" alt="Modem (Sticker base).jpeg" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Modem_(Sticker_base)-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Modem_(Sticker_base)-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Modem_(Sticker_base)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpeg)
         
         When you enter that IP address you will see the modem login page that will ask you for the password that is also on the sticker. Usually, the password is lowercase **admin** . 
         
-        ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Ingresar_contrasena-800w.webp)
+        <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Ingresar_contrasena-800w.webp" alt="Ingresar contraseña.png" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Ingresar_contrasena-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Ingresar_contrasena-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Ingresar_contrasena-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
         
         It will ask you a few questions to configure your modem preferences. Read carefully and select what you think is best for you. Finally you will get to the modem's home page where it indicates the quality and speed of the connection.
         
-        ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Inicio_del_administrador-800w.webp)
+        <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Inicio_del_administrador-800w.webp" alt="Inicio del administrador.png" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Inicio_del_administrador-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Inicio_del_administrador-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Inicio_del_administrador-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
         
         If you see the green *blips*, it means that everything is well connected. On the other hand, if you see a red exclamation mark and an "X" in the internet bars it indicates that there is no connection. 
         
-        ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Screen_Shot_2024-02-22_at_3.22.35_PM-800w.webp)
+        <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Screen_Shot_2024-02-22_at_3.22.35_PM-800w.webp" alt="Screen Shot 2024-02-22 at 3.22.35 PM.png" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Screen_Shot_2024-02-22_at_3.22.35_PM-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Screen_Shot_2024-02-22_at_3.22.35_PM-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Screen_Shot_2024-02-22_at_3.22.35_PM-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
         
         This is where you should start rotating the antenna looking to point it in a better direction to get a better connection to the cell phone tower. Do this slowly and in small intervals. You can also change it to point more up or down using the different holes in the antenna support to the rod. 
         
-        ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Rotar_la_Antena_(Detalle)-800w.webp).png)
+        <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Rotar_la_Antena_(Detalle)-800w.webp" alt="Rotar la Antena (Detalle).png" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Rotar_la_Antena_(Detalle)-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Rotar_la_Antena_(Detalle)-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.png)
         
         Each time you change the position of your antenna, wait a few seconds to see if the indicators on the screen or device change. If the internet bars and the green *tick* appear, you have succeeded in getting a signal! Congratulations! You are now ready to surf the Internet. 
         
-        ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Soporte_antena_(Escualizada)-800w.webp).jpeg)
+        <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Soporte_antena_(Escualizada)-800w.webp" alt="Soporte antena (Escualizada).jpeg" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Soporte_antena_(Escualizada)-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Soporte_antena_(Escualizada)-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Soporte_antena_(Escualizada)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpeg)
         
         
 💡 **How is internet usage measured?** Internet data usage is measured by the amount of data that is downloaded to your computer or cell phone when you make a query, for example, watch a video, listen to a song, read an article in an online newspaper or receive a text message. The "weight" of each of these files is measured in *bytes* of information and the most common measurement when you buy a data plan is Gigabytes, Gb or *Gigabytes.* To give you a rough reference, 1 Giga or 1 Gigabyte (which is 1 million *bytes*) is equivalent to 30 minutes of video in high definition (HD) or 2 hours in low definition (SD); or 200 songs; or 4 hours of video calls; or 600 web pages; or 350,000 text messages. As you may have noticed, a video is the most "heavy" and a text message is the least "heavy". That's why phone operators sometimes "give" you free text messages but charge you to watch videos.
@@ -258,9 +258,9 @@ This solution has 6 steps, some easier than others, but don't worry, if I could 
         
         It may be useful to**test**the download and upload *speed* of your signal to improve the quality of your connection. This tells you how fast you are downloading data from the internet. To do this, go to a browser and search for speed test. You will see several test options, here I show you the one for Google Chrome. 
         
-        ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Prueba_de_velocidad_1-800w.webp)
+        <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Prueba_de_velocidad_1-800w.webp" alt="Prueba de velocidad 1.png" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Prueba_de_velocidad_1-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Prueba_de_velocidad_1-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Prueba_de_velocidad_1-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
         
-        ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Prueba_de_velocidad_2-800w.webp)
+        <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Prueba_de_velocidad_2-800w.webp" alt="Prueba de velocidad 2.png" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Prueba_de_velocidad_2-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Prueba_de_velocidad_2-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
         
         This way you will know how fast you are downloading data and what kind of queries will work for you. 
         
@@ -278,11 +278,11 @@ This solution has 6 steps, some easier than others, but don't worry, if I could 
             
             To do this, go to the **Advanced** section in the modem menu and look for System and then Device Information. This is how it appears in my modem, but it should be similar in yours. 
             
-            ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Ingreso_a_Avanzados__Sistema__Informacion_del_dispositivo-800w.webp)
+            <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Ingreso_a_Avanzados__Sistema__Informacion_del_dispositivo-800w.webp" alt="Ingreso a Avanzados : Sistema : Informacion del dispositivo.png" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Ingreso_a_Avanzados__Sistema__Informacion_del_dispositivo-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Ingreso_a_Avanzados__Sistema__Informacion_del_dispositivo-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Ingreso_a_Avanzados__Sistema__Informacion_del_dispositivo-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
             
             If you look in that list of information you will find several pieces of information. The 4 parameters you are looking for are RSRQ, which indicates signal quality; RSRP, which indicates signal strength; RSSI, which indicates signal strength; and SINR, which indicates the ratio of signal to noise being generated. Remember that these are electromagnetic waves traveling through the air. 
             
-            ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/RSRP-800w.webp)
+            <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\RSRP-800w.webp" alt="RSRP.png" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\RSRP-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\RSRP-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\RSRP-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
             
             Below you can see a table that indicates the parameters of the cellular signal coverage that your antenna is receiving. Note that three of them are negative numbers and as they approach zero the signal improves. This information may seem a bit technical, but don't worry, you don't need to understand it in great depth for it to work. 
             
@@ -292,7 +292,7 @@ This solution has 6 steps, some easier than others, but don't worry, if I could 
             
             This is how to point the antenna more accurately. Good luck catching the signal! You have become a real internet tinkerer. I am very proud of you. 
             
-            ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Rotar_la_antena-800w.webp)
+            <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Rotar_la_antena-800w.webp" alt="Rotar la antena.png" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Rotar_la_antena-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Rotar_la_antena-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Rotar_la_antena-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
             
     
     
@@ -309,15 +309,15 @@ This solution has 6 steps, some easier than others, but don't worry, if I could 
     
     First, as you have already determined the direction, tighten the antenna brackets to the pole as tight as possible to ensure that they will not move in wind or rain or if a bird lands on them. If you have already tightened them securely it is not necessary to do this again. 
     
-    ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Fijar_Antena_(2_soportes)-800w.webp).jpeg)
+    <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Fijar_Antena_(2_soportes)-800w.webp" alt="Fijar Antena (2 soportes).jpeg" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Fijar_Antena_(2_soportes)-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Fijar_Antena_(2_soportes)-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Fijar_Antena_(2_soportes)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpeg)
     
     **Anchor the rod to the wall or to the support you have**Then, use suitable brackets to anchor the rods to the base. If it is to a wall, drill and drill holes and screws to secure it. If it's to a tree, tie it with wire. 
     
-    ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Fijar_Antena_(detalle_pared)-800w.webp).jpeg)
+    <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Fijar_Antena_(detalle_pared)-800w.webp" alt="Fijar Antena (detalle pared).jpeg" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Fijar_Antena_(detalle_pared)-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Fijar_Antena_(detalle_pared)-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Fijar_Antena_(detalle_pared)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpeg)
     
-    ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Antena_Instalada_1-800w.webp)
+    <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Antena_Instalada_1-800w.webp" alt="Antena Instalada 1.jpg" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Antena_Instalada_1-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Antena_Instalada_1-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Antena_Instalada_1-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
-    ![Imagen](/assets/images/¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30/Antena_instalada_2-800w.webp)
+    <img src="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Antena_instalada_2-800w.webp" alt="Antena instalada 2.jpg" srcset="/assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Antena_instalada_2-400w.webp 400w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Antena_instalada_2-800w.webp 800w, /assets\images\¿Cómo instalar mi antena 3 4G 12a2bd68c5b680b08c63c0594aca7b30\Antena_instalada_2-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
 
 That's it! With teamwork you have managed to install a 3/4G antenna to have a wifi signal in a fixed space. You're now the official gadgeteer of your home or community. 

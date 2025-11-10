@@ -60,11 +60,11 @@ The donation of several computers completed the toolkit with which these Ambassa
 
 Today, the community booth is not only a meeting place, but also a place to share the internet and manage resources communally.
 
-![Imagen](/assets/images/How did the Internet improve in Valdivia, Antioqui 2602bd68c5b6804c8ef7f8a9b077eebe/20240626_SOLEWLH_SintonizacinAntioquia_KM15_(21)-800w.webp).jpg)
+<img src="/assets\images\How did the Internet improve in Valdivia, Antioqui 2602bd68c5b6804c8ef7f8a9b077eebe\20240626_SOLEWLH_SintonizacinAntioquia_KM15_(21)-800w.webp" alt="Visitas de Sintonización, KM 15 - Valdivia, Antioquia, (2024)." srcset="/assets\images\How did the Internet improve in Valdivia, Antioqui 2602bd68c5b6804c8ef7f8a9b077eebe\20240626_SOLEWLH_SintonizacinAntioquia_KM15_(21)-400w.webp 400w, /assets\images\How did the Internet improve in Valdivia, Antioqui 2602bd68c5b6804c8ef7f8a9b077eebe\20240626_SOLEWLH_SintonizacinAntioquia_KM15_(21)-800w.webp 800w, /assets\images\How did the Internet improve in Valdivia, Antioqui 2602bd68c5b6804c8ef7f8a9b077eebe\20240626_SOLEWLH_SintonizacinAntioquia_KM15_(21)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
 
 Visitas de Sintonización, KM 15 - Valdivia, Antioquia, (2024).
 
-![Imagen](/assets/images/How did the Internet improve in Valdivia, Antioqui 2602bd68c5b6804c8ef7f8a9b077eebe/20240626_SOLEWLH_SintonizacinAntioquia_KM15_(45)-800w.webp).jpg)
+<img src="/assets\images\How did the Internet improve in Valdivia, Antioqui 2602bd68c5b6804c8ef7f8a9b077eebe\20240626_SOLEWLH_SintonizacinAntioquia_KM15_(45)-800w.webp" alt="Visitas de Sintonización, KM 15 - Valdivia, Antioquia, (2024)." srcset="/assets\images\How did the Internet improve in Valdivia, Antioqui 2602bd68c5b6804c8ef7f8a9b077eebe\20240626_SOLEWLH_SintonizacinAntioquia_KM15_(45)-400w.webp 400w, /assets\images\How did the Internet improve in Valdivia, Antioqui 2602bd68c5b6804c8ef7f8a9b077eebe\20240626_SOLEWLH_SintonizacinAntioquia_KM15_(45)-800w.webp 800w, /assets\images\How did the Internet improve in Valdivia, Antioqui 2602bd68c5b6804c8ef7f8a9b077eebe\20240626_SOLEWLH_SintonizacinAntioquia_KM15_(45)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
 
 Visitas de Sintonización, KM 15 - Valdivia, Antioquia, (2024).
 

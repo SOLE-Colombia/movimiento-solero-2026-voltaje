@@ -50,7 +50,7 @@ We even take a picture!
 
 In each SOLE Colombia Grandmothers' Sewing Box, we sew the scraps of the great quilt of solidarity that is the Internet. We show each other patterns that have worked and create new ones. Each one contributes her knowledge and her color, and we enjoy creating an equitable and beautiful future together, one Big Question at a time.
 
-![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
+<img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 [https://notionreactions.com/embed/p2dgQn87ZKq7PqTLPV2s](https://notionreactions.com/embed/p2dgQn87ZKq7PqTLPV2s)
 

@@ -30,7 +30,7 @@ R-reactions: No
 
 # **Improve your mobile network connection**
 
-![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
+<img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 ## **Audio reading of the solution**
 
@@ -58,7 +58,7 @@ In this recipe, we are going to build a **homemade antenna** prepared to receive
 
 ## **What do you need?**
 
-![Imagen](/assets/images/Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db/image 1-275w.webp)
+<img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 - **Materials**
     1. 3 mm thick aluminum rod (it has to be exactly 3 mm).
@@ -107,14 +107,14 @@ In this recipe, we are going to build a **homemade antenna** prepared to receive
     
     Here is the final schematic and some of the parts of the assembly to give you a better understanding of the final assembly.
     
-    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 2-800w.webp)
+    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
 - **Step 3: Measuring, cutting and marking**
     
     
     It's time to get started! Here we get down to work, you must cut each of the 10 elements that make up the antenna. With the help of the caliper (or ruler), you have to mark the length of each one and cut them with the saw or the polishing machine. It is recommended that you cut one or half a millimeter extra and finish adjusting their length by filing the edges with the metal file. Below is a list of the length of the 10 metal rods that you must cut, in the world of antennas these have their specific names (director, reflector and dipole) related to the function they serve.
     
-    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 3-800w.webp)
+    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     This is the list of cuts that are necessary:
     
@@ -133,25 +133,25 @@ In this recipe, we are going to build a **homemade antenna** prepared to receive
 📏 Remember that 10 mm=1 cm
 
     
-    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 4-800w.webp)
+    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     It is important to mark each of the cuts with a tape, as shown in the photo, so that the next step is easier to do.
     
-    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 5-800w.webp)
+    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
 - **Step 4: Bend the dipole**
     
     
     The dipole is an element bent in the shape of a "C". Its overall length should be 7.6 cm, but the rod should be a little longer (about 18.0 cm). Making this piece is a trial and error task. In my case I have found it helpful to slowly bend the rod against a 2 cm diameter circular tube to give it the curvature.
     
-    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 6-800w.webp)
+    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 6-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 6-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 6-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 6-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
 - **Step 5: Assembling the antenna**
     
     
     We are already half way through the process. Don't be discouraged! ****Now it's time to assemble the elements on the channel. This can be replaced by wood or any other material at hand, as long as it does not conduct electricity.
     
-    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 7-800w.webp)
+    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 7-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 7-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 7-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 7-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     On the surface of the trough, the following distances must be marked, over which each of the rod cuts made in the previous step will be placed.
     
@@ -168,25 +168,25 @@ In this recipe, we are going to build a **homemade antenna** prepared to receive
     
     Once you have marked the lines you can glue each of the rods with the epoxy glue on the trough, however, we have found that this configuration is very fragile and makes our antenna not last very long. For this reason we found a better way to attach the rods to the trough. For this we can use the hot soldering iron that with its fine tip can easily go through the plastic, then with this tool we will pierce the sides until it has a sufficient diameter to pass the rod. Take advantage of as soon as the plastic is hot just pierce it to pass the rod and make sure it has the right diameter. This should be done on both sides of the gutter so that the rod can pass through from side to side.
     
-    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 8-800w.webp)
+    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 8-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 8-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 8-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 8-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     Once you have finished drilling the 20 holes, you must disassemble the trough and use the metal file to remove the burrs from the plastic to allow the rods to enter easily.
     
-    ![Imagen](/assets/images/Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340/image 9-800w.webp)
+    <img src="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 9-800w.webp" alt="image.png" srcset="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 9-400w.webp 400w, /assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 9-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     Now, before positioning each of the rods we must make a small cut to facilitate the entry of the dipole, for this we must disassemble the channel and with the saw to make a vertical cut so that it crosses the sides of the second measure (5.0 cm) to reach the hole that we opened with the soldering iron.
     
-    ![Imagen](/assets/images/Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340/image 10-800w.webp)
+    <img src="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 10-800w.webp" alt="image.png" srcset="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 10-400w.webp 400w, /assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 10-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     Once the dipole is embedded we can insert the other rods according to the order already mentioned.
     
-    ![Imagen](/assets/images/Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18/photo_2024-02-15_14-52-10-800w.webp)
+    <img src="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_14-52-10-800w.webp" alt="photo_2024-02-15_14-52-10.jpg" srcset="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_14-52-10-400w.webp 400w, /assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_14-52-10-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     s
     
     A little epoxy glue can be added on the rod to ensure that the elements are well adhered to the trough. Wait the necessary time for the glue to dry before continuing to attach the wire to your new antenna.
     
-    ![Imagen](/assets/images/Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18/photo_2024-02-15_14-52-15-800w.webp)
+    <img src="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_14-52-15-800w.webp" alt="photo_2024-02-15_14-52-15.jpg" srcset="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_14-52-15-400w.webp 400w, /assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_14-52-15-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
 - **Step 6: Prepare the cable**
     
@@ -197,49 +197,49 @@ In this recipe, we are going to build a **homemade antenna** prepared to receive
     
     (you can review the previous post to understand how a coaxial cable is formed before disassembling it).
     
-    ![Imagen](/assets/images/Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340/image 11-800w.webp)
+    <img src="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 11-800w.webp" alt="image.png" srcset="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 11-400w.webp 400w, /assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 11-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     To do this part you can use a wire stripper or a cutter to separate each layer of the cable, you must be careful in the cut to avoid breaking the first layer which is a wire mesh. Thus, at one end you have to leave free the copper wire and the cable mesh. You can carefully separate the mesh and then braid it again.
     
-    ![Imagen](/assets/images/Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18/photo_2024-02-15_15-19-07-800w.webp)
+    <img src="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_15-19-07-800w.webp" alt="photo_2024-02-15_15-19-07.jpg" srcset="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_15-19-07-400w.webp 400w, /assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_15-19-07-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     At the other end, with the copper wire, make a wave, which will be the element that comes into contact with the phone, or Mifi, to improve the signal.
     
-    ![Imagen](/assets/images/Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18/photo_2024-02-15_15-19-05-800w.webp)
+    <img src="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_15-19-05-800w.webp" alt="photo_2024-02-15_15-19-05.jpg" srcset="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_15-19-05-400w.webp 400w, /assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_15-19-05-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
 - **Step 7: Solder the dipole**
     
     
     This is one of the most careful steps, after this we move on to the assembly. Remember that the dipole is one of the fundamental components of the antenna, this must be soldered to the end of the coaxial cable that we separated in the mesh and the copper wire, and this in turn is connected with a copper wire bridging each end of the dipole. First we make the bridge with the copper wire as shown in the image, where each end is braided and then soldered.
     
-    ![Imagen](/assets/images/Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18/photo_2024-02-15_15-56-36-800w.webp)
+    <img src="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_15-56-36-800w.webp" alt="photo_2024-02-15_15-56-36.jpg" srcset="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_15-56-36-400w.webp 400w, /assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_15-56-36-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     Once we have the copper wire soldered to the two ends of the coaxial we can attach it to the dipole, for this we can first tighten it a little with the pliers and then proceed to solder.
     
-    ![Imagen](/assets/images/Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18/photo_2024-02-15_15-56-34-800w.webp)
+    <img src="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_15-56-34-800w.webp" alt="photo_2024-02-15_15-56-34.jpg" srcset="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_15-56-34-400w.webp 400w, /assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_15-56-34-800w.webp 800w, /assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_15-56-34-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     Remember that the dipole must be perpendicular to the trough, so to avoid sudden movements of the cable that change this position we must secure the cable with plastic ties.
     
-    ![Imagen](/assets/images/Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18/photo_2024-02-15_16-06-52-800w.webp)
+    <img src="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_16-06-52-800w.webp" alt="photo_2024-02-15_16-06-52.jpg" srcset="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_16-06-52-400w.webp 400w, /assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_16-06-52-800w.webp 800w, /assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-15_16-06-52-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
 - **Step 8: Final assembly**
     
     
     Finally we are done, now you can assemble and install the antenna! To do this, make sure it is well adjusted with plastic ties at the top of the pole, the antenna should be oriented so that the dipole is as close as possible to the pole.
     
-    ![Imagen](/assets/images/Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340/image 12-800w.webp)
+    <img src="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 12-800w.webp" alt="image.png" srcset="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 12-400w.webp 400w, /assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 12-800w.webp 800w, /assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 12-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     Remember also to tie the cable to the pole, so that it does not come loose from the welding points on the antenna. Now, raise the pole and make sure that the position of the antenna is facing the direction of the nearest cell tower.
     
     Now, on the other end of the cable, place your cell phone so that the copper coil is touching the back of the device.
     
-    ![Imagen](/assets/images/Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18/photo_2024-02-16_08-25-07-800w.webp)
+    <img src="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-16_08-25-07-800w.webp" alt="photo_2024-02-16_08-25-07.jpg" srcset="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-16_08-25-07-400w.webp 400w, /assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-16_08-25-07-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
-    ![Imagen](/assets/images/Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18/photo_2024-02-16_08-25-05-800w.webp)
+    <img src="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-16_08-25-05-800w.webp" alt="photo_2024-02-16_08-25-05.jpg" srcset="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-16_08-25-05-400w.webp 400w, /assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-16_08-25-05-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     The antenna addressing process must be done slowly and carefully, the waves are very sensitive to movement. First, they can establish the 0 position and, from there, they can be rotated to the right or left in small intervals. After each movement, you can check the quality of connection to the cellular network from the "Settings" screen of the phone. This is a number expressed in decibels (Db), the higher it is, the lower the signal quality. You can also do this by looking at the strength of the signal icon on the top of the cell phone. The challenge is to find the place where the number of decibels is lower or where the signal strength icon is higher.
     
-    ![Imagen](/assets/images/Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18/photo_2024-02-16_08-24-02-800w.webp)
+    <img src="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-16_08-24-02-800w.webp" alt="photo_2024-02-16_08-24-02.jpg" srcset="/assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-16_08-24-02-400w.webp 400w, /assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-16_08-24-02-800w.webp 800w, /assets\images\Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18\photo_2024-02-16_08-24-02-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     Now, you can proceed to secure the pole in this position and that's it, let's go sailing!
     

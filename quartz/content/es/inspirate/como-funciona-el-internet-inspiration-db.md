@@ -49,7 +49,7 @@ El computador donde se almacena la información que estas consultando se le llam
 
 Para que la información que envía un **servidor** llegue a tu casa, barrio, vereda o comunidad, el **cliente** que usas se conecta a Internet. Tomemos, por ejemplo, tu teléfono celular en algún lugar en Colombia y que la respuesta se encuentre en un servidor en Europa. Esta es la gran aventura que toma tu pregunta.
 
-![Imagen](/assets/images/¿Cómo funciona el Internet 1362bd68c5b680c3b903ead1b7123665/20241101_Grafico__como_viaja_tu_pregunta_por_internet-800w.webp)
+<img src="/assets\images\¿Cómo funciona el Internet 1362bd68c5b680c3b903ead1b7123665\20241101_Grafico__como_viaja_tu_pregunta_por_internet-800w.webp" alt="¿Cómo viaja tu pregunta por el Internet? SOLE Colombia, 2024." srcset="/assets\images\¿Cómo funciona el Internet 1362bd68c5b680c3b903ead1b7123665\20241101_Grafico__como_viaja_tu_pregunta_por_internet-400w.webp 400w, /assets\images\¿Cómo funciona el Internet 1362bd68c5b680c3b903ead1b7123665\20241101_Grafico__como_viaja_tu_pregunta_por_internet-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 ¿Cómo viaja tu pregunta por el Internet? SOLE Colombia, 2024.
 

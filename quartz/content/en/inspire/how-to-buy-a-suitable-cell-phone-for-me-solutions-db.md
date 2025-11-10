@@ -43,7 +43,7 @@ R-reactions: No
 
 # Buying a cell phone that fits your capabilities and needs
 
-![Imagen](/assets/images/¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06/Comprar_un_celular00-800w.webp)
+<img src="/assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\Comprar_un_celular00-800w.webp" alt="Comprar un celular00.jpg" srcset="/assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\Comprar_un_celular00-400w.webp 400w, /assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\Comprar_un_celular00-800w.webp 800w, /assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\Comprar_un_celular00-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 ## Welcome
 
@@ -90,7 +90,7 @@ At SOLE Voltage we talk from supporting people clarify the ethical implication o
 💡 At the beginning of 2024 I threw my cell phone away when I got out of a cab, because of my jobs and contact with my family and friends it is important for me to have a cell phone. Some time ago I decided that I will not invest more than $ 1'000,000 COP in this tool. About 5 years ago I met a new brand that was emerging, it had good prices and had very good references from friends and users on the internet, this brand is Xiaomi, my last two cell phones had been of this brand, each one was worth about $ 700,000 COP. However, I searched the internet for references and I saw that there is a new brand that is coming and is economical, Tecno, I looked at several references and saw that it is the best selling brand currently by free market, so I looked for a cell phone with similar characteristics to the previous ones, 250 Gb of internal memory, a decent processor, a battery of more than 4000 mA / h, a large screen and at least 8 Gb of RAM. These features are compatible with my work and personal use, I do not take professional photos, nor was I looking for it to play video games. Finally I found a cell phone of this brand for $ 475,000 COP, this cell phone I bought was a Tecno Spark 20 Dual Sim 256 Gb. So far I can say that it has been an excellent purchase!
 
     
-    ![Imagen](/assets/images/¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06/WhatsApp_Image_2024-08-28_at_4.14.43_PM-800w.webp)
+    <img src="/assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\WhatsApp_Image_2024-08-28_at_4.14.43_PM-800w.webp" alt="WhatsApp Image 2024-08-28 at 4.14.43 PM.jpeg" srcset="/assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\WhatsApp_Image_2024-08-28_at_4.14.43_PM-400w.webp 400w, /assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\WhatsApp_Image_2024-08-28_at_4.14.43_PM-800w.webp 800w, /assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\WhatsApp_Image_2024-08-28_at_4.14.43_PM-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     Now it's your turn to identify what you need the phone for!
     
@@ -99,7 +99,7 @@ At SOLE Voltage we talk from supporting people clarify the ethical implication o
     
     First of all, **define what your budget will be**, for this you can do the math of how many days of work you are willing to invest for this device. Do not get into debt for a cell phone, many times we are offered 1 or 2 year financing, and the cell phone is damaged or stolen before we finish paying for it.
     
-    ![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
+    <img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
 
 Once you are clear about the above, you will know what features you should pay more attention to.
@@ -120,11 +120,11 @@ Once you are clear about the above, you will know what features you should pay m
     
     The lens aperture will be fundamental for a good photo, this characteristic **defines how much light the camera can capture.** It is identified by the **letter f followed by a number**, for example, f1.9 or f 2.0. The lower this number, the more light the camera will capture. Therefore, **it is important that it is low**, because with a higher light input, the images will have more detail.
     
-    ![Imagen](/assets/images/¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06/Megapixel_comparison-400w.webp)
+    <img src="/assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\Megapixel_comparison-400w.webp" alt="Megapixel_comparison.jpg" srcset="/assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\Megapixel_comparison-400w.webp 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     A good cell phone camera must have a quality sensor, as well as **several lenses**. The latter, in fact, has already become a standard. When combined, they make it possible to obtain better images. One of the most popular lenses is the wide-angle lens. Thanks to this, much more information is incorporated into the photos and it provides a visual angle of up to 120 degrees, perfect for group photos or indoors where there is not much space.
     
-    ![Imagen](/assets/images/¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06/apertura-400w.webp)
+    <img src="/assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\apertura-400w.webp" alt="apertura.png" srcset="/assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\apertura-400w.webp 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
 - **Screen**
     
@@ -149,21 +149,21 @@ Once you are clear about the above, you will know what features you should pay m
     - **LCD:** These are backlit liquid crystal displays that usually cover the entire panel. In the past they were the most popular, but they are increasingly produced in smaller quantities. As they are backlit, they will consume more energy, but for this reason they look good in direct sunlight.
     - **OLED:** These screens differ from LCDs because their materials allow them to generate light by themselves when electricity is applied, this allows them to turn off or turn on each pixel independently, so they **consume less energy.** In addition, they end up being **brighter and have better black color definition.**
     
-    ![Imagen](/assets/images/¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06/tipo_de_pantalla-800w.webp)
+    <img src="/assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\tipo_de_pantalla-800w.webp" alt="tipo de pantalla.jpg" srcset="/assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\tipo_de_pantalla-400w.webp 400w, /assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\tipo_de_pantalla-800w.webp 800w, /assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\tipo_de_pantalla-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
 - **Internal storage**
     
     
     The internal storage defines the amount of files we can store on our cell phone, it is like the hard drive on a computer. This will determine how many programs you can have installed at a time, whether or not you can store all types of files. At this time we recommend buying a cell phone with at least 64 GB of internal memory. Also, see if you have the option to receive microSD cards to expand the capacity in the future.
     
-    ![Imagen](/assets/images/Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db/image 1-275w.webp)
+    <img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     .
     
 - **RAM memory**
     
     
-    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 2-800w.webp)
+    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     This is the temporary memory of the cell phone, it helps in the performance and gives a clue of how fast the applications open and how fast the cell phone flows. We recommend a **minimum of 4GB of RAM.**
     
@@ -172,12 +172,12 @@ Once you are clear about the above, you will know what features you should pay m
     
     The processor is the **brain**, it is the one that is always awake and receives instructions. The more cores the processor has, the better performance it will have, although it will also depend on the brand. Here, the best option is to look at the name of the processor used by the cell phone that catches your attention and do a little research on your own. **Hopefully it was not released more than 4 years ago.**
     
-    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 3-800w.webp)
+    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
 - **Battery**
     
     
-    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 4-800w.webp)
+    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     It is one of the most important components of the cell phone, since it will condition its use. Autonomy, charging time and battery life are parameters that will affect us. Its capacity is indicated by the number of milliamps per hour (mAh) it can provide to an electronic circuit. Thus, a capacity of 3,000 mAh indicates that the battery is capable of delivering a current of 3,000 mAh for one hour before it is exhausted. We recommend that with the current consumption of a cell phone the minimum capacity is 4000 mA/h.
     
@@ -191,7 +191,7 @@ Once you are clear about the above, you will know what features you should pay m
     
     Here we compare my cell phone against a Motorola:
     
-    ![Imagen](/assets/images/¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06/Captura_desde_2024-08-28_17-15-32-800w.webp)
+    <img src="/assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\Captura_desde_2024-08-28_17-15-32-800w.webp" alt="Captura desde 2024-08-28 17-15-32.png" srcset="/assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\Captura_desde_2024-08-28_17-15-32-400w.webp 400w, /assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\Captura_desde_2024-08-28_17-15-32-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
 
 In addition to the Tecno Spark 20 comes out better qualified in its characteristics, we can see that in the Colombian market they have the following prices:
@@ -207,7 +207,7 @@ It is important that you constantly check emerging brands, usually there are bra
 
 Another important element has to do with the warranty, when you live in a central city is easy if something happens with the cell phone there is a branch of all brands available in case you have to use the warranty, but in less central cities, for example Bucaramanga, the brand of my current cell phone "Tecno" has no office so if you live there you would have to send the phone to Bogota, pay more money and wait longer to get it back, but possibly in this city if there is a center of attention of more popular brands such as Motorola.
 
-![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 5-800w.webp)
+<img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 ## **How much is enough?**
 

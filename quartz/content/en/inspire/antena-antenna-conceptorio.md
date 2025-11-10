@@ -33,7 +33,7 @@ idioma: english, español
 
 [](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b+u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz/6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1+flswMu1EQZ3xlE7lK8eKDkjtwE+crBMV+wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk/9ryhFMAAAAASUVORK5CYII=)
 
-![](/https:/ia601406.us.archive.org/10/items/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/Antena/IMG_20220729_083121.jpg)
+![](https://ia601406.us.archive.org/10/items/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/Antena/IMG_20220729_083121.jpg)
 
 ## English
 
@@ -48,4 +48,4 @@ idioma: english, español
 - **Types of antennas:** There are various types of antennas, such as parabolic antennas, dipoles, and panel antennas, each with specific characteristics for different applications. (Source: http://www1.frm.utn.edu.ar/comunicaciones/antenas.html)
 - **Applications:** Antennas are essential in broadcasting, television, mobile communications, wireless networks, and many other technologies that use electromagnetic waves. (Source: https://museotelecomvlc.webs.upv.es/telecochips/antenas/)[**Antenna - Wikipedia, the free encyclopedia**Wikipediahttps://es.wikipedia.org › wiki › Antena](https://es.wikipedia.org/wiki/Antena)
 
-![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
+<img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />

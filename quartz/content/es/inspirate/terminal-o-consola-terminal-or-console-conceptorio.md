@@ -15,7 +15,7 @@ Autor(a): Belen Sevilla Morillo
 R2025: revisado
 idioma: english, español
 
-![](/https:/ia601406.us.archive.org/10/items/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/ServerAtPi/ping.png)
+![](https://ia601406.us.archive.org/10/items/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/ServerAtPi/ping.png)
 
 ## Español
 

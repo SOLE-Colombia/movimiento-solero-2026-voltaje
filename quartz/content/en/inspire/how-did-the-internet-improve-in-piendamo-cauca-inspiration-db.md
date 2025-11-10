@@ -47,7 +47,7 @@ It was in El Agrado that we met Alexander García, a young community leader with
 
 Festivales SOLE in El agrado, (2023).
 
-![Imagen](/assets/images/¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91/20230912_SOLEWLH_Festival_ElAgrado_0100-800w.webp)
+<img src="/assets\images\¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91\20230912_SOLEWLH_Festival_ElAgrado_0100-800w.webp" alt="Festivales SOLE in El agrado, (2023)." srcset="/assets\images\¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91\20230912_SOLEWLH_Festival_ElAgrado_0100-400w.webp 400w, /assets\images\¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91\20230912_SOLEWLH_Festival_ElAgrado_0100-800w.webp 800w, /assets\images\¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91\20230912_SOLEWLH_Festival_ElAgrado_0100-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 Festivales SOLE in El agrado, (2023).
 
@@ -73,17 +73,17 @@ Visitas de SIntonización, Piendamó, (2024).
 
 With his technical skills and passion for teaching, Alexander was the first to motivate the residents of the reservation to explore the possibilities of the internet and join the SOLE movement. With his support, we installed computers in the community shelter, and Alexander encouraged them to continue using Self-Organized Learning in their community. Thanks to his encouragement, the Misak Pisicatau community has now created its own website, a space where they share their traditions, culture, and knowledge with the world.
 
-![Imagen](/assets/images/¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91/20240612_SOLEWLH_Sintonizacion_Misak_Piscitau_Piendamo28(1)-800w.webp).jpg)
+<img src="/assets\images\¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91\20240612_SOLEWLH_Sintonizacion_Misak_Piscitau_Piendamo28(1)-800w.webp" alt="Visitas de Sintonización SOLE, Piendamó, (2024)" srcset="/assets\images\¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91\20240612_SOLEWLH_Sintonizacion_Misak_Piscitau_Piendamo28(1)-400w.webp 400w, /assets\images\¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91\20240612_SOLEWLH_Sintonizacion_Misak_Piscitau_Piendamo28(1)-800w.webp 800w, /assets\images\¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91\20240612_SOLEWLH_Sintonizacion_Misak_Piscitau_Piendamo28(1)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
 
 Visitas de Sintonización SOLE, Piendamó, (2024)
 
-![Imagen](/assets/images/¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91/20240612_SOLEWLH_Sintonizacion_Misak_Piscitau_Piendamo81-800w.webp)
+<img src="/assets\images\¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91\20240612_SOLEWLH_Sintonizacion_Misak_Piscitau_Piendamo81-800w.webp" alt="Visitas de Sintonización SOLE, Piendamó, (2024)" srcset="/assets\images\¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91\20240612_SOLEWLH_Sintonizacion_Misak_Piscitau_Piendamo81-400w.webp 400w, /assets\images\¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91\20240612_SOLEWLH_Sintonizacion_Misak_Piscitau_Piendamo81-800w.webp 800w, /assets\images\¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91\20240612_SOLEWLH_Sintonizacion_Misak_Piscitau_Piendamo81-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 Visitas de Sintonización SOLE, Piendamó, (2024)
 
 Alexander has transformed not only his own knowledge, but also that of entire communities. Now, on the Misak Pisicatau Reservation, fear of technology has become a tool to preserve their identity, share their cultural heritage, and jointly address big questions like *Why don't Big Data and Artificial Intelligence have an ethnic focus?*
 
-![Imagen](/assets/images/¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91/20240612_SOLEWLH_Sintonizacion_Misak_Piscitau_Piendamo125-800w.webp)
+<img src="/assets\images\¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91\20240612_SOLEWLH_Sintonizacion_Misak_Piscitau_Piendamo125-800w.webp" alt="Visitas de Sintonización SOLE, Piendamó, (2024)" srcset="/assets\images\¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91\20240612_SOLEWLH_Sintonizacion_Misak_Piscitau_Piendamo125-400w.webp 400w, /assets\images\¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91\20240612_SOLEWLH_Sintonizacion_Misak_Piscitau_Piendamo125-800w.webp 800w, /assets\images\¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91\20240612_SOLEWLH_Sintonizacion_Misak_Piscitau_Piendamo125-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 Visitas de Sintonización SOLE, Piendamó, (2024)
 

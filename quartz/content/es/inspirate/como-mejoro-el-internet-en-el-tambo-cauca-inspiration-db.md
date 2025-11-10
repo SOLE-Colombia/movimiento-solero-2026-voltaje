@@ -58,7 +58,7 @@ Reconocimiento, El Tambo, Cauca, (2024).
 
 Reconocimiento, El Tambo, Cauca, (2024).
 
-![Imagen](/assets/images/¿Cómo mejoró el Internet en El Tambo, Cauca 1362bd68c5b6802a8df0f2c8fd47097f/20231019_BOLT_SOLELAB_Reconocimiento_Eltambo_02-800w.webp)
+<img src="/assets\images\¿Cómo mejoró el Internet en El Tambo, Cauca 1362bd68c5b6802a8df0f2c8fd47097f\20231019_BOLT_SOLELAB_Reconocimiento_Eltambo_02-800w.webp" alt="Reconocimiento, El Tambo, Cauca, (2024)." srcset="/assets\images\¿Cómo mejoró el Internet en El Tambo, Cauca 1362bd68c5b6802a8df0f2c8fd47097f\20231019_BOLT_SOLELAB_Reconocimiento_Eltambo_02-400w.webp 400w, /assets\images\¿Cómo mejoró el Internet en El Tambo, Cauca 1362bd68c5b6802a8df0f2c8fd47097f\20231019_BOLT_SOLELAB_Reconocimiento_Eltambo_02-800w.webp 800w, /assets\images\¿Cómo mejoró el Internet en El Tambo, Cauca 1362bd68c5b6802a8df0f2c8fd47097f\20231019_BOLT_SOLELAB_Reconocimiento_Eltambo_02-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 Reconocimiento, El Tambo, Cauca, (2024).
 
@@ -98,7 +98,7 @@ Enchufa Tu SOLE Lab en el Tambo, Cauca, (2024).
 
 Mira algunas de las actividades que ha impulsado en este espacio la comunidad:
 
-![Imagen](/assets/images/¿Cómo mejoró el Internet en El Tambo, Cauca 1362bd68c5b6802a8df0f2c8fd47097f/20240509_SOLEBOLT_Tambo_Elconvite_(85)-800w.webp).jpg)
+<img src="/assets\images\¿Cómo mejoró el Internet en El Tambo, Cauca 1362bd68c5b6802a8df0f2c8fd47097f\20240509_SOLEBOLT_Tambo_Elconvite_(85)-800w.webp" alt="El Convite, El Tambo, Cauca, (2024)." srcset="/assets\images\¿Cómo mejoró el Internet en El Tambo, Cauca 1362bd68c5b6802a8df0f2c8fd47097f\20240509_SOLEBOLT_Tambo_Elconvite_(85)-400w.webp 400w, /assets\images\¿Cómo mejoró el Internet en El Tambo, Cauca 1362bd68c5b6802a8df0f2c8fd47097f\20240509_SOLEBOLT_Tambo_Elconvite_(85)-800w.webp 800w, /assets\images\¿Cómo mejoró el Internet en El Tambo, Cauca 1362bd68c5b6802a8df0f2c8fd47097f\20240509_SOLEBOLT_Tambo_Elconvite_(85)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
 
 El Convite, El Tambo, Cauca, (2024).
 

@@ -85,11 +85,11 @@ Sin saber el mundo que estaba atrás el instinto ingenuo de un niño que solo co
 
 Ser adulto, es hacerse cargo de sus niñ_. Así cómo pintaba, jugaba, estudiaba, cada vez más mi identidad vuelve a su infancia múltiple y rizomática. Ser cacharrero, a veces es una identidad, pero ahora gracias a Mate, veo que también es un sustantivo, a veces somos cacharreros, y resolvemos, otras veces no, ¿Qué es lo que te moviliza a ti a cacharrear?
 
-![Imagen](/assets/images/La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e/DSC_0345-800w.webp)
+<img src="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0345-800w.webp" alt="DSC_0345.JPG" srcset="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0345-400w.webp 400w, /assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0345-800w.webp 800w, /assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0345-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 ## Tener tu bolsa de juguetes
 
-![Imagen](/assets/images/La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e/DSC_0336-800w.webp)
+<img src="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0336-800w.webp" alt="DSC_0336.JPG" srcset="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0336-400w.webp 400w, /assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0336-800w.webp 800w, /assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0336-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 Mi bolsa de juguetes para el día laboral. 1. La bolsa con bolsillos. 2 Los audífonos para escuchar mejor. 3. El estuche de los audífonos para protegerlos. 3. El disco duro para hacer los respaldos de información. 3. Esferos, cortador y borrador. 4. EL cargador del celular. 5. El cepillo de dientes y la crema dental. 7. La usb para no trabajr en la nube y llevar la información cerca a mi. 8. El gamegoy advance. 9. Pokemón Zafiro.
 
@@ -98,9 +98,9 @@ Mi bolsa de juguetes para el día laboral. 1. La bolsa con bolsillos. 2 Los aud�
 Ursula K. Le Guin
 1986
 
-![Imagen](/assets/images/La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e/Pasted_image_20241205060336-400w.webp)
+<img src="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\Pasted_image_20241205060336-400w.webp" alt="Pasted image 20241205060336.png" srcset="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\Pasted_image_20241205060336-400w.webp 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
-![Imagen](/assets/images/La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e/Pasted_image_20241205060411-400w.webp)
+<img src="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\Pasted_image_20241205060411-400w.webp" alt="Pasted image 20241205060411.png" srcset="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\Pasted_image_20241205060411-400w.webp 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 Ahora el ensayo completo:
 
@@ -110,7 +110,7 @@ Recuperado de: [https://mirror.anarhija.net/es.theanarchistlibrary.org/mirror/u/
 
 ### El kit de cacharreo, la colección de juguetes y de pociones
 
-![Imagen](/assets/images/La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e/unnamed-220w.webp)
+<img src="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\unnamed-220w.webp" alt="unnamed.gif" srcset="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\unnamed-220w.webp 220w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 Tomando un parte del texto “ Hacer Disidencia Una Politica De Nosotros Mismos” de Eric Sadin, apelo a la brujería (pasado), y brujas como la poderosa Isabelle Stengers y a la ciencia ficción (futuro) con psiconautas como Aldous Huxley, los invito mañana a que creemos pociones junt_s. Así cómo hacíamos antes el Sabbath, el último sábado a modo de cierre-parcial, vamos a hacer nuestro recorrido territorial y probaremos algunas de las pócimas que diseñemos mañana.
 
@@ -121,11 +121,11 @@ Tomando un parte del texto “ Hacer Disidencia Una Politica De Nosotros Mismos�
 
 Por ahora, solo uso este fragmento para invitarlos a crear pócimas para el humano, para nuestras colectividades que las potencien, que se adapten a ellas, no que las esclavicen.
 
-![Imagen](/assets/images/La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e/unnamed 1-400w.webp)
+<img src="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\unnamed 1-400w.webp" alt="unnamed.gif" srcset="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\unnamed 1-400w.webp 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 Cómo Hermione Granger, nuestros corotos o cachivaches (revistas, marcadores, flores, cables...)  nos pueden apoyar en la cosntrucción de mundo, de nuestras pociones. Solo a modo de ejemplo, para dejar tanta poesía, las pócimas pueden ser: diseños de actividades, listados de preguntas, fanzines, olores que dispongan a las personas para algo, dibujos, poemas... en fin. Esas pociones dependen de sus habilidades, intereses, de las comunidades que ustedes deseen cuidar, y del propósito que ustedes visionen para un tiempo-espacio específico.
 
-![Imagen](/assets/images/La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e/unnamed 2-400w.webp)
+<img src="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\unnamed 2-400w.webp" alt="unnamed.gif" srcset="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\unnamed 2-400w.webp 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 También, como Seamus Finnigun, podemos tener accidentes. Finalmente estamos en un aprendizaje perpetuo del que nunca tendremos garantías de que pasara, sobre todo cuando estamos di-soñando mundos alternativos. Mi único llamado es al cuidado, la acción sin daño y la precaución cómo políticas. Mis pociones buscan seguir estos principios desde ver la potencia en uno y en los otros, en lo otro, ubicándose no desde el miedo, sino desde la confianza, el respeto y la corresponsa-habilidad, **¿Cuaĺes serán los valores guías para sus pociones?**
 
@@ -138,11 +138,11 @@ También, como Seamus Finnigun, podemos tener accidentes. Finalmente estamos en
 
 ## Cuerpo y espíritu
 
-![Imagen](/assets/images/La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e/2dce8b81-b08f-4804-9f5b-e9c603205b31-800w.webp)
+<img src="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\2dce8b81-b08f-4804-9f5b-e9c603205b31-800w.webp" alt="DSC_0346.JPG" srcset="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\2dce8b81-b08f-4804-9f5b-e9c603205b31-400w.webp 400w, /assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\2dce8b81-b08f-4804-9f5b-e9c603205b31-800w.webp 800w, /assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\2dce8b81-b08f-4804-9f5b-e9c603205b31-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 - Materialismo-semiótico
 
-![Imagen](/assets/images/La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e/DSC_0347-800w.webp)
+<img src="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0347-800w.webp" alt="DSC_0347.JPG" srcset="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0347-400w.webp 400w, /assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0347-800w.webp 800w, /assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0347-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 - Reflexión pragmática
 
@@ -150,7 +150,7 @@ También, como Seamus Finnigun, podemos tener accidentes. Finalmente estamos en
 
 - La semilla
     
-    ![Imagen](/assets/images/La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e/DSC_0348-800w.webp)
+    <img src="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0348-800w.webp" alt="DSC_0348.JPG" srcset="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0348-400w.webp 400w, /assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0348-800w.webp 800w, /assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0348-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
 
 - La potencia

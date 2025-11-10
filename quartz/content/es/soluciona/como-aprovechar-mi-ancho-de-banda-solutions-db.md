@@ -72,14 +72,14 @@ Imagina que el **ancho de banda** es como un camión gigante de mercancía, así
     
     Si puedes, conecta tu computadora al router con un cable de red. Esto es como pasar de un camión a un tren de alta velocidad. ¡La diferencia es impresionante! La conexión por cable te dará la máxima velocidad y estabilidad.
     
-    ![Imagen](/assets/images/¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e/pexels-pixabay-159304-800w.webp)
+    <img src="/assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\pexels-pixabay-159304-800w.webp" alt="Foto tomada de Pexels, (2024)." srcset="/assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\pexels-pixabay-159304-400w.webp 400w, /assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\pexels-pixabay-159304-800w.webp 800w, /assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\pexels-pixabay-159304-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     Foto tomada de Pexels, (2024).
     
 - **Momento 2: Conéctate a 5GHz si Usas Wi-Fi**
     
     
-    ![Imagen](/assets/images/¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e/eaf4c20e-761e-4d50-84ca-8f8a07c9e301-800w.webp)
+    <img src="/assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\eaf4c20e-761e-4d50-84ca-8f8a07c9e301-800w.webp" alt="Pantallazo tomado por Manuela Córdoba, (2024)." srcset="/assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\eaf4c20e-761e-4d50-84ca-8f8a07c9e301-400w.webp 400w, /assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\eaf4c20e-761e-4d50-84ca-8f8a07c9e301-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     Pantallazo tomado por Manuela Córdoba, (2024).
     
@@ -90,7 +90,7 @@ Imagina que el **ancho de banda** es como un camión gigante de mercancía, así
     
     Si estás un poco lejos del router, y ves que la conexión se pone lenta, cámbiate a la banda de 2.4GHz. Aunque es un poco más lenta que 5GHz, puede ser más confiable. Imagina que es un camino rural que siempre está disponible, aunque no sea tan rápido.
     
-    ![Foto tomada de Google fotos, (2024).](/¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e/WhatsApp_Image_2024-11-07_at_11.26.28.jpeg)
+    ![Foto tomada de Google fotos, (2024).](¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e/WhatsApp_Image_2024-11-07_at_11.26.28.jpeg)
     
     Foto tomada de Google fotos, (2024).
     
@@ -105,7 +105,7 @@ Imagina que el **ancho de banda** es como un camión gigante de mercancía, así
     
     Por último, asegúrate de que tu router esté bien ubicado y actualizado. Colócalo en un lugar ventilado y alejado de otros dispositivos que puedan interferir. Un router bien cuidado es clave para tener una buena conexión.
     
-    ![Imagen](/assets/images/¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e/ca687fb2-8049-4b5f-adcf-d2f7cd8fef20-800w.webp)
+    <img src="/assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\ca687fb2-8049-4b5f-adcf-d2f7cd8fef20-800w.webp" alt="Foto tomada por Manuela Córdoba, (2024)." srcset="/assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\ca687fb2-8049-4b5f-adcf-d2f7cd8fef20-400w.webp 400w, /assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\ca687fb2-8049-4b5f-adcf-d2f7cd8fef20-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     Foto tomada por Manuela Córdoba, (2024).
     

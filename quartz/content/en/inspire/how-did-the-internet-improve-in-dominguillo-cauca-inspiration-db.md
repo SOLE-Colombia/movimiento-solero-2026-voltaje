@@ -66,19 +66,19 @@ Sin embargo, con el paso del tiempo la comunidad ya no pudo seguir utilizando la
 
 Y… ¿Adivinen qué? Juntos, trabajamos en el desarrollo del SOLE Lab, un espacio público en el que se instalaron sillas, mesas y computadoras y se restableció el acceso a Internet. Con el SOLE Lab, los habitantes de Dominguillo recuperaron la oportunidad de conectarse al mundo, continuar sus sesiones de SOLE y explorar nuevas formas de aprendizaje.
 
-![Imagen](/assets/images/¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a/20241020_SOLEBOLT_Enchufa_Dominguillo_(317)-800w.webp).jpg)
+<img src="/assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(317)-800w.webp" alt="Enchufa tu SOLE Lab - Dominguillo,  Cauca, (2024)." srcset="/assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(317)-400w.webp 400w, /assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(317)-800w.webp 800w, /assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(317)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
 
 Enchufa tu SOLE Lab - Dominguillo,  Cauca, (2024).
 
-![Imagen](/assets/images/¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a/20241020_SOLEBOLT_Enchufa_Dominguillo_(430)-800w.webp).jpg)
+<img src="/assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(430)-800w.webp" alt="Enchufa tu SOLE Lab - Dominguillo,  Cauca, (2024)." srcset="/assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(430)-400w.webp 400w, /assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(430)-800w.webp 800w, /assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(430)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
 
 Enchufa tu SOLE Lab - Dominguillo,  Cauca, (2024).
 
-![Imagen](/assets/images/¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a/20241020_SOLEBOLT_Enchufa_Dominguillo_(92)-800w.webp).jpg)
+<img src="/assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(92)-800w.webp" alt="Enchufa tu SOLE Lab - Dominguillo,  Cauca, (2024)." srcset="/assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(92)-400w.webp 400w, /assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(92)-800w.webp 800w, /assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(92)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
 
 Enchufa tu SOLE Lab - Dominguillo,  Cauca, (2024).
 
-![Imagen](/assets/images/¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a/20241020_SOLEBOLT_Enchufa_Dominguillo_(492)-800w.webp).jpg)
+<img src="/assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(492)-800w.webp" alt="Enchufa tu SOLE Lab - Dominguillo,  Cauca, (2024)." srcset="/assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(492)-400w.webp 400w, /assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(492)-800w.webp 800w, /assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(492)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
 
 Enchufa tu SOLE Lab - Dominguillo,  Cauca, (2024).
 
