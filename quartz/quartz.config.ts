@@ -2,9 +2,9 @@ import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
- * Quartz 4 Configuration
- *
- * See https://quartz.jzhao.xyz/configuration for more information.
+ * Configuración de Quartz con paleta de colores inspirada en
+ * la guía de SOLE Voltaje (versión clara).  Se utilizan
+ * fondos turquesa y coral con textos negros y acentos amarillos.
  */
 const config: QuartzConfig = {
   configuration: {
@@ -29,26 +29,36 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#ffffff",           // Fondo blanco limpio
-          lightgray: "#e8ecf1",       // Gris muy claro para bordes
-          gray: "#9ca3af",            // Gris medio para texto secundario
-          darkgray: "#374151",        // Gris oscuro para texto importante
-          dark: "#1f2937",            // Casi negro para texto principal
-          secondary: "#0066cc",       // Azul SOLE - color principal
-          tertiary: "#10b981",        // Verde energético - color de acento
-          highlight: "rgba(0, 102, 204, 0.12)",  // Highlight azul suave
-          textHighlight: "#fef3c7",   // Amarillo suave para resaltar texto
+          // Fondo principal turquesa inspirado en las pantallas de bienvenida
+          light: "#1ABC9C",
+          // Variante más clara para secciones o paneles
+          lightgray: "#4EDDC2",
+          // Gris verdoso oscuro para bordes sutiles
+          gray: "#006666",
+          // Gris muy oscuro usado para textos secundarios
+          darkgray: "#003E3A",
+          // Texto principal en negro para máximo contraste
+          dark: "#000000",
+          // Acento coral (botones y elementos destacados)
+          secondary: "#F4795B",
+          // Acento amarillo para resaltados y selecciones (radio/checkbox)
+          tertiary: "#FCE766",
+          // Sombra coral translúcida para resaltar áreas
+          highlight: "rgba(244, 117, 90, 0.15)",
+          // Color para resaltar texto seleccionado
+          textHighlight: "#FFF2B8",
         },
+        // Mantener el modo oscuro como el predeterminado de Quartz o ajustarlo más adelante
         darkMode: {
-          light: "#0f1419",           // Fondo oscuro profundo
-          lightgray: "#1f2937",       // Gris oscuro para bordes
-          gray: "#6b7280",            // Gris medio
-          darkgray: "#d1d5db",        // Gris claro para texto
-          dark: "#f3f4f6",            // Casi blanco para texto principal
-          secondary: "#3b82f6",       // Azul más brillante en dark mode
-          tertiary: "#10b981",        // Verde mantiene energía
-          highlight: "rgba(59, 130, 246, 0.15)",  // Highlight azul en dark
-          textHighlight: "#fcd34d88", // Amarillo dorado transparente
+          light: "#0f172a",
+          lightgray: "#1f2937",
+          gray: "#4b5563",
+          darkgray: "#d1d5db",
+          dark: "#f3f4f6",
+          secondary: "#8795e3",
+          tertiary: "#f0c36a",
+          highlight: "rgba(135, 149, 227, 0.15)",
+          textHighlight: "#ecd49a88",
         },
       },
     },
@@ -88,7 +98,6 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
     ],
   },
