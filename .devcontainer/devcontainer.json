@@ -37,5 +37,6 @@
   },
     
     "postCreateCommand": "cd quartz && npm install && echo '✅ Dev Container listo - ejecuta: npx quartz build --serve'",
+    "postStartCommand": "git config --global user.name 'danvegamo_sole' && git config --global user.email 'd_vega@davidvega.org",
     "remoteUser": "root"
   }
