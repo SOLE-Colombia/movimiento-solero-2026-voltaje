@@ -57,28 +57,6 @@ footer {
     flex: 2;
     font-size: 0.9rem;
     
-    .footer-branding {
-      display: flex;
-      align-items: center;
-      gap: 0.75rem;
-      margin-bottom: 1.5rem;
-      
-      .footer-logo {
-        width: 48px;
-        height: 48px;
-        object-fit: contain;
-        border-radius: 8px;
-      }
-      
-      .footer-brand-text {
-        strong {
-          font-size: 1.2rem;
-          font-weight: 700;
-          opacity: 0.9;
-        }
-      }
-    }
-    
     p {
       margin: 0.5rem 0;
       line-height: 1.6;
@@ -111,10 +89,38 @@ footer {
   }
 
   .footer-custom {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 1.5rem;
+    
     ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
       flex-direction: row;
       flex-wrap: wrap;
       gap: 1rem;
+      justify-content: flex-end;
+    }
+    
+    .footer-branding {
+      display: flex;
+      justify-content: flex-end;
+      
+      .footer-logo {
+        width: 32px;
+        height: 32px;
+        object-fit: contain;
+        border-radius: 6px;
+        opacity: 0.7;
+        transition: opacity 0.2s ease;
+        
+        &:hover {
+          opacity: 1;
+        }
+      }
     }
   }
 
@@ -137,6 +143,18 @@ footer {
       display: grid;
       grid-template-columns: repeat(2, 1fr);
       gap: 0.75rem;
+    }
+    
+    .footer-custom {
+      align-items: center;
+      
+      ul {
+        justify-content: center;
+      }
+      
+      .footer-branding {
+        justify-content: center;
+      }
     }
   }
 }

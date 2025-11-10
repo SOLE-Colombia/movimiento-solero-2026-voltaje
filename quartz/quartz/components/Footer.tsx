@@ -37,13 +37,6 @@ export default ((opts?: Options) => {
         </div>
         
         <div class="footer-section footer-info">
-          <div class="footer-branding">
-            <img src="/static/icon.png" alt="SOLE Voltaje" class="footer-logo" />
-            <div class="footer-brand-text">
-              <strong>SOLE Voltaje</strong>
-            </div>
-          </div>
-          
           <p class="footer-project">
             <em>{translations.projectBy}{" "}
             <a href="https://www.solecolombia.org/" target="_blank" rel="noopener noreferrer">
@@ -83,10 +76,13 @@ export default ((opts?: Options) => {
             <ul>
               {Object.entries(links).map(([text, link]) => (
                 <li>
-                  <a href={link}>{text}</a>
+                  <a href={link} target="_blank" rel="noopener noreferrer">{text}</a>
                 </li>
               ))}
             </ul>
+            <div class="footer-branding">
+              <img src="/static/icon.png" alt="SOLE Voltaje" class="footer-logo" />
+            </div>
           </div>
         )}
       </footer>
