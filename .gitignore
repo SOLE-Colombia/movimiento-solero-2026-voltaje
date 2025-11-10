@@ -20,8 +20,11 @@ yarn-error.log*
 # Quartz
 quartz/.quartz-cache/
 quartz/public/
-quartz/content/          # Sincronizado desde content/ raíz
+# NOTA: quartz/content/ SÍ se comitea (es el contenido principal)
 quartz/node_modules/     # Dependencias de npm
+
+# Backups de contenido antiguo (no comitear)
+content_backup_*/
 
 # Temporales y reportes de migración
 temp/
