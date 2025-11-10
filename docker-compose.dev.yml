@@ -24,6 +24,7 @@ services:
       - FORCE_COLOR=1
       - NPM_CONFIG_LOGLEVEL=info
     working_dir: /workspace/quartz
+    entrypoint: []  # Sobrescribir entrypoint de la imagen base
     command: npx quartz build --serve
     stdin_open: true
     tty: true
