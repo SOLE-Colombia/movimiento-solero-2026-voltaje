@@ -10,7 +10,7 @@ services:
     hostname: voltaje-dev
     ports:
       - "8080:8080"  # Quartz dev server
-      - "3001:3000"  # Preview alternativo (puerto 3000 reservado en Windows)
+      - "8081:3000"  # Preview alternativo (puertos 3000-3001 reservados en Windows)
     volumes:
       # Montar todo el proyecto con cache optimizado
       - .:/workspace:cached
