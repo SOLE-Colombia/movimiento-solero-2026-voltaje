@@ -37,6 +37,10 @@ export default {
     },
     footer: {
       createdWith: "Creado con",
+      projectBy: "SOLE Voltaje es un proyecto de",
+      supportedBy: "con el apoyo de",
+      licensedBy: "está licenciado bajo",
+      quickLinks: "Enlaces rápidos",
     },
     graph: {
       title: "Vista Gráfica",

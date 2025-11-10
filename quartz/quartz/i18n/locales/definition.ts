@@ -40,6 +40,10 @@ export interface Translation {
     }
     footer: {
       createdWith: string
+      projectBy: string
+      supportedBy: string
+      licensedBy: string
+      quickLinks: string
     }
     graph: {
       title: string
