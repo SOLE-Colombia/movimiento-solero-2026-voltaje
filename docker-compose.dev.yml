@@ -17,8 +17,6 @@ services:
       # Named volumes para mejor rendimiento
       - quartz-node-modules:/workspace/quartz/node_modules
       - quartz-cache:/workspace/quartz/.quartz-cache
-      # Montar contenido como read-only para sincronización
-      - ./content:/workspace/content:ro
     environment:
       - NODE_ENV=development
       - CHOKIDAR_USEPOLLING=true

@@ -6,13 +6,12 @@ echo "  SOLE Voltaje - Docker Entrypoint"
 echo "=========================================="
 echo ""
 
-# Sincronizar contenido a quartz/content/
-echo "📦 Sincronizando contenido a quartz/content/..."
-rsync -av --delete /workspace/content/ /workspace/quartz/content/
-echo "✅ Contenido sincronizado exitosamente"
-echo ""
+# NOTA: La sincronización de contenido está DESHABILITADA para evitar
+# que se borren los cambios del usuario al reiniciar el contenedor.
+# Tu contenido está en: /workspace/quartz/content/
+# Edita tus archivos directamente ahí y se guardarán.
 
-echo "📊 Archivos sincronizados:"
+echo "📊 Archivos de contenido disponibles:"
 echo "   • Español: $(find /workspace/quartz/content/es -type f -name "*.md" 2>/dev/null | wc -l) archivos"
 echo "   • English: $(find /workspace/quartz/content/en -type f -name "*.md" 2>/dev/null | wc -l) archivos"
 echo "   • Imágenes: $(find /workspace/quartz/content/assets/images -type f 2>/dev/null | wc -l) archivos"
