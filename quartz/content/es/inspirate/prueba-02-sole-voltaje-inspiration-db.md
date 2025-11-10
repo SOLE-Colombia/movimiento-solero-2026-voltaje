@@ -180,9 +180,9 @@ Debido a que cada una logró terminar una de las soluciones pensamos en la sigui
 | 4 | Compartir los enlaces en notion de las 2 soluciones modificadas.
 Les compartimos las soluciones que modificadamos a partir de los comentarios de 4 de nuestras cacharreras (Amalia, Catalina, Sabina y Natalia):
 **Construye una antena 3G casera**
-[https://www.notion.so/solecolombia/Construye-una-antena-3G-casera-79b996e8129d4fc2afd6b7a75fa20627](https://www.notion.so/79b996e8129d4fc2afd6b7a75fa20627?pvs=21)
+[[79B996E8129D4Fc2Afd6B7A75Fa20627](https://www.notion.so/solecolombia/Construye-una-antena-3G-casera-79b996e8129d4fc2afd6b7a75fa20627](https://www.notion.so/79b996e8129d4fc2afd6b7a75fa20627?pvs=21))
 *¿Cómo mejorar mi señal con una lata?*
-[https://www.notion.so/solecolombia/C-mo-mejorar-mi-se-al-con-una-lata-446b12a0cf3f43f8950660d603383f3c](https://www.notion.so/446b12a0cf3f43f8950660d603383f3c?pvs=21) |
+[[446B12A0Cf3F43F8950660D603383F3C](https://www.notion.so/solecolombia/C-mo-mejorar-mi-se-al-con-una-lata-446b12a0cf3f43f8950660d603383f3c](https://www.notion.so/446b12a0cf3f43f8950660d603383f3c?pvs=21)) |
 
 **Prueba #02B -Ejecución-virtual de dos soluciones nuevas**
 
@@ -201,7 +201,7 @@ Recibir retroalimentación sobre la experiencia según el formato:
 
 **Soluciones**
 
-- Instalación de la antena 3G [https://solecolombia.notion.site/C-mo-instalar-una-antena-3-4G-37213361ffa344c4b9723952b4bc0d63?pvs=4](https://www.notion.so/37213361ffa344c4b9723952b4bc0d63?pvs=21)
+- Instalación de la antena 3G [[C Mo Instalar Una Antena 3 4G 37213361Ffa344C4B9723952B4Bc0D63](https://solecolombia.notion.site/C-mo-instalar-una-antena-3-4G-37213361ffa344c4b9723952b4bc0d63?pvs=4](https://www.notion.so/37213361ffa344c4b9723952b4bc0d63?pvs=21))
 
 **Participantes y su perfil (antes de hacer la prueba):** Embajadoras de OIM.
 
@@ -397,7 +397,7 @@ Internet para lugares no interconectados.
     - PRESENCIAL “Reiniciar y compartir el internet de su teléfono con otros”.
 - **PRUEBA DE COMPARACIÓN ENTRE CATEGORIAS: comprobar los cambios necesarios entre las pruebas sobre cómo “convocar a tu comunidad” y “la señal de internet es mala”.** Las otras dos participantes de la prueba 01 podrían trabajar en las dos pruebas nuevas sobre “cómo convocar a tu comunidad”.
 
-<img src="/assets\images\Prueba # 02 SOLE Voltaje 12a2bd68c5b68020bb47d48c9175a22f\image1-800w.webp" alt="" srcset="/assets\images\Prueba # 02 SOLE Voltaje 12a2bd68c5b68020bb47d48c9175a22f\image1-400w.webp 400w, /assets\images\Prueba # 02 SOLE Voltaje 12a2bd68c5b68020bb47d48c9175a22f\image1-800w.webp 800w, /assets\images\Prueba # 02 SOLE Voltaje 12a2bd68c5b68020bb47d48c9175a22f\image1-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/Prueba # 02 SOLE Voltaje 12a2bd68c5b68020bb47d48c9175a22f/image1-800w.webp)
 
 3. Reunión virtual opcional para que el o la participante nos cuente cómo le fue con la prueba.
 
@@ -412,7 +412,7 @@ Internet para lugares no interconectados.
 > Analista: persona encargada de analizar los datos de la prueba, tanto de los formularios como del método de documentación propia.
 > 
 
-[https://notionreactions.com/embed/bfs0rKs3EE7TBf6LkS0z](https://notionreactions.com/embed/bfs0rKs3EE7TBf6LkS0z)
+[[Bfs0Rks3Ee7Tbf6Lks0Z](https://notionreactions.com/embed/bfs0rKs3EE7TBf6LkS0z](https://notionreactions.com/embed/bfs0rKs3EE7TBf6LkS0z))
 
 ---
 

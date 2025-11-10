@@ -62,7 +62,7 @@ The 2G (Second Generation) network **is the mobile technology that marked the tr
 
 ### Referencias | References
 
-- https://es.wikipedia.org/wiki/Telefon%C3%ADa_m%C3%B3vil_2G
-- https://widetech.co/las-redes-2g-se-estan-apagando/
-- https://wirelesslogic.com/es/glosario-iot/que-es-el-2g
-- https://www.lenovo.com/us/en/glossary/what-is-2g/
+- [Telefon%C3%Ada M%C3%B3Vil 2G](https://es.wikipedia.org/wiki/Telefon%C3%ADa_m%C3%B3vil_2G)
+- [Las Redes 2G Se Estan Apagando](https://widetech.co/las-redes-2g-se-estan-apagando/)
+- [Que Es El 2G](https://wirelesslogic.com/es/glosario-iot/que-es-el-2g)
+- [What Is 2G](https://www.lenovo.com/us/en/glossary/what-is-2g/)

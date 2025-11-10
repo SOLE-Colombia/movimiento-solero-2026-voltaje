@@ -45,14 +45,14 @@ Esto es lo que puedes lograr con el Big Box de Jangala y SOLE. ¡Pura sabrosura 
 </div>](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/Fox3N4QHVN4" 
+    src="[Fox3N4Qhvn4](https://www.youtube.com/embed/Fox3N4QHVN4)" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
 </div>)
 
-[https://notionreactions.com/embed/MjQAmFPDih5VhYSFoEAL](https://notionreactions.com/embed/MjQAmFPDih5VhYSFoEAL)
+[[Mjqamfpdih5Vhysfoeal](https://notionreactions.com/embed/MjQAmFPDih5VhYSFoEAL](https://notionreactions.com/embed/MjQAmFPDih5VhYSFoEAL))
 
 ---
 

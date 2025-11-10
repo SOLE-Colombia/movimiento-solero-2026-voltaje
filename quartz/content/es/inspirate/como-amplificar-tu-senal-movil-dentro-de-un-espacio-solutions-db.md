@@ -89,10 +89,10 @@ Recuerda, para las comunidades expertas en SOLE, tener una conexión sólida es 
 
 ## Referencias
 
-- [https://www.kiwix.org/en/](https://www.kiwix.org/en/)
-- [https://www.pexels.com/es-es/foto/persona-que-usa-smartphone-348530/](https://www.pexels.com/es-es/foto/persona-que-usa-smartphone-348530/)
+- [[kiwix.org](https://www.kiwix.org/en/](https://www.kiwix.org/en/))
+- [[Persona Que Usa Smartphone 348530](https://www.pexels.com/es-es/foto/persona-que-usa-smartphone-348530/](https://www.pexels.com/es-es/foto/persona-que-usa-smartphone-348530/))
 
-[https://notionreactions.com/embed/uKj8kxDxOApKRmNvBOdr](https://notionreactions.com/embed/uKj8kxDxOApKRmNvBOdr)
+[[Ukj8Kxdxoapkrmnvbodr](https://notionreactions.com/embed/uKj8kxDxOApKRmNvBOdr](https://notionreactions.com/embed/uKj8kxDxOApKRmNvBOdr))
 
 ---
 

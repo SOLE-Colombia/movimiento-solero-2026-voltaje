@@ -72,13 +72,13 @@ This solution has 3 moments, but don't worry, you are not alone, I will accompan
     3. Once you have cut the can like a rectangular sheet of paper, flatten it to eliminate as many irregularities as possible on the surface. Think of it as a smooth sheet of paper. This will be the metal sheet we will work with from now on.
     4. With the ruler and the fine tip marker, draw a 4 cm by 4 cm square on the metal sheet. *I care about your safety, so it is important to be careful with all the cuts you are going to make and remember to preferably wear safety gloves.*
     
-    <img src="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_1_-_ALISTA_LOS_MATERIALES-800w.webp" alt="PASO 1 - ALISTA LOS MATERIALES.jpeg" srcset="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_1_-_ALISTA_LOS_MATERIALES-400w.webp 400w, /assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_1_-_ALISTA_LOS_MATERIALES-800w.webp 800w, /assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_1_-_ALISTA_LOS_MATERIALES-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472/PASO_1_-_ALISTA_LOS_MATERIALES-800w.webp)
     
-    <img src="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_3_-_NUESTRA_LMINA_METLICA-800w.webp" alt="PASO 3 - NUESTRA LÁMINA METÁLICA.jpeg" srcset="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_3_-_NUESTRA_LMINA_METLICA-400w.webp 400w, /assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_3_-_NUESTRA_LMINA_METLICA-800w.webp 800w, /assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_3_-_NUESTRA_LMINA_METLICA-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472/PASO_3_-_NUESTRA_LMINA_METLICA-800w.webp)
     
-    <img src="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_2_-_CORTA_LA_LATA-800w.webp" alt="PASO 2 - CORTA LA LATA.jpeg" srcset="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_2_-_CORTA_LA_LATA-400w.webp 400w, /assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_2_-_CORTA_LA_LATA-800w.webp 800w, /assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_2_-_CORTA_LA_LATA-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472/PASO_2_-_CORTA_LA_LATA-800w.webp)
     
-    <img src="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_4_-_EL_CUADRADO_METLICO-800w.webp" alt="PASO 4 - EL CUADRADO METÁLICO.jpeg" srcset="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_4_-_EL_CUADRADO_METLICO-400w.webp 400w, /assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_4_-_EL_CUADRADO_METLICO-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472/PASO_4_-_EL_CUADRADO_METLICO-800w.webp)
     
 - **Step 2: Cut a 4 x 4 cm square.**
     1. Cut the 4 cm x 4 cm square with the scissors. With this you will have a square metal sheet.
@@ -86,13 +86,13 @@ This solution has 3 moments, but don't worry, you are not alone, I will accompan
     3. Place the ruler in the center you previously marked and mark with the fine tip marker 0.5 cm on each side of that center. Repeat this same step on the opposite side of the side you are working on. Join the marks and draw the lines so that you have a 1 cm rectangle. *How does it feel? If you finished step 7, we are on the right track. If not, we invite you to repeat the steps with patience. Here I will wait for you.*
     4. On each of the two drawn lines, draw marks every 0.5 cm. As a result you should have 7 marks on each of the lines.
     
-    <img src="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_5_-_CORTA_EL_CUADRADO_METLICO-800w.webp" alt="PASO 5 - CORTA EL CUADRADO METÁLICO.jpeg" srcset="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_5_-_CORTA_EL_CUADRADO_METLICO-400w.webp 400w, /assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_5_-_CORTA_EL_CUADRADO_METLICO-800w.webp 800w, /assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_5_-_CORTA_EL_CUADRADO_METLICO-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472/PASO_5_-_CORTA_EL_CUADRADO_METLICO-800w.webp)
     
-    <img src="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_7_-_DIBUJA_UN_RECTNGULO_DE_1_CM_DE_ANCHO-800w.webp" alt="PASO 7 - DIBUJA UN RECTÁNGULO DE 1 CM DE ANCHO.jpeg" srcset="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_7_-_DIBUJA_UN_RECTNGULO_DE_1_CM_DE_ANCHO-400w.webp 400w, /assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_7_-_DIBUJA_UN_RECTNGULO_DE_1_CM_DE_ANCHO-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472/PASO_7_-_DIBUJA_UN_RECTNGULO_DE_1_CM_DE_ANCHO-800w.webp)
     
-    <img src="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_6_-_MARCA_EL_CENTRO-800w.webp" alt="PASO 6 - MARCA EL CENTRO.jpeg" srcset="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_6_-_MARCA_EL_CENTRO-400w.webp 400w, /assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_6_-_MARCA_EL_CENTRO-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472/PASO_6_-_MARCA_EL_CENTRO-800w.webp)
     
-    <img src="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_8_-_DIBUJA_7_MARCAS_A_CADA_LADO-800w.webp" alt="PASO 8 - DIBUJA 7 MARCAS A CADA LADO.jpeg" srcset="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_8_-_DIBUJA_7_MARCAS_A_CADA_LADO-400w.webp 400w, /assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_8_-_DIBUJA_7_MARCAS_A_CADA_LADO-800w.webp 800w, /assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_8_-_DIBUJA_7_MARCAS_A_CADA_LADO-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472/PASO_8_-_DIBUJA_7_MARCAS_A_CADA_LADO-800w.webp)
     
 - **Step 3: Install your antenna on the cell phone**
     1. Draw from side to side lines perpendicular to the marks you made in the previous step. Then, cut these lines drawn on each side without cutting the central column that has the width of 1 cm.
@@ -100,13 +100,13 @@ This solution has 3 moments, but don't worry, you are not alone, I will accompan
     3. Almost there! We are very close to finishing. For this step you should line your metal piece on both sides with thick transparent tape, this will allow you to protect it.
     4. Finally, with transparent tape stick this metal piece on the back right side of your cell phone (where your cell phone antenna is usually located) and protect it, preferably, with the cover of the cell phone you are using. *If you made it to this step, I send you all my congratulations and hope this journey has been challenging and exciting.*
     
-    <img src="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_9_-_LNEAS_PERPENDICULARES-800w.webp" alt="PASO 9 - LÍNEAS PERPENDICULARES.jpeg" srcset="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_9_-_LNEAS_PERPENDICULARES-400w.webp 400w, /assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_9_-_LNEAS_PERPENDICULARES-800w.webp 800w, /assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_9_-_LNEAS_PERPENDICULARES-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472/PASO_9_-_LNEAS_PERPENDICULARES-800w.webp)
     
-    <img src="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_11_-_PROTEGE_TU_PIEZA_METLICA-800w.webp" alt="PASO 11 - PROTEGE TU PIEZA METÁLICA.jpeg" srcset="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_11_-_PROTEGE_TU_PIEZA_METLICA-400w.webp 400w, /assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_11_-_PROTEGE_TU_PIEZA_METLICA-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472/PASO_11_-_PROTEGE_TU_PIEZA_METLICA-800w.webp)
     
-    <img src="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_10_-_CORTA_LAS_PESTAAS-800w.webp" alt="PASO 10 - CORTA LAS PESTAÑAS.jpeg" srcset="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_10_-_CORTA_LAS_PESTAAS-400w.webp 400w, /assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_10_-_CORTA_LAS_PESTAAS-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472/PASO_10_-_CORTA_LAS_PESTAAS-800w.webp)
     
-    <img src="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_12_-_COLOCA_LA_PIEZA_EN_TU_CELULAR-800w.webp" alt="PASO 12 - COLOCA LA PIEZA EN TU CELULAR.jpeg" srcset="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_12_-_COLOCA_LA_PIEZA_EN_TU_CELULAR-400w.webp 400w, /assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_12_-_COLOCA_LA_PIEZA_EN_TU_CELULAR-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472/PASO_12_-_COLOCA_LA_PIEZA_EN_TU_CELULAR-800w.webp)
     
 
 ## **How to know if this solution works?**
@@ -133,7 +133,7 @@ Boosting your cell phone signal can help you share the internet with people who 
 
 ## **References**
 
-- [https://www.bbc.com/mundo/noticias-45122838](https://www.bbc.com/mundo/noticias-45122838)
+- [[Noticias 45122838](https://www.bbc.com/mundo/noticias-45122838](https://www.bbc.com/mundo/noticias-45122838))
 - [<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
@@ -145,14 +145,14 @@ Boosting your cell phone signal can help you share the internet with people who 
 </div>](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/PRgiR94pT_8" 
+    src="[Prgir94Pt 8](https://www.youtube.com/embed/PRgiR94pT_8)" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
 </div>)
 
-[https://notionreactions.com/embed/GpCGTb8VwcbjIhOT2MoM](https://notionreactions.com/embed/GpCGTb8VwcbjIhOT2MoM)
+[[Gpcgtb8Vwcbjihot2Mom](https://notionreactions.com/embed/GpCGTb8VwcbjIhOT2MoM](https://notionreactions.com/embed/GpCGTb8VwcbjIhOT2MoM))
 
 ---
 

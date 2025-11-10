@@ -56,7 +56,7 @@ As we mentioned, the Grandmothers are volunteers, and thanks to this, many child
 
 ## **And if I can't be an Abuelita, is there any other way I can help?**
 
-There are always opportunities to join this global movement to transform the future of learning. At SOLE Colombia, we are open to exploring the best way to connect. You can explore the roles of the SOLE Colombia Community ([https://www.solecolombia.org/comunidad](https://www.solecolombia.org/comunidad)) and find where you feel most comfortable. Tell us what interests you or if you have a proposal!
+There are always opportunities to join this global movement to transform the future of learning. At SOLE Colombia, we are open to exploring the best way to connect. You can explore the roles of the SOLE Colombia Community ([[Comunidad](https://www.solecolombia.org/comunidad](https://www.solecolombia.org/comunidad))) and find where you feel most comfortable. Tell us what interests you or if you have a proposal!
 
 **If you still have unresolved questions, write to us at [hola@solecolombia.org](mailto:hola@solecolombia.org); we're just a message away.**
 
@@ -67,7 +67,7 @@ There are always opportunities to join this global movement to transform the fut
 - [¿Qué es un Costurero de Abuelitas, en SOLE Colombia?](/que-es-un-costurero-de-abuelitas-en-sole-colombia-inspiration-db) |
 - [¿Cómo hacer SOLE? - Tutorial](/como-hacer-sole-tutorial-inspiration-db) | [How to make SOLE? - Tutorial](/how-to-make-sole-tutorial-inspiration-db)
 
-[https://notionreactions.com/embed/b76KVpACwsj3tsgkdMjE](https://notionreactions.com/embed/b76KVpACwsj3tsgkdMjE)
+[[B76Kvpacwsj3Tsgkdmje](https://notionreactions.com/embed/b76KVpACwsj3tsgkdMjE](https://notionreactions.com/embed/b76KVpACwsj3tsgkdMjE))
 
 ---
 

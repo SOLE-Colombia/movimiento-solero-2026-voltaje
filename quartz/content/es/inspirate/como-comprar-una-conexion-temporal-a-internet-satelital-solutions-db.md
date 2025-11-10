@@ -75,7 +75,7 @@ Sigue estos pasos necesarios para comprar el PIN y conectarse a Internet:
     
     Primero que todo, es necesario saber si este servicio lo ofrecen en tu territorio regularmente. Este servicio existe en los lugares donde la red de datos móviles de los operadores convencionales no existe, ya que, si existiera, sería más viable recargar tu número telefónico con un paquete de datos, o tener un plan pospago.
     
-    En algunos lugares, los operadores de Internet subarriendan la conexión a internet satelital en algunos lugares donde la conexión no puede llegar por cable o conocen que las personas de la zona no pueden contratar otro tipo de servicios de telefonía móvil. Por ejemplo, esta es una empresa que ofrece este tipo de servicio en Barranquilla: [https://zonawipi.com/](https://zonawipi.com/)
+    En algunos lugares, los operadores de Internet subarriendan la conexión a internet satelital en algunos lugares donde la conexión no puede llegar por cable o conocen que las personas de la zona no pueden contratar otro tipo de servicios de telefonía móvil. Por ejemplo, esta es una empresa que ofrece este tipo de servicio en Barranquilla: [[Zonawipi](https://zonawipi.com/](https://zonawipi.com/))
     
 - **Momento 2: Evalúa otras opciones**
     
@@ -89,7 +89,7 @@ Sigue estos pasos necesarios para comprar el PIN y conectarse a Internet:
     
     Solo tienes que seguir las instrucciones del papel donde viene el PIN comprado. Normalmente debes conectarte a una red [**WiFi**](https://sole-manuela.tiddlyhost.com/#WiFi), que automáticamente te redireccionará a un enlace donde te pedirá el número de PIN para darte acceso a Internet. Eso es todo, ¡Ahora sí a conectarte y disfrutar!
     
-    Recuerda que sacarás muy buen partido de tu conexión a Internet si la compartes con más personas que no pueden acceder a este recurso. Una gran manera de aprender y disfrutar juntos es hacer SOLE. SOLE es una metodología en la que se pueden solucionar los retos de la vida real a través de Grandes Preguntas, usando Internet. En tu comunidad ¿quieren aprender cómo sacar mejor partido a sus cultivos? ¿Quieren saber cuáles son los juegos que juegan niños de otros países? ¿Tienen dudas sobre cómo se produce un fenómeno atmosférico concreto o cómo aprovechar los cambios del clima? ¡Hagan un SOLE! Pueden encontrar más información en [https://www.solecolombia.org/solea](https://www.solecolombia.org/solea)
+    Recuerda que sacarás muy buen partido de tu conexión a Internet si la compartes con más personas que no pueden acceder a este recurso. Una gran manera de aprender y disfrutar juntos es hacer SOLE. SOLE es una metodología en la que se pueden solucionar los retos de la vida real a través de Grandes Preguntas, usando Internet. En tu comunidad ¿quieren aprender cómo sacar mejor partido a sus cultivos? ¿Quieren saber cuáles son los juegos que juegan niños de otros países? ¿Tienen dudas sobre cómo se produce un fenómeno atmosférico concreto o cómo aprovechar los cambios del clima? ¡Hagan un SOLE! Pueden encontrar más información en [[Solea](https://www.solecolombia.org/solea](https://www.solecolombia.org/solea))
     
 
 ## ¿Cómo saber que esta solución funciona?
@@ -108,9 +108,9 @@ Tenemos que medir muy bien el ancho de banda que ofrece el servicio y, en genera
 
 ## Referencias
 
-- [https://zonawipi.com/](https://zonawipi.com/)
+- [[Zonawipi](https://zonawipi.com/](https://zonawipi.com/))
 
-[https://notionreactions.com/embed/cDSSCMjNr1FS39KvBp7r](https://notionreactions.com/embed/cDSSCMjNr1FS39KvBp7r)
+[[Cdsscmjnr1Fs39Kvbp7R](https://notionreactions.com/embed/cDSSCMjNr1FS39KvBp7r](https://notionreactions.com/embed/cDSSCMjNr1FS39KvBp7r))
 
 ---
 

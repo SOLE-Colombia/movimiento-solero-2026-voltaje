@@ -147,10 +147,10 @@ Good luck 😉
 
 ## References
 
-- **"The Golden Circle" by Simon Sinek:** [https://dizalo.com/branding/que-es-el-circulo-dorado-de-simon-sinek-y-como-podemos-usarlo/](https://dizalo.com/branding/que-es-el-circulo-dorado-de-simon-sinek-y-como-podemos-usarlo/)
-- [https://www.deustoformacion.com/blog/gestion-y-organizacion-de-eventos/invitacion-formal-evento](https://www.deustoformacion.com/blog/gestion-y-organizacion-de-eventos/invitacion-formal-evento)
+- **"The Golden Circle" by Simon Sinek:** [[Que Es El Circulo Dorado De Simon Sinek Y Como Podemos Usarlo](https://dizalo.com/branding/que-es-el-circulo-dorado-de-simon-sinek-y-como-podemos-usarlo/](https://dizalo.com/branding/que-es-el-circulo-dorado-de-simon-sinek-y-como-podemos-usarlo/))
+- [[Invitacion Formal Evento](https://www.deustoformacion.com/blog/gestion-y-organizacion-de-eventos/invitacion-formal-evento](https://www.deustoformacion.com/blog/gestion-y-organizacion-de-eventos/invitacion-formal-evento))
 
-[https://notionreactions.com/embed/njMVo5kHo4mAykeQXc5y](https://notionreactions.com/embed/njMVo5kHo4mAykeQXc5y)
+[[Njmvo5Kho4Maykeqxc5Y](https://notionreactions.com/embed/njMVo5kHo4mAykeQXc5y](https://notionreactions.com/embed/njMVo5kHo4mAykeQXc5y))
 
 ---
 

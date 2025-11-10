@@ -48,7 +48,7 @@ widget ok: ok
 | [Tensión 8] Esta Biblioteca del Futuro nos invita a reunirnos, a compartir ideas y a aprender juntos. **Este futuro no lo estamos esperando**; **este futuro no depende de nuevas tecnologías que llegan años después**; este futuro ya lo estamos construyendo y se materializa en los SOLE LAB que construimos en Boca de Camarones, en la Guajira…; en el Tambo, Cauca…; en Dominguillo, Santander de Quilichao…. Los SOLE LAB son Ambientes de Aprendizaje auto-organizados comunitarios que han sido diseñados con la fuerza de la colaboración y la confianza: grupos de personas se sumergen en discusiones profundas, utilizando la tecnología como un puente hacia el entendimiento mutuo. |
 | [Tensión 9] ¿Y si nos imaginamos junto ese futuro con Voltaje? Empecemos a construir ese futuro en el que cada conexión a internet es una conexión entre historias de vida que quieren construir algo juntas.  |
 
-[https://notionreactions.com/embed/3IFege70lULBvl5Jtc1O](https://notionreactions.com/embed/3IFege70lULBvl5Jtc1O)
+[[3Ifege70Lulbvl5Jtc1O](https://notionreactions.com/embed/3IFege70lULBvl5Jtc1O](https://notionreactions.com/embed/3IFege70lULBvl5Jtc1O))
 
 ---
 

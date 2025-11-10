@@ -147,7 +147,7 @@ Remember that the Internet belongs to everyone and for everyone, the more we kno
 - [¿Cómo aprovechar mi ancho de banda?](/como-aprovechar-mi-ancho-de-banda-solutions-db) |[How make better use of my bandwidth?](/how-make-better-use-of-my-bandwidth-solutions-db)
 - [¿Cómo probar la velocidad de tu conexión a Internet?](/como-probar-la-velocidad-de-tu-conexion-a-internet-solutions-db) |[How to test the speed of your Internet connection?](/how-to-test-the-speed-of-your-internet-connection-solutions-db)
 
-[https://notionreactions.com/embed/LzYaLWgrUfEyAfJ5ayMr](https://notionreactions.com/embed/LzYaLWgrUfEyAfJ5ayMr)
+[[Lzyalwgrufeyafj5Aymr](https://notionreactions.com/embed/LzYaLWgrUfEyAfJ5ayMr](https://notionreactions.com/embed/LzYaLWgrUfEyAfJ5ayMr))
 
 ---
 

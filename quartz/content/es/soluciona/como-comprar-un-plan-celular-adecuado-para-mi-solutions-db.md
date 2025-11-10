@@ -42,7 +42,7 @@ recursos/tiempo: 0: Minutos
 
 # Comprar un plan de celular que se ajuste a tus capacidades y necesidades
 
-<img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
 
 ## Bienvenida
 
@@ -79,7 +79,7 @@ Si, después de hacer un barrido de tus opciones, definitivamente consideras que
 
 ## **¿Cómo hacerlo?**
 
-<img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db/image 1-275w.webp)
 
 - **Antes de empezar: ¡ALERTA! ¿prepago o pospago?**
     
@@ -153,7 +153,7 @@ Si, después de hacer un barrido de tus opciones, definitivamente consideras que
     
     *Selectra, ¿Cuál es el mejor plan prepago celular en Colombia?*
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 2-800w.webp)
     
 - **Momento 4: Evaluar cuál es la mejor opción: ¿Qué es lo que realmente necesito?**
     
@@ -162,9 +162,9 @@ Si, después de hacer un barrido de tus opciones, definitivamente consideras que
     - **Frecuencia de uso, ¿qué tanto lo vas a usar?**
         
         
-        ![Pixabay License, [https://pixabay.com/photos/iphone-smartphone-apps-apple-inc-410324/](https://pixabay.com/photos/iphone-smartphone-apps-apple-inc-410324/)](%C2%BFC%C3%B3mo%20comprar%20un%20plan%20celular%20adecuado%20para%20mi%2012a2bd68c5b680b790a0ed2d55ea777b/pre_02.jpg)
+        ![Pixabay License, [Iphone Smartphone Apps Apple Inc 410324](https://pixabay.com/photos/iphone-smartphone-apps-apple-inc-410324/)](%C2%BFC%C3%B3mo%20comprar%20un%20plan%20celular%20adecuado%20para%20mi%2012a2bd68c5b680b790a0ed2d55ea777b/pre_02.jpg)
         
-        Pixabay License, [https://pixabay.com/photos/iphone-smartphone-apps-apple-inc-410324/](https://pixabay.com/photos/iphone-smartphone-apps-apple-inc-410324/)
+        Pixabay License, [[Iphone Smartphone Apps Apple Inc 410324](https://pixabay.com/photos/iphone-smartphone-apps-apple-inc-410324/](https://pixabay.com/photos/iphone-smartphone-apps-apple-inc-410324/))
         
         Si, por ejemplo, **la mayor parte de tus días** necesitas hacer llamadas y estar conectado a internet, haciendo un balance, los planes pospago terminan siendo la mejor opción. 
         
@@ -191,9 +191,9 @@ Si, después de hacer un barrido de tus opciones, definitivamente consideras que
         | Los minutos asociados a tu plan determinan **cuánto tiempo puedes durar hablando con otros móviles a nivel nacional**, en algunos casos también se incluye una cantidad de minutos a otros países como Venezuela, Canadá o Estados Unidos. **Actualmente, la mayoría de los planes pospago vienen con minutos ilimitados.** | Son la **cantidad de datos móviles destinados para el uso de internet en tú teléfonos**. Su uso es la cantidad que sube o descarga tu celular al utilizarlos. Puedes configurarlos para no gastarlos, ahorrarlos o restringir para que se usan. Recuerda que dependiendo del contenido que subas o bajes será mayor o menor el consumo de datos, por ejemplo, **ver una película de dos horas desde tu celular puede consumir aproximadamente 300 MB**, casi la tercera parte de un Gigabyte. Contenido como videos, audios o imágenes de alta resolución tiene un alto consumo de datos en comparación con otro tipo de archivos como los textos. |
         |  |  |
         
-        ![CC0 Public Domain,[https://pxhere.com/en/photo/645095](https://pxhere.com/en/photo/645095)](%C2%BFC%C3%B3mo%20comprar%20un%20plan%20celular%20adecuado%20para%20mi%2012a2bd68c5b680b790a0ed2d55ea777b/pre_03.jpg)
+        ![CC0 Public Domain,[645095](https://pxhere.com/en/photo/645095)](%C2%BFC%C3%B3mo%20comprar%20un%20plan%20celular%20adecuado%20para%20mi%2012a2bd68c5b680b790a0ed2d55ea777b/pre_03.jpg)
         
-        CC0 Public Domain,[https://pxhere.com/en/photo/645095](https://pxhere.com/en/photo/645095)
+        CC0 Public Domain,[[645095](https://pxhere.com/en/photo/645095](https://pxhere.com/en/photo/645095))
         
         Por ejemplo, cuando hacemos SOLE, necesitamos conectar unos cuantos computadores para poder investigar sobre Grandes Preguntas. 
         
@@ -240,7 +240,7 @@ Hay un pequeña oferta disponible en operadores pequeños, estos son planes prep
 
 Yo, que vivo en Bogotá, estoy evaluando cambiarme a Móvil Éxito. Actualmente tengo un plan pospago en WOM en el que **pago $40,000 COP**, esto me da derecho a **60 Gb y minutos ilimitados** ¡esto es un montón! Inicialmente, me pasé a WOM porque, haciendo portabilidad, me daban los **tres primeros meses gratis, más 20Gb** y me **cobraban $35,000 COP.** Ahora que ando en Bogotá y trabajo desde casa y oficina, tengo internet disponible desde estos lugares. Estuve revisando opciones mientras escribía esta solución y vi que Móvil Éxito ofrece los suientes planes prepago:
 
-<img src="/assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-800w.webp" alt="Untitled" srcset="/assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-400w.webp 400w, /assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-800w.webp 800w, /assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f/Untitled-800w.webp)
 
 Al mes, mi consumo no supera los 5 Gb y hago, por mucho, 30 llamadas al mes. Por esta razón el primer plan me saldría a **$13,000 COP, ¡Menos de la tercera parte de lo que pago ahora!** Eso si, tengo que hacer el pago de todo el año de una sola vez, pero no estoy atado a ningún tipo de contrato. 
 
@@ -273,13 +273,13 @@ Este tipo de razonamientos son los que nos gustaría que tuvieras al tomar una d
 </div>](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/6jGYxMKqOTE" 
+    src="[6Jgyxmkqote](https://www.youtube.com/embed/6jGYxMKqOTE)" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
 </div>)
-- [https://www.phoneservicecenter.es/blog/que-son-los-datos-moviles/](https://www.phoneservicecenter.es/blog/que-son-los-datos-moviles/)
+- [[Que Son Los Datos Moviles](https://www.phoneservicecenter.es/blog/que-son-los-datos-moviles/](https://www.phoneservicecenter.es/blog/que-son-los-datos-moviles/))
 - [<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
@@ -291,20 +291,20 @@ Este tipo de razonamientos son los que nos gustaría que tuvieras al tomar una d
 </div>](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/pS_es1-4keo" 
+    src="[Ps Es1 4Keo](https://www.youtube.com/embed/pS_es1-4keo)" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
 </div>)
-- [https://www.opensignal.com/](https://www.opensignal.com/)
-- [https://www.semana.com/prepago-vs-pospago-cuando-elegir-cual/201500/](https://www.semana.com/prepago-vs-pospago-cuando-elegir-cual/201500/)
-- [https://www.larepublica.co/empresas/la-batalla-de-los-operadores-en-colombia-inicio-con-planes-desde-35-000-3150492](https://www.larepublica.co/empresas/la-batalla-de-los-operadores-en-colombia-inicio-con-planes-desde-35-000-3150492)
-- [https://selectra.com.co/celular/planes-prepago](https://selectra.com.co/celular/planes-prepago)
+- [[Www.Opensignal](https://www.opensignal.com/](https://www.opensignal.com/))
+- [[201500](https://www.semana.com/prepago-vs-pospago-cuando-elegir-cual/201500/](https://www.semana.com/prepago-vs-pospago-cuando-elegir-cual/201500/))
+- [[La Batalla De Los Operadores En Colombia Inicio Con Planes Desde 35 000 3150492](https://www.larepublica.co/empresas/la-batalla-de-los-operadores-en-colombia-inicio-con-planes-desde-35-000-3150492](https://www.larepublica.co/empresas/la-batalla-de-los-operadores-en-colombia-inicio-con-planes-desde-35-000-3150492))
+- [[Planes Prepago](https://selectra.com.co/celular/planes-prepago](https://selectra.com.co/celular/planes-prepago))
 
 ---
 
-[https://notionreactions.com/embed/9sGbzgsc9UgJJ20OQ83y](https://notionreactions.com/embed/9sGbzgsc9UgJJ20OQ83y)
+[[9Sgbzgsc9Ugjj20Oq83Y](https://notionreactions.com/embed/9sGbzgsc9UgJJ20OQ83y](https://notionreactions.com/embed/9sGbzgsc9UgJJ20OQ83y))
 
 ---
 

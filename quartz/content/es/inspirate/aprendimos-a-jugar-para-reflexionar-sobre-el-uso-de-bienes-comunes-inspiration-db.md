@@ -44,14 +44,14 @@ Piénsalo de esta manera: imagina compartir un plan de internet con tus vecinos.
 </div>](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/-Rg8bLTbS1Y" 
+    src="[ Rg8Bltbs1Y](https://www.youtube.com/embed/-Rg8bLTbS1Y)" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
 </div>)
 
-[https://notionreactions.com/embed/9j6OVQ7kDWIJg3zGxBrM](https://notionreactions.com/embed/9j6OVQ7kDWIJg3zGxBrM)
+[[9J6Ovq7Kdwijg3Zgxbrm](https://notionreactions.com/embed/9j6OVQ7kDWIJg3zGxBrM](https://notionreactions.com/embed/9j6OVQ7kDWIJg3zGxBrM))
 
 ---
 

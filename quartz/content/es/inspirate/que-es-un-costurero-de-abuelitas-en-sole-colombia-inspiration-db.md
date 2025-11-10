@@ -40,9 +40,9 @@ Compartimos también las herramientas que tenemos para dominar el arte del “ab
 
 En cada Costurero de Abuelitas de SOLE Colombia cosemos los retazos de la gran colcha de solidaridad que es el Internet, nos mostramos los patrones que han funcionado y creamos patrones nuevos, cada una aporta su saber y su color, y disfrutamos de crear un futuro equitativo y hermoso juntos, una Gran Pregunta a la vez.
 
-<img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
 
-[https://notionreactions.com/embed/p2dgQn87ZKq7PqTLPV2s](https://notionreactions.com/embed/p2dgQn87ZKq7PqTLPV2s)
+[[P2Dgqn87Zkq7Pqtlpv2S](https://notionreactions.com/embed/p2dgQn87ZKq7PqTLPV2s](https://notionreactions.com/embed/p2dgQn87ZKq7PqTLPV2s))
 
 ---
 

@@ -100,7 +100,7 @@ Ejemplo:
 
 [](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe4D88IByQtk5gkTX_cjsUzo08er2s9Y6fmFBGMTvthOhYOVILrXIyz4k2Gdht4udWsuqLYlbTlVbZBoUf_J_DnkZLXdyPXApRfC2SHKe4C18Cav2CiGQmQLR7HXLlauviy2bdfw49X13QaEE_nxLNGWHu-iAmCFNwVpM6h2g-IFIIZv3zfWnA?key=ofWF1UwutnoMXba6TqjxyQ)
 
-[https://notionreactions.com/embed/KeSxCiBEyRrHNird7q5L](https://notionreactions.com/embed/KeSxCiBEyRrHNird7q5L)
+[[Kesxcibeyrrhnird7Q5L](https://notionreactions.com/embed/KeSxCiBEyRrHNird7q5L](https://notionreactions.com/embed/KeSxCiBEyRrHNird7q5L))
 
 ---
 

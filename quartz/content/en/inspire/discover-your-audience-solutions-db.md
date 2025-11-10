@@ -129,7 +129,7 @@ It's fun!
 - [¿Cómo escribir una buena invitación?](/como-escribir-una-buena-invitacion-solutions-db)
 - [¡Aprende a diseñar tu invitación exprés sin ser un experto!](/aprende-a-disenar-tu-invitacion-expres-sin-ser-un-experto-solutions-db)
 
-[https://notionreactions.com/embed/TpJjPIOAag7HGoEqSLWu](https://notionreactions.com/embed/TpJjPIOAag7HGoEqSLWu)
+[[Tpjjpioaag7Hgoeqslwu](https://notionreactions.com/embed/TpJjPIOAag7HGoEqSLWu](https://notionreactions.com/embed/TpJjPIOAag7HGoEqSLWu))
 
 ---
 

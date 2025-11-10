@@ -46,6 +46,6 @@ LTE, which stands for Long Term Evolution, **is a global wireless communication 
 
 ### Referencias | References
 
-- https://www.unir.net/revista/ingenieria/lte-que-es/
-- https://softwarelab.org/es/blog/que-es-lte/
-- https://es.digi.com/blog/post/what-is-lte
+- [Lte Que Es](https://www.unir.net/revista/ingenieria/lte-que-es/)
+- [Que Es Lte](https://softwarelab.org/es/blog/que-es-lte/)
+- [What Is Lte](https://es.digi.com/blog/post/what-is-lte)

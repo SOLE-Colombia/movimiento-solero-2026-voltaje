@@ -25,7 +25,7 @@ traducción: No
 
 ---
 
-[https://notionreactions.com/embed/cl05iJixAArr1ATm6nf8](https://notionreactions.com/embed/cl05iJixAArr1ATm6nf8)
+[[Cl05Ijixaarr1Atm6Nf8](https://notionreactions.com/embed/cl05iJixAArr1ATm6nf8](https://notionreactions.com/embed/cl05iJixAArr1ATm6nf8))
 
 ---
 

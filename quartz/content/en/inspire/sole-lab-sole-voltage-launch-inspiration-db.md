@@ -47,7 +47,7 @@ Authors:
 
 Answer:
 
-### Having our own internet, that is, making it: [https://kimera.com/](https://kimera.com/)
+### Having our own internet, that is, making it: [[Kimera](https://kimera.com/](https://kimera.com/))
 
 In Mexico: Community Indigenous Telephony
 
@@ -123,7 +123,7 @@ Answer:
 
 *Turn someone into a "mobile provider," a kind of operator that periodically brings internet access to different points in the community, connecting everyone as if it were a roaming internet network. Internet on the move!*
 
-[https://notionreactions.com/embed/RY9xTFJGbyBylU5wSG0b](https://notionreactions.com/embed/RY9xTFJGbyBylU5wSG0b)
+[[Ry9Xtfjgbybylu5Wsg0B](https://notionreactions.com/embed/RY9xTFJGbyBylU5wSG0b](https://notionreactions.com/embed/RY9xTFJGbyBylU5wSG0b))
 
 ---
 

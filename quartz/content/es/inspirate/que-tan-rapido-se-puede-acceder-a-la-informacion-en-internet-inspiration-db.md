@@ -34,7 +34,7 @@ Los megabytes descarga (MB) son una medida de la rapidez con la que se transmite
 
 ---
 
-[https://notionreactions.com/embed/SevGVMTc1yX9Z2BM9EZU](https://notionreactions.com/embed/SevGVMTc1yX9Z2BM9EZU)
+[[Sevgvmtc1Yx9Z2Bm9Ezu](https://notionreactions.com/embed/SevGVMTc1yX9Z2BM9EZU](https://notionreactions.com/embed/SevGVMTc1yX9Z2BM9EZU))
 
 ---
 

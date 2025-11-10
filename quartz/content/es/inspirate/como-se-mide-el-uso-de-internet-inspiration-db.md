@@ -49,7 +49,7 @@ Las **gigabytes(GB)** son la cantidad de datos que puedes usar para navegar, cha
 
 ---
 
-[https://notionreactions.com/embed/P6NPbczTKRHvRWn2Nulg](https://notionreactions.com/embed/P6NPbczTKRHvRWn2Nulg)
+[[P6Npbcztkrhvrwn2Nulg](https://notionreactions.com/embed/P6NPbczTKRHvRWn2Nulg](https://notionreactions.com/embed/P6NPbczTKRHvRWn2Nulg))
 
 ---
 

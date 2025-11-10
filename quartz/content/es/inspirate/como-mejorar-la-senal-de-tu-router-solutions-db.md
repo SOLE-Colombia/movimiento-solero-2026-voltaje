@@ -73,15 +73,15 @@ Ahora sí, voy a acompañarte paso a paso para que mejores la señal de tu WiFi.
     
     Lo primero que tienes que hacer es medir la velocidad de tu conexión actual. Esto te permitirá comparar el "antes" y "después" de hacer los ajustes. Descarga la aplicación [**Fast**](https://fast.com/es/) o usa el medidor de velocidad que prefieras, y realiza pruebas desde varios puntos de tu casa.
     
-    <img src="/assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\WhatsApp_Image_2024-11-07_at_10.07.39-800w.webp" alt="Pantallazo, tomado por Manuela Córdoba, (2024)." srcset="/assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\WhatsApp_Image_2024-11-07_at_10.07.39-400w.webp 400w, /assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\WhatsApp_Image_2024-11-07_at_10.07.39-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1/WhatsApp_Image_2024-11-07_at_10.07.39-800w.webp)
     
     Pantallazo, tomado por Manuela Córdoba, (2024).
     
-    <img src="/assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\WhatsApp_Image_2024-11-07_at_10.10.22-800w.webp" alt="Pantallazo, tomado por Manuela Córdoba, (2024)." srcset="/assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\WhatsApp_Image_2024-11-07_at_10.10.22-400w.webp 400w, /assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\WhatsApp_Image_2024-11-07_at_10.10.22-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1/WhatsApp_Image_2024-11-07_at_10.10.22-800w.webp)
     
     Pantallazo, tomado por Manuela Córdoba, (2024).
     
-    <img src="/assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\pexels-mizunokozuki-12899121-800w.webp" alt="Foto tomada de Pexels, (2024)." srcset="/assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\pexels-mizunokozuki-12899121-400w.webp 400w, /assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\pexels-mizunokozuki-12899121-800w.webp 800w, /assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\pexels-mizunokozuki-12899121-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1/pexels-mizunokozuki-12899121-800w.webp)
     
     Foto tomada de Pexels, (2024).
     
@@ -93,11 +93,11 @@ Ahora sí, voy a acompañarte paso a paso para que mejores la señal de tu WiFi.
     
     El lugar donde pongas el **Router** es clave. Asegúrate de colocarlo en un punto elevado, como sobre una mesa, o, incluso, en el techo. Lo ideal, es que esté en un lugar central, no en un rincón o cerca de una ventana, donde muchas veces lo dejan los instaladores. Mover el **Router** a un lugar más estratégico hará que la señal se reparta, de manera más uniforme, por toda la casa.
     
-    <img src="/assets\images\¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91\20240612_SOLEWLH_Sintonizacion_Misak_Piscitau_Piendamo81-800w.webp" alt="Foto tomada de Pexels, (2024)." srcset="/assets\images\¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91\20240612_SOLEWLH_Sintonizacion_Misak_Piscitau_Piendamo81-400w.webp 400w, /assets\images\¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91\20240612_SOLEWLH_Sintonizacion_Misak_Piscitau_Piendamo81-800w.webp 800w, /assets\images\¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91\20240612_SOLEWLH_Sintonizacion_Misak_Piscitau_Piendamo81-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91/20240612_SOLEWLH_Sintonizacion_Misak_Piscitau_Piendamo81-800w.webp)
     
     Foto tomada de Pexels, (2024).
     
-    <img src="/assets\images\How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675\20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao102-800w.webp" alt="Foto tomada por Manuela Córdoba, (2024)." srcset="/assets\images\How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675\20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao102-400w.webp 400w, /assets\images\How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675\20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao102-800w.webp 800w, /assets\images\How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675\20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao102-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675/20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao102-800w.webp)
     
     Foto tomada por Manuela Córdoba, (2024).
     
@@ -105,9 +105,9 @@ Ahora sí, voy a acompañarte paso a paso para que mejores la señal de tu WiFi.
     
     ¿Ya viste las antenas de tu router? Revísalas ahora mismo. Un detalle importante para mejorar la señal es asegurarte de que estén en posición perpendicular, es decir, que apunten hacia el techo. Esto ayuda a que las ondas de señal se distribuyan mejor.
     
-    <img src="/assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\99957012-74ac-46ea-bb9d-920cf7b81c01-800w.webp" alt="Diseño sin título(11).png" srcset="/assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\99957012-74ac-46ea-bb9d-920cf7b81c01-400w.webp 400w, /assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\99957012-74ac-46ea-bb9d-920cf7b81c01-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1/99957012-74ac-46ea-bb9d-920cf7b81c01-800w.webp)
     
-    <img src="/assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\d0166214-58fc-4f91-a447-a5ea27f6e558-800w.webp" alt="2.jpg" srcset="/assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\d0166214-58fc-4f91-a447-a5ea27f6e558-400w.webp 400w, /assets\images\¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1\d0166214-58fc-4f91-a447-a5ea27f6e558-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo mejorar la señal de tu router 10d2bd68c5b6800889e8c5e23db3d5d1/d0166214-58fc-4f91-a447-a5ea27f6e558-800w.webp)
     
     Haz ese ajuste y notarás la diferencia. ¡Bien hecho!
     
@@ -157,7 +157,7 @@ Aunque no podrás aumentar la velocidad más allá de lo que tienes contratado :
 
 Espero que estos consejos te sean útiles y que ya no tengas más cortes de Internet en medio de una reunión importante o una investigación emocionante en SOLE. 
 
-[https://notionreactions.com/embed/UXlD7EXG9hr2qhaQFCPI](https://notionreactions.com/embed/UXlD7EXG9hr2qhaQFCPI)
+[[Uxld7Exg9Hr2Qhaqfcpi](https://notionreactions.com/embed/UXlD7EXG9hr2qhaQFCPI](https://notionreactions.com/embed/UXlD7EXG9hr2qhaQFCPI))
 
 ---
 

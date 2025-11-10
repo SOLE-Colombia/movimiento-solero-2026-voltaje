@@ -30,7 +30,7 @@ Tardas: Horas
 
 # Invierte bien tu dinero para instalar Internet
 
-<img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
 
 ## Bienvenida
 
@@ -77,23 +77,23 @@ En esta solución trabajaremos tres tecnologías disponibles en Colombia: Intern
     
     La opción más popular de internet en la ruralidad es el internet por satélite. Aunque el nombre se explica a sí mismo, se trata de la conexión a internet mediante satélites. La gran ventaja de esta opción es que puede llegar a cualquier lugar, ¡Incluidas las áreas rurales más apartadas! Para acceder a esta tecnología la compañía deberá instalar una antena parabólica en tu casa.
     
-    <img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db/image 1-275w.webp)
     
 - **WiMax**
     
     
-    ![Imagen tomada de wikipedia, [https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg](https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg) ](%C2%BFQu%C3%A9%20Internet%20satelital%20elegir,%20seg%C3%BAn%20mis%20necesida%2012a2bd68c5b6803f9042e811506863cb/Alvarion_CPE.jpg)
+    ![Imagen tomada de wikipedia, [https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg](https:/es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg) ](%C2%BFQu%C3%A9%20Internet%20satelital%20elegir,%20seg%C3%BAn%20mis%20necesida%2012a2bd68c5b6803f9042e811506863cb/Alvarion_CPE.jpg)
     
-    Imagen tomada de wikipedia, [https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg](https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg) 
+    Imagen tomada de wikipedia, [[/Media/Archivo:Alvarion Cpe.Jpg](Https://Es.Wikipedia.Org/Wiki/Wimax#/Media/Archivo:Alvarion Cpe.Jpg](https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg](https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg)) 
     
     El funcionamiento de WiMAX es sencillo, ya que es un [repetidor](https://www.notion.so/36208321934045179a1bd4fef5a01720?pvs=21) de la empresa que quieres contratar emitiendo las señales de microondas que te llegan a la antena. Por lo tanto, lo primero que necesitas es contactar con una empresa que ofrezca estos servicios y que tenga un repetidor cerca de tu casa para poder enviarte la señal. Luego, tienes que poner una  antena en la fachada de tu casa. Esta antena tendrá que apuntar directamente al repetidor de la empresa que te va a dar el servicio o a un punto de conexión intermedio que se utilice para salvar los obstáculos que se interpongan entre tu antena y su repetidor. La instalación de la antena la hará la propia compañía.
     
 - **Starlink**
     
     
-    ![Imagen tomada de Starlink, [https://www.starlink.com/es/specifications](https://www.starlink.com/es/specifications) ](%C2%BFQu%C3%A9%20Internet%20satelital%20elegir,%20seg%C3%BAn%20mis%20necesida%2012a2bd68c5b6803f9042e811506863cb/Starlink_StandardActuated_500x500.png)
+    ![Imagen tomada de Starlink, [Specifications](https://www.starlink.com/es/specifications) ](%C2%BFQu%C3%A9%20Internet%20satelital%20elegir,%20seg%C3%BAn%20mis%20necesida%2012a2bd68c5b6803f9042e811506863cb/Starlink_StandardActuated_500x500.png)
     
-    Imagen tomada de Starlink, [https://www.starlink.com/es/specifications](https://www.starlink.com/es/specifications) 
+    Imagen tomada de Starlink, [[Specifications](https://www.starlink.com/es/specifications](https://www.starlink.com/es/specifications)) 
     
     Starlink es el proyecto de Internet por satélite de Elon Musk. Se trata de un internet satelital particular que facilita las conexiones especialmente en las zonas rurales. La compañía se considera la primera y más grande constelación de satélites del mundo que utiliza una órbita terrestre baja para ofrecer Internet satelital de banda ancha, alta velocidad y baja latencia. Esto permite ver contenidos por streaming, jugar online, hacer videollamadas y más.
     Para ponerlo en funcionamiento, el usuario compra un kit con todo lo necesario, entre lo que destaca la antena que deberá colocarse en el exterior y que se orienta automáticamente para establecer conexión en cuestión de minutos, siempre que tenga el cielo despejado.
@@ -140,7 +140,7 @@ Ahora bien, la velocidad del **internet satelital** puede ser menor en comparaci
 - [**¿Necesito comprar una antena 3G/4G? Cómo tomar la decisión**](/necesito-comprar-una-antena-3g-4g-como-tomar-la-decision-solutions-db) | [**Do I need to buy a 3G/4G antenna? How to make the decision**](/do-i-need-to-buy-a-3g-4g-antenna-how-to-make-the-decision-solutions-db)
 - [¿Tu comunidad necesita apoyo económico para conectarse a Internet? ](/tu-comunidad-necesita-apoyo-economico-para-conectarse-a-internet-solutions-db) | [Does your community need financial support to connect to the Internet? ](/does-your-community-need-financial-support-to-connect-to-the-internet-solutions-db)
 
-[https://notionreactions.com/embed/sYlZW37eDvFb1Y6Iid1l](https://notionreactions.com/embed/sYlZW37eDvFb1Y6Iid1l)
+[[Sylzw37Edvfb1Y6Iid1L](https://notionreactions.com/embed/sYlZW37eDvFb1Y6Iid1l](https://notionreactions.com/embed/sYlZW37eDvFb1Y6Iid1l))
 
 ---
 

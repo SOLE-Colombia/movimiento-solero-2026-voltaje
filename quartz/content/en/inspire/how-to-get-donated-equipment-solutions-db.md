@@ -58,9 +58,9 @@ This solution is composed of three steps in which we will tell you everything we
 
 - **Step 1: Search for potential donors**
     
-    <img src="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-veerasak-piyawatanakul-1143513-800w.webp" alt="pexels-veerasak-piyawatanakul-1143513.jpg" srcset="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-veerasak-piyawatanakul-1143513-400w.webp 400w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-veerasak-piyawatanakul-1143513-800w.webp 800w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-veerasak-piyawatanakul-1143513-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9/pexels-veerasak-piyawatanakul-1143513-800w.webp)
     
-    Photo by veerasak Piyawatanakul: [https://www.pexels.com/es-es/foto/mujer-con-portatil-negro-mientras-se-inclina-sobre-la-mesa-de-madera-marron-1143513/](https://www.pexels.com/es-es/foto/mujer-con-portatil-negro-mientras-se-inclina-sobre-la-mesa-de-madera-marron-1143513/)
+    Photo by veerasak Piyawatanakul: [[Mujer Con Portatil Negro Mientras Se Inclina Sobre La Mesa De Madera Marron 1143513](https://www.pexels.com/es-es/foto/mujer-con-portatil-negro-mientras-se-inclina-sobre-la-mesa-de-madera-marron-1143513/](https://www.pexels.com/es-es/foto/mujer-con-portatil-negro-mientras-se-inclina-sobre-la-mesa-de-madera-marron-1143513/))
     
     Generally, equipment donors are companies with large financial capacity, payroll and infrastructure. Think of telephone or computer companies, universities, or find out about sponsors of social projects in your region. However, we suggest you start with small companies. For this you have two options:
     
@@ -78,9 +78,9 @@ This solution is composed of three steps in which we will tell you everything we
     
 - **Moment 2: Find the donor company and identify the relationship model.**
     
-    <img src="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-fauxels-3184416-800w.webp" alt="pexels-fauxels-3184416.jpg" srcset="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-fauxels-3184416-400w.webp 400w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-fauxels-3184416-800w.webp 800w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-fauxels-3184416-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9/pexels-fauxels-3184416-800w.webp)
     
-    Photo by fauxels: [https://www.pexels.com/es-es/foto/foto-de-personas-haciendo-apretones-de-manos-3184416/](https://www.pexels.com/es-es/foto/foto-de-personas-haciendo-apretones-de-manos-3184416/)
+    Photo by fauxels: [[Foto De Personas Haciendo Apretones De Manos 3184416](https://www.pexels.com/es-es/foto/foto-de-personas-haciendo-apretones-de-manos-3184416/](https://www.pexels.com/es-es/foto/foto-de-personas-haciendo-apretones-de-manos-3184416/))
     
     Once you have sent the requests you just have to wait and insist continuously to receive a response. Don't let the contact go cold, if more than a week goes by without a response, write again or go in person if possible. When you get an affirmative answer, be clear about the model in which you will receive the equipment: not all companies donate their equipment, some decide to give it away, so there are two types of models: 
     
@@ -95,13 +95,13 @@ This solution is composed of three steps in which we will tell you everything we
 - **Moment 3: Receiving the equipment and building a relationship**
     
     
-    <img src="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-ketut-subiyanto-4246186-800w.webp" alt="pexels-ketut-subiyanto-4246186.jpg" srcset="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-ketut-subiyanto-4246186-400w.webp 400w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-ketut-subiyanto-4246186-800w.webp 800w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-ketut-subiyanto-4246186-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9/pexels-ketut-subiyanto-4246186-800w.webp)
     
-    Photo by Ketut Subiyanto: [https://www.pexels.com/es-es/foto/pareja-amor-relacion-casa-4246186/](https://www.pexels.com/es-es/foto/pareja-amor-relacion-casa-4246186/)
+    Photo by Ketut Subiyanto: [[Pareja Amor Relacion Casa 4246186](https://www.pexels.com/es-es/foto/pareja-amor-relacion-casa-4246186/](https://www.pexels.com/es-es/foto/pareja-amor-relacion-casa-4246186/))
     
-    <img src="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-cytonn-photography-955393-800w.webp" alt="pexels-cytonn-photography-955393.jpg" srcset="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-cytonn-photography-955393-400w.webp 400w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-cytonn-photography-955393-800w.webp 800w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-cytonn-photography-955393-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9/pexels-cytonn-photography-955393-800w.webp)
     
-    Photo by Cytonn photography: [https://www.pexels.com/es-es/foto/persona-que-firma-el-papel-955393/](https://www.pexels.com/es-es/foto/persona-que-firma-el-papel-955393/)
+    Photo by Cytonn photography: [[Persona Que Firma El Papel 955393](https://www.pexels.com/es-es/foto/persona-que-firma-el-papel-955393/](https://www.pexels.com/es-es/foto/persona-que-firma-el-papel-955393/))
     
     For the reception of the equipment, in either mode, keep in mind that each company or person has its own procedure. The delivery of the equipment may be a shipment, you may have to pick it up or make an agreement about the place of delivery with the company or person who will make the donation. After the delivery, it is important to know what kind of relationship you want and can build with them: 
     
@@ -122,7 +122,7 @@ This solution is composed of three steps in which we will tell you everything we
     ### **7. Suggestions**
     
     - [If you want to know more, click here to read the press release made by El Tiempo newspaper in 2016.](https://www.eltiempo.com/archivo/documento/CMS-16524282)
-    - [https://www.gestionandote.org/donacion-de-computadores-para-desarrollo-de-proyectos-sociales/](https://www.gestionandote.org/donacion-de-computadores-para-desarrollo-de-proyectos-sociales/)
+    - [[Donacion De Computadores Para Desarrollo De Proyectos Sociales](https://www.gestionandote.org/donacion-de-computadores-para-desarrollo-de-proyectos-sociales/](https://www.gestionandote.org/donacion-de-computadores-para-desarrollo-de-proyectos-sociales/))
 
 ## How to know if this solution works?
 
@@ -134,7 +134,7 @@ Maybe this relationship is a long term one, can you imagine that every year they
 
 ## Related solutions
 
-[https://notionreactions.com/embed/4bQP0CA8NiUNuTarwcL8](https://notionreactions.com/embed/4bQP0CA8NiUNuTarwcL8)
+[[4Bqp0Ca8Niunutarwcl8](https://notionreactions.com/embed/4bQP0CA8NiUNuTarwcL8](https://notionreactions.com/embed/4bQP0CA8NiUNuTarwcL8))
 
 ---
 

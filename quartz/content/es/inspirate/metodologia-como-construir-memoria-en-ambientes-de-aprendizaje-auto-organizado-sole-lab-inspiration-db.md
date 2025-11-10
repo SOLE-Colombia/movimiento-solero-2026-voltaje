@@ -105,7 +105,7 @@ Hito 6 [2023]: “Ahora el primer SOLE LAB de Boca de camarones es una realidad.
 - Las historias exceden al SOLE LAB; en otras palabras, este espacio se convierte en un pretexto para vivir y convivir de otras formas.
 - Haber hecho parte del proyecto genera orgullo y dignidad.
 
-[https://notionreactions.com/embed/OcEFXKsDsNifrRzU7icq](https://notionreactions.com/embed/OcEFXKsDsNifrRzU7icq)
+[[Ocefxksdsnifrrzu7Icq](https://notionreactions.com/embed/OcEFXKsDsNifrRzU7icq](https://notionreactions.com/embed/OcEFXKsDsNifrRzU7icq))
 
 ---
 

@@ -57,11 +57,11 @@ La señal de Internet se transmite **a través de infraestructura física como c
     
     
 
-(Fuente: https://es.wikipedia.org/wiki/Medio_de_transmisi%C3%B3n)
+(Fuente: [Medio De Transmisi%C3%B3N](https://es.wikipedia.org/wiki/Medio_de_transmisi%C3%B3n))
 
 ---
 
-[https://notionreactions.com/embed/Y8trii17g0vU4qcuk2Yt](https://notionreactions.com/embed/Y8trii17g0vU4qcuk2Yt)
+[[Y8Trii17G0Vu4Qcuk2Yt](https://notionreactions.com/embed/Y8trii17g0vU4qcuk2Yt](https://notionreactions.com/embed/Y8trii17g0vU4qcuk2Yt))
 
 ---
 

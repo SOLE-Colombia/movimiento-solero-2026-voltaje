@@ -48,7 +48,7 @@ Once you reach the second step in this way, simply repeat the movements alternat
 
 - THE END*
 
-[https://notionreactions.com/embed/CNBqMPhWUHjErEPecq9I](https://notionreactions.com/embed/CNBqMPhWUHjErEPecq9I)
+[[Cnbqmphwuhjerepecq9I](https://notionreactions.com/embed/CNBqMPhWUHjErEPecq9I](https://notionreactions.com/embed/CNBqMPhWUHjErEPecq9I))
 
 ---
 

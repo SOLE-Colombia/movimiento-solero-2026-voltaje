@@ -44,7 +44,7 @@ En un rincón del futuro, existe una Biblioteca que no depende de los libros, si
 
 En un mundo donde la curiosidad y la tecnología convergen, la Biblioteca del Futuro ha encontrado una amiga inigualable: SOLE Voltaje, una Guía de soluciones diseñada para iluminar el camino hacia el conocimiento. Juntos, crean un espacio vibrante donde el internet no es solo una herramienta, sino un aliado en la búsqueda de las Grandes Preguntas de la vida. 
 
-[https://notionreactions.com/embed/EwJ4d4EhqeSDFZvNrbCZ](https://notionreactions.com/embed/EwJ4d4EhqeSDFZvNrbCZ)
+[[Ewj4D4Ehqesdfzvnrbcz](https://notionreactions.com/embed/EwJ4d4EhqeSDFZvNrbCZ](https://notionreactions.com/embed/EwJ4d4EhqeSDFZvNrbCZ))
 
 ---
 

@@ -65,11 +65,11 @@ Good luck!
     
     Also encourage them to participate in your activity, for example, if you are going to do a SOLE, you can invite them to become participants.
     
-    <img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
     
 - **Moment 2: Ask about the requirements, what you need to formalize the application.**
     
-    <img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db/image 1-275w.webp)
     
     Once you are in contact with the people in charge, ask them about the availability of the place and what requirements you need, or how you can book it.
     
@@ -120,7 +120,7 @@ Good luck!
     (Name of the person who signs).
 
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 2-800w.webp)
     
     *Remember that this is only an example, you can elaborate the letter as you wish. Don't forget to ask the person in charge what information, data or attachments you should include in the document.*
     
@@ -141,7 +141,7 @@ Let us know how you did booking the community hall in your sidewalk, community o
 
 Once you have your space reserved, it's just a matter of iterating the process as many times as you need to. You may be able to make a larger request that lasts longer. To do this, it may be useful to draw on the good news, findings and successes of the activity you have proposed in the space and how it is bearing fruit in the community. 
 
-For example, when you get a group of people to do SOLE on a recurring basis, you can see the benefits it has for skills such as communication, negotiation, reading comprehension, digital skills, autonomy, leadership... making a small report, for example, with the result of the Reflection capsules (available on the SOLE Colombia website https://n9.cl/reflexionatusole, can be very powerful to strengthen the relationship with your ally and with the people in your community.
+For example, when you get a group of people to do SOLE on a recurring basis, you can see the benefits it has for skills such as communication, negotiation, reading comprehension, digital skills, autonomy, leadership... making a small report, for example, with the result of the Reflection capsules (available on the SOLE Colombia website [Reflexionatusole,](https://n9.cl/reflexionatusole,) can be very powerful to strengthen the relationship with your ally and with the people in your community.
 
 ## Why might this solution work?
 
@@ -154,7 +154,7 @@ Often it is enough to remember the person with whom you made the request, stop b
 - [Descubre a tu audiencia](/descubre-a-tu-audiencia-solutions-db) |[Discover your audience](/discover-your-audience-solutions-db)
 - [Difunde tu mensaje ](/difunde-tu-mensaje-solutions-db) |[Spread your message ](/spread-your-message-solutions-db)
 
-[https://notionreactions.com/embed/j4vdAH4A1IArwGwyZOhW](https://notionreactions.com/embed/j4vdAH4A1IArwGwyZOhW)
+[[J4Vdah4A1Iarwgwyzohw](https://notionreactions.com/embed/j4vdAH4A1IArwGwyZOhW](https://notionreactions.com/embed/j4vdAH4A1IArwGwyZOhW))
 
 ---
 

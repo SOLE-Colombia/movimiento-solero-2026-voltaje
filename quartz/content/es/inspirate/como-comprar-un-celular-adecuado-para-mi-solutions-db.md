@@ -39,7 +39,7 @@ R-reactions: No
 
 # Comprar un celular que se ajuste a tus capacidades y necesidades
 
-<img src="/assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\Comprar_un_celular00-800w.webp" alt="Comprar un celular00.jpg" srcset="/assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\Comprar_un_celular00-400w.webp 400w, /assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\Comprar_un_celular00-800w.webp 800w, /assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\Comprar_un_celular00-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06/Comprar_un_celular00-800w.webp)
 
 ## Bienvenida
 
@@ -86,7 +86,7 @@ En SOLE Voltaje hablamos desde apoyar a la gente a aclarar la implicación étic
 💡 A inicios de 2024 boté mi celular al bajarme de un taxi, por mis trabajos y contacto con mi familiar y amigos me es importante tener un celular. Hace tiempo decidí que no voy a invertir más de $ 1’000,000 COP en esta herramienta. Desde hace unos 5 años conocí una marca nueva que estaba emergiendo manejaba buenos precios y tenía muy buenas referencias de amigos y usuarios en internet, esta marca es Xiaomi, mis últimos dos celulares habían sido de esta marca, cada uno valió alrededor de $ 700,000 COP. Sin embargo, busque por internet referencias y vi que hay una marca nueva que esta llegando y es económica, Tecno, mire varias referencias y vi que es la marca más vendida actualmente por mercado libre, así que busque un celular con características similares a los anteriores, 250 Gb de memoria interna, un procesador decente, una batería de más de 4000 mA/h, una pantalla grande y al menos 8 Gb de RAM. Estas características son compatibles con mi uso laboral y personal, no tomo fotos profesionales, ni tampoco lo buscaba para jugar videojuegos. Finalmente encontré un celular de esta marca por $ 475,000 COP, este celular que compré fue un Tecno Spark 20 Dual Sim de 256 Gb. Hasta el momento puedo decir que ha sido una ¡Excelente compra!
 
     
-    <img src="/assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\WhatsApp_Image_2024-08-28_at_4.14.43_PM-800w.webp" alt="WhatsApp Image 2024-08-28 at 4.14.43 PM.jpeg" srcset="/assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\WhatsApp_Image_2024-08-28_at_4.14.43_PM-400w.webp 400w, /assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\WhatsApp_Image_2024-08-28_at_4.14.43_PM-800w.webp 800w, /assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\WhatsApp_Image_2024-08-28_at_4.14.43_PM-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06/WhatsApp_Image_2024-08-28_at_4.14.43_PM-800w.webp)
     
     ¡Ahora es tu turno de identificar para que necesitas el celular!
     
@@ -95,7 +95,7 @@ En SOLE Voltaje hablamos desde apoyar a la gente a aclarar la implicación étic
     
     Antes que todo, **define cuál será tu presupuesto**, para esto puedes hacer las cuentas de cuántos días de trabajo estás dispuesto a invertir para este aparato. No te endeudes por un celular, muchas veces nos ofrecen financiación a 1 o 2 años, y el celular se nos daña o no lo roban antes de terminar de pagarlo.
     
-    <img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
     
 
 Una vez tengas claro lo anterior, podrás saber a qué características debes prestarle mayor atención.
@@ -116,11 +116,11 @@ Una vez tengas claro lo anterior, podrás saber a qué características debes pr
     
     La apertura del lente será fundamental para una buena foto, esta característica **define que tanta luz puede captar la cámara.** Se identifica con la **letra f seguida de un número**, por ejemplo, f1.9 o f 2.0. Mientras menor sea este número, mayor será la cantidad de luz que captará la cámara. Por esto, **es importante que sea bajo**, pues con una mayor entrada de luz, las imágenes tendrán más detalle.
     
-    <img src="/assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\Megapixel_comparison-400w.webp" alt="Megapixel_comparison.jpg" srcset="/assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\Megapixel_comparison-400w.webp 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06/Megapixel_comparison-400w.webp)
     
     Una buena cámara para celular debe tener un sensor de calidad, así como **varios lentes**. Esto último, de hecho, se ha convertido ya en un estándar. Al combinarse, permiten obtener mejores imágenes. Uno de los lentes más populares es el gran angular. Gracias a este se incorpora mucha más información a las fotografías y aporta un ángulo visual de hasta 120 grados, perfecta para fotos grupales o en interiores donde no hay mucho espacio.
     
-    <img src="/assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\apertura-400w.webp" alt="apertura.png" srcset="/assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\apertura-400w.webp 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06/apertura-400w.webp)
     
 - **Pantalla**
     
@@ -145,21 +145,21 @@ Una vez tengas claro lo anterior, podrás saber a qué características debes pr
     - **LCD:** Son las pantallas de cristal líquido retroiluminado que suelen cubrir todo el panel. En el pasado eran las más populares, pero cada vez se producen en menor cantidad. Al ser retroiluminados consumirán más energía, pero por esta misma razón se ven bien bajo la luz directa del sol.
     - **OLED:**  Estas pantallas se diferencian de las LCD porque sus materiales le permiten generar luz por si misma cuando se le aplica electricidad, esto les permite apagar o prender cada píxel de manera independiente, por lo que **consumen menos energía.** Además, terminan siendo, **más brillantes y teniendo una mejor definición del color negro.**
     
-    <img src="/assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\tipo_de_pantalla-800w.webp" alt="tipo de pantalla.jpg" srcset="/assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\tipo_de_pantalla-400w.webp 400w, /assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\tipo_de_pantalla-800w.webp 800w, /assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\tipo_de_pantalla-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06/tipo_de_pantalla-800w.webp)
     
 - **Almacenamiento interno**
     
     
     El almacenamiento interno define la cantidad de archivos que podemos guardar en nuestro celular, es como el disco duro en un computador. Esto determinara cuantos programas puedes tener un instalados a la vez, si puedes o no guardar todo tipo de archivos. En estos momentos recomendamos comprar un celular con al menos 64 GB de memoria interna. Además, ver la posibilidad si tiene la opción de recibir memorias microSD para ampliar la capacidad en un futuro.
     
-    <img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db/image 1-275w.webp)
     
     .
     
 - **Memoria RAM**
     
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 2-800w.webp)
     
     Esta es la memoria temporal del celular, ayuda en el desempeño y da una pista de cómo de rápido abren las aplicaciones y que tan rápido fluye el celular. Recomendamos un **mínimo 4GB de RAM.**
     
@@ -168,12 +168,12 @@ Una vez tengas claro lo anterior, podrás saber a qué características debes pr
     
     El procesador es el **cerebro**, es el que siempre esta despierto y recibe las instrucciones. Entre mas núcleos tenga el procesador mejor desempño tendrá, aunque también dependerá de la marca. Acá, la mejor opción es que mires el nombre del procesador que usa el celular que te llama la atención e investigues un poco por tu cuenta. **Ojalá que no haya salido hace más de 4 años.**
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 3-800w.webp)
     
 - **Batería**
     
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 4-800w.webp)
     
     Es de los componentes más importantes del celular, ya que condicionará su uso. La autonomía, el tiempo de carga o la duración de la misma son parámetros que nos afectarán. La capacidad de esta se indica mediante la cantidad de miliamperios por hora (mAh) que puede proporcionar a un circuito electrónico. Así, una capacidad de 3.000 mAh indica que la batería es capaz de entregar una corriente de 3.000 mA durante una hora antes de agotarse. Recomendamos que con los consumos actuales de un celular la mínima capacidad sea de 4000 mA/h.
     
@@ -181,13 +181,13 @@ Una vez tengas claro lo anterior, podrás saber a qué características debes pr
     
     Una vez tengas algunas opciones interesantes es importante que las compares, para esto no tiene porque hacerlo de manera manual, hay varias páginas que ya hacen esto de manera automática. A continuación, te dejamos algunas:
     
-    [https://versus.com/es](https://versus.com/es)
+    [[versus.com](https://versus.com/es](https://versus.com/es))
     
-    [https://www.movilcelular.es/comparar/moviles/](https://www.movilcelular.es/comparar/moviles/)
+    [[Moviles](https://www.movilcelular.es/comparar/moviles/](https://www.movilcelular.es/comparar/moviles/))
     
     Acá comparamos mi celular contra un motorola:
     
-    <img src="/assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\Captura_desde_2024-08-28_17-15-32-800w.webp" alt="Captura desde 2024-08-28 17-15-32.png" srcset="/assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\Captura_desde_2024-08-28_17-15-32-400w.webp 400w, /assets\images\¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06\Captura_desde_2024-08-28_17-15-32-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¿Cómo comprar un celular adecuado para mí 12a2bd68c5b6807f99afed36f9b83c06/Captura_desde_2024-08-28_17-15-32-800w.webp)
     
 
 Además de que el Tecno Spark 20 sale mejor calificado en sus características, podemos ver que en el mercado colombiano tienen los siguientes precios:
@@ -203,7 +203,7 @@ Es importante que constantemente revises las marcas emergentes, normalmente apar
 
 Otro elemento importante tiene que ver con la garantía, cunado vives en una ciudad central es fácil que si pasa algo con el celular haya una sucursal de todas las marcas disponibles en el caso de que tengas que usar la garantía, pero en ciudades menos centrales, por ejemplo en Bucaramanga, la marca de mi actual celular “Tecno” no tiene oficina, por lo que si vives allí te tocaría enviar el celular hasta Bogotá, pagar más dinero y esperar más tiempo para que te lo devuelvan, pero posiblemente en esta ciudad si allá centro de atención de marcas más populares como es el caso de motorola.
 
-<img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 5-800w.webp)
 
 ## **¿Cuánto es suficiente?**
 
@@ -211,7 +211,7 @@ Esta pregunta es difícil de responder, pero creo que la podemos reformular de l
 
 ## Referencias
 
-- [https://techlab.jetstereo.com/caracteristicas-de-una-buena-camara-para-celular/](https://techlab.jetstereo.com/caracteristicas-de-una-buena-camara-para-celular/)
+- [[Caracteristicas De Una Buena Camara Para Celular](https://techlab.jetstereo.com/caracteristicas-de-una-buena-camara-para-celular/](https://techlab.jetstereo.com/caracteristicas-de-una-buena-camara-para-celular/))
 - [<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
@@ -223,7 +223,7 @@ Esta pregunta es difícil de responder, pero creo que la podemos reformular de l
 </div>](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/RLfVzQIDbCI" 
+    src="[Rlfvzqidbci](https://www.youtube.com/embed/RLfVzQIDbCI)" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
@@ -240,14 +240,14 @@ Esta pregunta es difícil de responder, pero creo que la podemos reformular de l
 </div>](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/9kCSjYdkx7Y" 
+    src="[9Kcsjydkx7Y](https://www.youtube.com/embed/9kCSjYdkx7Y)" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
 </div>)
-- [https://www.infobae.com/america/tecno/2022/03/28/cuales-son-las-diferencias-de-las-pantallas-para-celulares-y-como-elegir-la-mas-adecuada/](https://www.infobae.com/america/tecno/2022/03/28/cuales-son-las-diferencias-de-las-pantallas-para-celulares-y-como-elegir-la-mas-adecuada/)
-- [https://www.xataka.com/tecnologiazen/el-numero-mas-importante-de-la-bateria-de-tu-movil-que-debes-conocer](https://www.xataka.com/tecnologiazen/el-numero-mas-importante-de-la-bateria-de-tu-movil-que-debes-conocer)
+- [[Cuales Son Las Diferencias De Las Pantallas Para Celulares Y Como Elegir La Mas Adecuada](https://www.infobae.com/america/tecno/2022/03/28/cuales-son-las-diferencias-de-las-pantallas-para-celulares-y-como-elegir-la-mas-adecuada/](https://www.infobae.com/america/tecno/2022/03/28/cuales-son-las-diferencias-de-las-pantallas-para-celulares-y-como-elegir-la-mas-adecuada/))
+- [[El Numero Mas Importante De La Bateria De Tu Movil Que Debes Conocer](https://www.xataka.com/tecnologiazen/el-numero-mas-importante-de-la-bateria-de-tu-movil-que-debes-conocer](https://www.xataka.com/tecnologiazen/el-numero-mas-importante-de-la-bateria-de-tu-movil-que-debes-conocer))
 
 ## Soluciones relacionadas
 
@@ -257,22 +257,22 @@ Esta pregunta es difícil de responder, pero creo que la podemos reformular de l
 
 ## Imagenes
 
-- [https://commons.wikimedia.org/wiki/File:Smartphone_with_Android.jpg](https://commons.wikimedia.org/wiki/File:Smartphone_with_Android.jpg)
-- [https://www.pexels.com/photo/close-up-photo-of-money-4636069/](https://www.pexels.com/photo/close-up-photo-of-money-4636069/)
-- [https://www.pexels.com/photo/hands-mockup-nokia-lumia-person-4968/](https://www.pexels.com/photo/hands-mockup-nokia-lumia-person-4968/)
-- [https://commons.wikimedia.org/wiki/File:Megapixel_comparison.jpg](https://commons.wikimedia.org/wiki/File:Megapixel_comparison.jpg)
-- [https://www.stockvault.net/photo/278530/mobile-phones-backside](https://www.stockvault.net/photo/278530/mobile-phones-backside)
-- [https://pixabay.com/vectors/camera-diaphragm-film-icon-lens-1298735/](https://pixabay.com/vectors/camera-diaphragm-film-icon-lens-1298735/)
-- [https://pixabay.com/illustrations/display-smartphone-screen-4044192/,https://pixabay.com/illustrations/display-smartphone-screen-4044192/](https://pixabay.com/illustrations/display-smartphone-screen-4044192/,https://pixabay.com/illustrations/display-smartphone-screen-4044192/)
-- [https://commons.wikimedia.org/wiki/File:Smartphone_(screen_on).jpg](https://commons.wikimedia.org/wiki/File:Smartphone_(screen_on).jpg)
-- [https://pxhere.com/es/photo/1153880](https://pxhere.com/es/photo/1153880)
-- [https://pxhere.com/en/photo/1205331](https://pxhere.com/en/photo/1205331)
-- [https://www.gettyimages.com.mx/detail/fotograf%C3%ADa-de-noticias/lithium-ion-battery-sits-inside-a-smartphone-fotograf%C3%ADa-de-noticias/466914105?adppopup=true](https://www.gettyimages.com.mx/detail/fotografía-de-noticias/lithium-ion-battery-sits-inside-a-smartphone-fotografía-de-noticias/466914105?adppopup=true)
-- [https://d3fyizz0b46qgr.cloudfront.net/global/store/pc1980_900.png](https://d3fyizz0b46qgr.cloudfront.net/global/store/pc1980_900.png)
+- [[File:Smartphone With Android](https://commons.wikimedia.org/wiki/File:Smartphone_with_Android.jpg](https://commons.wikimedia.org/wiki/File:Smartphone_with_Android.jpg))
+- [[Close Up Photo Of Money 4636069](https://www.pexels.com/photo/close-up-photo-of-money-4636069/](https://www.pexels.com/photo/close-up-photo-of-money-4636069/))
+- [[Hands Mockup Nokia Lumia Person 4968](https://www.pexels.com/photo/hands-mockup-nokia-lumia-person-4968/](https://www.pexels.com/photo/hands-mockup-nokia-lumia-person-4968/))
+- [[File:Megapixel Comparison](https://commons.wikimedia.org/wiki/File:Megapixel_comparison.jpg](https://commons.wikimedia.org/wiki/File:Megapixel_comparison.jpg))
+- [[Mobile Phones Backside](https://www.stockvault.net/photo/278530/mobile-phones-backside](https://www.stockvault.net/photo/278530/mobile-phones-backside))
+- [[Camera Diaphragm Film Icon Lens 1298735](https://pixabay.com/vectors/camera-diaphragm-film-icon-lens-1298735/](https://pixabay.com/vectors/camera-diaphragm-film-icon-lens-1298735/))
+- [[Display Smartphone Screen 4044192](https://pixabay.com/illustrations/display-smartphone-screen-4044192/,https://pixabay.com/illustrations/display-smartphone-screen-4044192/](https://pixabay.com/illustrations/display-smartphone-screen-4044192/,https://pixabay.com/illustrations/display-smartphone-screen-4044192/))
+- [File:Smartphone (Screen On)](https://commons.wikimedia.org/wiki/File:Smartphone_(screen_on).jpg)
+- [[1153880](https://pxhere.com/es/photo/1153880](https://pxhere.com/es/photo/1153880))
+- [[1205331](https://pxhere.com/en/photo/1205331](https://pxhere.com/en/photo/1205331))
+- [[466914105](https://www.gettyimages.com.mx/detail/fotograf%C3%ADa-de-noticias/lithium-ion-battery-sits-inside-a-smartphone-fotograf%C3%ADa-de-noticias/466914105?adppopup=true](https://www.gettyimages.com.mx/detail/fotografía-de-noticias/lithium-ion-battery-sits-inside-a-smartphone-fotografía-de-noticias/466914105?adppopup=true))
+- [[Pc1980 900](https://d3fyizz0b46qgr.cloudfront.net/global/store/pc1980_900.png](https://d3fyizz0b46qgr.cloudfront.net/global/store/pc1980_900.png))
 
 ---
 
-[https://notionreactions.com/embed/TpJjPIOAag7HGoEqSLWu](https://notionreactions.com/embed/TpJjPIOAag7HGoEqSLWu)
+[[Tpjjpioaag7Hgoeqslwu](https://notionreactions.com/embed/TpJjPIOAag7HGoEqSLWu](https://notionreactions.com/embed/TpJjPIOAag7HGoEqSLWu))
 
 ---
 

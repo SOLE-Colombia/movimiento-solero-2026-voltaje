@@ -41,9 +41,9 @@ recursos/tiempo: 0: Minutos
 
 # How to choose an internet service for non-interconnected locations?
 
-![Photo taken from wikipedia, [https://upload.wikimedia.org/wikipedia/commons/7/7e/Tooway_satellite_antenna_drawing.png](https://upload.wikimedia.org/wikipedia/commons/7/7e/Tooway_satellite_antenna_drawing.png) ](https://images.pexels.com/photos/5790645/pexels-photo-5790645.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![Photo taken from wikipedia, [https://upload.wikimedia.org/wikipedia/commons/7/7e/Tooway_satellite_antenna_drawing.png](https:/upload.wikimedia.org/wikipedia/commons/7/7e/Tooway_satellite_antenna_drawing.png) ](https://images.pexels.com/photos/5790645/pexels-photo-5790645.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-Photo taken from wikipedia, [https://upload.wikimedia.org/wikipedia/commons/7/7e/Tooway_satellite_antenna_drawing.png](https://upload.wikimedia.org/wikipedia/commons/7/7e/Tooway_satellite_antenna_drawing.png) 
+Photo taken from wikipedia, [[Tooway Satellite Antenna Drawing](https://upload.wikimedia.org/wikipedia/commons/7/7e/Tooway_satellite_antenna_drawing.png](https://upload.wikimedia.org/wikipedia/commons/7/7e/Tooway_satellite_antenna_drawing.png)) 
 
 ---
 
@@ -86,25 +86,25 @@ Now, the quality of the internet service you can choose will depend on your poss
     - **Satellite dish**
         
         
-        ![](https://cdn.colombia.com/sdi/2018/05/04/mas-internet-satelital-en-colombia-la-meta-de-bansat-632396.webp)
+        ![](https:/cdn.colombia.com/sdi/2018/05/04/mas-internet-satelital-en-colombia-la-meta-de-bansat-632396.webp)
         
         The most popular internet option for rural or remote areas these days is the satellite dish. The great advantage of this solution is its coverage, accessibility and price, which makes it a viable and functional option.  To access this technology, the company in charge must install a satellite dish in your home.
         
     - **WiMax**
         
         
-        ![Image taken from wikipedia, [https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg](https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg) ](https://upload.wikimedia.org/wikipedia/commons/d/db/Alvarion_CPE.jpg)
+        ![Image taken from wikipedia, [https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg](https:/es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg) ](https://upload.wikimedia.org/wikipedia/commons/d/db/Alvarion_CPE.jpg)
         
-        Image taken from wikipedia, [https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg](https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg) 
+        Image taken from wikipedia, [[/Media/Archivo:Alvarion Cpe.Jpg](Https://Es.Wikipedia.Org/Wiki/Wimax#/Media/Archivo:Alvarion Cpe.Jpg](https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg](https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg)) 
         
         The first thing you need to do is to contact a company that offers these services and has a [repeater](https://www.notion.so/36208321934045179a1bd4fef5a01720?pvs=21) near your house to send you the internet signal. Next, you need to put an antenna on the front of your house. This antenna will have to point directly to the repeater of the company that is going to give you the service or to an intermediate connection point that is used to save the obstacles that are interposed between your antenna and its repeater. The installation of the antenna will be done by the company itself.
         
     - **Starlink**
         
         
-        ![Image taken from Starlink, [https://www.starlink.com/es/specifications](https://www.starlink.com/es/specifications) ](https://api.starlink.com/public-files/Starlink_StandardActuated_500x500.png)
+        ![Image taken from Starlink, [Specifications](https://www.starlink.com/es/specifications) ](https://api.starlink.com/public-files/Starlink_StandardActuated_500x500.png)
         
-        Image taken from Starlink, [https://www.starlink.com/es/specifications](https://www.starlink.com/es/specifications) 
+        Image taken from Starlink, [[Specifications](https://www.starlink.com/es/specifications](https://www.starlink.com/es/specifications)) 
         
         Starlink is Elon Musk's satellite internet project. It is a particular satellite internet that facilitates connections especially in rural areas. The company claims to be the world's first and largest satellite constellation that uses a low Earth orbit to offer broadband, high-speed, low-latency satellite Internet, which allows you to watch streaming content, play online games, make video calls and more. To get it up and running, you must purchase an antenna kit to be placed outside your home that automatically orients itself to establish a connection in a matter of minutes, provided you have a clear view of the sky.
         
@@ -169,9 +169,9 @@ We already have an introduction of the available options, now we can move on to 
     
     First of all, define your budget, for this you can calculate how many days of work you are willing to invest together with your community to hire this service. Don't get into debt for an internet plan!
     
-    ![Maxi Gagliano, [https://www.pexels.com/photo/close-up-photo-of-money-4636069/](https://www.pexels.com/photo/close-up-photo-of-money-4636069/)](How%20to%20buy%20a%20satellite%20antenna%202562bd68c5b680998e98e89ef2de943f/Untitled.png)
+    ![Maxi Gagliano, [Close Up Photo Of Money 4636069](https://www.pexels.com/photo/close-up-photo-of-money-4636069/)](How%20to%20buy%20a%20satellite%20antenna%202562bd68c5b680998e98e89ef2de943f/Untitled.png)
     
-    Maxi Gagliano, [https://www.pexels.com/photo/close-up-photo-of-money-4636069/](https://www.pexels.com/photo/close-up-photo-of-money-4636069/)
+    Maxi Gagliano, [[Close Up Photo Of Money 4636069](https://www.pexels.com/photo/close-up-photo-of-money-4636069/](https://www.pexels.com/photo/close-up-photo-of-money-4636069/))
     
     - **Reliability**
     
@@ -207,15 +207,15 @@ You can take into account the following criteria and think about them according 
 
 ## References
 
-- [https://ibred.es/pros-y-contras-de-conectarse-a-internet-wimax-o-satelite/](https://ibred.es/pros-y-contras-de-conectarse-a-internet-wimax-o-satelite/)
-- [https://www.xataka.com/basics/wimax-que-como-funciona](https://www.xataka.com/basics/wimax-que-como-funciona)
+- [[Pros Y Contras De Conectarse A Internet Wimax O Satelite](https://ibred.es/pros-y-contras-de-conectarse-a-internet-wimax-o-satelite/](https://ibred.es/pros-y-contras-de-conectarse-a-internet-wimax-o-satelite/))
+- [[Wimax Que Como Funciona](https://www.xataka.com/basics/wimax-que-como-funciona](https://www.xataka.com/basics/wimax-que-como-funciona))
 - [https://www.lafm.com.co/tecnologia/starlink-el-internet-de-elon-musk-cuanto-cuesta-y-como-comprarlo-en-colombia#:~:text=Así things%2C the best,Starlink on their website.&text=Directly on page%2C the,in total 2,299,600 pesos](https://www.lafm.com.co/tecnologia/starlink-el-internet-de-elon-musk-cuanto-cuesta-y-como-comprarlo-en-colombia#:~:text=Así las cosas, lo mejor,Starlink en su página web.&text=Directamente en la página, el,en total 2.299.600 pesos).
-- [https://codigoespagueti.com/noticias/tecnologia/starlink-ventajas-y-desventajas-del-servicio-de-internet-de-elon-musk/](https://codigoespagueti.com/noticias/tecnologia/starlink-ventajas-y-desventajas-del-servicio-de-internet-de-elon-musk/)
-- [https://www.prensalibre.com/vida/tecnologia/starlink-ventajas-y-desventajas-del-servicio-de-internet-satelital-de-spacex-compania-de-elon-musk/](https://www.prensalibre.com/vida/tecnologia/starlink-ventajas-y-desventajas-del-servicio-de-internet-satelital-de-spacex-compania-de-elon-musk/)
+- [[Starlink Ventajas Y Desventajas Del Servicio De Internet De Elon Musk](https://codigoespagueti.com/noticias/tecnologia/starlink-ventajas-y-desventajas-del-servicio-de-internet-de-elon-musk/](https://codigoespagueti.com/noticias/tecnologia/starlink-ventajas-y-desventajas-del-servicio-de-internet-de-elon-musk/))
+- [[Starlink Ventajas Y Desventajas Del Servicio De Internet Satelital De Spacex Compania De Elon Musk](https://www.prensalibre.com/vida/tecnologia/starlink-ventajas-y-desventajas-del-servicio-de-internet-satelital-de-spacex-compania-de-elon-musk/](https://www.prensalibre.com/vida/tecnologia/starlink-ventajas-y-desventajas-del-servicio-de-internet-satelital-de-spacex-compania-de-elon-musk/))
 
 ---
 
-[https://notionreactions.com/embed/A3WRx4f6lz4IdzU3LxOt](https://notionreactions.com/embed/A3WRx4f6lz4IdzU3LxOt)
+[[A3Wrx4F6Lz4Idzu3Lxot](https://notionreactions.com/embed/A3WRx4f6lz4IdzU3LxOt](https://notionreactions.com/embed/A3WRx4f6lz4IdzU3LxOt))
 
 ---
 

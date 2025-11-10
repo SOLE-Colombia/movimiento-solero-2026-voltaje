@@ -130,7 +130,7 @@ It's fun!
 - [¡Aprende a diseñar tu invitación exprés sin ser un experto!](/aprende-a-disenar-tu-invitacion-expres-sin-ser-un-experto-solutions-db) | [Learn how to design your express invitation without being an expert!](/learn-how-to-design-your-express-invitation-without-being-an-expert-solutions-db)
 - [¿Cómo conseguir equipos donados?](/como-conseguir-equipos-donados-solutions-db) | [How to get donated equipment?](/how-to-get-donated-equipment-solutions-db)
 
-[https://notionreactions.com/embed/TpJjPIOAag7HGoEqSLWu](https://notionreactions.com/embed/TpJjPIOAag7HGoEqSLWu)
+[[Tpjjpioaag7Hgoeqslwu](https://notionreactions.com/embed/TpJjPIOAag7HGoEqSLWu](https://notionreactions.com/embed/TpJjPIOAag7HGoEqSLWu))
 
 ---
 

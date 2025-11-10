@@ -73,7 +73,7 @@ With these recommendations you can find out how to approach others to support th
     
     It is worth asking ourselves how we can build networks to successfully convene our activities. If you work on consolidating your abilities to join forces with others, you will start to see how it flows better and better. 
     
-    <img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
     
     Photo: SOLE Colombia
     
@@ -89,7 +89,7 @@ With these recommendations you can find out how to approach others to support th
     
     Now that you have recognized the strategic actors to convene, and you know how to align their objectives with the ones you have, choose the one you feel best to work with for each of the objectives you have.
     
-    <img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db/image 1-275w.webp)
     
     Photo: SOLE Colombia
     
@@ -163,7 +163,7 @@ Remember that you will not always be able to convince everyone to work with you,
 
 ---
 
-[https://notionreactions.com/embed/JrsgN93BQdbcOR26n2TX](https://notionreactions.com/embed/JrsgN93BQdbcOR26n2TX)
+[[Jrsgn93Bqdbcor26N2Tx](https://notionreactions.com/embed/JrsgN93BQdbcOR26n2TX](https://notionreactions.com/embed/JrsgN93BQdbcOR26n2TX))
 
 ---
 

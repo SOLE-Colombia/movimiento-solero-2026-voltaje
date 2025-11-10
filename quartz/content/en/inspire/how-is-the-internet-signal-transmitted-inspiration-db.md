@@ -55,11 +55,11 @@ The internet signal is transmitted **through physical infrastructure such as fib
 3. **Routing:** Routers and other network equipment direct these bits along the most efficient path to their destination.
 4. **Receiving:** At the receiving device, the bits are converted back into the original information that you can see or use.
 
-(Fuente: https://es.wikipedia.org/wiki/Medio_de_transmisi%C3%B3n)
+(Fuente: [Medio De Transmisi%C3%B3N](https://es.wikipedia.org/wiki/Medio_de_transmisi%C3%B3n))
 
 ---
 
-[https://notionreactions.com/embed/Y8trii17g0vU4qcuk2Yt](https://notionreactions.com/embed/Y8trii17g0vU4qcuk2Yt)
+[[Y8Trii17G0Vu4Qcuk2Yt](https://notionreactions.com/embed/Y8trii17g0vU4qcuk2Yt](https://notionreactions.com/embed/Y8trii17g0vU4qcuk2Yt))
 
 ---
 

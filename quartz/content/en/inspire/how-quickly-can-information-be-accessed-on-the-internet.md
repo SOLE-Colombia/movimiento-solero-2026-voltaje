@@ -47,7 +47,7 @@ Download megabytes (MB) are a measure of how quickly internet data is transmitte
 
 ---
 
-[https://notionreactions.com/embed/SevGVMTc1yX9Z2BM9EZU](https://notionreactions.com/embed/SevGVMTc1yX9Z2BM9EZU)
+[[Sevgvmtc1Yx9Z2Bm9Ezu](https://notionreactions.com/embed/SevGVMTc1yX9Z2BM9EZU](https://notionreactions.com/embed/SevGVMTc1yX9Z2BM9EZU))
 
 ---
 

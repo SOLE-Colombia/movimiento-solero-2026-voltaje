@@ -147,7 +147,7 @@ Recuerda que Internet es de todos y para todos, cuanto más lo conozcamos, mejor
 - [¿Cómo aprovechar mi ancho de banda?](/como-aprovechar-mi-ancho-de-banda-solutions-db)
 - [¿Cómo probar la velocidad de tu conexión a Internet?](/como-probar-la-velocidad-de-tu-conexion-a-internet-solutions-db)
 
-[https://notionreactions.com/embed/aOACgHI5J1Xgz9RuiRiy](https://notionreactions.com/embed/aOACgHI5J1Xgz9RuiRiy)
+[[Aoacghi5J1Xgz9Ruiriy](https://notionreactions.com/embed/aOACgHI5J1Xgz9RuiRiy](https://notionreactions.com/embed/aOACgHI5J1Xgz9RuiRiy))
 
 ---
 

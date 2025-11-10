@@ -71,17 +71,17 @@ Si quieres aprovechar al máximo una conexión cercana, puedes conectarte a esas
     - Antes de comenzar el proceso de instalación, es necesario que cuentes con una conexión a Internet estable.
     - Una vez la hayas encontrado, puedes abrir la aplicación “Google Play” para Android o Apple Store para IOS y buscar la aplicación WiFi Map.
     - Otra alternativa es entrar en alguno de estos enlaces, a través de un explorador web:
-        - https://play.google.com/store/apps/details?id=io.wifimap.wifimap&hl=es_CO
-        - https://apps.apple.com/us/app/wifi-map-free-wifi-near-you/id548925969?l=es
+        - [Details](https://play.google.com/store/apps/details?id=io.wifimap.wifimap&hl=es_CO)
+        - [Id548925969](https://apps.apple.com/us/app/wifi-map-free-wifi-near-you/id548925969?l=es)
 - **Momento 2: Configura la app**
     
     Una vez esté instalada la aplicación, ábrela y acepta los términos de uso. Entre ellos, es muy importante que aceptes el acceso a tu ubicación mientras la aplicación esté en uso.
     
-    <img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
     
     Abre la aplicación y desliza la parte superior de tu teléfono hacia abajo para acceder al panel de control. Activa la ubicación, en caso de que la aplicación no lo haya hecho ya.
     
-    <img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db/image 1-275w.webp)
     
 - **Momento 3: A usar la app**
     
@@ -89,19 +89,19 @@ Si quieres aprovechar al máximo una conexión cercana, puedes conectarte a esas
     
     En la parte inferior de la pantalla, aparecerán las redes [WiFi](/wifi-fidelidad-inalambrica-wifi-wireless-fidelity-conceptorio) más cercanas de las que tenemos la contraseña de acceso.
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 2-800w.webp)
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 3-800w.webp)
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 4-800w.webp)
     
 - **Momento 4: Selecciona una red**
     - Cuando puedas ver la lista de redes [***WiFI](/wifi-fidelidad-inalambrica-wifi-wireless-fidelity-conceptorio)*** que tienes cerca, puedes seleccionar alguna y ver sus datos de acceso.
     - Algunas veces la aplicación te solicitará ver un video, antes de permitirte ver las contraseñas de las redes. Es la manera en la que la app utiliza publicidad para financiarse en su versión no paga.
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 5-800w.webp)
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 6-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 6-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 6-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 6-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 6-800w.webp)
     
 
 ## **¿Cómo saber si esta solución funciona?**
@@ -126,11 +126,11 @@ Para poder acceder a estas claves debes tener acceso a internet, ya que únicame
 
 ## Referencias
 
-- [https://www.testdevelocidad.es/2017/07/26/aplicaciones-wifi-gratis/](https://www.testdevelocidad.es/2017/07/26/aplicaciones-wifi-gratis/)
+- [[Aplicaciones Wifi Gratis](https://www.testdevelocidad.es/2017/07/26/aplicaciones-wifi-gratis/](https://www.testdevelocidad.es/2017/07/26/aplicaciones-wifi-gratis/))
 
 ---
 
-[https://notionreactions.com/embed/oBPraKy4b5fqN6qAtrb2](https://notionreactions.com/embed/oBPraKy4b5fqN6qAtrb2)
+[[Obpraky4B5Fqn6Qatrb2](https://notionreactions.com/embed/oBPraKy4b5fqN6qAtrb2](https://notionreactions.com/embed/oBPraKy4b5fqN6qAtrb2))
 
 ---
 
@@ -150,4 +150,4 @@ Para poder acceder a estas claves debes tener acceso a internet, ya que únicame
 
 [SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
 
-<img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 7-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 7-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 7-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 7-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 7-800w.webp)

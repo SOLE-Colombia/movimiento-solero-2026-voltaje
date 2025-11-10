@@ -77,7 +77,7 @@ But now you can change the chip and discover how to make a beautiful invitation!
     
     Let's get started! Open your browser and visit canva.com. If you don't have an account yet, you can create one for free.
     
-    <img src="/assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-800w.webp" alt="Untitled" srcset="/assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-400w.webp 400w, /assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-800w.webp 800w, /assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f/Untitled-800w.webp)
     
 - **Select a size**
     
@@ -85,7 +85,7 @@ But now you can change the chip and discover how to make a beautiful invitation!
     
     **Choose a Template or Start From Scratch** Would you prefer to start with a pre-designed template or let your creativity run wild from scratch? Here you can explore the options and find the style you like best:
     
-    <img src="/assets\images\¡Aprende a diseñar tu invitación exprés sin ser un 12a2bd68c5b6805ea10deb06a5635a72\Untitled 1-400w.webp" alt="Untitled" srcset="/assets\images\¡Aprende a diseñar tu invitación exprés sin ser un 12a2bd68c5b6805ea10deb06a5635a72\Untitled 1-400w.webp 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¡Aprende a diseñar tu invitación exprés sin ser un 12a2bd68c5b6805ea10deb06a5635a72/Untitled 1-400w.webp)
     
 - **Customize your Design**
     
@@ -93,13 +93,13 @@ But now you can change the chip and discover how to make a beautiful invitation!
     
     See how mine turned out:
     
-    <img src="/assets\images\¡Aprende a diseñar tu invitación exprés sin ser un 12a2bd68c5b6805ea10deb06a5635a72\Untitled 2-400w.webp" alt="Untitled" srcset="/assets\images\¡Aprende a diseñar tu invitación exprés sin ser un 12a2bd68c5b6805ea10deb06a5635a72\Untitled 2-400w.webp 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¡Aprende a diseñar tu invitación exprés sin ser un 12a2bd68c5b6805ea10deb06a5635a72/Untitled 2-400w.webp)
     
 - **Download your Invitation**
     
     When you're happy with your design, click the download button and choose your desired format (JPEG or PNG) - your invitation is ready to print or share online!
     
-    <img src="/assets\images\¡Aprende a diseñar tu invitación exprés sin ser un 12a2bd68c5b6805ea10deb06a5635a72\Untitled 3-800w.webp" alt="Untitled" srcset="/assets\images\¡Aprende a diseñar tu invitación exprés sin ser un 12a2bd68c5b6805ea10deb06a5635a72\Untitled 3-400w.webp 400w, /assets\images\¡Aprende a diseñar tu invitación exprés sin ser un 12a2bd68c5b6805ea10deb06a5635a72\Untitled 3-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/¡Aprende a diseñar tu invitación exprés sin ser un 12a2bd68c5b6805ea10deb06a5635a72/Untitled 3-800w.webp)
     
 
 ## How do I know if this solution works?
@@ -130,7 +130,7 @@ Remember, you can do it! Let your creativity run wild and make your next event a
 
 ---
 
-[https://notionreactions.com/embed/TpJjPIOAag7HGoEqSLWu](https://notionreactions.com/embed/TpJjPIOAag7HGoEqSLWu)
+[[Tpjjpioaag7Hgoeqslwu](https://notionreactions.com/embed/TpJjPIOAag7HGoEqSLWu](https://notionreactions.com/embed/TpJjPIOAag7HGoEqSLWu))
 
 ---
 

@@ -305,7 +305,7 @@ En un cartel, las personas podrán marcar en una casilla, cuál o cuáles video(
 
 # as
 
-[https://notionreactions.com/embed/iRGshw9x6PbHd6lYmFH9](https://notionreactions.com/embed/iRGshw9x6PbHd6lYmFH9)
+[[Irgshw9X6Pbhd6Lymfh9](https://notionreactions.com/embed/iRGshw9x6PbHd6lYmFH9](https://notionreactions.com/embed/iRGshw9x6PbHd6lYmFH9))
 
 ---
 

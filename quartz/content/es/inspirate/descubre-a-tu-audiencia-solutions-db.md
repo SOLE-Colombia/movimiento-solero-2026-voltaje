@@ -129,7 +129,7 @@ Darle muchas vueltas a las maneras de comunicarnos y a las audiencias que vamos 
 - [¿Cómo escribir una buena invitación?](/como-escribir-una-buena-invitacion-solutions-db)
 - [¡Aprende a diseñar tu invitación exprés sin ser un experto!](/aprende-a-disenar-tu-invitacion-expres-sin-ser-un-experto-solutions-db)
 
-[https://notionreactions.com/embed/ghlOjGIwGmoK5NpPTtdw](https://notionreactions.com/embed/ghlOjGIwGmoK5NpPTtdw)
+[[Ghlojgiwgmok5Nppttdw](https://notionreactions.com/embed/ghlOjGIwGmoK5NpPTtdw](https://notionreactions.com/embed/ghlOjGIwGmoK5NpPTtdw))
 
 ---
 

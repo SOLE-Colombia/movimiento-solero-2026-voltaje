@@ -72,9 +72,9 @@ La mejor parte es que la historia no termina ahí: los Embajadores han liderado 
 
 **Descubre la página web que han creado para contarle al mundo entero sobre su comunidad:**
 
-[https://padlet.com/comunidadlaguayana/sole-la-guayana-88px4kf30ooi6s7b](https://padlet.com/comunidadlaguayana/sole-la-guayana-88px4kf30ooi6s7b)
+[[Sole La Guayana 88Px4Kf30Ooi6S7B](https://padlet.com/comunidadlaguayana/sole-la-guayana-88px4kf30ooi6s7b](https://padlet.com/comunidadlaguayana/sole-la-guayana-88px4kf30ooi6s7b))
 
-[https://notionreactions.com/embed/fO2juMDLjyGHfXMADXRO](https://notionreactions.com/embed/fO2juMDLjyGHfXMADXRO)
+[[Fo2Jumdljyghfxmadxro](https://notionreactions.com/embed/fO2juMDLjyGHfXMADXRO](https://notionreactions.com/embed/fO2juMDLjyGHfXMADXRO))
 
 ---
 

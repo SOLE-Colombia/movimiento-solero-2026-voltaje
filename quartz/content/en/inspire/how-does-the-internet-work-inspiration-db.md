@@ -52,7 +52,7 @@ The computer where the information you are consulting is stored is called the **
 
 In order for the information sent by a **server** to reach your home, neighborhood, village or community, the **client** you use connects to the Internet. Let's take, for example, your cell phone somewhere in Colombia and the response is on a server in Europe. This is the great adventure that your question takes.
 
-<img src="/assets\images\¿Cómo funciona el Internet 1362bd68c5b680c3b903ead1b7123665\20241101_Grafico__como_viaja_tu_pregunta_por_internet-800w.webp" alt="How does your question travel through the Internet? SOLE Colombia, 2024." srcset="/assets\images\¿Cómo funciona el Internet 1362bd68c5b680c3b903ead1b7123665\20241101_Grafico__como_viaja_tu_pregunta_por_internet-400w.webp 400w, /assets\images\¿Cómo funciona el Internet 1362bd68c5b680c3b903ead1b7123665\20241101_Grafico__como_viaja_tu_pregunta_por_internet-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/¿Cómo funciona el Internet 1362bd68c5b680c3b903ead1b7123665/20241101_Grafico__como_viaja_tu_pregunta_por_internet-800w.webp)
 
 How does your question travel through the Internet? SOLE Colombia, 2024.
 
@@ -95,7 +95,7 @@ Retrieved from: [<div class="video-container" style="position: relative; padding
 </div>?si=9Kdp80RMQhI5pXFl](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/k1SMnnddpvI" 
+    src="[K1Smnnddpvi](https://www.youtube.com/embed/k1SMnnddpvI)" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
@@ -104,15 +104,15 @@ Retrieved from: [<div class="video-container" style="position: relative; padding
 
 Submarine Internet cable map 
 
-![cable data by Greg Mahlknecht , map by Openstreetmap contributorsOpenStreetMap contributors, CC BY-SA 2.0 [https://creativecommons.org/licenses/by-sa/2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons](../../../%C2%BFC%C3%B3mo%20funciona%20el%20Internet%201362bd68c5b680c3b903ead1b7123665/Submarine_cable_map_umap.png)
+![cable data by Greg Mahlknecht , map by Openstreetmap contributorsOpenStreetMap contributors, CC BY-SA 2.0 [creativecommons.org](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons](../../../%C2%BFC%C3%B3mo%20funciona%20el%20Internet%201362bd68c5b680c3b903ead1b7123665/Submarine_cable_map_umap.png)
 
-cable data by Greg Mahlknecht , map by Openstreetmap contributorsOpenStreetMap contributors, CC BY-SA 2.0 [https://creativecommons.org/licenses/by-sa/2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons
+cable data by Greg Mahlknecht , map by Openstreetmap contributorsOpenStreetMap contributors, CC BY-SA 2.0 [[creativecommons.org](https://creativecommons.org/licenses/by-sa/2.0](https://creativecommons.org/licenses/by-sa/2.0)), via Wikimedia Commons
 
 It should be noted that submarine cables allow us to transmit data in order for telecommunications services to exist. The reason why information travels so fast is because the cables are made of fiber optics, i.e. glass. This means that the information, the zeros "0" and "1" are sent in the form of light and light is the fastest traveling thing in the entire universe. 
 
 Isn't it tremendous what we humans invented?
 
-[https://notionreactions.com/embed/7aQSWHsLLqObLwBXtscw](https://notionreactions.com/embed/7aQSWHsLLqObLwBXtscw)
+[[7Aqswhsllqoblwbxtscw](https://notionreactions.com/embed/7aQSWHsLLqObLwBXtscw](https://notionreactions.com/embed/7aQSWHsLLqObLwBXtscw))
 
 ---
 

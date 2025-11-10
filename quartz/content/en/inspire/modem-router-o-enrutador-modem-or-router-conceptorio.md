@@ -25,7 +25,7 @@ Es importante el aparato porque, normalmente, dispone de una pegatina donde se e
 
 ## Referencias
 
-- [https://es.wikipedia.org/wiki/M%C3%B3dem](https://es.wikipedia.org/wiki/Módem)
+- [[Módem](https://es.wikipedia.org/wiki/M%C3%B3dem](https://es.wikipedia.org/wiki/Módem))
 
 ## English
 
@@ -37,4 +37,4 @@ The device is important because it usually has a sticker with the data we need t
 
 ## References
 
-- [https://es.wikipedia.org/wiki/M%C3%B3dem](https://es.wikipedia.org/wiki/Módem)
+- [[Módem](https://es.wikipedia.org/wiki/M%C3%B3dem](https://es.wikipedia.org/wiki/Módem))

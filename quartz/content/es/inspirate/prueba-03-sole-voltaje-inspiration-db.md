@@ -62,7 +62,7 @@ Hacer introducción de toma de fotos.
 
 Lo ideal sería que todas las personas interactuarán en grupo en este dispositivo. Al final cada persona qu salga por un camino debe poner un punto.
 
-[https://jamboard.google.com/d/1Y34vGSI9O59fpOe5OWD6ck5qWBsgEy-hZfoSQ56dwbI/viewer?f=1&pli=1](https://jamboard.google.com/d/1Y34vGSI9O59fpOe5OWD6ck5qWBsgEy-hZfoSQ56dwbI/viewer?f=1&pli=1)
+[[Viewer](https://jamboard.google.com/d/1Y34vGSI9O59fpOe5OWD6ck5qWBsgEy-hZfoSQ56dwbI/viewer?f=1&pli=1](https://jamboard.google.com/d/1Y34vGSI9O59fpOe5OWD6ck5qWBsgEy-hZfoSQ56dwbI/viewer?f=1&pli=1))
 
 [](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdifpThWAS8cnlltayq3Vu1GNJnyM6XAQk8xVPyk6gbhwYf2f3pmPgy3v4Wy3hPI2OCcLwNki7C325xPetbnZxn-sEOo0tGk9wCRFvR6BFhwPdKXEWC_m09f_4LR9UanYdfUF75LNqF0ldWOQQb93tEvSmp?key=maRDfgM1AouQWJNCYlweqg)
 
@@ -100,8 +100,8 @@ Si  una ficha de lego representan 10 Gb  pon tus apreciaciones en relación a 
 
 Un persona consume más de 500 Gb al mes
 
-- [*https://www.populoos.es/blog/cuantos-GB-consume-persona-mes/*](https://www.populoos.es/blog/cuantos-GB-consume-persona-mes/)
-- [*https://www.highspeedinternet.com/es/recursos/cuantos-datos-de-internet-necesitas#:~:text=El%20usuario%20promedio%20de%20internet,un%20informe%20reciente%20de%20OpenVault](https://www.highspeedinternet.com/es/recursos/cuantos-datos-de-internet-necesitas#:~:text=El usuario promedio de internet,un informe reciente de OpenVault).*
+- [*[Cuantos Gb Consume Persona Mes](https://www.populoos.es/blog/cuantos-GB-consume-persona-mes/*](https://www.populoos.es/blog/cuantos-GB-consume-persona-mes/))
+- [*[:~:Text=El%20Usuario%20Promedio%20De%20Internet,Un%20Informe%20Reciente%20De%20Openvault](Https://Www.Highspeedinternet.Com/Es/Recursos/Cuantos Datos De Internet Necesitas#:~:Text=El](https://www.highspeedinternet.com/es/recursos/cuantos-datos-de-internet-necesitas#:~:text=El%20usuario%20promedio%20de%20internet,un%20informe%20reciente%20de%20OpenVault](https://www.highspeedinternet.com/es/recursos/cuantos-datos-de-internet-necesitas#:~:text=El) usuario promedio de internet,un informe reciente de OpenVault).*
 
 La mayorìa de personas necesita 600 Gb al mes.
 
@@ -157,7 +157,7 @@ Diseñen un dispositivo rápido para interpelar, reflexionar y dialogar sobre el
 
 ### Presentación de apoyo
 
-https://docs.google.com/presentation/d/e/2PACX-1vTpcRPTSpgqWM9giJwjYb1W5a11bbBJAxEYkPKPP99IdzguZRbrtkXxMFNGKsF1WQ/pub?start=false&loop=false&delayms=3000
+[docs.google.com](https://docs.google.com/presentation/d/e/2PACX-1vTpcRPTSpgqWM9giJwjYb1W5a11bbBJAxEYkPKPP99IdzguZRbrtkXxMFNGKsF1WQ/pub?start=false&loop=false&delayms=3000)
 
 ### Materiales
 
@@ -165,9 +165,9 @@ https://docs.google.com/presentation/d/e/2PACX-1vTpcRPTSpgqWM9giJwjYb1W5a11bbBJA
 
 | **Material** | **Referente** | **Cantidad** |
 | --- | --- | --- |
-| Piedras de colores | [https://panafargo.com/producto/piedras-decorativas/](https://panafargo.com/producto/piedras-decorativas/) | 2 bolsas |
-| Puntos adhesivos de color oscuro | [https://www.modulor.de/es/puntos-adhesivos-de-color-herma-paquetes-pequenos.html](https://www.modulor.de/es/puntos-adhesivos-de-color-herma-paquetes-pequenos.html) | 20 hojas |
-| Cinta pegante 18 mm | [https://www.mercadolibre.com.co/cinta-de-enmascarar-tesa-18mm-x-25m-color-crema/p/MCO29816302#searchVariation=MCO29816302&position=8&search_layout=grid&type=product&tracking_id=aecf9ec2-d99e-4fbb-9ae2-5005b64265f9](https://www.mercadolibre.com.co/cinta-de-enmascarar-tesa-18mm-x-25m-color-crema/p/MCO29816302#searchVariation=MCO29816302&position=8&search_layout=grid&type=product&tracking_id=aecf9ec2-d99e-4fbb-9ae2-5005b64265f9) | 3 unidades |
+| Piedras de colores | [[Piedras Decorativas](https://panafargo.com/producto/piedras-decorativas/](https://panafargo.com/producto/piedras-decorativas/)) | 2 bolsas |
+| Puntos adhesivos de color oscuro | [[Puntos Adhesivos De Color Herma Paquetes Pequenos](https://www.modulor.de/es/puntos-adhesivos-de-color-herma-paquetes-pequenos.html](https://www.modulor.de/es/puntos-adhesivos-de-color-herma-paquetes-pequenos.html)) | 20 hojas |
+| Cinta pegante 18 mm | [[Searchvariation=Mco29816302&Position=8&Search Layout=Grid&Type=Product&Tracking Id=Aecf9Ec2 D99E 4Fbb 9Ae2 5005B64265F9](Https://Www.Mercadolibre.Com.Co/Cinta De Enmascarar Tesa 18Mm X 25M Color Crema/P/Mco29816302#Searchvariation=Mco29816302&Position=8&Search Layout=Grid&Type=Product&Tracking Id=Aecf9Ec2 D99E 4Fbb 9Ae2 5005B64265F9](https://www.mercadolibre.com.co/cinta-de-enmascarar-tesa-18mm-x-25m-color-crema/p/MCO29816302#searchVariation=MCO29816302&position=8&search_layout=grid&type=product&tracking_id=aecf9ec2-d99e-4fbb-9ae2-5005b64265f9](https://www.mercadolibre.com.co/cinta-de-enmascarar-tesa-18mm-x-25m-color-crema/p/MCO29816302#searchVariation=MCO29816302&position=8&search_layout=grid&type=product&tracking_id=aecf9ec2-d99e-4fbb-9ae2-5005b64265f9)) | 3 unidades |
 
 [](https://lh7-rt.googleusercontent.com/docsz/AD_4nXczrsD73Qsn6-nZqhK5qb7vfqwzeqo8eGyS9KzX_h5-kTleHBAoDcwP_RbfPPhoKYwiDqUnmlLTOfzGGfW8HPRh2XbxAE_nQ-H2lTLXen0cKmGtVcrDKrK4wWQtTzm_f2vblzw3zrTHNAPGIXqNciE0w1uT?key=maRDfgM1AouQWJNCYlweqg)
 
@@ -269,7 +269,7 @@ Si una ficha de lego representa 20 canciones ¿Cuántas canciones escuchas al me
 
 ¿Cuántas GB necesitas para tu plan de datos móviles?
 
-[https://notionreactions.com/embed/iRGshw9x6PbHd6lYmFH9](https://notionreactions.com/embed/iRGshw9x6PbHd6lYmFH9)
+[[Irgshw9X6Pbhd6Lymfh9](https://notionreactions.com/embed/iRGshw9x6PbHd6lYmFH9](https://notionreactions.com/embed/iRGshw9x6PbHd6lYmFH9))
 
 ---
 

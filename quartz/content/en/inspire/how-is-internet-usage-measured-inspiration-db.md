@@ -49,7 +49,7 @@ How much data is used?
 
 ---
 
-[https://notionreactions.com/embed/P6NPbczTKRHvRWn2Nulg](https://notionreactions.com/embed/P6NPbczTKRHvRWn2Nulg)
+[[P6Npbcztkrhvrwn2Nulg](https://notionreactions.com/embed/P6NPbczTKRHvRWn2Nulg](https://notionreactions.com/embed/P6NPbczTKRHvRWn2Nulg))
 
 ---
 

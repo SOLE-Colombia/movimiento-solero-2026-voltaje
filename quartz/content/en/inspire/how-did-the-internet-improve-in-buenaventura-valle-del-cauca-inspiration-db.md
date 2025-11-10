@@ -34,7 +34,7 @@ traducción: Yes
 
 *Download this Inspiration to use it disconnected*
 
-[https://www.notion.so](https://www.notion.so)
+[[https://www.notion.so](https://www.notion.so](https://www.notion.so](https://www.notion.so))
 
 This story begins in 2023, when we arrived in Calle Larga, in Buenaventura. There we were, with our rural connectivity kit. The idea was simple: to give them a better Internet connection so they could use it in the SOLE (Self-Organized Learning Spaces) sessions.  That's when we met her:
 
@@ -72,12 +72,12 @@ To tinker with the Internet you don't need to be an expert, just curious and eag
 
 Thanks to the enthusiasm of Rosa Helena and Jefferson, now in La Delfina they not only have Internet, but a tool to create and share their own world. At the last SOLE Festival, they got together to create their own web page and now they share their history, their customs and even what they have learned in the SOLE sessions with other communities and the whole world.
 
-[https://padlet.com/ladelfinacomunidad/sole-la-delfina-mtzyd41u0eu9im0o](https://padlet.com/ladelfinacomunidad/sole-la-delfina-mtzyd41u0eu9im0o)
+[[Sole La Delfina Mtzyd41U0Eu9Im0O](https://padlet.com/ladelfinacomunidad/sole-la-delfina-mtzyd41u0eu9im0o](https://padlet.com/ladelfinacomunidad/sole-la-delfina-mtzyd41u0eu9im0o))
 
 > This is the best thing about technology: it's not just about having the Internet, it's about having a space to learn and create together. Rosa Helena and Jefferson are creating the future of the Internet!
 > 
 
-[https://notionreactions.com/embed/NhY3BfePaYgBOqEhAcKh](https://notionreactions.com/embed/NhY3BfePaYgBOqEhAcKh)
+[[Nhy3Bfepaygboqehackh](https://notionreactions.com/embed/NhY3BfePaYgBOqEhAcKh](https://notionreactions.com/embed/NhY3BfePaYgBOqEhAcKh))
 
 ---
 

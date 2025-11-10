@@ -22,7 +22,7 @@ dnsmasq tiene bajos requerimientos de recursos del sistema, puede ejecutarse en�
 
 En consecuencia, "está presente en muchos [routers](https://es.wikipedia.org/wiki/Routers) domésticos y en ciertos [gadgets](https://es.wikipedia.org/wiki/Gadgets) del [Internet de las cosas](https://es.wikipedia.org/wiki/Internet_de_las_cosas)", también está incluido en Android.
 
-Si quieres saber más detalles, puedes consultar https://es.wikipedia.org/wiki/Dnsmasq
+Si quieres saber más detalles, puedes consultar [Dnsmasq](https://es.wikipedia.org/wiki/Dnsmasq)
 
 ## English
 
@@ -32,4 +32,4 @@ dnsmasq has low system resource requirements, can run on [Linux](https://es.wiki
 
 Consequently, "it is present in many home [routers](https://es.wikipedia.org/wiki/Routers) and certain [Internet of Things](https://es.wikipedia.org/wiki/Internet_de_las_cosas) [gadgets](https://es.wikipedia.org/wiki/Gadgets) ", it is also included in Android.
 
-For more details, see https://es.wikipedia.org/wiki/Dnsmasq.
+For more details, see [Dnsmasq](https://es.wikipedia.org/wiki/Dnsmasq.)

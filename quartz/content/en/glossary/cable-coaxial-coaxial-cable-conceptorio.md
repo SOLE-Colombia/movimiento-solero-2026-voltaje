@@ -12,7 +12,7 @@ fecha: '2025-10-11'
 # Cable coaxial | Coaxial cable
 
 Fecha de creación: 15 de febrero de 2024 15:05
-carátula: https://upload.wikimedia.org/wikipedia/commons/7/73/RG-59.jpg
+carátula: [Rg 59](https://upload.wikimedia.org/wikipedia/commons/7/73/RG-59.jpg)
 Tags: material
 R2025: revisado
 idioma: english, español
@@ -43,7 +43,7 @@ Between the two, there is **a** **dielectric** **insulating layer**, the charact
 
 The whole assembly is usually **protected by an insulating jacket** (also called outer jacket).
 
-<img src="/assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\RG-59-400w.webp" alt="" srcset="/assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\RG-59-400w.webp 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6/RG-59-400w.webp)
 
 💡 Partes del cable coaxial RG-59 (para señales):
 A: cubierta protectora de plástico (elastómero termoplástico)
@@ -55,4 +55,4 @@ D: conductor central o núcleo de cobre (acero recubierto de cobre).
 
 ## References:
 
-- [https://es.wikipedia.org/wiki/Cable_coaxial#:~:text=Un cable coaxial consta de,electrónicas que constituyen la información](https://es.wikipedia.org/wiki/Cable_coaxial#:~:text=Un cable coaxial consta de,electrónicas que constituyen la información).
+- [:~:Text=Un Cable Coaxial Consta De,Electrónicas Que Constituyen La Información](https://es.wikipedia.org/wiki/Cable_coaxial#:~:text=Un cable coaxial consta de,electrónicas que constituyen la información).

@@ -45,4 +45,4 @@ A 3/4G antenna, also known as an LTE antenna, **is a device that facilitates int
 - **Difference with WiFi:** Unlike WiFi antennas that operate in the 2.4 GHz and 5 GHz bands, 4G antennas use different frequency bands defined by the operator.
 - **Use in rural areas:** In rural areas, where the signal can be weak, outdoor antennas can be especially useful to improve the internet connection.
 
-<img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Antena 3/4G](/assets/images/conc-antenna/conc-antenna-parabolic.png)

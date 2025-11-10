@@ -157,10 +157,10 @@ El siguiente paso sería cómo mejorar las condiciones de esta conectividad, sin
 
 ## Referencias
 
-- [https://www.gofundme.com/es-es/c/fundraising-ideas/schools](https://www.gofundme.com/es-es/c/fundraising-ideas/schools)
-- [https://www.gofundme.com/es-es/c/fundraising-ideas/fast](https://www.gofundme.com/es-es/c/fundraising-ideas/fast)
+- [[Schools](https://www.gofundme.com/es-es/c/fundraising-ideas/schools](https://www.gofundme.com/es-es/c/fundraising-ideas/schools))
+- [[Fast](https://www.gofundme.com/es-es/c/fundraising-ideas/fast](https://www.gofundme.com/es-es/c/fundraising-ideas/fast))
 
-[https://notionreactions.com/embed/7rUVdJsh3A15CL1ZnKIP](https://notionreactions.com/embed/7rUVdJsh3A15CL1ZnKIP)
+[[7Ruvdjsh3A15Cl1Znkip](https://notionreactions.com/embed/7rUVdJsh3A15CL1ZnKIP](https://notionreactions.com/embed/7rUVdJsh3A15CL1ZnKIP))
 
 ---
 

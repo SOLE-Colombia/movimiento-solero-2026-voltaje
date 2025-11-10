@@ -37,14 +37,14 @@ widget ok: ok
 </div>&t=12s](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/WYqcJg-4PVI" 
+    src="[Wyqcjg 4Pvi](https://www.youtube.com/embed/WYqcJg-4PVI)" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
 </div>&t=12s)
 
-[https://notionreactions.com/embed/4yWf8GFGCve9adt7o7nO](https://notionreactions.com/embed/4yWf8GFGCve9adt7o7nO)
+[[4Ywf8Gfgcve9Adt7O7No](https://notionreactions.com/embed/4yWf8GFGCve9adt7o7nO](https://notionreactions.com/embed/4yWf8GFGCve9adt7o7nO))
 
 ---
 

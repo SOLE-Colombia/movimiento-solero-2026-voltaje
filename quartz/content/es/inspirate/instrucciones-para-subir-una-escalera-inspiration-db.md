@@ -38,7 +38,7 @@ Llegado en esta forma al segundo peldaño, basta repetir alternadamente los movi
 
 - FIN*
 
-[https://notionreactions.com/embed/CNBqMPhWUHjErEPecq9I](https://notionreactions.com/embed/CNBqMPhWUHjErEPecq9I)
+[[Cnbqmphwuhjerepecq9I](https://notionreactions.com/embed/CNBqMPhWUHjErEPecq9I](https://notionreactions.com/embed/CNBqMPhWUHjErEPecq9I))
 
 ---
 

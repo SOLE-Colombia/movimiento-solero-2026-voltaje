@@ -66,7 +66,7 @@ Once rebooted, you will be able to share your phone's Internet signal to make SO
     Want to know another trick? Activate the airplane mode, this will reset all your phone's settings related to the Internet signal.
 
     
-    <img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
     
 - **Moment 2: Set up the mobile hotspot**
     
@@ -76,7 +76,7 @@ Once rebooted, you will be able to share your phone's Internet signal to make SO
     
     Once you change them, click on the pimp (or the cross) to save the new configuration.
     
-    <img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db/image 1-275w.webp)
     
 - **Step 3: Share internet**
     
@@ -86,7 +86,7 @@ Once rebooted, you will be able to share your phone's Internet signal to make SO
     
     If you want to do SOLE, this is an excellent solution to get all computers to perform their search. You know that in SOLE Colombia we are always thinking about how to take advantage of the resources that we have individually to take our communities to improve their Internet experience... there is nothing like using it as a group!
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 2-800w.webp)
     
 
 ## **How to know if this solution works?**
@@ -107,7 +107,7 @@ This recipe will not work if the phone signal in your area is not of good qualit
 
 ---
 
-[https://notionreactions.com/embed/yYijp2Oybu9dYAAZWTUe](https://notionreactions.com/embed/yYijp2Oybu9dYAAZWTUe)
+[[Yyijp2Oybu9Dyaazwtue](https://notionreactions.com/embed/yYijp2Oybu9dYAAZWTUe](https://notionreactions.com/embed/yYijp2Oybu9dYAAZWTUe))
 
 ---
 

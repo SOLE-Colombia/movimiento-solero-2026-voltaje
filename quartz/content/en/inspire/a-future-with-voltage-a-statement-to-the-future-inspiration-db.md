@@ -48,7 +48,7 @@ widget ok: ok
 | [Tension 8] This Library of the Future invites us to come together, to share ideas and to learn together. **We are not waiting for this future**; **this future does not depend on new technologies that arrive years later**; we are already building this future and it is materialized in the SOLE LAB that we built in Boca de Camarones, in Guajira...; in El Tambo, Cauca...; in Dominguillo, Santander de Quilichao..... SOLE LAB are community-based self-organized Learning Environments that have been designed on the strength of collaboration and trust: groups of people immerse themselves in deep discussions, using technology as a bridge to mutual understanding. |
 | [Voltage 9] What if we imagine that future together with Voltage? Let's start building that future where every internet connection is a connection between life stories that want to build something together.  |
 
-[https://notionreactions.com/embed/3IFege70lULBvl5Jtc1O](https://notionreactions.com/embed/3IFege70lULBvl5Jtc1O)
+[[3Ifege70Lulbvl5Jtc1O](https://notionreactions.com/embed/3IFege70lULBvl5Jtc1O](https://notionreactions.com/embed/3IFege70lULBvl5Jtc1O))
 
 ---
 

@@ -55,7 +55,7 @@ From here, we thank everyone who didn't give up, those who sent a question or an
 - [La Nube de Abuelitas: cómo cambiar el mundo desde tu casa](/la-nube-de-abuelitas-como-cambiar-el-mundo-desde-tu-casa-inspiration-db) | [La Nube de Abuelitas: how to change the world from your home](/la-nube-de-abuelitas-how-to-change-the-world-from-your-home-inspiration-db)
 - [¿Cómo hacer SOLE? - Tutorial](/como-hacer-sole-tutorial-inspiration-db) | [How to make SOLE? - Tutorial](/how-to-make-sole-tutorial-inspiration-db)
 
-[https://notionreactions.com/embed/xqCiCpi68u8JwB1DMi7t](https://notionreactions.com/embed/xqCiCpi68u8JwB1DMi7t)
+[[Xqcicpi68U8Jwb1Dmi7T](https://notionreactions.com/embed/xqCiCpi68u8JwB1DMi7t](https://notionreactions.com/embed/xqCiCpi68u8JwB1DMi7t))
 
 ---
 

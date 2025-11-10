@@ -101,11 +101,11 @@ What can bring more enjoyment than a toy? Sometimes just a smooth stone, thrown 
 
 Being an adult means taking care of your children. Just as I painted, played, and studied, my identity increasingly returns to its multiple and rhizomatic childhood. Being a junk-maker is sometimes an identity, but now, thanks to Mate, I see that it's also a noun. Sometimes we are junk-makers, and we solve problems, other times we don't. What motivates you to tinker?
 
-<img src="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0345-800w.webp" alt="DSC_0345.JPG" srcset="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0345-400w.webp 400w, /assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0345-800w.webp 800w, /assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0345-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e/DSC_0345-800w.webp)
 
 ## Have your bag of toys
 
-<img src="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0336-800w.webp" alt="DSC_0336.JPG" srcset="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0336-400w.webp 400w, /assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0336-800w.webp 800w, /assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0336-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e/DSC_0336-800w.webp)
 
 My workday toy bag. 1. The bag with pockets. 2. The headphones to hear better. 3. The headphone case to protect them. 3. The hard drive to back up my data. 3. Pens, cutter, and eraser. 4. The cell phone charger. 5. The toothbrush and toothpaste. 7. The USB flash drive so I don't have to work in the cloud and keep my information close at hand. 8. The Gameboy Advance. 9. Pokemon Sapphire.
 
@@ -114,13 +114,13 @@ My workday toy bag. 1. The bag with pockets. 2. The headphones to hear better. 3
 Ursula K. Le Guin
 1986
 
-<img src="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\Pasted_image_20241205060336-400w.webp" alt="Pasted image 20241205060336.png" srcset="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\Pasted_image_20241205060336-400w.webp 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e/Pasted_image_20241205060336-400w.webp)
 
 *I now propose the bottle as a hero*
 
 *Not just the gin or wine bottle, but the bottle in its most ancient sense, as a container in general, something that holds something more.*
 
-<img src="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\Pasted_image_20241205060411-400w.webp" alt="*I'm an angry older woman who was powerfully knocked to the ground, swatting at the bullies with her handbag. Yet neither I nor anyone else considers myself heroic for doing so. It's just one of those damn things you have to do so you can keep harvesting wild oats and telling stories.*" srcset="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\Pasted_image_20241205060411-400w.webp 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e/Pasted_image_20241205060411-400w.webp)
 
 *I'm an angry older woman who was powerfully knocked to the ground, swatting at the bullies with her handbag. Yet neither I nor anyone else considers myself heroic for doing so. It's just one of those damn things you have to do so you can keep harvesting wild oats and telling stories.*
 
@@ -128,11 +128,11 @@ Ahora el ensayo completo:
 
 [ursula-k-le-guin-la-teoria-de-la-bolsa-de-transporte-de-la-ficcion.pdf](/downloads/ursula-k-le-guin-la-teoria-de-la-bolsa-de-transporte-de-la-ficcion-1.pdf)
 
-Recuperado de: [https://mirror.anarhija.net/es.theanarchistlibrary.org/mirror/u/uk/ursula-k-le-guin-la-teoria-de-la-bolsa-de-transporte-de-la-ficcion.pdf](/downloads/ursula-k-le-guin-la-teoria-de-la-bolsa-de-transporte-de-la-ficcion-1.pdf) 
+Recuperado de: [[Ursula K Le Guin La Teoria De La Bolsa De Transporte De La Ficcion 1](https://mirror.anarhija.net/es.theanarchistlibrary.org/mirror/u/uk/ursula-k-le-guin-la-teoria-de-la-bolsa-de-transporte-de-la-ficcion.pdf](/downloads/ursula-k-le-guin-la-teoria-de-la-bolsa-de-transporte-de-la-ficcion-1.pdf)) 
 
 ### The Cacharrera Kit, the toy and potion collection
 
-<img src="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\unnamed-220w.webp" alt="unnamed.gif" srcset="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\unnamed-220w.webp 220w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e/unnamed-220w.webp)
 
 Taking a portion of Eric Sadin's text, "Making Dissent a Policy of Ourselves," I appeal to witchcraft (past) and witches like the powerful Isabelle Stengers, and to science fiction (future) with psychonauts like Aldous Huxley. Tomorrow, I invite you to create potions together. Just as we used to do the Sabbath, on the last Saturday as a partial closing, we're going to take our territorial tour and test some of the potions we design tomorrow.
 
@@ -143,11 +143,11 @@ Taking a portion of Eric Sadin's text, "Making Dissent a Policy of Ourselves," I
 
 For now, I only use this fragment to invite you to create potions for humans, for our communities, that empower them, that adapt to them, not enslave them.
 
-<img src="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\unnamed 1-400w.webp" alt="unnamed.gif" srcset="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\unnamed 1-400w.webp 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e/unnamed 1-400w.webp)
 
 Like Hermione Granger, our odds and ends (magazines, markers, flowers, cables...) can support us in world-building, in our potions. Just as an example, and to leave so much poetry, potions can be: activity designs, lists of questions, fanzines, smells that get people ready for something, drawings, poems... in short. These potions depend on your skills, interests, the communities you wish to care for, and the purpose you envision for a specific time-space.
 
-<img src="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\unnamed 2-400w.webp" alt="unnamed.gif" srcset="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\unnamed 2-400w.webp 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e/unnamed 2-400w.webp)
 
 Also, like Seamus Finnigan, we can have accidents. Ultimately, we are in a perpetual learning process that we are never guaranteed will happen, especially when we are dreaming alternate worlds. My only calling is to care, action without harm, and caution as policies. My potions seek to follow these principles by seeing the power in oneself and in others, in the other, positioning themselves not from fear, but from trust, respect, and co-responsibility. What will be the guiding values for your potions?
 
@@ -160,11 +160,11 @@ Also, like Seamus Finnigan, we can have accidents. Ultimately, we are in a perpe
 
 ## Body and spirit
 
-<img src="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\2dce8b81-b08f-4804-9f5b-e9c603205b31-800w.webp" alt="DSC_0346.JPG" srcset="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\2dce8b81-b08f-4804-9f5b-e9c603205b31-400w.webp 400w, /assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\2dce8b81-b08f-4804-9f5b-e9c603205b31-800w.webp 800w, /assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\2dce8b81-b08f-4804-9f5b-e9c603205b31-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e/2dce8b81-b08f-4804-9f5b-e9c603205b31-800w.webp)
 
 - Semiotic materialism
 
-<img src="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0347-800w.webp" alt="DSC_0347.JPG" srcset="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0347-400w.webp 400w, /assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0347-800w.webp 800w, /assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0347-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e/DSC_0347-800w.webp)
 
 - Pragmatic reflection
 
@@ -172,7 +172,7 @@ Also, like Seamus Finnigan, we can have accidents. Ultimately, we are in a perpe
 
 - The seed
     
-    <img src="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0348-800w.webp" alt="DSC_0348.JPG" srcset="/assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0348-400w.webp 400w, /assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0348-800w.webp 800w, /assets\images\La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e\DSC_0348-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Imagen](/assets/images/La esquina del cacharreo 1262bd68c5b680e39fe2ff0120743c8e/DSC_0348-800w.webp)
     
 
 - Power
@@ -180,7 +180,7 @@ Also, like Seamus Finnigan, we can have accidents. Ultimately, we are in a perpe
 
 ## Vacío
 
-[https://notionreactions.com/embed/lloK5bws113QL4W123hZ](https://notionreactions.com/embed/lloK5bws113QL4W123hZ)
+[[Llok5Bws113Ql4W123Hz](https://notionreactions.com/embed/lloK5bws113QL4W123hZ](https://notionreactions.com/embed/lloK5bws113QL4W123hZ))
 
 ---
 

@@ -23,9 +23,9 @@ SSH, o Secure Shell, **es un protocolo de red que permite la conexión segura y 
 
 SSH, or Secure Shell, **is a network protocol that allows secure, remote connection to another computer over an unsecured network, such as the Internet**. 
 
-<img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
 
-Se utiliza principalmente para la administración remota de sistemas y la transferencia segura de archivos. En esencia, SSH crea un "túnel" cifrado entre dos ordenadores, permitiendo la comunicación protegida de datos, contraseñas y otras informaciones sensibles (tomado de [cloudflare.com](https://translate.google.com/translate?u=https://www.cloudflare.com/learning/access-management/what-is-ssh/&hl=es&sl=en&tl=es&client=sge#:~:text=SSH (Secure Shell)%20es%20un,trav%C3%A9s%20de%20redes%20no%20seguras.)).
+Se utiliza principalmente para la administración remota de sistemas y la transferencia segura de archivos. En esencia, SSH crea un "túnel" cifrado entre dos ordenadores, permitiendo la comunicación protegida de datos, contraseñas y otras informaciones sensibles (tomado de [cloudflare.com](https://translate.google.com/translate?u=[:~:Text=Ssh](https://www.cloudflare.com/learning/access-management/what-is-ssh/&hl=es&sl=en&tl=es&client=sge#:~:text=SSH) (Secure Shell)%20es%20un,trav%C3%A9s%20de%20redes%20no%20seguras.)).
 
 **Más detalles:**
 
@@ -39,7 +39,7 @@ Se utiliza principalmente para la administración remota de sistemas y la transf
 
 SSH es una herramienta esencial para la administración remota segura de sistemas, ofreciendo una conexión cifrada y protegida entre dispositivos a través de redes no seguras.
 
-It is primarily used for remote system administration and secure file transfer. In essence, SSH creates an encrypted "tunnel" between two computers, allowing protected communication of data, passwords and other sensitive information (taken from [cloudflare.com](https://translate.google.com/translate?u=https://www.cloudflare.com/learning/access-management/what-is-ssh/&hl=es&sl=en&tl=es&client=sge#:~:text=SSH (Secure Shell)%20es%20un,trav%C3%A9s%20de%20redes%20no%20seguras.)).
+It is primarily used for remote system administration and secure file transfer. In essence, SSH creates an encrypted "tunnel" between two computers, allowing protected communication of data, passwords and other sensitive information (taken from [cloudflare.com](https://translate.google.com/translate?u=[:~:Text=Ssh](https://www.cloudflare.com/learning/access-management/what-is-ssh/&hl=es&sl=en&tl=es&client=sge#:~:text=SSH) (Secure Shell)%20es%20un,trav%C3%A9s%20de%20redes%20no%20seguras.)).
 
 **More details:**
 

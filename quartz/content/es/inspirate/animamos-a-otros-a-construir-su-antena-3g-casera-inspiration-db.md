@@ -37,7 +37,7 @@ Created Date: 23 de octubre de 2024
 </div>](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/bxdVpI6nOVc" 
+    src="[Bxdvpi6Novc](https://www.youtube.com/embed/bxdVpI6nOVc)" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
@@ -48,7 +48,7 @@ Created Date: 23 de octubre de 2024
 
 Anímate a cacharrear y construir tu propia antena 3G casera🔧📡 
 
-[https://notionreactions.com/embed/59UXrxAdReydu8pwcSye](https://notionreactions.com/embed/59UXrxAdReydu8pwcSye)
+[[59Uxrxadreydu8Pwcsye](https://notionreactions.com/embed/59UXrxAdReydu8pwcSye](https://notionreactions.com/embed/59UXrxAdReydu8pwcSye))
 
 ---
 
