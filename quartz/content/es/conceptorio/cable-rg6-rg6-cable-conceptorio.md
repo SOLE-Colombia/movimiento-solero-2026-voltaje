@@ -8,7 +8,6 @@ aspectos:
 - dispositivos
 fecha: '2025-07-09'
 ---
-# esto es una prueba
 
 ## Español
 
