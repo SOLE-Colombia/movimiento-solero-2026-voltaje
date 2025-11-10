@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "es-CO", // Español de Colombia
+    locale: "es-ES", // Español de Colombia
     baseUrl: "voltaje.solecolombia.org",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
@@ -78,7 +78,7 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage(),
+      // Plugin.FolderPage(), // TEMP: Deshabilitado por error "Cannot read properties of undefined"
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
