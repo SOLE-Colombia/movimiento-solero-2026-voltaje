@@ -2,18 +2,13 @@
 title: Cable RG6 | RG6 Cable
 lang: es
 slug: cable-rg6-rg6-cable-conceptorio
+autor: Belen Sevilla Morillo
 aspectos:
 - señal
 - dispositivos
-fecha: '2025-10-11'
+fecha: '2025-07-09'
 ---
-
-# Cable RG6 | RG6 Cable
-
-Fecha de creación: 9 de julio de 2025 20:38
-Autor(a): Belen Sevilla Morillo
-R2025: revisado
-idioma: english, español
+# esto es una prueba
 
 ## Español
 
@@ -49,4 +44,4 @@ It is known for its ability to handle higher frequencies and reduce signal loss,
 
 In summary, RG6 cable is a versatile, high performance coaxial cable, ideal for transmitting video and data signals over different media and distances.
 
-<img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Cable RG6](assets\images\conc-rg6cable\conc-rg6cable-cable.webp)
