@@ -24,17 +24,17 @@
       }
     },
     
-    "forwardPorts": [8080, 3000],
-    "portsAttributes": {
-      "8080": {
-        "label": "Quartz Dev Server",
-        "onAutoForward": "notify"
-      },
-      "3000": {
-        "label": "Preview Server",
-        "onAutoForward": "silent"
-      }
+  "forwardPorts": [8080, 3001],
+  "portsAttributes": {
+    "8080": {
+      "label": "Quartz Dev Server",
+      "onAutoForward": "notify"
     },
+    "3001": {
+      "label": "Preview Server",
+      "onAutoForward": "silent"
+    }
+  },
     
     "postCreateCommand": "cd quartz && npm install && echo '✅ Dev Container listo - ejecuta: npx quartz build --serve'",
     "remoteUser": "root"
