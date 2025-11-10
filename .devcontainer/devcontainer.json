@@ -1,0 +1,41 @@
+{
+    "name": "SOLE Voltaje Development",
+    "dockerComposeFile": "../docker-compose.dev.yml",
+    "service": "voltaje-dev",
+    "workspaceFolder": "/workspace",
+    
+    "customizations": {
+      "vscode": {
+        "settings": {
+          "terminal.integrated.defaultProfile.linux": "bash",
+          "files.watcherExclude": {
+            "**/node_modules/**": true,
+            "**/public/**": true,
+            "**/.quartz-cache/**": true
+          },
+          "editor.formatOnSave": true
+        },
+        "extensions": [
+          "dbaeumer.vscode-eslint",
+          "esbenp.prettier-vscode",
+          "yzhang.markdown-all-in-one",
+          "bradlc.vscode-tailwindcss"
+        ]
+      }
+    },
+    
+    "forwardPorts": [8080, 3000],
+    "portsAttributes": {
+      "8080": {
+        "label": "Quartz Dev Server",
+        "onAutoForward": "notify"
+      },
+      "3000": {
+        "label": "Preview Server",
+        "onAutoForward": "silent"
+      }
+    },
+    
+    "postCreateCommand": "cd quartz && npm install && echo '✅ Dev Container listo - ejecuta: npx quartz build --serve'",
+    "remoteUser": "root"
+  }
