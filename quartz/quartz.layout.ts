@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "SOLE Colombia": "https://www.solecolombia.org/",
       "Internet Society Foundation": "https://www.isocfoundation.org/",
-      "GitHub": "https://github.com/SOLE-Colombia/voltaje-dev",
+      "GitHub": "https://github.com/SOLE-Colombia/voltaje",
     },
   }),
 }
