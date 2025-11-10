@@ -29,26 +29,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#ffffff",           // Fondo blanco limpio
+          lightgray: "#e8ecf1",       // Gris muy claro para bordes
+          gray: "#9ca3af",            // Gris medio para texto secundario
+          darkgray: "#374151",        // Gris oscuro para texto importante
+          dark: "#1f2937",            // Casi negro para texto principal
+          secondary: "#0066cc",       // Azul SOLE - color principal
+          tertiary: "#10b981",        // Verde energético - color de acento
+          highlight: "rgba(0, 102, 204, 0.12)",  // Highlight azul suave
+          textHighlight: "#fef3c7",   // Amarillo suave para resaltar texto
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#0f1419",           // Fondo oscuro profundo
+          lightgray: "#1f2937",       // Gris oscuro para bordes
+          gray: "#6b7280",            // Gris medio
+          darkgray: "#d1d5db",        // Gris claro para texto
+          dark: "#f3f4f6",            // Casi blanco para texto principal
+          secondary: "#3b82f6",       // Azul más brillante en dark mode
+          tertiary: "#10b981",        // Verde mantiene energía
+          highlight: "rgba(59, 130, 246, 0.15)",  // Highlight azul en dark
+          textHighlight: "#fcd34d88", // Amarillo dorado transparente
         },
       },
     },
