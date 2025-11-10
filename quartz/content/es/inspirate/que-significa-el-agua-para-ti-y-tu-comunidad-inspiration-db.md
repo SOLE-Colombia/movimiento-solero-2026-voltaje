@@ -23,7 +23,7 @@ traducción: No
 
 SOLE realizado por los estudiantes del observatorio IV de agua y energía de la escuela de Diseño Industrial en la Universidad Nacional. Abril 25 del 2025.
 
-![Imagen](/assets/images/¿Qué significa el agua para ti y tu comunidad 1df2bd68c5b680dfa36ad9b908e0ecf6/20250425_SOLE_en_Universidad_Nacional-800w.webp)
+<img src="/assets\images\¿Qué significa el agua para ti y tu comunidad 1df2bd68c5b680dfa36ad9b908e0ecf6\20250425_SOLE_en_Universidad_Nacional-800w.webp" alt="20250425_SOLE en Universidad Nacional.jpg" srcset="/assets\images\¿Qué significa el agua para ti y tu comunidad 1df2bd68c5b680dfa36ad9b908e0ecf6\20250425_SOLE_en_Universidad_Nacional-400w.webp 400w, /assets\images\¿Qué significa el agua para ti y tu comunidad 1df2bd68c5b680dfa36ad9b908e0ecf6\20250425_SOLE_en_Universidad_Nacional-800w.webp 800w, /assets\images\¿Qué significa el agua para ti y tu comunidad 1df2bd68c5b680dfa36ad9b908e0ecf6\20250425_SOLE_en_Universidad_Nacional-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 Agreguen sus respuestas aquí. ¡Cuidado! No borren el trabajo de otros. Pueden agregar fotos, videos, enlaces…
 
@@ -56,7 +56,7 @@ Deidy Rosero
 
 Respuesta:
 
-![Imagen](/assets/images/Inspiration DB 1292bd68c5b681648195d390c6a9282f/¿Qué significa el agua para ti y tu comunidad 1df2bd68c5b680dfa36ad9b908e0ecf6-800w.webp)
+<img src="/assets\images\Inspiration DB 1292bd68c5b681648195d390c6a9282f\¿Qué significa el agua para ti y tu comunidad 1df2bd68c5b680dfa36ad9b908e0ecf6-800w.webp" alt="¿.jpg" srcset="/assets\images\Inspiration DB 1292bd68c5b681648195d390c6a9282f\¿Qué significa el agua para ti y tu comunidad 1df2bd68c5b680dfa36ad9b908e0ecf6-400w.webp 400w, /assets\images\Inspiration DB 1292bd68c5b681648195d390c6a9282f\¿Qué significa el agua para ti y tu comunidad 1df2bd68c5b680dfa36ad9b908e0ecf6-800w.webp 800w, /assets\images\Inspiration DB 1292bd68c5b681648195d390c6a9282f\¿Qué significa el agua para ti y tu comunidad 1df2bd68c5b680dfa36ad9b908e0ecf6-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 # **Grupo 3**
 
@@ -78,7 +78,7 @@ Discriminación de datos a partir de los conceptos:
 2. Relación con la naturaleza (Conocimiento tradicional y conciencia ambiental)
 3. Educación y futuro (proyectos comunitarios del cuidado del agua)
 
-![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
+<img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 # **Grupo 4**
 

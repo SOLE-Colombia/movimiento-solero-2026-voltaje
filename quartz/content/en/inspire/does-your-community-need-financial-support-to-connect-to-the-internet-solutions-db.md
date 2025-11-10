@@ -67,7 +67,7 @@ Contacting some of them can lead you to get internet access for your community, 
     Be encouraged to contact the companies and programs suggested by the search engine.
     
 - **Moment 2: In SOLE Colombia we know some low cost connectivity initiatives around the world, take a look, we encourage you to contact them!**
-    - [W3 Article 401110](https://mintic.gov.co/portal/715/w3-article-401110.html) - "Connecting the unconnected" program by MINTIC and Colnodo
+    - https://mintic.gov.co/portal/715/w3-article-401110.html - "Connecting the unconnected" program by MINTIC and Colnodo
         
         The "Connecting the unconnected" program is an initiative of the Colombian Ministry of Information and Communication Technologies (MinTIC), which seeks to bring Internet to rural areas and communities with little or no connectivity. 
         
@@ -80,7 +80,7 @@ Contacting some of them can lead you to get internet access for your community, 
         3. **Search for the "MinTIC Conecta" network:** Your device will display the available Wi-Fi networks. Select the network named "Mintic Conecta".
         4. **Fill in the requested data:** You will be prompted to enter certain information to register. Complete the required fields.
         5. **Accept the terms and conditions:** Carefully read the terms and conditions and, if you agree, accept them in order to connect.**Done!** Once you have completed the above steps, you will be able to use the Internet connection.
-    - [Banda De 900 Mhz Para Las Comunidades Una Oportunidad Para Transformar El Acceso A Internet En Zonas Rurales](https://www.colnodo.apc.org/es/NOTAS/banda-de-900-mhz-para-las-comunidades-una-oportunidad-para-transformar-el-acceso-a-internet-en-zonas-rurales)
+    - https://www.colnodo.apc.org/es/NOTAS/banda-de-900-mhz-para-las-comunidades-una-oportunidad-para-transformar-el-acceso-a-internet-en-zonas-rurales
         
         In Colombia, access to the 900 MHz band for communities is being addressed **through a public consultation led by the Ministry of Information and Communication Technologies (MinTIC) and the National Spectrum Agency (ANE).** 
         
@@ -113,10 +113,10 @@ Contacting some of them can lead you to get internet access for your community, 
         
         The public consultation is the space for communities to express their needs and contribute to the construction of a public policy that recognizes the importance of the spectrum for social and economic development.
         
-    - h[Connecting The Unconnected](https://www.internetsociety.org/es/funding-areas/connecting-the-unconnected/) www.internetsociety.org/es/funding-areas/connecting-the-unconnected/
+    - hhttps://www.internetsociety.org/es/funding-areas/connecting-the-unconnected/ www.internetsociety.org/es/funding-areas/connecting-the-unconnected/
         - Provides funding to organizations that build and expand Internet networks in underserved areas, which can result in more affordable options for residents.
         - Supports the creation of community networks, which are often a cheaper alternative to commercial options.
-    - [Acesso](https://nupef.org.br/programas/acesso)
+    - https://nupef.org.br/programas/acesso
         
         NUPEF.org, through its focus on community networks and affordable Internet access, can **facilitate access to funding and resources to build or strengthen community Internet networks, as well as provide training to manage and maintain these networks**. 
         
@@ -129,7 +129,7 @@ Contacting some of them can lead you to get internet access for your community, 
         - Works to enable excluded people to use and adapt the Internet and digital technology to their needs, including the development of fair and equitable solutions for universal access.
         - Seeks economic models that enable affordable and sustainable access to the internet, generating community value and promoting self-sufficiency.
         - Facilitates the exchange of knowledge and experiences between different communities and movements, promoting collective action for digital inclusion.
-    - [apc.org](https://www.apc.org/)
+    - https://www.apc.org/
         
         It is a network of civil society organizations, which helps people to access the internet where connectivity is unavailable or unaffordable. 
         
@@ -137,11 +137,11 @@ Contacting some of them can lead you to get internet access for your community, 
         
         It promotes government ICT policies that serve the interests of the people, especially in the contexts of the global South.
         
-    - [unconnected.org](http://unconnected.org/)
+    - http://unconnected.org/
         - An initiative that seeks to connect people who do not have access to the Internet, especially in rural, remote and low-income areas.
         - They offer funding programs and resources for local communities and organizations that are working to build and expand Internet infrastructure, such as community networks and complementary access solutions.
         - They also provide information on how to obtain low-cost Internet through government programs and non-profit organizations.
-    - [highspeedinternet.com](https://www.highspeedinternet.com/)
+    - https://www.highspeedinternet.com/
 
 If you know of any other ways to get support for connecting your community to low-cost Internet, don't forget to comment on this Solution so we can incorporate it. We also ask that if you find this solution outdated or misinformation, please let us know so that we can continue to research and bring this information to the ends of the earth.
 
@@ -172,7 +172,7 @@ When people come together to get things done, the sky is the limit.
 
 [Big Box de Jangala: **Gestiona un potente router de internet inalámbrico para comunidades en exclusión digital**](/big-box-de-jangala-gestiona-un-potente-router-de-internet-inalambrico-para-comunidades-en-exclusion) 
 
-[[Ghlojgiwgmok5Nppttdw](https://notionreactions.com/embed/ghlOjGIwGmoK5NpPTtdw](https://notionreactions.com/embed/ghlOjGIwGmoK5NpPTtdw))
+[https://notionreactions.com/embed/ghlOjGIwGmoK5NpPTtdw](https://notionreactions.com/embed/ghlOjGIwGmoK5NpPTtdw)
 
 ---
 

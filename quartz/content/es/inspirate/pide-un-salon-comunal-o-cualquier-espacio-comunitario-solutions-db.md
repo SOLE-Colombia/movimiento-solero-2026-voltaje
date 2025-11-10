@@ -67,11 +67,11 @@ Acá te cuento algunos pasos que puedes seguir para reservar el salón comunal m
     
     Anímales también a participar de tu actividad, por  ejemplo, si vas a hacer un SOLE, puedes invitarlos a que se conviertan en participantes.
     
-    ![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
+    <img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
 - **Momento 2: Pregunta los requerimientos, qué necesitas para formalizar la solicitud**
     
-    ![Imagen](/assets/images/Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db/image 1-275w.webp)
+    <img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     Una vez ya estés en contacto con las personas encargadas, pregúntales qué  disponibilidad hay en el lugar y qué requerimientos necesitas, o cómo puedes reservarlo.
     
@@ -127,7 +127,7 @@ Acá te cuento algunos pasos que puedes seguir para reservar el salón comunal m
     (Nombre de quién firma).
 
     
-    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 2-800w.webp)
+    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     *Recuerda que este es sólo un ejemplo, puedes elaborar la carta como tú quieras. No olvides preguntar a la persona encargada qué información, datos o  anexos debes incluir en el documento.*
     
@@ -148,7 +148,7 @@ Acá te cuento algunos pasos que puedes seguir para reservar el salón comunal m
 
 En el momento en que tengas tu espacio reservado, es sólo cuestión de iterar el proceso cuantas veces necesites. Quizá puedas hacer una solicitud más amplia, que dure más tiempo. Para ello puede ser útil que te valgas de las buenas noticias, hallazgos y éxitos de la actividad que te has propuesto en el espacio y cómo está dando frutos en la comunidad. 
 
-Por ejemplo, cuando logras que un grupo de personas haga recurrentemente SOLE, podrás constatar los beneficios que tiene para las habilidades como comunicación, negociación, comprensión lectora, competencias digitales, autonomía, liderazgo… hacer un pequeño informe, por ejemplo, con el resultado de las cápsulas de Reflexión (disponilbles en la web de SOLE Colombia [Reflexionatusole](https://n9.cl/reflexionatusole)), puede ser muy potente para fortalecer la relación con tu aliado y con la gente de tu comunidad.
+Por ejemplo, cuando logras que un grupo de personas haga recurrentemente SOLE, podrás constatar los beneficios que tiene para las habilidades como comunicación, negociación, comprensión lectora, competencias digitales, autonomía, liderazgo… hacer un pequeño informe, por ejemplo, con el resultado de las cápsulas de Reflexión (disponilbles en la web de SOLE Colombia https://n9.cl/reflexionatusole), puede ser muy potente para fortalecer la relación con tu aliado y con la gente de tu comunidad.
 
 ## ¿Por que podría funcionar esta solución?
 
@@ -161,7 +161,7 @@ Muchas veces es suficiente con recordar a la persona con quien hiciste la solici
 - [Descubre a tu audiencia](/descubre-a-tu-audiencia-solutions-db)
 - [Difunde tu mensaje ](/difunde-tu-mensaje-solutions-db)
 
-[[Egekzal9Ay8Cabbspbue](https://notionreactions.com/embed/egEkzaL9ay8CaBbSpbuE](https://notionreactions.com/embed/egEkzaL9ay8CaBbSpbuE))
+[https://notionreactions.com/embed/egEkzaL9ay8CaBbSpbuE](https://notionreactions.com/embed/egEkzaL9ay8CaBbSpbuE)
 
 ---
 

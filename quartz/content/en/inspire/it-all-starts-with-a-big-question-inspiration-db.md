@@ -42,7 +42,7 @@ Let's tell you a little story about **how we learn?**
 [Taken from SOLE Colombia (2019) *A Conversation with [Sugata Mitra](https://es.wikipedia.org/wiki/Sugata_Mitra)*](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="[Aaweb6Vr50G](https://www.youtube.com/embed/AAWEB6Vr50g)" 
+    src="https://www.youtube.com/embed/AAWEB6Vr50g" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
@@ -108,7 +108,7 @@ The best way to overcome this is to **doubt, be curious and ask new questions**.
 
 At SOLE Colombia we have found that many people who do not have access to good education can learn to learn almost anything using the internet in a group because they can doubt, be curious and ask new questions together. It is like being self-taught but in a group which is not only easier, funnier and more powerful than using the internet alone, but also proposes a new way of being together. We call this SOLEar.  
 
-![Imagen](https:/www.notion.so/icons/new-alert_green.svg)
+<img src="https://www.notion.so/icons/new-alert_green.svg" alt="https://www.notion.so/icons/new-alert_green.svg" width="40px" />
 
 **WHAT IS SOLE?** 
 
@@ -153,7 +153,7 @@ At SOLE Voltaje we have the idea that using the Internet in groups to learn is a
 
 Do you want to work together?
 
-[[E08Soi0Df1Mjhfdxqjzk](https://notionreactions.com/embed/e08soi0Df1mJHfdxQJZK](https://notionreactions.com/embed/e08soi0Df1mJHfdxQJZK))
+[https://notionreactions.com/embed/e08soi0Df1mJHfdxQJZK](https://notionreactions.com/embed/e08soi0Df1mJHfdxQJZK)
 
 ---
 

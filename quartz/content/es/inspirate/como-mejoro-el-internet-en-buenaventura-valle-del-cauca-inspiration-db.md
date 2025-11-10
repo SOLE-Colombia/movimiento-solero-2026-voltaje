@@ -69,12 +69,12 @@ Para cacharrear el Internet no hace falta ser un experto, solo curioso, y tener 
 
 Gracias al entusiasmo de Rosa Helena y Jefferson, ahora en La Delfina no solo tienen Internet, sino una herramienta para crear y compartir su propio mundo. En el último Festival SOLE, se juntaron para crear su propia página web y ahora comparten su historia, sus costumbres y hasta lo que han aprendido en las sesiones de SOLE con otras comunidades y el mundo entero.
 
-[[Sole La Delfina Mtzyd41U0Eu9Im0O](https://padlet.com/ladelfinacomunidad/sole-la-delfina-mtzyd41u0eu9im0o](https://padlet.com/ladelfinacomunidad/sole-la-delfina-mtzyd41u0eu9im0o))
+[https://padlet.com/ladelfinacomunidad/sole-la-delfina-mtzyd41u0eu9im0o](https://padlet.com/ladelfinacomunidad/sole-la-delfina-mtzyd41u0eu9im0o)
 
 > Esto es lo mejor de la tecnología: no se trata solo de tener Internet, sino de tener un espacio donde aprender y crear juntos. ¡Rosa Helena y Jefferson están creando el futuro del Internet!
 > 
 
-[[Nhy3Bfepaygboqehackh](https://notionreactions.com/embed/NhY3BfePaYgBOqEhAcKh](https://notionreactions.com/embed/NhY3BfePaYgBOqEhAcKh))
+[https://notionreactions.com/embed/NhY3BfePaYgBOqEhAcKh](https://notionreactions.com/embed/NhY3BfePaYgBOqEhAcKh)
 
 ---
 

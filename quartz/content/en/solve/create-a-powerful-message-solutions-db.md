@@ -122,10 +122,10 @@ Remember! the goal of a powerful message is to motivate others to do something, 
 
 ## References
 
-- **"The Golden Circle" by Simon Sinek:** [[Que Es El Circulo Dorado De Simon Sinek Y Como Podemos Usarlo](https://dizalo.com/branding/que-es-el-circulo-dorado-de-simon-sinek-y-como-podemos-usarlo/](https://dizalo.com/branding/que-es-el-circulo-dorado-de-simon-sinek-y-como-podemos-usarlo/))
-- [[Invitacion Formal Evento](https://www.deustoformacion.com/blog/gestion-y-organizacion-de-eventos/invitacion-formal-evento](https://www.deustoformacion.com/blog/gestion-y-organizacion-de-eventos/invitacion-formal-evento))
+- **"The Golden Circle" by Simon Sinek:** [https://dizalo.com/branding/que-es-el-circulo-dorado-de-simon-sinek-y-como-podemos-usarlo/](https://dizalo.com/branding/que-es-el-circulo-dorado-de-simon-sinek-y-como-podemos-usarlo/)
+- [https://www.deustoformacion.com/blog/gestion-y-organizacion-de-eventos/invitacion-formal-evento](https://www.deustoformacion.com/blog/gestion-y-organizacion-de-eventos/invitacion-formal-evento)
 
-[[Osmhqjgjqrdrjd8Bk1B0](https://notionreactions.com/embed/OsmhQJGJQrdRjd8BK1b0](https://notionreactions.com/embed/OsmhQJGJQrdRjd8BK1b0))
+[https://notionreactions.com/embed/OsmhQJGJQrdRjd8BK1b0](https://notionreactions.com/embed/OsmhQJGJQrdRjd8BK1b0)
 
 ---
 

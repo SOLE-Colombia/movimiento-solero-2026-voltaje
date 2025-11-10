@@ -40,7 +40,7 @@ Si hablamos de utilizar el Internet para solucionar Grandes Preguntas y retos de
 
 Tener contenidos descargables sin conexión, les permitirá investigar y llegar a algunas conclusiones, que pueden ampliar en otro momento con conexión a Internet o cuando puedan conectar una Abuelita. 
 
-¿Quieres saber más de cómo convertir tu espacio en un lugar para aprender, o quiénes son las Abuelitas de la Nube? Visita [[Solea](https://www.solecolombia.org/solea](https://www.solecolombia.org/solea)) para aprender cómo y navega por el sitio para saber más sobre la Nube de Abuelitas que puede apoyar los procesos de aprendizaje que sucedan en tu espacio.
+¿Quieres saber más de cómo convertir tu espacio en un lugar para aprender, o quiénes son las Abuelitas de la Nube? Visita [https://www.solecolombia.org/solea](https://www.solecolombia.org/solea) para aprender cómo y navega por el sitio para saber más sobre la Nube de Abuelitas que puede apoyar los procesos de aprendizaje que sucedan en tu espacio.
 
 ## ¿Cómo saber si lo necesitas?
 
@@ -74,9 +74,9 @@ Aún cuando sus prestaciones son muchas y evidentes, esta es una solución que r
     
     - **Instala el software específico para tu sistema operativo, Raspberry Pi Imager**
         
-        Para instalarlo en tu computador visita [[Software](https://www.raspberrypi.com/software/](https://www.raspberrypi.com/software/)). Allí puedes descargar la versión del Raspberry Pi Imager que funcione en tu sistema operativo (Windows, Linux o Mac) una vez lo instales puedes continuar con el siguiente paso.
+        Para instalarlo en tu computador visita [https://www.raspberrypi.com/software/](https://www.raspberrypi.com/software/). Allí puedes descargar la versión del Raspberry Pi Imager que funcione en tu sistema operativo (Windows, Linux o Mac) una vez lo instales puedes continuar con el siguiente paso.
         
-        ![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
+        <img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
         
     - **Conecta la MicroSD a tu computador**
         
@@ -88,7 +88,7 @@ Aún cuando sus prestaciones son muchas y evidentes, esta es una solución que r
         
     - **Abre el Raspberry Pi Imager y elige tu sistema operativo**
         
-        ![Imagen](/assets/images/Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db/image 1-275w.webp)
+        <img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
         
 - **Momento 2: Conecta tu Pi**
     - **Ubícalo en el Pi Imager**
@@ -101,7 +101,7 @@ Aún cuando sus prestaciones son muchas y evidentes, esta es una solución que r
         
         Acá vamos a hacer uso del nombre que le pusimos a nuestro Pi, en nuestro caso *solevoltaje*. En el terminal escribimos `ping solevoltaje.local` el programa nos responde entre otras cosas con la [**IP**](https://sole-doc.tiddlyhost.com/#IP) `192.168.0.25`, lo que indica que nuestro Pi está disponible para que nos conectemos y empecemos a trabajar.
         
-        ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 2-800w.webp)
+        <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
         
     - **Conéctate al Pi**
         
@@ -113,7 +113,7 @@ Aún cuando sus prestaciones son muchas y evidentes, esta es una solución que r
         
     - **Actualiza el software**
         
-        ![](https:/archive.org/download/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/ServerAtPi/upgrade.png)
+        ![](https://archive.org/download/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/ServerAtPi/upgrade.png)
         
         Una vez estemos conectados al Pi debemos hacer un par de tareas de administración. La primera es actualizar el software de nuestro sistema operativo. Esto lo realizamos escribiendo lo siguiente en la terminal:
         
@@ -127,9 +127,9 @@ Aún cuando sus prestaciones son muchas y evidentes, esta es una solución que r
         > 
     - **Expandimos el SWAP**
         
-        ![](https:/archive.org/download/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/ServerAtPi/swap.png)
+        ![](https://archive.org/download/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/ServerAtPi/swap.png)
         
-        Ahora, es necesario expandir el espacio de la [Memoria SWAP](https://sole-doc.tiddlyhost.com/#SWAP[Memoria Swap 2342Bd68C5B680Cbad43Fe0B7Fa090C0](https://www.notion.so/solecolombia/Memoria-SWAP-2342bd68c5b680cbad43fe0b7fa090c0?source=copy_link)) para que nuestro Pi pueda lidiar fácilmente con operaciones que requieren más memoria que la que tenemos disponible en la [Memoria RAM](/memoria-ram-ram-memory-conceptorio). Realiza los pasos a continuación uno tras otro:
+        Ahora, es necesario expandir el espacio de la [Memoria SWAP](https://sole-doc.tiddlyhost.com/#SWAPhttps://www.notion.so/solecolombia/Memoria-SWAP-2342bd68c5b680cbad43fe0b7fa090c0?source=copy_link) para que nuestro Pi pueda lidiar fácilmente con operaciones que requieren más memoria que la que tenemos disponible en la [Memoria RAM](/memoria-ram-ram-memory-conceptorio). Realiza los pasos a continuación uno tras otro:
         
         Primero desactivamos la memoria **SWAP**
         
@@ -167,7 +167,7 @@ Aún cuando sus prestaciones son muchas y evidentes, esta es una solución que r
         
     - **Ahora, instalamos el servidor**
         
-        ![](https:/ia601406.us.archive.org/10/items/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/ServerAtPi/nginx.png)
+        ![](https://ia601406.us.archive.org/10/items/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/ServerAtPi/nginx.png)
         
         Luego de todo este proceso preparatorio, que es más sencillo de lo que parece procedemos a instalar [nginx](https://www.nginx.com/), un programa que permitirá que nuestro Pi pueda funcionar como servidor web y de esta manera podamos acceder desde otros dispositivos por medio de un navegador web a recursos que tengamos alojados allí.
         
@@ -181,11 +181,11 @@ Aún cuando sus prestaciones son muchas y evidentes, esta es una solución que r
         
 - **Momento 3: Prueba que todo funciona bien**
     
-    ![](https:/archive.org/download/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/ServerAtPi/test.png)
+    ![](https://archive.org/download/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/ServerAtPi/test.png)
     
     Ahora, probamos que todo esté funcionando. 
     
-    Para ello, en nuestro computador, abrimos una ventana de un navegador web y en la barra de direcciones escribimos `[solevoltaje.local`](http://solevoltaje.local`)  
+    Para ello, en nuestro computador, abrimos una ventana de un navegador web y en la barra de direcciones escribimos `http://solevoltaje.local`  
     
     Si todo está funcionando de manera correcta, debemos ver una página como la de la imagen que dice **Welcome to nginx**.
     
@@ -208,7 +208,7 @@ Con esta solución tendrás un servidor portátil, sin embargo aún no tiene nad
 - [La Wikipedia de bolsillo en tu RaspberryPi](/la-wikipedia-de-bolsillo-en-tu-raspberrypi) \[A pocket Wikipedia in your RaspberryPi](/a-pocket-wikipedia-in-your-raspberrypi)
 - [¿Cómo usar el juego para aprender a cuidar equipos en comunidad?](/como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-solutions-db) | [How to use the game to learn how to take care of equipment in community?](/how-to-use-the-game-to-learn-how-to-take-care-of-equipment-in-community-solutions-db)
 
-[[I1Mj2Eqyocvven1Tlmuk](https://notionreactions.com/embed/i1mj2EQyocvveN1TLmuk](https://notionreactions.com/embed/i1mj2EQyocvveN1TLmuk))
+[https://notionreactions.com/embed/i1mj2EQyocvveN1TLmuk](https://notionreactions.com/embed/i1mj2EQyocvveN1TLmuk)
 
 ---
 

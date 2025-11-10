@@ -90,7 +90,7 @@ With this recipe you can turn your [**Raspberry Pi**](/raspberry-pi-conceptorio)
     - Make sure you have an Internet connection to be able to continue with the following steps.
 - **Step 2: Upgrade your Raspberry Pi system**
     
-    ![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
+    <img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     The first step is to perform an update of the entire [system](../../Conceptorio 12a2bd68c5b6808baf3be5e67cddb488/Conceptorio 1624106bff984c4590342afeae3e5e0d/Sistema informático (SI)%20Information%20system%20(IS)%202382bd68c5b680609579f5e5eb9f0836.md), to ensure that we have the latest versions of the programs running on our Pi. 
     
@@ -104,7 +104,7 @@ With this recipe you can turn your [**Raspberry Pi**](/raspberry-pi-conceptorio)
     
 - **Moment 3: Install the necessary software**
     
-    ![Imagen](/assets/images/Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db/image 1-275w.webp)
+    <img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     Next, we must install two programs on our Pi:
     
@@ -117,7 +117,7 @@ With this recipe you can turn your [**Raspberry Pi**](/raspberry-pi-conceptorio)
 - **Step 4: Configure a static IP**
     - **Disable the wireless interface**
         
-        ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 2-800w.webp)
+        <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
         
         In this step we will configure a [static IP address](/direccion-ip-ip-address-conceptorio) on the [wireless interface](/interfaz-interface-conceptorio) of our PI. It is important that you are not connected wirelessly to the Pi, because during the following steps the wireless communication will be suspended. So, make sure you are connected via a cable, or have a display and keyboard connected directly to the Pi to continue.
         
@@ -137,7 +137,7 @@ With this recipe you can turn your [**Raspberry Pi**](/raspberry-pi-conceptorio)
         
     - **Assign a static IP**
         
-        ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 3-800w.webp)
+        <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 3-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
         
         Now we must assign to the `wlan0` [interface](/interfaz-interface-conceptorio) a [static IP address](/direccion-ip-ip-address-conceptorio) in another range different from that of our wired network. Let's edit the file:
         
@@ -162,7 +162,7 @@ With this recipe you can turn your [**Raspberry Pi**](/raspberry-pi-conceptorio)
         
 - **Moment 5: Configuring our wireless access point**
     
-    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 4-800w.webp)
+    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 4-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     It is time to tell **hostapd** how to operate. We will tell it to broadcast the network name[(SSID](/identificador-ssid-ssid-identifier-conceptorio)) and to operate on a specific channel. We will put these settings in the file :
     
@@ -233,24 +233,24 @@ With this recipe you can turn your [**Raspberry Pi**](/raspberry-pi-conceptorio)
     
 - **Moment 7: Make a first test**
     
-    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 5-800w.webp)
+    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     From another computer or phone, search in the wireless networks for the network we just created, in our case **SOLEVOLTAJE** and connect to it.
     
     If you check the network settings, you should see that the assigned IP address must be in the range we selected in the **dnsmasq** configuration **.** In our case, the device is assigned the IP `192.168.10.143.`
     
-    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 6-800w.webp)
+    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 6-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 6-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 6-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 6-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
 - **Step 8: You can now share the wired connection**
     
     
-    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 7-800w.webp)
+    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 7-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 7-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 7-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 7-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     At this point, those who connect to our access point will be able to see the files and services that we have configured on our Raspberry Pi. If you want to share the wired Internet connection through the wireless network continue with the following steps.
     
 - **Step 9: Forward traffic to the wired connection**
     
-    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 8-800w.webp)
+    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 8-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 8-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 8-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 8-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     It is necessary that our system forwards the traffic from the wireless interface to the wired one, in order to share the connection. At this point, we have to edit the file:
     
@@ -262,7 +262,7 @@ With this recipe you can turn your [**Raspberry Pi**](/raspberry-pi-conceptorio)
     
 - **Step 10: Finally, secure the Firewall**
     
-    ![Imagen](/assets/images/Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340/image 9-800w.webp)
+    <img src="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 9-800w.webp" alt="image.png" srcset="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 9-400w.webp 400w, /assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 9-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     We are now in the last step of the configuration. Here we have to tell the [Firewall](/cortafuegos-firewall-conceptorio) to allow the transit of network traffic between the wireless and wired interfaces, for this, we enter these commands in our terminal:
     
@@ -280,7 +280,7 @@ With this recipe you can turn your [**Raspberry Pi**](/raspberry-pi-conceptorio)
     
 - **Moment 11: Now, with Internet!**
     
-    ![Imagen](/assets/images/Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340/image 10-800w.webp)
+    <img src="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 10-800w.webp" alt="image.png" srcset="/assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 10-400w.webp 400w, /assets\images\Bicigenerador 1a42bd68c5b6803fa23af3faa6d38340\image 10-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     After this long process, the [clients](/cliente-client-conceptorio) connected to our Pi will be able to access the shared Internet connection from our Raspberry Pi... SUCCESSFUL!
     
@@ -306,7 +306,7 @@ If you have come this far, you have learned a lot of things that you can share w
 - [Raspberry Pi: Una pequeña Internet de bolsillo](/raspberry-pi-una-pequena-internet-de-bolsillo-solutions-db) | [Raspberry Pi: A small pocket-sized Internet](/raspberry-pi-a-small-pocket-sized-internet-solutions-db)
 - [¿Cómo saber qué tipo de señal de Internet tienes?](/como-saber-que-tipo-de-senal-de-internet-tienes-solutions-db) |[How to know what kind of Internet signal you have?](/how-to-know-what-kind-of-internet-signal-you-have-solutions-db)
 
-[[D39Dqqhkrrhdhqidfio1](https://notionreactions.com/embed/D39dQQHKrRHdhQIDFIO1](https://notionreactions.com/embed/D39dQQHKrRHdhQIDFIO1))
+[https://notionreactions.com/embed/D39dQQHKrRHdhQIDFIO1](https://notionreactions.com/embed/D39dQQHKrRHdhQIDFIO1)
 
 ---
 

@@ -42,7 +42,7 @@ R-reactions: No
 
 # Buying a cell phone plan that fits your capabilities and needs
 
-![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
+<img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 ## Welcome
 
@@ -81,7 +81,7 @@ If, after doing a sweep of your options, you definitely think you need to buy a 
 
 ## How to do it?
 
-![Imagen](/assets/images/Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db/image 1-275w.webp)
+<img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 - **Before we start: ALERT! prepaid or postpaid?**
     
@@ -151,7 +151,7 @@ If, after doing a sweep of your options, you definitely think you need to buy a 
     
     *Selectra, ¿Cuál es el mejor plan prepago celular en Colombia?*
     
-    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 2-800w.webp)
+    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
 - **Moment 4: Evaluate which is the best option: What do I really need?**
     
@@ -160,9 +160,9 @@ If, after doing a sweep of your options, you definitely think you need to buy a 
     - **Frequency of use, how often will you use it?**
         
         
-        ![Pixabay License, [Iphone Smartphone Apps Apple Inc 410324](https://pixabay.com/photos/iphone-smartphone-apps-apple-inc-410324/)](../../../../../Soluciona%201292bd68c5b681c6b5b5cec1700cc864/Solutions%20DB%201292bd68c5b681d1b87ccbb89a1b1d39/%C2%BFC%C3%B3mo%20comprar%20un%20plan%20celular%20adecuado%20para%20mi%2012a2bd68c5b680b790a0ed2d55ea777b/pre_02.jpg)
+        ![Pixabay License, [https://pixabay.com/photos/iphone-smartphone-apps-apple-inc-410324/](https://pixabay.com/photos/iphone-smartphone-apps-apple-inc-410324/)](../../../../../Soluciona%201292bd68c5b681c6b5b5cec1700cc864/Solutions%20DB%201292bd68c5b681d1b87ccbb89a1b1d39/%C2%BFC%C3%B3mo%20comprar%20un%20plan%20celular%20adecuado%20para%20mi%2012a2bd68c5b680b790a0ed2d55ea777b/pre_02.jpg)
         
-        Pixabay License, [[Iphone Smartphone Apps Apple Inc 410324](https://pixabay.com/photos/iphone-smartphone-apps-apple-inc-410324/](https://pixabay.com/photos/iphone-smartphone-apps-apple-inc-410324/))
+        Pixabay License, [https://pixabay.com/photos/iphone-smartphone-apps-apple-inc-410324/](https://pixabay.com/photos/iphone-smartphone-apps-apple-inc-410324/)
         
         If, for example, **most of your days** you need to make calls and be connected to the Internet, on balance, postpaid plans end up being the best option. 
         
@@ -191,7 +191,7 @@ If, after doing a sweep of your options, you definitely think you need to buy a 
         
         ![CC0 Public Domain[,https://pxhere.com/en/photo/645095](https://pxhere.com/en/photo/645095)](../../../../../Soluciona%201292bd68c5b681c6b5b5cec1700cc864/Solutions%20DB%201292bd68c5b681d1b87ccbb89a1b1d39/%C2%BFC%C3%B3mo%20comprar%20un%20plan%20celular%20adecuado%20para%20mi%2012a2bd68c5b680b790a0ed2d55ea777b/pre_03.jpg)
         
-        CC0 Public Domain[,[645095](https://pxhere.com/en/photo/645095](https://pxhere.com/en/photo/645095))
+        CC0 Public Domain[,https://pxhere.com/en/photo/645095](https://pxhere.com/en/photo/645095)
         
         For example, when we do SOLE, we need to connect a few computers in order to do research on Big Questions. 
         
@@ -238,7 +238,7 @@ There is a small offer available in small operators, these are prepaid plans wit
 
 I, who live in Bogota, am evaluating switching to Movil Exito. I currently have a postpaid plan with WOM where I **pay $40,000 COP**, this entitles me to **60 Gb and unlimited minutes**, that's a lot! Initially, I switched to WOM because, by doing portability, they gave me the **first three months free, plus 20Gb** and **they charged me $35,000 COP.** Now that I am in Bogota and work from home and office, I have internet available from these places. I was reviewing options while writing this solution and I saw that Móvil Éxito offers the following prepaid plans:
 
-![Imagen](/assets/images/How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f/Untitled-800w.webp)
+<img src="/assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-800w.webp" alt="Untitled" srcset="/assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-400w.webp 400w, /assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-800w.webp 800w, /assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 Al mes, mi consumo no supera los 5 Gb y hago, por mucho, 30 llamadas al mes. Por esta razón el primer plan me saldría a **$13,000 COP, ¡Menos de la tercera parte de lo que pago ahora!** Eso si, tengo que hacer el pago de todo el año de una sola vez, pero no estoy atado a ningún tipo de contrato. 
 
@@ -273,13 +273,13 @@ This type of reasoning is what we would like you to have when making a decision 
 </div>](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="[6Jgyxmkqote](https://www.youtube.com/embed/6jGYxMKqOTE)" 
+    src="https://www.youtube.com/embed/6jGYxMKqOTE" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
 </div>)
-- [[Que Son Los Datos Moviles](https://www.phoneservicecenter.es/blog/que-son-los-datos-moviles/](https://www.phoneservicecenter.es/blog/que-son-los-datos-moviles/))
+- [https://www.phoneservicecenter.es/blog/que-son-los-datos-moviles/](https://www.phoneservicecenter.es/blog/que-son-los-datos-moviles/)
 - [<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
@@ -291,20 +291,20 @@ This type of reasoning is what we would like you to have when making a decision 
 </div>](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="[Ps Es1 4Keo](https://www.youtube.com/embed/pS_es1-4keo)" 
+    src="https://www.youtube.com/embed/pS_es1-4keo" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
 </div>)
-- [[Www.Opensignal](https://www.opensignal.com/](https://www.opensignal.com/))
-- [[201500](https://www.semana.com/prepago-vs-pospago-cuando-elegir-cual/201500/](https://www.semana.com/prepago-vs-pospago-cuando-elegir-cual/201500/))
-- [[La Batalla De Los Operadores En Colombia Inicio Con Planes Desde 35 000 3150492](https://www.larepublica.co/empresas/la-batalla-de-los-operadores-en-colombia-inicio-con-planes-desde-35-000-3150492](https://www.larepublica.co/empresas/la-batalla-de-los-operadores-en-colombia-inicio-con-planes-desde-35-000-3150492))
-- [[Planes Prepago](https://selectra.com.co/celular/planes-prepago](https://selectra.com.co/celular/planes-prepago))
+- [https://www.opensignal.com/](https://www.opensignal.com/)
+- [https://www.semana.com/prepago-vs-pospago-cuando-elegir-cual/201500/](https://www.semana.com/prepago-vs-pospago-cuando-elegir-cual/201500/)
+- [https://www.larepublica.co/empresas/la-batalla-de-los-operadores-en-colombia-inicio-con-planes-desde-35-000-3150492](https://www.larepublica.co/empresas/la-batalla-de-los-operadores-en-colombia-inicio-con-planes-desde-35-000-3150492)
+- [https://selectra.com.co/celular/planes-prepago](https://selectra.com.co/celular/planes-prepago)
 
 ---
 
-[[9Sgbzgsc9Ugjj20Oq83Y](https://notionreactions.com/embed/9sGbzgsc9UgJJ20OQ83y](https://notionreactions.com/embed/9sGbzgsc9UgJJ20OQ83y))
+[https://notionreactions.com/embed/9sGbzgsc9UgJJ20OQ83y](https://notionreactions.com/embed/9sGbzgsc9UgJJ20OQ83y)
 
 ---
 

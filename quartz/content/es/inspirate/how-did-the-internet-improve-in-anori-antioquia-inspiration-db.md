@@ -75,9 +75,9 @@ The best part is that the story doesn't end there: the Ambassadors have led SOLE
 
 **Discover the website they have created to tell the world about their community:**
 
-[[Sole La Guayana 88Px4Kf30Ooi6S7B](https://padlet.com/comunidadlaguayana/sole-la-guayana-88px4kf30ooi6s7b](https://padlet.com/comunidadlaguayana/sole-la-guayana-88px4kf30ooi6s7b))
+[https://padlet.com/comunidadlaguayana/sole-la-guayana-88px4kf30ooi6s7b](https://padlet.com/comunidadlaguayana/sole-la-guayana-88px4kf30ooi6s7b)
 
-[[Fo2Jumdljyghfxmadxro](https://notionreactions.com/embed/fO2juMDLjyGHfXMADXRO](https://notionreactions.com/embed/fO2juMDLjyGHfXMADXRO))
+[https://notionreactions.com/embed/fO2juMDLjyGHfXMADXRO](https://notionreactions.com/embed/fO2juMDLjyGHfXMADXRO)
 
 ---
 

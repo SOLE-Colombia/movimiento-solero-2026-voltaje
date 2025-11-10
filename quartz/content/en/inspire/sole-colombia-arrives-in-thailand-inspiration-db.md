@@ -50,14 +50,14 @@ In rural communities 🏞️, where access to traditional education 📚 can be 
 </div>](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="[Bnakrhuvebu](https://www.youtube.com/embed/bNakrhUveBU)" 
+    src="https://www.youtube.com/embed/bNakrhUveBU" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
 </div>)
 
-[[Asd6Gyxr0Axdkyns6551](https://notionreactions.com/embed/ASD6GYXR0axdkYNS6551](https://notionreactions.com/embed/ASD6GYXR0axdkYNS6551))
+[https://notionreactions.com/embed/ASD6GYXR0axdkYNS6551](https://notionreactions.com/embed/ASD6GYXR0axdkYNS6551)
 
 ---
 

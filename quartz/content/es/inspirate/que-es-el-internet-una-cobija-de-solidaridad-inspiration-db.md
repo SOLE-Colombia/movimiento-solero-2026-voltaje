@@ -41,7 +41,7 @@ Hay otras redes de comunicación en el mundo, por ejemplo, el correo postal, la 
 
 ---
 
-[[Bzi9Ik6Cl4Ovdtozayds](https://notionreactions.com/embed/bzi9Ik6Cl4oVdToZAYdS](https://notionreactions.com/embed/bzi9Ik6Cl4oVdToZAYdS))
+[https://notionreactions.com/embed/bzi9Ik6Cl4oVdToZAYdS](https://notionreactions.com/embed/bzi9Ik6Cl4oVdToZAYdS)
 
 *SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
 

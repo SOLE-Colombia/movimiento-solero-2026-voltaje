@@ -12,4 +12,4 @@ fecha: '2025-10-11'
 
 Momento: Presentación de SOLE Voltaje y del ejercicio
 Descripción: ¿Cómo está armada la página de Voltaje?
-Se presenta [voltaje.solecolombia.org](https://voltaje.solecolombia.org/,) que tipo de soluciones tiene, que significan los iconos, y cual es la estructura de una solución.
+Se presenta https://voltaje.solecolombia.org/, que tipo de soluciones tiene, que significan los iconos, y cual es la estructura de una solución.

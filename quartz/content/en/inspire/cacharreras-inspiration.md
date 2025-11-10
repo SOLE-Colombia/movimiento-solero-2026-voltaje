@@ -55,7 +55,7 @@ In a corner of the future, there is a Library that doesn't depend on books, but 
 
 In a world where curiosity and technology converge, the Library of the Future has found an incomparable friend: SOLE Voltaje, a Solutions Guide designed to illuminate the path to knowledge. Together, they create a vibrant space where the internet is not just a tool, but an ally in the pursuit of life's Big Questions.
 
-[[Ewj4D4Ehqesdfzvnrbcz](https://notionreactions.com/embed/EwJ4d4EhqeSDFZvNrbCZ](https://notionreactions.com/embed/EwJ4d4EhqeSDFZvNrbCZ))
+[https://notionreactions.com/embed/EwJ4d4EhqeSDFZvNrbCZ](https://notionreactions.com/embed/EwJ4d4EhqeSDFZvNrbCZ)
 
 ---
 

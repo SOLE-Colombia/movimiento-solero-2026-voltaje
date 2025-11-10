@@ -61,7 +61,7 @@ Stay tuned to our social media and other platforms (check out our website) to fi
 - [¿Qué es un Costurero de Abuelitas, en SOLE Colombia?](/que-es-un-costurero-de-abuelitas-en-sole-colombia-inspiration-db) |
 - [¿Cómo hacer SOLE? - Tutorial](/como-hacer-sole-tutorial-inspiration-db) | [How to make SOLE? - Tutorial](/how-to-make-sole-tutorial-inspiration-db)
 
-[[6Dbos6Ugcosrrqwdz2Gp](https://notionreactions.com/embed/6dBOs6UgcOsRrqWDz2gP](https://notionreactions.com/embed/6dBOs6UgcOsRrqWDz2gP))
+[https://notionreactions.com/embed/6dBOs6UgcOsRrqWDz2gP](https://notionreactions.com/embed/6dBOs6UgcOsRrqWDz2gP)
 
 ---
 

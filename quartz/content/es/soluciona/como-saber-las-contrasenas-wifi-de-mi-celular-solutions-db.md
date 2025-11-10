@@ -68,17 +68,17 @@ Con esta solución podrás explorar las contraseñas [**WiFi](/wifi-fidelidad-i
     
     Lo primero, accede a la “Configuración” de tu teléfono. A continuación, sigue la sección “[**WiFi**](https://sole-doc.tiddlyhost.com/#WiFi)”, donde verás todas las redes disponibles a tu alrededor. Presiona la red de Internet a la que ya tienes acceso y de la que quieres conocer la contraseña. Al hacerlo, aparecerá un código QR con esta información. Luego toma un pantallazo de esta imagen.
     
-    ![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
+    <img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
 - **Momento 2: Descifrar la contraseña**
     
-    El siguiente paso es poder usar un lector que tenga permiso para poder leer esta información. No podemos usar el lector de QR de nuestro propio teléfono, así que podemos usar uno en línea en la siguiente página: [[https://zxing.org](https://zxing.org/](https://zxing.org](https://zxing.org/))
+    El siguiente paso es poder usar un lector que tenga permiso para poder leer esta información. No podemos usar el lector de QR de nuestro propio teléfono, así que podemos usar uno en línea en la siguiente página: [https://zxing.org](https://zxing.org/)
     
-    ![Imagen](/assets/images/Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db/image 1-275w.webp)
+    <img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     Una vez estemos en esta página, cargamos nuestra imagen y oprimimos en el botón “Submit Query”. Al hacerlo, nos aparecerá el nombre de la red y la contraseña para poder compartirla.
     
-    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 2-800w.webp)
+    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
 - **Momento 3: ¡Ya puedes compartirla!**
     
@@ -111,14 +111,14 @@ Tienes la posibilidad de conocer las claves guardadas, pero no aquellas que no h
 </div>](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="[Lbf0M Kkotu](https://www.youtube.com/embed/lBF0m_kKotU)" 
+    src="https://www.youtube.com/embed/lBF0m_kKotU" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
-</div>) [[Como Ver Contrasenas Wifi Guardadas Android Root Apps Terceros](https://www.xataka.com/basics/como-ver-contrasenas-wifi-guardadas-android-root-apps-terceros](https://www.xataka.com/basics/como-ver-contrasenas-wifi-guardadas-android-root-apps-terceros))
+</div>) [https://www.xataka.com/basics/como-ver-contrasenas-wifi-guardadas-android-root-apps-terceros](https://www.xataka.com/basics/como-ver-contrasenas-wifi-guardadas-android-root-apps-terceros)
 
-[[R9Nopjxrvrdrt2Jrat4M](https://notionreactions.com/embed/r9NopJXrVrDrT2jraT4M](https://notionreactions.com/embed/r9NopJXrVrDrT2jraT4M))
+[https://notionreactions.com/embed/r9NopJXrVrDrT2jraT4M](https://notionreactions.com/embed/r9NopJXrVrDrT2jraT4M)
 
 ---
 

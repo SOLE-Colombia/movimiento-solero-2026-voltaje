@@ -54,14 +54,14 @@ Today, we are happy to share with you that we were able to build this dream spac
 </div>&t=86s](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="[ He5R0Tqtum](https://www.youtube.com/embed/_he5R0TqTuM)" 
+    src="https://www.youtube.com/embed/_he5R0TqTuM" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
 </div>&t=86s)
 
-[[Oix6Zyuh5Pt26Of8Jgfr](https://notionreactions.com/embed/OiX6zYUh5pT26of8JgfR](https://notionreactions.com/embed/OiX6zYUh5pT26of8JgfR))
+[https://notionreactions.com/embed/OiX6zYUh5pT26of8JgfR](https://notionreactions.com/embed/OiX6zYUh5pT26of8JgfR)
 
 ---
 

@@ -130,7 +130,7 @@ Darle muchas vueltas a las maneras de comunicarnos y a las audiencias que vamos 
 - [¡Aprende a diseñar tu invitación exprés sin ser un experto!](/aprende-a-disenar-tu-invitacion-expres-sin-ser-un-experto-solutions-db) | [Learn how to design your express invitation without being an expert!](/learn-how-to-design-your-express-invitation-without-being-an-expert-solutions-db)
 - [¿Cómo conseguir equipos donados?](/como-conseguir-equipos-donados-solutions-db) | [How to get donated equipment?](/how-to-get-donated-equipment-solutions-db)
 
-[[Rywkhsqe17Yrj7Oa23G5](https://notionreactions.com/embed/rYWKhsQe17yRj7OA23g5](https://notionreactions.com/embed/rYWKhsQe17yRj7OA23g5))
+[https://notionreactions.com/embed/rYWKhsQe17yRj7OA23g5](https://notionreactions.com/embed/rYWKhsQe17yRj7OA23g5)
 
 ---
 

@@ -24,13 +24,13 @@ traducción: No
 
 *Download this solution to use it disconnected*
 
-[[Edit](https://docs.google.com/document/d/1OT7ygukTWtWLtqMY0p7Vlw7VsmczQylwk5gYHWo5WE0/edit?usp=sharing](https://docs.google.com/document/d/1OT7ygukTWtWLtqMY0p7Vlw7VsmczQylwk5gYHWo5WE0/edit?usp=sharing))
+[https://docs.google.com/document/d/1OT7ygukTWtWLtqMY0p7Vlw7VsmczQylwk5gYHWo5WE0/edit?usp=sharing](https://docs.google.com/document/d/1OT7ygukTWtWLtqMY0p7Vlw7VsmczQylwk5gYHWo5WE0/edit?usp=sharing)
 
 SOLE Session Answers: 
 
-[[Edit](https://docs.google.com/document/d/1OT7ygukTWtWLtqMY0p7Vlw7VsmczQylwk5gYHWo5WE0/edit?usp=sharing)](https://docs.google.com/document/d/1OT7ygukTWtWLtqMY0p7Vlw7VsmczQylwk5gYHWo5WE0/preview?usp=sharing)
+[[https://docs.google.com/document/d/1OT7ygukTWtWLtqMY0p7Vlw7VsmczQylwk5gYHWo5WE0/edit?usp=sharing](https://docs.google.com/document/d/1OT7ygukTWtWLtqMY0p7Vlw7VsmczQylwk5gYHWo5WE0/edit?usp=sharing)](https://docs.google.com/document/d/1OT7ygukTWtWLtqMY0p7Vlw7VsmczQylwk5gYHWo5WE0/preview?usp=sharing)
 
-[[2Fo2Lnd6S5Cqeo8Ul2Io](https://notionreactions.com/embed/2fO2LND6S5cqeo8Ul2Io](https://notionreactions.com/embed/2fO2LND6S5cqeo8Ul2Io))
+[https://notionreactions.com/embed/2fO2LND6S5cqeo8Ul2Io](https://notionreactions.com/embed/2fO2LND6S5cqeo8Ul2Io)
 
 ---
 

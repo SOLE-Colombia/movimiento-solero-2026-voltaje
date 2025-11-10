@@ -70,7 +70,7 @@ Si agotaste las opciones anteriores y, definitivamente, decidiste comprar un com
     
     e ahorran tiempo; también te permiten realizar múltiples tareas. En una computadora, puedes cambiar más fácilmente entre aplicaciones e incluso tenerlas cómodamente en la pantalla al mismo tiempo. Por ejemplo, puedes tener una ventana abierta con tu hoja de vida y otra abierta con un trabajo que estés buscando. O si estás buscando la mejor oferta, puedes tener páginas de varios productos abiertas al mismo tiempo para compararlos fácilmente.
     
-    ![Imagen](/assets/images/How to buy a computer for yourself 2582bd68c5b680cc8dd2cd1a9ef91eb4/surface-pro-4-moto-g4-001-800w.webp)
+    <img src="/assets\images\How to buy a computer for yourself 2582bd68c5b680cc8dd2cd1a9ef91eb4\surface-pro-4-moto-g4-001-800w.webp" alt="surface-pro-4-moto-g4-001.jpg" srcset="/assets\images\How to buy a computer for yourself 2582bd68c5b680cc8dd2cd1a9ef91eb4\surface-pro-4-moto-g4-001-400w.webp 400w, /assets\images\How to buy a computer for yourself 2582bd68c5b680cc8dd2cd1a9ef91eb4\surface-pro-4-moto-g4-001-800w.webp 800w, /assets\images\How to buy a computer for yourself 2582bd68c5b680cc8dd2cd1a9ef91eb4\surface-pro-4-moto-g4-001-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
 
 ## **Opciones a revisar**
@@ -80,14 +80,14 @@ Si agotaste las opciones anteriores y, definitivamente, decidiste comprar un com
     
     Este es un computador diseñado para ser instalado en una ubicación estática, como un escritorio o mesa. Los componentes del hardware suelen ser una caja de computadora que alberga la placa base con los respectivos componentes.
     
-    ![](https:/upload.wikimedia.org/wikipedia/commons/9/93/Laboratorio_de_computaci%C3%B3n.jpg)
+    ![](https://upload.wikimedia.org/wikipedia/commons/9/93/Laboratorio_de_computaci%C3%B3n.jpg)
     
 - **Computador portátil**
     
     
     Tan solo llamado portátil, este es una computadora que se puede mover o transportar con relativa facilidad. Los portátiles son pequeños, livianos y están especialmente diseñadas para que sus baterías sean capaces de alimentarlas durante un período prolongado de tiempo (generalmente de 4 a 5 horas). La medida de las pantallas van de las 11 a las 15 pulgadas.
     
-    ![](https:/upload.wikimedia.org/wikipedia/commons/b/ba/MSI_laptop_with_English_Wikipedia_screenshot_20100614.jpg)
+    ![](https://upload.wikimedia.org/wikipedia/commons/b/ba/MSI_laptop_with_English_Wikipedia_screenshot_20100614.jpg)
     
 - **Pros y contras**
     
@@ -130,19 +130,19 @@ Si agotaste las opciones anteriores y, definitivamente, decidiste comprar un com
     
     **Imagen**
     
-    ![](https:/upload.wikimedia.org/wikipedia/commons/d/dc/Intel_80486DX2_top.jpg)
+    ![](https://upload.wikimedia.org/wikipedia/commons/d/dc/Intel_80486DX2_top.jpg)
     
-    ![](https:/upload.wikimedia.org/wikipedia/commons/f/f8/Laptop-hard-drive-exposed.jpg)
+    ![](https://upload.wikimedia.org/wikipedia/commons/f/f8/Laptop-hard-drive-exposed.jpg)
     
     ![](https://upload.wikimedia.org/wikipedia/commons/a/ac/RamTypes.JPG)
     
-    ![](https:/upload.wikimedia.org/wikipedia/commons/f/f3/Sapphire-Radeon-HD-5570-Video-Card.jpg)
+    ![](https://upload.wikimedia.org/wikipedia/commons/f/f3/Sapphire-Radeon-HD-5570-Video-Card.jpg)
     
-    ![](https:/upload.wikimedia.org/wikipedia/commons/c/c5/Red_computer_mouse.jpg)
+    ![](https://upload.wikimedia.org/wikipedia/commons/c/c5/Red_computer_mouse.jpg)
     
-    ![](https:/upload.wikimedia.org/wikipedia/commons/0/08/TFT_LCD_display_Samsung_SyncMaster_510N.jpg)
+    ![](https://upload.wikimedia.org/wikipedia/commons/0/08/TFT_LCD_display_Samsung_SyncMaster_510N.jpg)
     
-    ![](https:/upload.wikimedia.org/wikipedia/commons/5/5a/ThinkPad_X201_stock_battery.jpg)
+    ![](https://upload.wikimedia.org/wikipedia/commons/5/5a/ThinkPad_X201_stock_battery.jpg)
     
     **Descripción**
     
@@ -207,7 +207,7 @@ El computador desde el que te estoy escribiendo lo compré hace 13 años, ha pas
 Por ultimo, recuerda que ahora es muy fácil encontrar [páginas](https://uk.pcmag.com/laptops/21232/asus-n53sv-a1) y [personas](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="[Pwx6Rcsu154](https://www.youtube.com/embed/pwX6rCsu154)" 
+    src="https://www.youtube.com/embed/pwX6rCsu154" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
@@ -215,7 +215,7 @@ Por ultimo, recuerda que ahora es muy fácil encontrar [páginas](https://uk.pcm
 </div>&ab_channel=RadioTech) dedicadas exclusivamente a hacer [reseñas](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="[Qr J8Wfygi4](https://www.youtube.com/embed/qr_j8wFYgi4)" 
+    src="https://www.youtube.com/embed/qr_j8wFYgi4" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
@@ -223,7 +223,7 @@ Por ultimo, recuerda que ahora es muy fácil encontrar [páginas](https://uk.pcm
 </div>&ab_channel=IsaMarcial) y [evaluar](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="[Heiz534Ywas](https://www.youtube.com/embed/HeIz534YWas)" 
+    src="https://www.youtube.com/embed/HeIz534YWas" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
@@ -250,26 +250,26 @@ Con esto que acabamos de ver, ya no te pueden meter los dedos a la boca, **¡es 
 
 ## Referencias
 
-- [[Guia Computadores](https://www.alkosto.com/guia-compra/guia-computadores/c/guia-computadores?fuente=google&medio=cpc&campaign=AK_COL_DSA_PEF_CPC_CT_AON_COMP_TLP_Computadores-Category-AON_PAC&keyword=&gad_source=1](https://www.alkosto.com/guia-compra/guia-computadores/c/guia-computadores?fuente=google&medio=cpc&campaign=AK_COL_DSA_PEF_CPC_CT_AON_COMP_TLP_Computadores-Category-AON_PAC&keyword=&gad_source=1))
-- [[Que Hay Que Tener En Cuenta Antes De Comprar Un Computador](https://todotintasysuministros.com/blog/que-hay-que-tener-en-cuenta-antes-de-comprar-un-computador](https://todotintasysuministros.com/blog/que-hay-que-tener-en-cuenta-antes-de-comprar-un-computador))
-- [[Como Elegir Una Buena Laptop](https://www.promart.pe/blog/como-elegir-una-buena-laptop](https://www.promart.pe/blog/como-elegir-una-buena-laptop))
-- [[Que Hay Que Tener En Cuenta A La Hora De Comprar Un Ordenador](https://www.conquistainternet.com/blog/que-hay-que-tener-en-cuenta-a-la-hora-de-comprar-un-ordenador](https://www.conquistainternet.com/blog/que-hay-que-tener-en-cuenta-a-la-hora-de-comprar-un-ordenador))
-- [[Computadora De Escritorio](https://es.wikipedia.org/wiki/Computadora_de_escritorio](https://es.wikipedia.org/wiki/Computadora_de_escritorio))
-- [[Computadora Portátil](https://es.wikipedia.org/wiki/Computadora_port%C3%A1til](https://es.wikipedia.org/wiki/Computadora_portátil))
-- [[5 Diferencias Entre Comprar Laptop O Computadora](https://compuline.com.mx/blog/5-diferencias-entre-comprar-laptop-o-computadora/](https://compuline.com.mx/blog/5-diferencias-entre-comprar-laptop-o-computadora/))
-- [[:~:Text=Computadora%20De%20Escritorio%3A%20Las%20Computadoras%20De%20Escritorio%20Ocupan%20Espacio%20F%C3%Adsico,Trabajo%20Despejado%20Y%20Sin%20Cables](Https://Www.Multicopy.Com.Gt/Blog/Te Damos La Bienvenida A Nuestro Blog 1/Post/Computadora De Escritorio Vs Portatil Laptop O Notebook 45#:~:Text=Computadora](https://www.multicopy.com.gt/blog/te-damos-la-bienvenida-a-nuestro-blog-1/post/computadora-de-escritorio-vs-portatil-laptop-o-notebook-45#:~:text=Computadora%20de%20Escritorio%3A%20Las%20computadoras%20de%20escritorio%20ocupan%20espacio%20f%C3%ADsico,trabajo%20despejado%20y%20sin%20cables](https://www.multicopy.com.gt/blog/te-damos-la-bienvenida-a-nuestro-blog-1/post/computadora-de-escritorio-vs-portatil-laptop-o-notebook-45#:~:text=Computadora) de Escritorio: Las computadoras de escritorio ocupan espacio físico,trabajo despejado y sin cables).
+- [https://www.alkosto.com/guia-compra/guia-computadores/c/guia-computadores?fuente=google&medio=cpc&campaign=AK_COL_DSA_PEF_CPC_CT_AON_COMP_TLP_Computadores-Category-AON_PAC&keyword=&gad_source=1](https://www.alkosto.com/guia-compra/guia-computadores/c/guia-computadores?fuente=google&medio=cpc&campaign=AK_COL_DSA_PEF_CPC_CT_AON_COMP_TLP_Computadores-Category-AON_PAC&keyword=&gad_source=1)
+- [https://todotintasysuministros.com/blog/que-hay-que-tener-en-cuenta-antes-de-comprar-un-computador](https://todotintasysuministros.com/blog/que-hay-que-tener-en-cuenta-antes-de-comprar-un-computador)
+- [https://www.promart.pe/blog/como-elegir-una-buena-laptop](https://www.promart.pe/blog/como-elegir-una-buena-laptop)
+- [https://www.conquistainternet.com/blog/que-hay-que-tener-en-cuenta-a-la-hora-de-comprar-un-ordenador](https://www.conquistainternet.com/blog/que-hay-que-tener-en-cuenta-a-la-hora-de-comprar-un-ordenador)
+- [https://es.wikipedia.org/wiki/Computadora_de_escritorio](https://es.wikipedia.org/wiki/Computadora_de_escritorio)
+- [https://es.wikipedia.org/wiki/Computadora_port%C3%A1til](https://es.wikipedia.org/wiki/Computadora_portátil)
+- [https://compuline.com.mx/blog/5-diferencias-entre-comprar-laptop-o-computadora/](https://compuline.com.mx/blog/5-diferencias-entre-comprar-laptop-o-computadora/)
+- [https://www.multicopy.com.gt/blog/te-damos-la-bienvenida-a-nuestro-blog-1/post/computadora-de-escritorio-vs-portatil-laptop-o-notebook-45#:~:text=Computadora%20de%20Escritorio%3A%20Las%20computadoras%20de%20escritorio%20ocupan%20espacio%20f%C3%ADsico,trabajo%20despejado%20y%20sin%20cables](https://www.multicopy.com.gt/blog/te-damos-la-bienvenida-a-nuestro-blog-1/post/computadora-de-escritorio-vs-portatil-laptop-o-notebook-45#:~:text=Computadora de Escritorio: Las computadoras de escritorio ocupan espacio físico,trabajo despejado y sin cables).
 - [https://www.impactomedia.com/tecnologia-de-impacto/por-que-usar-una-computadora-cuando-tienes-un-telefono-smartphone/#:~:text=Con una computadora%2C tienes un,un teléfono pequeño no puede](https://www.impactomedia.com/tecnologia-de-impacto/por-que-usar-una-computadora-cuando-tienes-un-telefono-smartphone/#:~:text=Con una computadora, tienes un,un teléfono pequeño no puede).
-- [[Msi Laptop With English Wikipedia Screenshot 20100614](https://upload.wikimedia.org/wikipedia/commons/b/ba/MSI_laptop_with_English_Wikipedia_screenshot_20100614.jpg](https://upload.wikimedia.org/wikipedia/commons/b/ba/MSI_laptop_with_English_Wikipedia_screenshot_20100614.jpg))
-- [[Intel 80486Dx2 Top](https://upload.wikimedia.org/wikipedia/commons/d/dc/Intel_80486DX2_top.jpg](https://upload.wikimedia.org/wikipedia/commons/d/dc/Intel_80486DX2_top.jpg))
-- [[Laptop Hard Drive Exposed](https://upload.wikimedia.org/wikipedia/commons/f/f8/Laptop-hard-drive-exposed.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f8/Laptop-hard-drive-exposed.jpg))
-- [[Thinkpad X201 Stock Battery](https://upload.wikimedia.org/wikipedia/commons/5/5a/ThinkPad_X201_stock_battery.jpg](https://upload.wikimedia.org/wikipedia/commons/5/5a/ThinkPad_X201_stock_battery.jpg))
-- [[Asus N53Sv A1](https://uk.pcmag.com/laptops/21232/asus-n53sv-a1](https://uk.pcmag.com/laptops/21232/asus-n53sv-a1))
-- [[My Microsoft Edition Android Phone Windows 10 Mobile Vs Android In 2017](https://felixwong.com/2017/08/my-microsoft-edition-android-phone-windows-10-mobile-vs-android-in-2017/](https://felixwong.com/2017/08/my-microsoft-edition-android-phone-windows-10-mobile-vs-android-in-2017/))
-- [[Guia Para Tomar Mejores Decisiones](https://www.wrike.com/es/blog/guia-para-tomar-mejores-decisiones/](https://www.wrike.com/es/blog/guia-para-tomar-mejores-decisiones/))
+- [https://upload.wikimedia.org/wikipedia/commons/b/ba/MSI_laptop_with_English_Wikipedia_screenshot_20100614.jpg](https://upload.wikimedia.org/wikipedia/commons/b/ba/MSI_laptop_with_English_Wikipedia_screenshot_20100614.jpg)
+- [https://upload.wikimedia.org/wikipedia/commons/d/dc/Intel_80486DX2_top.jpg](https://upload.wikimedia.org/wikipedia/commons/d/dc/Intel_80486DX2_top.jpg)
+- [https://upload.wikimedia.org/wikipedia/commons/f/f8/Laptop-hard-drive-exposed.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f8/Laptop-hard-drive-exposed.jpg)
+- [https://upload.wikimedia.org/wikipedia/commons/5/5a/ThinkPad_X201_stock_battery.jpg](https://upload.wikimedia.org/wikipedia/commons/5/5a/ThinkPad_X201_stock_battery.jpg)
+- [https://uk.pcmag.com/laptops/21232/asus-n53sv-a1](https://uk.pcmag.com/laptops/21232/asus-n53sv-a1)
+- [https://felixwong.com/2017/08/my-microsoft-edition-android-phone-windows-10-mobile-vs-android-in-2017/](https://felixwong.com/2017/08/my-microsoft-edition-android-phone-windows-10-mobile-vs-android-in-2017/)
+- [https://www.wrike.com/es/blog/guia-para-tomar-mejores-decisiones/](https://www.wrike.com/es/blog/guia-para-tomar-mejores-decisiones/)
 
 ---
 
-[[Avibckjhi96U67Mapqih](https://notionreactions.com/embed/avIbCkjhI96U67mApQIH](https://notionreactions.com/embed/avIbCkjhI96U67mApQIH))
+[https://notionreactions.com/embed/avIbCkjhI96U67mApQIH](https://notionreactions.com/embed/avIbCkjhI96U67mApQIH)
 
 ---
 

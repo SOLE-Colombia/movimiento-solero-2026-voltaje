@@ -53,13 +53,13 @@ These tests are useful to verify if the speed contracted with your provider matc
     
     You can use websites such as [**Speedtest.net**](https://www.speedtest.net/es), [**Fast.com**](https://fast.com/es/), or nPerf.com. There are also mobile applications such as [**Speedtest by Ookla**](https://www.speedtest.net/es/mobile/android/help). 
     
-    ![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
+    <img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
 - **Step 2: Run the test**
     
     Start the test on the website or app. 
     
-    ![Imagen](/assets/images/Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db/image 1-275w.webp)
+    <img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
 - **Step 3: Interpret the results**
     
@@ -69,7 +69,7 @@ These tests are useful to verify if the speed contracted with your provider matc
     - **Upload speed:** The speed at which you can send data to the Internet, such as sending emails or uploading videos to social networks.
     - **Latency (ping):** The time it takes for a signal to go back and forth between your device and a remote server, measured in milliseconds. A low ping is preferable, especially for online gaming or video calls.
     
-    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 2-800w.webp)
+    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
 
 **Additional considerations:**
@@ -89,7 +89,7 @@ These tests are useful to verify if the speed contracted with your provider matc
 
 Diagnosing the state of connectivity in remote contexts is fundamental to know what type of connectivity solution is most suitable for each context. 
 
-For example, it is important to know how to do this when we go to the field in SOLE Colombia projects. We have found that having a complete Internet experience, learning to characterize the community and the Internet connection it has, as well as the fluctuations and inconveniences of the place where the solution is going to be installed, make people engage in the experience of self-organized learning in a very powerful and intense way. Feeling able to be able to set up or enhance the internet signal to be able to use it as a group, makes everything more powerful... you can see the stories here: [Blog](https://www.solecolombia.org/blog)
+For example, it is important to know how to do this when we go to the field in SOLE Colombia projects. We have found that having a complete Internet experience, learning to characterize the community and the Internet connection it has, as well as the fluctuations and inconveniences of the place where the solution is going to be installed, make people engage in the experience of self-organized learning in a very powerful and intense way. Feeling able to be able to set up or enhance the internet signal to be able to use it as a group, makes everything more powerful... you can see the stories here: https://www.solecolombia.org/blog
 
 ## **Recommended solutions**
 
@@ -99,13 +99,13 @@ For example, it is important to know how to do this when we go to the field in S
 
 ## **References**
 
-[Como Funciona Exactamente Test Velocidad Como Fiables](https://www.xataka.com/servicios/como-funciona-exactamente-test-velocidad-como-fiables)
+https://www.xataka.com/servicios/como-funciona-exactamente-test-velocidad-como-fiables
 
-[Test De Velocidad](https://www.movistar.com.co/test-de-velocidad)
+https://www.movistar.com.co/test-de-velocidad
 
-[Test Velocidad](https://www.highspeedinternet.com/es/herramientas/test-velocidad)
+https://www.highspeedinternet.com/es/herramientas/test-velocidad
 
-[[Tpjjpioaag7Hgoeqslwu](https://notionreactions.com/embed/TpJjPIOAag7HGoEqSLWu](https://notionreactions.com/embed/TpJjPIOAag7HGoEqSLWu))
+[https://notionreactions.com/embed/TpJjPIOAag7HGoEqSLWu](https://notionreactions.com/embed/TpJjPIOAag7HGoEqSLWu)
 
 ---
 

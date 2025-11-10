@@ -64,9 +64,9 @@ Esta solución está compuesta por tres pasos en los que te contaremos todo lo q
 
 - **Momento 1: Busca posibles donantes**
     
-    ![Imagen](/assets/images/¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9/pexels-veerasak-piyawatanakul-1143513-800w.webp)
+    <img src="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-veerasak-piyawatanakul-1143513-800w.webp" alt="pexels-veerasak-piyawatanakul-1143513.jpg" srcset="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-veerasak-piyawatanakul-1143513-400w.webp 400w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-veerasak-piyawatanakul-1143513-800w.webp 800w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-veerasak-piyawatanakul-1143513-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
-    Foto de veerasak Piyawatanakul: [[Mujer Con Portatil Negro Mientras Se Inclina Sobre La Mesa De Madera Marron 1143513](https://www.pexels.com/es-es/foto/mujer-con-portatil-negro-mientras-se-inclina-sobre-la-mesa-de-madera-marron-1143513/](https://www.pexels.com/es-es/foto/mujer-con-portatil-negro-mientras-se-inclina-sobre-la-mesa-de-madera-marron-1143513/))
+    Foto de veerasak Piyawatanakul: [https://www.pexels.com/es-es/foto/mujer-con-portatil-negro-mientras-se-inclina-sobre-la-mesa-de-madera-marron-1143513/](https://www.pexels.com/es-es/foto/mujer-con-portatil-negro-mientras-se-inclina-sobre-la-mesa-de-madera-marron-1143513/)
     
     Por lo general, los donantes de equipos son empresas con gran capacidad económica, nómina e infraestructura. Piensa en las empresas de telefonía o computación, universidades o averigua sobre los patrocinadores de los proyectos sociales en tu región. Ahora bien, te sugerimos empezar por las empresas pequeñas. Para esto tienes dos opciones:
     **Opción 1. Busqueda directa:** puedes buscar empresas o personas que donen equipos a través de internet, redes sociales, consultando con tus redes de contacto o círculos cercanos.
@@ -84,9 +84,9 @@ Esta solución está compuesta por tres pasos en los que te contaremos todo lo q
     
 - **Momento 2: Encuentra a la empresa donante e identifica el modelo de relación**
     
-    ![Imagen](/assets/images/¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9/pexels-fauxels-3184416-800w.webp)
+    <img src="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-fauxels-3184416-800w.webp" alt="pexels-fauxels-3184416.jpg" srcset="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-fauxels-3184416-400w.webp 400w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-fauxels-3184416-800w.webp 800w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-fauxels-3184416-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
-    Foto de fauxels: [[Foto De Personas Haciendo Apretones De Manos 3184416](https://www.pexels.com/es-es/foto/foto-de-personas-haciendo-apretones-de-manos-3184416/](https://www.pexels.com/es-es/foto/foto-de-personas-haciendo-apretones-de-manos-3184416/))
+    Foto de fauxels: [https://www.pexels.com/es-es/foto/foto-de-personas-haciendo-apretones-de-manos-3184416/](https://www.pexels.com/es-es/foto/foto-de-personas-haciendo-apretones-de-manos-3184416/)
     
     Una vez hayas enviado las solicitudes solo te queda esperar e insistir continuamente para recibir respuesta. No dejes enfriar el contacto, si pasa más de una semana sin tener alguna respuesta, vuelve a escribir o ve en persona si es posible. Cuando logres una respuesta afirmativa, ten claridad acerca de cuál es el modelo en el que recibirás los equipos: no todas las empresas donan sus equipos, algunas deciden regalarlos, por lo que hay dos tipos de modelos: 
     
@@ -101,13 +101,13 @@ Esta solución está compuesta por tres pasos en los que te contaremos todo lo q
 - **Momento 3: Recepción de los equipos y construcción de relación**
     
     
-    ![Imagen](/assets/images/¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9/pexels-ketut-subiyanto-4246186-800w.webp)
+    <img src="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-ketut-subiyanto-4246186-800w.webp" alt="pexels-ketut-subiyanto-4246186.jpg" srcset="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-ketut-subiyanto-4246186-400w.webp 400w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-ketut-subiyanto-4246186-800w.webp 800w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-ketut-subiyanto-4246186-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
-    Foto de Ketut Subiyanto: [[Pareja Amor Relacion Casa 4246186](https://www.pexels.com/es-es/foto/pareja-amor-relacion-casa-4246186/](https://www.pexels.com/es-es/foto/pareja-amor-relacion-casa-4246186/))
+    Foto de Ketut Subiyanto: [https://www.pexels.com/es-es/foto/pareja-amor-relacion-casa-4246186/](https://www.pexels.com/es-es/foto/pareja-amor-relacion-casa-4246186/)
     
-    ![Imagen](/assets/images/¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9/pexels-cytonn-photography-955393-800w.webp)
+    <img src="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-cytonn-photography-955393-800w.webp" alt="pexels-cytonn-photography-955393.jpg" srcset="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-cytonn-photography-955393-400w.webp 400w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-cytonn-photography-955393-800w.webp 800w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-cytonn-photography-955393-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
-    Foto de Cytonn photography: [[Persona Que Firma El Papel 955393](https://www.pexels.com/es-es/foto/persona-que-firma-el-papel-955393/](https://www.pexels.com/es-es/foto/persona-que-firma-el-papel-955393/))
+    Foto de Cytonn photography: [https://www.pexels.com/es-es/foto/persona-que-firma-el-papel-955393/](https://www.pexels.com/es-es/foto/persona-que-firma-el-papel-955393/)
     
     Para la recepción de los equipos, en cualquiera de las dos modalidades, ten en cuenta que cada empresa o persona tiene su propio procedimiento. La entrega de los equipos puede ser un envío, puede que tengas que recogerlos o llegar a un acuerdo sobre el lugar de entrega con la empresa o persona que hará la donación. Después de la entrega, es importante saber qué tipo de relación quieres y puedes construir con ellos: 
     
@@ -128,7 +128,7 @@ Esta solución está compuesta por tres pasos en los que te contaremos todo lo q
     ### **7. Sugerencias**
     
     - [Si quieres saber más, haz clic aquí para que puedas leer la nota de prensa que hizo el periódico El Tiempo en el 2016.](https://www.eltiempo.com/archivo/documento/CMS-16524282)
-    - [[Donacion De Computadores Para Desarrollo De Proyectos Sociales](https://www.gestionandote.org/donacion-de-computadores-para-desarrollo-de-proyectos-sociales/](https://www.gestionandote.org/donacion-de-computadores-para-desarrollo-de-proyectos-sociales/))
+    - [https://www.gestionandote.org/donacion-de-computadores-para-desarrollo-de-proyectos-sociales/](https://www.gestionandote.org/donacion-de-computadores-para-desarrollo-de-proyectos-sociales/)
 
 ## ¿Cómo saber si esta solución funciona?
 
@@ -138,7 +138,7 @@ Cuando recibes equipos que otros no utilizan, has probado que esta solución fun
 
 Quizá esta relación sea de largo alcance, ¿te imaginas que cada año te puede donar unos cuantos computadores? ¿qué harías entonces con todos esos equipos? Pensar en cómo tú puedes extender esa cobija a otros, es una manera de hacer este mundo un lugar más justo. Si quieres saber qué hacemos en SOLE Colombia con los computadores que nos donan, echa un vistazo a [www.solecolombia.org](http://www.solecolombia.org) 
 
-[[4Bqp0Ca8Niunutarwcl8](https://notionreactions.com/embed/4bQP0CA8NiUNuTarwcL8](https://notionreactions.com/embed/4bQP0CA8NiUNuTarwcL8))
+[https://notionreactions.com/embed/4bQP0CA8NiUNuTarwcL8](https://notionreactions.com/embed/4bQP0CA8NiUNuTarwcL8)
 
 ---
 

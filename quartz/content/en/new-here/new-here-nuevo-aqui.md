@@ -31,7 +31,7 @@ You also have an experience to learn what the Internet is and how it works, and 
 [SOLE Colombia, 2024. Choose Auto-translate option in YouTube subtitles and your preferred language.](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="[Dfxkfhgq9Rk](https://www.youtube.com/embed/DFxkFHgQ9Rk)" 
+    src="https://www.youtube.com/embed/DFxkFHgQ9Rk" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
@@ -151,9 +151,9 @@ We have created a “hack” which is using our paid user to login to the Notion
     
     ![Notion AI emoji.png](../../../../¿Nuevo aquí 1292bd68c5b681afa5e1c781d3cef5c6/New here 1352bd68c5b6809eb312e337de94c769/Notion_AI_emoji.png)
     
-    ![Imagen](/assets/images/New here 1352bd68c5b6809eb312e337de94c769/Screen_Shot_2024-12-04_at_2.50.48_PM-800w.webp)
+    <img src="/assets\images\New here 1352bd68c5b6809eb312e337de94c769\Screen_Shot_2024-12-04_at_2.50.48_PM-800w.webp" alt="Screen Shot 2024-12-04 at 2.50.48 PM.png" srcset="/assets\images\New here 1352bd68c5b6809eb312e337de94c769\Screen_Shot_2024-12-04_at_2.50.48_PM-400w.webp 400w, /assets\images\New here 1352bd68c5b6809eb312e337de94c769\Screen_Shot_2024-12-04_at_2.50.48_PM-800w.webp 800w, /assets\images\New here 1352bd68c5b6809eb312e337de94c769\Screen_Shot_2024-12-04_at_2.50.48_PM-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
-    ![Imagen](/assets/images/New here 1352bd68c5b6809eb312e337de94c769/Screen_Shot_2024-12-04_at_2.51.02_PM-800w.webp)
+    <img src="/assets\images\New here 1352bd68c5b6809eb312e337de94c769\Screen_Shot_2024-12-04_at_2.51.02_PM-800w.webp" alt="Screen Shot 2024-12-04 at 2.51.02 PM.png" srcset="/assets\images\New here 1352bd68c5b6809eb312e337de94c769\Screen_Shot_2024-12-04_at_2.51.02_PM-400w.webp 400w, /assets\images\New here 1352bd68c5b6809eb312e337de94c769\Screen_Shot_2024-12-04_at_2.51.02_PM-800w.webp 800w, /assets\images\New here 1352bd68c5b6809eb312e337de94c769\Screen_Shot_2024-12-04_at_2.51.02_PM-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
 
 You can continue doing this on all the pages you visit. 

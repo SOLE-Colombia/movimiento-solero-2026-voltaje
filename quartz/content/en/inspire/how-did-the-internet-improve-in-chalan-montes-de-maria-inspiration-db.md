@@ -49,31 +49,31 @@ Six ambassadors have now been trained in the SOLE methodology and have learned h
 
 Yulieth, Astrid, Yuranis, Johana, Celia, Maryuris, and Yolanda are changing the world. Thanks to their work, more children, youth, adults, and seniors in Chalán now have access to the internet. From neighboring villages like Monte Bello and Rancho Rojo, people come to Vda. Alemania to connect and become part of this network, which they themselves have created and sustained.
 
-![Imagen](/assets/images/How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111/20240710_SOLEWLH_Sintonizacin_MM_Chaln_(14)-800w.webp).jpg)
+<img src="/assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(14)-800w.webp" alt="SOLE led by women Ambassadors, Visitas de Sintonización, Montes de María, (2024)." srcset="/assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(14)-400w.webp 400w, /assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(14)-800w.webp 800w, /assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(14)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
 
 SOLE led by women Ambassadors, Visitas de Sintonización, Montes de María, (2024).
 
-![Imagen](/assets/images/How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111/20241022_SOLEWLH_Festivales_Vda.Alemania__(48)-800w.webp).jpg)
+<img src="/assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20241022_SOLEWLH_Festivales_Vda.Alemania__(48)-800w.webp" alt="Festivales SOLE, Montes de María, (2024)." srcset="/assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20241022_SOLEWLH_Festivales_Vda.Alemania__(48)-400w.webp 400w, /assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20241022_SOLEWLH_Festivales_Vda.Alemania__(48)-800w.webp 800w, /assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20241022_SOLEWLH_Festivales_Vda.Alemania__(48)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
 
 Festivales SOLE, Montes de María, (2024).
 
-![Imagen](/assets/images/How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111/20241022_SOLEWLH_Festivales_Vda.Alemania__(32)-800w.webp).jpg)
+<img src="/assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20241022_SOLEWLH_Festivales_Vda.Alemania__(32)-800w.webp" alt="Festivales SOLE, Montes de María, (2024)." srcset="/assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20241022_SOLEWLH_Festivales_Vda.Alemania__(32)-400w.webp 400w, /assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20241022_SOLEWLH_Festivales_Vda.Alemania__(32)-800w.webp 800w, /assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20241022_SOLEWLH_Festivales_Vda.Alemania__(32)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
 
 Festivales SOLE, Montes de María, (2024).
 
-![Imagen](/assets/images/How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111/20240710_SOLEWLH_Sintonizacin_MM_Chaln_(90)-800w.webp).jpg)
+<img src="/assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(90)-800w.webp" alt="SOLE led women by Ambassadors, Visitas de Sintonización, Montes de María, (2024)." srcset="/assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(90)-400w.webp 400w, /assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(90)-800w.webp 800w, /assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(90)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
 
 SOLE led women by Ambassadors, Visitas de Sintonización, Montes de María, (2024).
 
-![Imagen](/assets/images/How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111/20240710_SOLEWLH_Sintonizacin_MM_Chaln_(13)(2)-800w.webp)(2).jpg)
+<img src="/assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(13)(2)-800w.webp" alt="SOLE led by women Ambassadors, Visitas de Sintonización, Montes de María, (2024)." srcset="/assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(13)(2)-400w.webp 400w, /assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(13)(2)-800w.webp 800w, /assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(13)(2)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />(2).jpg)
 
 SOLE led by women Ambassadors, Visitas de Sintonización, Montes de María, (2024).
 
-![Imagen](/assets/images/How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111/20240710_SOLEWLH_Sintonizacin_MM_Chaln_(162)-800w.webp).jpg)
+<img src="/assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(162)-800w.webp" alt="SOLE led by women Ambassadors, Visitas de Sintonización, Montes de María, (2024)." srcset="/assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(162)-400w.webp 400w, /assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(162)-800w.webp 800w, /assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(162)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
 
 SOLE led by women Ambassadors, Visitas de Sintonización, Montes de María, (2024).
 
-[[I8Kquijfvd9D9Cs44Gcy](https://notionreactions.com/embed/I8KqUIjFVd9d9cS44gcy](https://notionreactions.com/embed/I8KqUIjFVd9d9cS44gcy))
+[https://notionreactions.com/embed/I8KqUIjFVd9d9cS44gcy](https://notionreactions.com/embed/I8KqUIjFVd9d9cS44gcy)
 
 ---
 

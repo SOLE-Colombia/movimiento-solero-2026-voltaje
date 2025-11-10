@@ -200,9 +200,9 @@ Las instrucciones me permiten desarrollar la solución de manera individual y gr
 | **#** | **Material** | **Cant.** | **Enlace** |
 | --- | --- | --- | --- |
 | 1 | Cable de Ethernet (m) | 1 | Hay en la oficina. |
-| 2 | Pegante epóxico de secado rápido. | 5 | la marca sintesolda ha servido[[6276 Adhesivo Epoxico Sintesolda Rapido Transparente](https://ferreco.com/inicio/6276-adhesivo-epoxico-sintesolda-rapido-transparente.html?gad_source=1&gclid=CjwKCAiA5L2tBhBTEiwAdSxJX04bEtS41rbVOsr43-N0YdiqLhXxm--CLQ7n5qPA_NQjMA_PR7nAZRoC2WEQAvD_BwE](https://ferreco.com/inicio/6276-adhesivo-epoxico-sintesolda-rapido-transparente.html?gad_source=1&gclid=CjwKCAiA5L2tBhBTEiwAdSxJX04bEtS41rbVOsr43-N0YdiqLhXxm--CLQ7n5qPA_NQjMA_PR7nAZRoC2WEQAvD_BwE)) |
+| 2 | Pegante epóxico de secado rápido. | 5 | la marca sintesolda ha servido[https://ferreco.com/inicio/6276-adhesivo-epoxico-sintesolda-rapido-transparente.html?gad_source=1&gclid=CjwKCAiA5L2tBhBTEiwAdSxJX04bEtS41rbVOsr43-N0YdiqLhXxm--CLQ7n5qPA_NQjMA_PR7nAZRoC2WEQAvD_BwE](https://ferreco.com/inicio/6276-adhesivo-epoxico-sintesolda-rapido-transparente.html?gad_source=1&gclid=CjwKCAiA5L2tBhBTEiwAdSxJX04bEtS41rbVOsr43-N0YdiqLhXxm--CLQ7n5qPA_NQjMA_PR7nAZRoC2WEQAvD_BwE) |
 | 3 | Canaleta plástica (2 cm) | 250 |  |
-| 4 | Guantes anticorte | 2 | [[Position=6&Search Layout=Stack&Type=Item&Tracking Id=3C36B974 E272 4Bf2 B8C2 692Cbf774A85](Https://Articulo.Mercadolibre.Com.Co/Mco 502525366 Guantes Anti Corte Proteccion Trabajo Nitrilo Industriales  Jm#Position=6&Search Layout=Stack&Type=Item&Tracking Id=3C36B974 E272 4Bf2 B8C2 692Cbf774A85](https://articulo.mercadolibre.com.co/MCO-502525366-guantes-anti-corte-proteccion-trabajo-nitrilo-industriales-_JM#position=6&search_layout=stack&type=item&tracking_id=3c36b974-e272-4bf2-b8c2-692cbf774a85](https://articulo.mercadolibre.com.co/MCO-502525366-guantes-anti-corte-proteccion-trabajo-nitrilo-industriales-_JM#position=6&search_layout=stack&type=item&tracking_id=3c36b974-e272-4bf2-b8c2-692cbf774a85)) |
+| 4 | Guantes anticorte | 2 | [https://articulo.mercadolibre.com.co/MCO-502525366-guantes-anti-corte-proteccion-trabajo-nitrilo-industriales-_JM#position=6&search_layout=stack&type=item&tracking_id=3c36b974-e272-4bf2-b8c2-692cbf774a85](https://articulo.mercadolibre.com.co/MCO-502525366-guantes-anti-corte-proteccion-trabajo-nitrilo-industriales-_JM#position=6&search_layout=stack&type=item&tracking_id=3c36b974-e272-4bf2-b8c2-692cbf774a85) |
 | 5 | Poste rigido para montar la antena (una guadua lo más larga posible, ~~6~~  3 metros). | 3 |  |
 | 6 | Cable coaxial (m) | 12 |  |
 | 7 | Paquete de amarres plásticos (10-20 cm) | 1 |  |
@@ -280,11 +280,11 @@ Selecciona la forma verbal adecuada. Es mejor emplear el modo verbal imperativo,
 
 ## Recursos
 
-- [[Templates](https://www.usability.gov/how-to-and-tools/resources/templates.html](https://www.usability.gov/how-to-and-tools/resources/templates.html))
+- [https://www.usability.gov/how-to-and-tools/resources/templates.html](https://www.usability.gov/how-to-and-tools/resources/templates.html)
 - Afilar el lapicero: guía de redacción para profesionales, Daniel Cassany, Editorial Anagrama, 2007.
 - Recomendaciones_redaccion_instrucciones -BID, Maria Enriqueta Ponce Ponce
-- Organización de un texto instructivo [[Sm L G09 U02 L07](https://contenidosparaaprender.colombiaaprende.edu.co/G_9/L/SM/SM_L_G09_U02_L07.pdf](https://contenidosparaaprender.colombiaaprende.edu.co/G_9/L/SM/SM_L_G09_U02_L07.pdf))
-- Cómo escribir instrucciones y recomendaciones precisas. Redactar textos funcionales y eficaces en el ámbito laboral [[70130 Como Escribir Instrucciones Y Recomendaciones Precisas](https://www.meer.com/es/70130-como-escribir-instrucciones-y-recomendaciones-precisas](https://www.meer.com/es/70130-como-escribir-instrucciones-y-recomendaciones-precisas))
+- Organización de un texto instructivo [https://contenidosparaaprender.colombiaaprende.edu.co/G_9/L/SM/SM_L_G09_U02_L07.pdf](https://contenidosparaaprender.colombiaaprende.edu.co/G_9/L/SM/SM_L_G09_U02_L07.pdf)
+- Cómo escribir instrucciones y recomendaciones precisas. Redactar textos funcionales y eficaces en el ámbito laboral [https://www.meer.com/es/70130-como-escribir-instrucciones-y-recomendaciones-precisas](https://www.meer.com/es/70130-como-escribir-instrucciones-y-recomendaciones-precisas)
 
 ## Instrucciones para subir una escalera
 
@@ -300,7 +300,7 @@ Llegado en esta forma al segundo peldaño, basta repetir alternadamente los movi
 
 - FIN*
 
-[[3Hkhhwqyfs0Y4Vpfex0N](https://notionreactions.com/embed/3hKhHwqyFs0y4vPfEX0n](https://notionreactions.com/embed/3hKhHwqyFs0y4vPfEX0n))
+[https://notionreactions.com/embed/3hKhHwqyFs0y4vPfEX0n](https://notionreactions.com/embed/3hKhHwqyFs0y4vPfEX0n)
 
 ---
 

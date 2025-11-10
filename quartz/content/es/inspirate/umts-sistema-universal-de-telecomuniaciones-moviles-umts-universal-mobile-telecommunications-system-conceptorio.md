@@ -42,10 +42,10 @@ Su principal propósito es ofrecer comunicaciones inalámbricas de banda ancha c
 
 ### Referencias | References
 
-- [What Is Umts](https://wirelesslogic.com/iot-glossary/what-is-umts)
-- [Umts](https://avance.digital.gob.es/banda-ancha/tecnologias/movil/Paginas/UMTS.aspx)
-- [Umts](https://www.emnify.com/blog/umts)
-- [Universal Mobile Telecommunications System](https://www.sciencedirect.com/topics/engineering/universal-mobile-telecommunications-system)
+- https://wirelesslogic.com/iot-glossary/what-is-umts
+- https://avance.digital.gob.es/banda-ancha/tecnologias/movil/Paginas/UMTS.aspx
+- https://www.emnify.com/blog/umts
+- https://www.sciencedirect.com/topics/engineering/universal-mobile-telecommunications-system
 
 ### English
 

@@ -46,7 +46,7 @@ recursos/personas: 3: Más de 3 personas
 [Video ideado, creado y producido por SOLE Colombia, 2024](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="[Fox3N4Qhvn4](https://www.youtube.com/embed/Fox3N4QHVN4)" 
+    src="https://www.youtube.com/embed/Fox3N4QHVN4" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
@@ -103,7 +103,7 @@ Si eres una comunidad de bajos recursos, o en zonas remotas, puedes ser consider
     
     Los siguientes pasos tienen que ver con la solicitud del BigBox.
     
-    ![](https:/archive.org/download/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/JangalaBixBox/JangalaBigBox_Home.png)
+    ![](https://archive.org/download/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/JangalaBixBox/JangalaBigBox_Home.png)
     
 - **Momento 2: Diligenciar el formulario en línea**
     
@@ -171,7 +171,7 @@ El Jangala Big Box no resolverá la conectividad si no hay señal de Internet (c
 - [Pide un Salón Comunal, o cualquier espacio comunitario](/pide-un-salon-comunal-o-cualquier-espacio-comunitario-solutions-db) | [Request a Community Room, or any community space](/request-a-community-room-or-any-community-space-solutions-db)
 - [¿Cómo comprar un plan celular adecuado para mi?](/como-comprar-un-plan-celular-adecuado-para-mi-solutions-db) | [How to buy a suitable cellular plan for me?](/how-to-buy-a-suitable-cellular-plan-for-me-solutions-db)
 
-[[Smzp0Dicqpbqgrarheaz](https://notionreactions.com/embed/Smzp0DICqpBQGrArHEAZ](https://notionreactions.com/embed/Smzp0DICqpBQGrArHEAZ))
+[https://notionreactions.com/embed/Smzp0DICqpBQGrArHEAZ](https://notionreactions.com/embed/Smzp0DICqpBQGrArHEAZ)
 
 ---
 

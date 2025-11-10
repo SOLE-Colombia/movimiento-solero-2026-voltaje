@@ -36,7 +36,7 @@ Hoy, niños, jóvenes y adultos tienen un lugar público con conexión a Interne
 
 ---
 
-[[Piyfrvdlfts270Vgfvj5](https://notionreactions.com/embed/PIYFrvdLfTS270Vgfvj5](https://notionreactions.com/embed/PIYFrvdLfTS270Vgfvj5))
+[https://notionreactions.com/embed/PIYFrvdLfTS270Vgfvj5](https://notionreactions.com/embed/PIYFrvdLfTS270Vgfvj5)
 
 ---
 

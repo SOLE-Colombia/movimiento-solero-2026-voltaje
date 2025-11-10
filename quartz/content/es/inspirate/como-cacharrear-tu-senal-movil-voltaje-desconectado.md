@@ -35,4 +35,4 @@ Etiquetas: Cacharrear, Tarjeta
 > Para hacer la prueba de señal **WiFi** conéctate a la red y ve a la tarjeta ***Ser un científico del internet** y **Viajar a la velocidad de la luz**.*
 > 
 
-![Imagen](/assets/images/Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db/image 1-275w.webp)
+<img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />

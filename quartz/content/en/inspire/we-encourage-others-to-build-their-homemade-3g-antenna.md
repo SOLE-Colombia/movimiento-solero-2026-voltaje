@@ -46,7 +46,7 @@ Created Date: 23 de octubre de 2024
 </div>](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="[Bxdvpi6Novc](https://www.youtube.com/embed/bxdVpI6nOVc)" 
+    src="https://www.youtube.com/embed/bxdVpI6nOVc" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
@@ -57,7 +57,7 @@ Have you ever wondered how to improve your internet connection? 🤔💻 Does yo
 
 Get tinkering and build your own homemade 3G antenna🔧📡
 
-[[Sgywz7876Ruepy0Ehorp](https://notionreactions.com/embed/sgYWz7876RuEPy0EhOrP](https://notionreactions.com/embed/sgYWz7876RuEPy0EhOrP))
+[https://notionreactions.com/embed/sgYWz7876RuEPy0EhOrP](https://notionreactions.com/embed/sgYWz7876RuEPy0EhOrP)
 
 ---
 

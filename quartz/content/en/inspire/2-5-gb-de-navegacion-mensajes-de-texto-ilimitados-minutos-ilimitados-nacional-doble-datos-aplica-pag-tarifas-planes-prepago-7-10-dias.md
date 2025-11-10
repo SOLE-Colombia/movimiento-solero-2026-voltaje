@@ -11,5 +11,5 @@ fecha: '2025-10-11'
 
 # 2.5 GB de navegación + Mensajes de texto ilimitados + Minutos ilimitados nacional + DOBLE DATOS aplica pagando con: Bancolombia, Nequi, Tarjeta débito y crédito (*no aplica pagando con saldo de recarga) + Facebook y WhatsApp.
 
-Empresa de telefonía móvil: [Prepago](https://selectra.com.co/empresas/tigo/prepago)
+Empresa de telefonía móvil: https://selectra.com.co/empresas/tigo/prepago
 Vigencia-Precio: 10 días x $10.000

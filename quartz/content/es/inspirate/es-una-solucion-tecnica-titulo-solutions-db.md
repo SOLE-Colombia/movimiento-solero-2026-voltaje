@@ -74,7 +74,7 @@ PDF here
 
 ### ahora, incluye las reacciones -notion reactions:
 
-- [ ]  entra en [[Notionreactions](https://notionreactions.com/](https://notionreactions.com/)) con el usuario de hola
+- [ ]  entra en [https://notionreactions.com/](https://notionreactions.com/) con el usuario de hola
 - [ ]  crea la entrada de reacciones con el título de la Solución
 - [ ]  incluye la pregunta en el espacio debajo del título en *‘notion reactions’* -la pregunta siempre es: ¿Cómo te hizo sentir esta Solución? | How did this Solution make you feel?
 - [ ]  copia el enlace que resulta, pulsando **<>Embed**

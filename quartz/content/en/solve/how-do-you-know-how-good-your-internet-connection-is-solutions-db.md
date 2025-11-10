@@ -98,7 +98,7 @@ By optimizing the signal, you will have a faster and more stable connection to b
     - [ ]  4G, LTE: video calls and HD videos
 - **Step 4: Do a speed test**
     
-    ![Imagen](/assets/images/¿Cómo saber qué tan buena es tu conexión a Interne 1362bd68c5b680328cbffbdeb8b00c4d/Como_caharrear_tu_senal_movil_20241202_SOLE_Desconectado_v2-800w.webp)
+    <img src="/assets\images\¿Cómo saber qué tan buena es tu conexión a Interne 1362bd68c5b680328cbffbdeb8b00c4d\Como_caharrear_tu_senal_movil_20241202_SOLE_Desconectado_v2-800w.webp" alt="Como caharrear tu señal movil_20241202_SOLE_Desconectado v2.png" srcset="/assets\images\¿Cómo saber qué tan buena es tu conexión a Interne 1362bd68c5b680328cbffbdeb8b00c4d\Como_caharrear_tu_senal_movil_20241202_SOLE_Desconectado_v2-400w.webp 400w, /assets\images\¿Cómo saber qué tan buena es tu conexión a Interne 1362bd68c5b680328cbffbdeb8b00c4d\Como_caharrear_tu_senal_movil_20241202_SOLE_Desconectado_v2-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
 
 ## How do you know if this solution works?
@@ -119,7 +119,7 @@ Maybe you can also make decisions about taking up a collection with your neighbo
 - [¿Cómo comprar un plan celular adecuado para mi?](/como-comprar-un-plan-celular-adecuado-para-mi-solutions-db) | [How to buy a suitable cellular plan for me?](/how-to-buy-a-suitable-cellular-plan-for-me-solutions-db)
 - [¿Qué Internet satelital elegir, según mis necesidades? ](/que-internet-satelital-elegir-segun-mis-necesidades-solutions-db) | [Which satellite Internet to choose, according to my needs?](/which-satellite-internet-to-choose-according-to-my-needs-solutions-db)
 
-[[Y2Zsuyv2Polgmwefiqnr](https://notionreactions.com/embed/y2ZSuyv2PolGMwefiqnr](https://notionreactions.com/embed/y2ZSuyv2PolGMwefiqnr))
+[https://notionreactions.com/embed/y2ZSuyv2PolGMwefiqnr](https://notionreactions.com/embed/y2ZSuyv2PolGMwefiqnr)
 
 ---
 

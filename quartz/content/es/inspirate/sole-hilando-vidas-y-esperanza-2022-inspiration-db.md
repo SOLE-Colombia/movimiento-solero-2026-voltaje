@@ -43,14 +43,14 @@ En el 2022 SOLEamos 15 comunidades de tres Regiones  maravillosas donde:
 </div>](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="[Ftivezpety4](https://www.youtube.com/embed/fTIvEZpeTy4)" 
+    src="https://www.youtube.com/embed/fTIvEZpeTy4" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
 </div>)
 
-[[4Ns3Rrkhup9Dyxkkoeec](https://notionreactions.com/embed/4nS3RrKHuP9dYXKKOeec](https://notionreactions.com/embed/4nS3RrKHuP9dYXKKOeec))
+[https://notionreactions.com/embed/4nS3RrKHuP9dYXKKOeec](https://notionreactions.com/embed/4nS3RrKHuP9dYXKKOeec)
 
 ---
 

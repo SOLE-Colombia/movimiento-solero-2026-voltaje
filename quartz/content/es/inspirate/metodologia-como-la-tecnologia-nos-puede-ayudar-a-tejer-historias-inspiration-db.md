@@ -133,4 +133,4 @@ Paola [producción audiovisual]:
 - Los hitos están relacionados con historias alegres, placenteras, pero también que generan vergüenza, dolor o nostalgia.
 - Lo importante de estos dispositivos no está en la historia en sí misma, sino en la forma en la que las personas conectan sus historias entre sí.
 
-[[Gqjrrxpeucrdoxukcpgq](https://notionreactions.com/embed/GQJrRXpEuCRDoxukCpgQ](https://notionreactions.com/embed/GQJrRXpEuCRDoxukCpgQ))
+[https://notionreactions.com/embed/GQJrRXpEuCRDoxukCpgQ](https://notionreactions.com/embed/GQJrRXpEuCRDoxukCpgQ)

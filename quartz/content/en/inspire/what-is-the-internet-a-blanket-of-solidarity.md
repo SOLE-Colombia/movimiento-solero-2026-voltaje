@@ -44,7 +44,7 @@ There are other communication networks in the world, for example, postal mail, t
 
 ---
 
-[[Bzi9Ik6Cl4Ovdtozayds](https://notionreactions.com/embed/bzi9Ik6Cl4oVdToZAYdS](https://notionreactions.com/embed/bzi9Ik6Cl4oVdToZAYdS))
+[https://notionreactions.com/embed/bzi9Ik6Cl4oVdToZAYdS](https://notionreactions.com/embed/bzi9Ik6Cl4oVdToZAYdS)
 
 [¿Nuevo aquí?](/nuevo-aqui-what-is-the-internet-a-blanket-of-solidarity)
 

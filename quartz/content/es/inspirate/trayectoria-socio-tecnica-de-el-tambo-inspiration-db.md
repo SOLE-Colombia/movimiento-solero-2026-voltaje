@@ -30,7 +30,7 @@ Nos propusimos crear 3 **SOLELabs: Las Bibliotecas del Futuro,** interfases dond
 
 - Macro-eventos: Son fases que diseñamos para el desarrollo y puesta en marcha de los SOLELabs. Se pueden ver en el sigueinte esquema:
 
-![Imagen](/assets/images/Trayectoria socio-técnica de Dominguillo 89d1cef25a2946198622fb688f18378a/20240313_SOLEBOLT_DiseoExperiencia_SOLELab-800w.webp)
+<img src="/assets\images\Trayectoria socio-técnica de Dominguillo 89d1cef25a2946198622fb688f18378a\20240313_SOLEBOLT_DiseoExperiencia_SOLELab-800w.webp" alt="20240313_SOLE+BOLT_DiseñoExperiencia_SOLELab.jpg" srcset="/assets\images\Trayectoria socio-técnica de Dominguillo 89d1cef25a2946198622fb688f18378a\20240313_SOLEBOLT_DiseoExperiencia_SOLELab-400w.webp 400w, /assets\images\Trayectoria socio-técnica de Dominguillo 89d1cef25a2946198622fb688f18378a\20240313_SOLEBOLT_DiseoExperiencia_SOLELab-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 - Micro-eventos: Son los acontecimientos significativos particulares que suceden en cada una de las trayectorías.
 - Trayectoria socio-técnica: Una trayectoria socio-técnica es un proceso de co-construcción de productos, procesos productivos y organizacionales, instituciones, relaciones usuario-productor, procesos de aprendizaje, relaciones problema-solución, procesos de construcción de funcionamiento/no funcionamiento de una tecnología, racionalidades, políticas y estrategias determinadas. Para entender más sobre el análisis socio-técnico puedes ir nuestro [conceptorio](https://www.notion.so/1992bd68c5b680a9a298f368c4d7d5d4?pvs=21).
@@ -43,7 +43,7 @@ Enunciando tres grandes temas de interés de esta trayectoria tenemos:
 
 [Sin título](Trayectoria socio-técnica de El Tambo 2602bd68c5b681a0b0d4f5a5cfc657df/Sin título 2602bd68c5b681c891a3d968f65c2b4c.csv)
 
-[[Gpg98Noka6Qadi3Um8Xd](https://notionreactions.com/embed/gPg98NokA6Qadi3um8Xd](https://notionreactions.com/embed/gPg98NokA6Qadi3um8Xd))
+[https://notionreactions.com/embed/gPg98NokA6Qadi3um8Xd](https://notionreactions.com/embed/gPg98NokA6Qadi3um8Xd)
 
 ---
 

@@ -121,7 +121,7 @@ Whether others can appreciate the value and importance of what you say is relate
         
         Here are some posters we have put up in stores to invite the Boca de Camarones community to build The Library of the Future: 
         
-        ![Imagen](/assets/images/Difunde tu mensaje 12a2bd68c5b680588087f05f6f249a90/WhatsApp_Image_2024-08-01_at_10.07.32-800w.webp)
+        <img src="/assets\images\Difunde tu mensaje 12a2bd68c5b680588087f05f6f249a90\WhatsApp_Image_2024-08-01_at_10.07.32-800w.webp" alt="WhatsApp Image 2024-08-01 at 10.07.32.jpeg" srcset="/assets\images\Difunde tu mensaje 12a2bd68c5b680588087f05f6f249a90\WhatsApp_Image_2024-08-01_at_10.07.32-400w.webp 400w, /assets\images\Difunde tu mensaje 12a2bd68c5b680588087f05f6f249a90\WhatsApp_Image_2024-08-01_at_10.07.32-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
         
         **Get out on the street**
         
@@ -192,7 +192,7 @@ Write to us at [**@sole_colombia](https://www.instagram.com/sole_colombia/?hl=es
 - [¿Cómo escribir una buena invitación?](/como-escribir-una-buena-invitacion-solutions-db)
 - [Crea un mensaje potente](/crea-un-mensaje-potente-solutions-db)
 
-[[Vnnfvcqndfchya6Xcrv7](https://notionreactions.com/embed/VnnFvcQNDfcHYA6XCrV7](https://notionreactions.com/embed/VnnFvcQNDfcHYA6XCrV7))
+[https://notionreactions.com/embed/VnnFvcQNDfcHYA6XCrV7](https://notionreactions.com/embed/VnnFvcQNDfcHYA6XCrV7)
 
 ---
 

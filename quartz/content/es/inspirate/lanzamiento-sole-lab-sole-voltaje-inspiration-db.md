@@ -43,7 +43,7 @@ Autores:
 
 Respuesta:
 
-### Tener nuestro propio internet, es decir hacerlo: [[Kimera](https://kimera.com/](https://kimera.com/))
+### Tener nuestro propio internet, es decir hacerlo: [https://kimera.com/](https://kimera.com/)
 
 En México: Telefonía indígena comunitaria 
 
@@ -120,7 +120,7 @@ Respuesta:
     *Convertir a alguien en el "proveedor móvil", una especie de operador que lleve conexión a distintos puntos de la comunidad de manera periódica, conectando a todos como si fuera una red itinerante de internet. ¡El internet en movimiento!*
     
 
-[[Ry9Xtfjgbybylu5Wsg0B](https://notionreactions.com/embed/RY9xTFJGbyBylU5wSG0b](https://notionreactions.com/embed/RY9xTFJGbyBylU5wSG0b))
+[https://notionreactions.com/embed/RY9xTFJGbyBylU5wSG0b](https://notionreactions.com/embed/RY9xTFJGbyBylU5wSG0b)
 
 ---
 

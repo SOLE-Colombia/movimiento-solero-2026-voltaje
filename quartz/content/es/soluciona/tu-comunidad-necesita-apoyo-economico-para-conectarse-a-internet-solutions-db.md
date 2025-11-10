@@ -66,7 +66,7 @@ Contactar con algunas de ellas puede llevarte a conseguir acceso a internet para
     Anímate a contactar con las empresas y programas que te sugiera el buscador.
     
 - **Momento 2: En SOLE Colombia conocemos algunas iniciativas de conectividad a bajo coste alrededor del mundo, echa un vistazo ¡te animamos a ponerte en contacto con ellas!**
-    - [W3 Article 401110](https://mintic.gov.co/portal/715/w3-article-401110.html) - Programa Conectando a los no conectados” de MINTIC y Colnodo
+    - https://mintic.gov.co/portal/715/w3-article-401110.html - Programa Conectando a los no conectados” de MINTIC y Colnodo
         
         El programa "Conectando a los no conectados" es una iniciativa del Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC) de Colombia, que busca llevar Internet a zonas rurales y comunidades con poca o nula conectividad. 
         
@@ -80,7 +80,7 @@ Contactar con algunas de ellas puede llevarte a conseguir acceso a internet para
         4. **Llenar los datos solicitados:** Se le pedirá que ingrese cierta información para registrarse. Complete los campos requeridos.
         5. **Aceptar los términos y condiciones:** Lea cuidadosamente los términos y condiciones y, si está de acuerdo, acéptelos para poder conectarse.
         **¡Listo!** Una vez completados los pasos anteriores, ya podrá utilizar la conexión a Internet.
-    - [Banda De 900 Mhz Para Las Comunidades Una Oportunidad Para Transformar El Acceso A Internet En Zonas Rurales](https://www.colnodo.apc.org/es/NOTAS/banda-de-900-mhz-para-las-comunidades-una-oportunidad-para-transformar-el-acceso-a-internet-en-zonas-rurales)
+    - https://www.colnodo.apc.org/es/NOTAS/banda-de-900-mhz-para-las-comunidades-una-oportunidad-para-transformar-el-acceso-a-internet-en-zonas-rurales
         
         En Colombia, el acceso a la banda de 900 MHz para las comunidades se está abordando **mediante una consulta pública liderada por el Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC) y la Agencia Nacional del Espectro (ANE)** 
         
@@ -113,10 +113,10 @@ Contactar con algunas de ellas puede llevarte a conseguir acceso a internet para
         
         La consulta pública es el espacio para que las comunidades expresen sus necesidades y contribuyan a la construcción de una política pública que reconozca la importancia del espectro para el desarrollo social y económico.
         
-    - [Connecting The Unconnected](https://www.internetsociety.org/es/funding-areas/connecting-the-unconnected/)
+    - https://www.internetsociety.org/es/funding-areas/connecting-the-unconnected/
         - Ofrece financiamiento a organizaciones que construyen y amplían redes de internet en áreas desatendidas, lo que puede resultar en opciones más asequibles para los residentes.
         - Apoya la creación de redes comunitarias, que a menudo son una alternativa más económica a las opciones comerciales.
-    - [Acesso](https://nupef.org.br/programas/acesso)
+    - https://nupef.org.br/programas/acesso
         
         NUPEF.org, a través de su enfoque en redes comunitarias y acceso asequible a internet,  puede **facilitar el acceso a financiamiento y recursos para construir o fortalecer redes de internet comunitarias, además de ofrecer capacitación para gestionar y mantener estas redes**. 
         
@@ -129,7 +129,7 @@ Contactar con algunas de ellas puede llevarte a conseguir acceso a internet para
         - Trabaja para que las personas excluidas puedan usar y adaptar internet y la tecnología digital para sus necesidades, incluyendo el desarrollo de soluciones justas y equitativas para el acceso universal.
         - Busca modelos económicos que permitan un acceso asequible y sostenible a internet, generando valor en la comunidad y promoviendo la autosuficiencia.
         - Facilita el intercambio de conocimientos y experiencias entre diferentes comunidades y movimientos, promoviendo la acción colectiva para la inclusión digital.
-    - [apc.org](https://www.apc.org/)
+    - https://www.apc.org/
         
         Es una red de organizaciones de sociedad civil, que ayuda a las personas a acceder a internet allá donde no hay conectividad o no es asequible. 
         
@@ -137,11 +137,11 @@ Contactar con algunas de ellas puede llevarte a conseguir acceso a internet para
         
         Promueve que las políticas de los gobiernos en lo relativo a las TIC sirvan a los intereses de la población, en especial en los contextos del Sur global.
         
-    - [unconnected.org](http://unconnected.org/)
+    - http://unconnected.org/
         - Es una iniciativa que busca conectar a las personas que no tienen acceso a internet, especialmente en zonas rurales, remotas y de bajos ingresos.
         - Ofrecen programas de financiación y recursos para comunidades y organizaciones locales que están trabajando en la construcción y expansión de infraestructuras de internet, como redes comunitarias y soluciones de acceso complementarias.
         - Además, brindan información sobre cómo obtener internet a bajo costo a través de programas gubernamentales y organizaciones sin fines de lucro.
-    - [highspeedinternet.com](https://www.highspeedinternet.com/)
+    - https://www.highspeedinternet.com/
 
 Si conoces alguna otra manera de conseguir apoyo para conectar tu comunidad a Internet de bajo coste, no te olvides de comentar esta Solución para que podamos incorporarla. También te pedimos que, si ves esta solución obsoleta o con información errónea, nos lo hagas saber para seguir investigando y llevando esta información a los confines del mundo
 
@@ -171,7 +171,7 @@ Cuando las personas nos unimos para conseguir cosas, el límite es el cielo.
 - [¿Cómo compartir los computadores disponibles?](/como-compartir-los-computadores-disponibles-solutions-db) | [How to share available computers?](/how-to-share-available-computers-solutions-db)
 - [Big Box de Jangala: **Gestiona un potente router de internet inalámbrico para comunidades en exclusión digital**](/big-box-de-jangala-gestiona-un-potente-router-de-internet-inalambrico-para-comunidades-en-exclusion) | [Jangala's Big Box: Manages a powerful wireless internet router for digitally excluded communities](/jangala-s-big-box-manages-a-powerful-wireless-internet-router-for-digitally-excluded-communities)
 
-[[Fmbzwbxtj3Tfvddudr0C](https://notionreactions.com/embed/FmBzwbXTj3tFVddudR0c](https://notionreactions.com/embed/FmBzwbXTj3tFVddudR0c))
+[https://notionreactions.com/embed/FmBzwbXTj3tFVddudR0c](https://notionreactions.com/embed/FmBzwbXTj3tFVddudR0c)
 
 ---
 

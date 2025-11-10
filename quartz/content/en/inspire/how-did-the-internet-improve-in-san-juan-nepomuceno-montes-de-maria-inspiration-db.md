@@ -33,7 +33,7 @@ traducción: Yes
 
 *Download this Inspiration to use it disconnected*
 
-[[https://www.notion.so](https://www.notion.so](https://www.notion.so](https://www.notion.so))
+[https://www.notion.so](https://www.notion.so)
 
 The following excerpts are a compilation of testimonies, images, and scenes about how group internet use in the municipality of **San Juan Nepomuceno** is transforming internet access for neighboring communities, such as San José del Peñón and La Haya.
 
@@ -65,15 +65,15 @@ To tinker, you don't need to be an expert or have experience building networks, 
 
 Currently, the community of San José del Peñón, together with its community, has continued to do SOLE on its own, using the Internet as a group to investigate Big Questions such as: *Why is water wet? Why don't humans use 100% of our brains? Why is there fresh water and salt water? Why are children born without teeth?*
 
-![Imagen](/assets/images/How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4/20240711_SOLEWLH_Sintonizacin_MM_SanJuandeNepomuceno_(25)-800w.webp).jpg)
+<img src="/assets\images\How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4\20240711_SOLEWLH_Sintonizacin_MM_SanJuandeNepomuceno_(25)-800w.webp" alt="SOLE led by women Ambassadors in Visitas de Sintonización, Montes de María (2024)." srcset="/assets\images\How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4\20240711_SOLEWLH_Sintonizacin_MM_SanJuandeNepomuceno_(25)-400w.webp 400w, /assets\images\How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4\20240711_SOLEWLH_Sintonizacin_MM_SanJuandeNepomuceno_(25)-800w.webp 800w, /assets\images\How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4\20240711_SOLEWLH_Sintonizacin_MM_SanJuandeNepomuceno_(25)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
 
 SOLE led by women Ambassadors in Visitas de Sintonización, Montes de María (2024).
 
-![Imagen](/assets/images/How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4/20240711_SOLEWLH_Sintonizacin_MM_SanJuandeNepomuceno_(81)-800w.webp).jpg)
+<img src="/assets\images\How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4\20240711_SOLEWLH_Sintonizacin_MM_SanJuandeNepomuceno_(81)-800w.webp" alt="SOLE led by women Ambassadors in Visitas de Sintonización, Montes de María (2024)." srcset="/assets\images\How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4\20240711_SOLEWLH_Sintonizacin_MM_SanJuandeNepomuceno_(81)-400w.webp 400w, /assets\images\How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4\20240711_SOLEWLH_Sintonizacin_MM_SanJuandeNepomuceno_(81)-800w.webp 800w, /assets\images\How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4\20240711_SOLEWLH_Sintonizacin_MM_SanJuandeNepomuceno_(81)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
 
 SOLE led by women Ambassadors in Visitas de Sintonización, Montes de María (2024).
 
-![Imagen](/assets/images/How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4/20241023_SOLEWLH_Festivales_SanJosdelPen__(20)-800w.webp).jpg)
+<img src="/assets\images\How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4\20241023_SOLEWLH_Festivales_SanJosdelPen__(20)-800w.webp" alt="SOLE led by women Ambassadors in Festivales SOLE, Montes de María (2024)." srcset="/assets\images\How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4\20241023_SOLEWLH_Festivales_SanJosdelPen__(20)-400w.webp 400w, /assets\images\How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4\20241023_SOLEWLH_Festivales_SanJosdelPen__(20)-800w.webp 800w, /assets\images\How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4\20241023_SOLEWLH_Festivales_SanJosdelPen__(20)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
 
 SOLE led by women Ambassadors in Festivales SOLE, Montes de María (2024).
 
@@ -93,7 +93,7 @@ Mariana Fernández, Visitas de Sintonización, Montes de María, (2024).
 
 Thanks to community collaboration and the implementation of solutions like the Rural Kit, San José del Peñón and La Haya now have community internet access, facilitating both learning and cultural exchange in the Montes de María.
 
-[[Uvflvrheoqqcbw3Ez36Q](https://notionreactions.com/embed/UvflVrhEoqqCBw3ez36Q](https://notionreactions.com/embed/UvflVrhEoqqCBw3ez36Q))
+[https://notionreactions.com/embed/UvflVrhEoqqCBw3ez36Q](https://notionreactions.com/embed/UvflVrhEoqqCBw3ez36Q)
 
 ---
 

@@ -55,7 +55,7 @@ Tardas: Días
 
 ## **References**
 
-[[Aoacghi5J1Xgz9Ruiriy](https://notionreactions.com/embed/aOACgHI5J1Xgz9RuiRiy](https://notionreactions.com/embed/aOACgHI5J1Xgz9RuiRiy))
+[https://notionreactions.com/embed/aOACgHI5J1Xgz9RuiRiy](https://notionreactions.com/embed/aOACgHI5J1Xgz9RuiRiy)
 
 ---
 

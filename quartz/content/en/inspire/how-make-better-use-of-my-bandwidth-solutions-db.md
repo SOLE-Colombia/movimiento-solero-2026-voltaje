@@ -72,14 +72,14 @@ Imagine that **bandwidth** is like a giant truckload of goods, so it can carry a
     
     If you can, connect your computer to your router with a network cable. This is like going from a truck to a high-speed train - the difference is impressive! The wired connection will give you maximum speed and stability.
     
-    ![Imagen](/assets/images/¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e/pexels-pixabay-159304-800w.webp)
+    <img src="/assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\pexels-pixabay-159304-800w.webp" alt="Photo taken from Pexels, (2024)." srcset="/assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\pexels-pixabay-159304-400w.webp 400w, /assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\pexels-pixabay-159304-800w.webp 800w, /assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\pexels-pixabay-159304-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     Photo taken from Pexels, (2024).
     
 - **Moment 2: Connect to 5GHz if You Use Wi-Fi**
     
     
-    ![Imagen](/assets/images/¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e/eaf4c20e-761e-4d50-84ca-8f8a07c9e301-800w.webp)
+    <img src="/assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\eaf4c20e-761e-4d50-84ca-8f8a07c9e301-800w.webp" alt="Screenshot taken by Manuela Cordoba, (2024)." srcset="/assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\eaf4c20e-761e-4d50-84ca-8f8a07c9e301-400w.webp 400w, /assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\eaf4c20e-761e-4d50-84ca-8f8a07c9e301-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     Screenshot taken by Manuela Cordoba, (2024).
     
@@ -105,7 +105,7 @@ Imagine that **bandwidth** is like a giant truckload of goods, so it can carry a
     
     Finally, make sure your router is well placed and up to date. Place it in a ventilated place and away from other interfering devices. A well-maintained router is key to have a good connection.
     
-    ![Imagen](/assets/images/¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e/ca687fb2-8049-4b5f-adcf-d2f7cd8fef20-800w.webp)
+    <img src="/assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\ca687fb2-8049-4b5f-adcf-d2f7cd8fef20-800w.webp" alt="Photo taken by Manuela Córdoba, (2024)." srcset="/assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\ca687fb2-8049-4b5f-adcf-d2f7cd8fef20-400w.webp 400w, /assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\ca687fb2-8049-4b5f-adcf-d2f7cd8fef20-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     Photo taken by Manuela Córdoba, (2024).
     
@@ -130,7 +130,7 @@ You can also monitor your data consumption, the data usage of the applications a
 
 ---
 
-[[Aoacghi5J1Xgz9Ruiriy](https://notionreactions.com/embed/aOACgHI5J1Xgz9RuiRiy](https://notionreactions.com/embed/aOACgHI5J1Xgz9RuiRiy))
+[https://notionreactions.com/embed/aOACgHI5J1Xgz9RuiRiy](https://notionreactions.com/embed/aOACgHI5J1Xgz9RuiRiy)
 
 ---
 

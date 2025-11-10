@@ -75,7 +75,7 @@ Arnulfo, Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).
 
 El trabajo de Yadiris, Luz Cenith, Kenia, Blanca Ofir y David Ojeda ha marcado un antes y un después en Cáceres. Hoy, gracias a su dedicación y al Jangala, la comunidad no solo tiene Internet, sino que está transformando cómo lo usa, descubriendo, compartiendo y creando muchas posibilidades para su comunidad.
 
-[[O9Wkvwpnvvwvkfv7Fx4T](https://notionreactions.com/embed/O9WkVwpNvvWvKfV7fX4t](https://notionreactions.com/embed/O9WkVwpNvvWvKfV7fX4t))
+[https://notionreactions.com/embed/O9WkVwpNvvWvKfV7fX4t](https://notionreactions.com/embed/O9WkVwpNvvWvKfV7fX4t)
 
 ---
 

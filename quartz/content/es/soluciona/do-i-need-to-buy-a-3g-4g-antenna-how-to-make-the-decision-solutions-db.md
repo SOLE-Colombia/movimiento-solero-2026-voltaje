@@ -71,7 +71,7 @@ What the antenna does, quite simply, is to capture and amplify the cellular-spec
 
 Once at that point, the signal can be shared in that space by generating a WiFi network, or by cable, using a [*modem*](https://www.notion.so/1512bd68c5b680359894c66ee55ee27d?pvs=21) or *router*. I know these terms may seem confusing, but, as you go through these recommendations, you will have more clarity on them.
 
-![Imagen](/assets/images/Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6/Diagrama_para_ubicar_Antena_y_Modem_-800w.webp)
+<img src="/assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\Diagrama_para_ubicar_Antena_y_Modem_-800w.webp" alt="Diagrama para ubicar Antena y Modem .jpeg" srcset="/assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\Diagrama_para_ubicar_Antena_y_Modem_-400w.webp 400w, /assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\Diagrama_para_ubicar_Antena_y_Modem_-800w.webp 800w, /assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\Diagrama_para_ubicar_Antena_y_Modem_-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 **If you want to know how you can buy an antenna, and what parameters you should consider when looking for and deciding on the 3G/4G antenna that will improve your mobile Internet connection, follow our recommendations.**
 
@@ -123,9 +123,9 @@ Here are the 4 moments of what we consider to say what type of 3G/4G antenna to 
         
         If you don't know where the nearest cell phone tower is, you can also ask the neighbors, maybe they have already identified it. 
         
-        ![Imagen](/assets/images/Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6/Ubicacion_Antena_Emisora-800w.webp)
+        <img src="/assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\Ubicacion_Antena_Emisora-800w.webp" alt="Ubicación Antena Emisora.jpeg" srcset="/assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\Ubicacion_Antena_Emisora-400w.webp 400w, /assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\Ubicacion_Antena_Emisora-800w.webp 800w, /assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\Ubicacion_Antena_Emisora-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
         
-        ![Imagen](/assets/images/Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6/Nyakrom_OneTouch_Cell_Phone_Tower_Vodaphone-400w.webp)
+        <img src="/assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\Nyakrom_OneTouch_Cell_Phone_Tower_Vodaphone-400w.webp" alt="Taken from Wikimedia Commons" srcset="/assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\Nyakrom_OneTouch_Cell_Phone_Tower_Vodaphone-400w.webp 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
         
         Taken from Wikimedia Commons
         
@@ -139,7 +139,7 @@ Here are the 4 moments of what we consider to say what type of 3G/4G antenna to 
 💡 Keep in mind that the coverage of these providers changes over time, as they install new repeater antennas or as more people subscribe to their services, saturating their signal.
 
         
-        ![Imagen](/assets/images/Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6/SIM-Karte_von_Telefnica_O2_Europe_-_Standard_und_Micro-800w.webp)
+        <img src="/assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\SIM-Karte_von_Telefnica_O2_Europe_-_Standard_und_Micro-800w.webp" alt="SIM-Karte_von_Telefónica_O2_Europe_-_Standard_und_Micro.jpg" srcset="/assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\SIM-Karte_von_Telefnica_O2_Europe_-_Standard_und_Micro-400w.webp 400w, /assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\SIM-Karte_von_Telefnica_O2_Europe_-_Standard_und_Micro-800w.webp 800w, /assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\SIM-Karte_von_Telefnica_O2_Europe_-_Standard_und_Micro-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
         
         This information is important for the antenna provider: make sure that the modem you receive has open bands, so that you can use the operator of your choice, without restrictions.
         
@@ -152,7 +152,7 @@ Here are the 4 moments of what we consider to say what type of 3G/4G antenna to 
         
         If there is no signal in the place where you want to test, you can download the map of the antennas in a place with connection and carry it on your cell phone. It will allow you to interpret it by matching the geographical North and the North of the map. 
         
-        ![Imagen](/assets/images/Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6/Mapa_de_Antenas-400w.webp)
+        <img src="/assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\Mapa_de_Antenas-400w.webp" alt="Mapa de Antenas.jpeg" srcset="/assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\Mapa_de_Antenas-400w.webp 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
         
     - **Which is the space I want to provide with internet?**
         
@@ -187,7 +187,7 @@ Here are the 4 moments of what we consider to say what type of 3G/4G antenna to 
         
         Busca tu punto de ubicación y así podrás acceder a las coordenadas exactas del lugar donde estás. Por último, apunta este dato para tenerlo a mano cuando lo necesites.
         
-        ![Imagen](/assets/images/Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6/coordenas-400w.webp)
+        <img src="/assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\coordenas-400w.webp" alt="coordenas.jpeg" srcset="/assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\coordenas-400w.webp 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
         
     - **¿Dónde comprar la antena?**
         
@@ -210,7 +210,7 @@ Here are the 4 moments of what we consider to say what type of 3G/4G antenna to 
         
         Una cosa que hay que tener en cuenta, con la antena, es su potencia. Este dato está expresado en Db: una antena de 65Db tendrá más potencia que una de 15Db. Como regla general, cuanto más lejos se encuentra la antena del proveedor, será necesaria una antena con mayor potencia para poder establecer una conexión.
         
-        ![Imagen](/assets/images/Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6/UHF_TV_Antenna_001-800w.webp)
+        <img src="/assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\UHF_TV_Antenna_001-800w.webp" alt="UHF_TV_Antenna_001.jpeg" srcset="/assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\UHF_TV_Antenna_001-400w.webp 400w, /assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\UHF_TV_Antenna_001-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
         
         **Cable**
         
@@ -218,7 +218,7 @@ Here are the 4 moments of what we consider to say what type of 3G/4G antenna to 
         
         No debes modificar el cable que te entregue el proveedor de ninguna manera: el empalme entre cable y conectores en los extremos se lleva a cabo de manera que se minimice el ruido en el sistema, **cualquier alteración puede hacer totalmente inservibles todos los componentes**.
         
-        ![Imagen](/assets/images/Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6/RG-59-400w.webp)
+        <img src="/assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\RG-59-400w.webp" alt="RG-59.jpg" srcset="/assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\RG-59-400w.webp 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
         
         [**Módem / Router](/modem-router-o-enrutador-modem-or-router-conceptorio)**
         Normalmente, los kits de antenas, vienen con un [módem y un enrutador](/modem-router-o-enrutador-modem-or-router-conceptorio), que te permitirá conectarte y compartir la señal de la red móvil captada por la antena. 
@@ -256,7 +256,7 @@ A single antenna and a single connection, in a group, will be more than enough t
 - [¿Cómo usar el juego para aprender a cuidar equipos en comunidad?](/como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-solutions-db) | [How to use the game to learn how to take care of equipment in community?](/how-to-use-the-game-to-learn-how-to-take-care-of-equipment-in-community-solutions-db)
 - ‣ | [¿Cómo comprar una antena satelital?](/como-comprar-una-antena-satelital-solutions-db)
 
-[[Hretrhknroziqo79Xbqf](https://notionreactions.com/embed/hRETRHkNrozIqo79XBqf](https://notionreactions.com/embed/hRETRHkNrozIqo79XBqf))
+[https://notionreactions.com/embed/hRETRHkNrozIqo79XBqf](https://notionreactions.com/embed/hRETRHkNrozIqo79XBqf)
 
 ---
 

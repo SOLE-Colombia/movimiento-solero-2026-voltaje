@@ -54,13 +54,13 @@ Estos tests son útiles para verificar si la velocidad contratada con tu proveed
     
     Puedes utilizar sitios web como [**Speedtest.net**](https://www.speedtest.net/es), [**Fast.com**](https://fast.com/es/), o nPerf.com. También existen aplicaciones móviles como [**Speedtest by Ookla**](https://www.speedtest.net/es/mobile/android/help). 
     
-    ![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
+    <img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
 - **Momento 2: Realiza la prueba**
     
     Inicia la prueba en el sitio web o la aplicación. 
     
-    ![Imagen](/assets/images/Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db/image 1-275w.webp)
+    <img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
 - **Momento 3: Interpreta los resultados**
     
@@ -70,7 +70,7 @@ Estos tests son útiles para verificar si la velocidad contratada con tu proveed
     - **Velocidad de subida:** Es la velocidad a la que puedes enviar datos a Internet, como al enviar correos electrónicos o subir videos a redes sociales.
     - **Latencia (ping):** Es el tiempo que tarda una señal en ir y volver entre tu dispositivo y un servidor remoto, medido en milisegundos. Un ping bajo es preferible, especialmente para juegos en línea o videollamadas.
     
-    ![Imagen](/assets/images/A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a/image 2-800w.webp)
+    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
 
 **Consideraciones adicionales:**
@@ -90,7 +90,7 @@ Estos tests son útiles para verificar si la velocidad contratada con tu proveed
 
 Diagnosticar el estado de la conectividad en contextos remotos es fundamental para saber qué tipo de solución de conectividad es más adecuada para cada contexto. 
 
-Por ejemplo, es importante saber hacerlo cuando en los proyectos de SOLE Colombia vamos a campo. Hemos descubierto que tener una experiencia del Internet completa, aprendiendo a caracterizar la comunidad y la conexión a internet que tiene, así como las fluctuaciones e inconvenientes del lugar donde se va a instalar la solución, hacen que las personas se enganchen a la experiencia del aprendizaje auto-organizado de una forma muy potente e intensa. Sentirse capaces de poder establecer o mejorar la señal de Internet para poder usarla en grupo, hace que todo sea más poderoso… puedes ver las historias aquí: [Blog](https://www.solecolombia.org/blog)
+Por ejemplo, es importante saber hacerlo cuando en los proyectos de SOLE Colombia vamos a campo. Hemos descubierto que tener una experiencia del Internet completa, aprendiendo a caracterizar la comunidad y la conexión a internet que tiene, así como las fluctuaciones e inconvenientes del lugar donde se va a instalar la solución, hacen que las personas se enganchen a la experiencia del aprendizaje auto-organizado de una forma muy potente e intensa. Sentirse capaces de poder establecer o mejorar la señal de Internet para poder usarla en grupo, hace que todo sea más poderoso… puedes ver las historias aquí: https://www.solecolombia.org/blog
 
 ## **Soluciones recomendadas**
 
@@ -100,11 +100,11 @@ Por ejemplo, es importante saber hacerlo cuando en los proyectos de SOLE Colombi
 
 ## **Referencias**
 
-- [Como Funciona Exactamente Test Velocidad Como Fiables](https://www.xataka.com/servicios/como-funciona-exactamente-test-velocidad-como-fiables)
-- [Test De Velocidad](https://www.movistar.com.co/test-de-velocidad)
-- [Test Velocidad](https://www.highspeedinternet.com/es/herramientas/test-velocidad)
+- https://www.xataka.com/servicios/como-funciona-exactamente-test-velocidad-como-fiables
+- https://www.movistar.com.co/test-de-velocidad
+- https://www.highspeedinternet.com/es/herramientas/test-velocidad
 
-[[8Qjfeef7Ley8Kqhak6Pl](https://notionreactions.com/embed/8QJFEef7ley8kQhaK6Pl](https://notionreactions.com/embed/8QJFEef7ley8kQhaK6Pl))
+[https://notionreactions.com/embed/8QJFEef7ley8kQhaK6Pl](https://notionreactions.com/embed/8QJFEef7ley8kQhaK6Pl)
 
 ---
 

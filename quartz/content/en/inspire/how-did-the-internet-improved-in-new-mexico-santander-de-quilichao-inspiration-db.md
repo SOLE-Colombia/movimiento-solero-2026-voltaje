@@ -29,33 +29,33 @@ traducción: Yes
 
 *Descarga esta Inspiración para usarla desconectado*
 
-[[https://www.notion.so](https://www.notion.so](https://www.notion.so](https://www.notion.so))
+[https://www.notion.so](https://www.notion.so)
 
 *Download this Inspiration to use it disconnected*
 
-[[https://www.notion.so](https://www.notion.so](https://www.notion.so](https://www.notion.so))
+[https://www.notion.so](https://www.notion.so)
 
 Love, a desire for change and reconciliation? This is the New Mexico village, the Nasa Kiwe Tekh Kxsaw community located in Santander de Quilichao.
 
-![Imagen](/assets/images/How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675/20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao12-800w.webp)
+<img src="/assets\images\How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675\20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao12-800w.webp" alt="20240613_SOLE+WLH_Sintonización_Nasa Kiwe Tekh Kxsaw, Santander de Quilichao12.JPG" srcset="/assets\images\How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675\20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao12-400w.webp 400w, /assets\images\How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675\20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao12-800w.webp 800w, /assets\images\How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675\20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao12-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
-![Imagen](/assets/images/How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675/20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao13-800w.webp)
+<img src="/assets\images\How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675\20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao13-800w.webp" alt="20240613_SOLE+WLH_Sintonización_Nasa Kiwe Tekh Kxsaw, Santander de Quilichao13.JPG" srcset="/assets\images\How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675\20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao13-400w.webp 400w, /assets\images\How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675\20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao13-800w.webp 800w, /assets\images\How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675\20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao13-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 Using the SOLE methodology, the community asked themselves, "What happens in our bodies when we're hugged?" A majority of them were women, using the internet and computers as a group. They laughed, chatted, and researched online, understanding things they'd never talked about before or had always assumed. Sharing their feelings and creating new knowledge. Together.
 
-![Imagen](/assets/images/How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675/20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao94-800w.webp)
+<img src="/assets\images\How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675\20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao94-800w.webp" alt="20240613_SOLE+WLH_Sintonización_Nasa Kiwe Tekh Kxsaw, Santander de Quilichao94.JPG" srcset="/assets\images\How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675\20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao94-400w.webp 400w, /assets\images\How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675\20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao94-800w.webp 800w, /assets\images\How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675\20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao94-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 How the Internet works was the topic covered in a workshop format: submarine cables that carry the Internet signal through the ocean floor to the community, how to use it together, and what we can do with this vast network that unites us globally.
 
 We installed a Jangala antenna and an omnidirectional antenna in a space where the community regularly meets to make decisions.
 
-![Imagen](/assets/images/How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675/20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao102-800w.webp)
+<img src="/assets\images\How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675\20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao102-800w.webp" alt="20240613_SOLE+WLH_Sintonización_Nasa Kiwe Tekh Kxsaw, Santander de Quilichao102.JPG" srcset="/assets\images\How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675\20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao102-400w.webp 400w, /assets\images\How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675\20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao102-800w.webp 800w, /assets\images\How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675\20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao102-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
 Today, the Nasa Kiwe Tekh Kxsaw community continues to ask Big Questions using the Internet and technology as a group. 
 
 [20240613_SOLE+WLH_Sintonización_Nasa Kiwe Tekh Kxsaw, Santander de Quilichao14.2.mp4](../../../How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675/20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao14.2.mp4)
 
-[[Tehqsnrpw21Ymblxkbnc](https://notionreactions.com/embed/TeHqSnrpW21yMBlxkBnc](https://notionreactions.com/embed/TeHqSnrpW21yMBlxkBnc))
+[https://notionreactions.com/embed/TeHqSnrpW21yMBlxkBnc](https://notionreactions.com/embed/TeHqSnrpW21yMBlxkBnc)
 
 ---
 

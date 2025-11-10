@@ -72,7 +72,7 @@ Con estas recomendaciones puedes saber cómo acercarte a otros para que apoyen l
     
     Merece la pena preguntarnos cómo podemos construir redes para lograr una exitosa convocatoria a nuestras actividades. Si trabajas en consolidar tus habilidades para unir fuerzas con otros, empezarás a ver cómo cada vez te fluye mejor. 
     
-    ![Imagen](/assets/images/Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af/image-800w.webp)
+    <img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     Foto: SOLE Colombia
     
@@ -88,7 +88,7 @@ Con estas recomendaciones puedes saber cómo acercarte a otros para que apoyen l
     
     Ahora que ya reconociste a los actores estratégicos para convocar, y sabes cómo alinear sus objetivos con los que tú tienes, elige con el que te sientas mejor para trabajar cada uno de los objetivos que tienes.
     
-    ![Imagen](/assets/images/Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db/image 1-275w.webp)
+    <img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
     
     Foto: SOLE Colombia
     
@@ -162,7 +162,7 @@ Recuerda que no siempre lograrás convencer a todas las personas de trabajar con
 
 ---
 
-[[Jrsgn93Bqdbcor26N2Tx](https://notionreactions.com/embed/JrsgN93BQdbcOR26n2TX](https://notionreactions.com/embed/JrsgN93BQdbcOR26n2TX))
+[https://notionreactions.com/embed/JrsgN93BQdbcOR26n2TX](https://notionreactions.com/embed/JrsgN93BQdbcOR26n2TX)
 
 ---
 

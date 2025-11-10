@@ -51,7 +51,7 @@ widget ok: ok
 </div>](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="[Jffdzghiwqk](https://www.youtube.com/embed/JfFdzgHIWqk)" 
+    src="https://www.youtube.com/embed/JfFdzgHIWqk" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
@@ -63,7 +63,7 @@ widget ok: ok
 - [SOLE Colombia: Lo que somos](/sole-colombia-lo-que-somos-inspiration-db)
 - [¿Cómo hacer SOLE? - Tutorial](/como-hacer-sole-tutorial-inspiration-db) | [How to make SOLE? - Tutorial](/how-to-make-sole-tutorial-inspiration-db)
 
-[[Egnfmjlgjdf0Ccr12R2T](https://notionreactions.com/embed/EGNFMJlgjdf0Ccr12r2t](https://notionreactions.com/embed/EGNFMJlgjdf0Ccr12r2t))
+[https://notionreactions.com/embed/EGNFMJlgjdf0Ccr12r2t](https://notionreactions.com/embed/EGNFMJlgjdf0Ccr12r2t)
 
 ---
 
