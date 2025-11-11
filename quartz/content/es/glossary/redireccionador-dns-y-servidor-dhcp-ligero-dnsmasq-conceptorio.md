@@ -16,7 +16,7 @@ dnsmasq tiene bajos requerimientos de recursos del sistema, puede ejecutarse en�
 
 En consecuencia, "está presente en muchos [routers](https://es.wikipedia.org/wiki/Routers) domésticos y en ciertos [gadgets](https://es.wikipedia.org/wiki/Gadgets) del [Internet de las cosas](https://es.wikipedia.org/wiki/Internet_de_las_cosas)", también está incluido en Android.
 
-Si quieres saber más detalles, puedes consultar https://es.wikipedia.org/wiki/Dnsmasq
+Si quieres saber más detalles, puedes consultar [Wikipedia](https://es.wikipedia.org/wiki/Dnsmasq)
 
 ## English
 

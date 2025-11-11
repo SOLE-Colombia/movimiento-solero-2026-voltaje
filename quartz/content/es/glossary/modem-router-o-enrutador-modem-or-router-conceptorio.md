@@ -6,16 +6,9 @@ aspectos:
 - señal
 - dispositivos
 - espacio
-fecha: '2025-10-11'
+fecha: '2025-2-24'
 ---
 
-# Módem, router o enrutador | Modem or router
-
-Fecha de creación: 24 de febrero de 2025 6:49
-R2025: revisado
-idioma: english, español
-
-## Español
 
 Un Módem es un dispositivo que nos permite acceder a Internet, al servir de intérprete de las señales necesarias para conectar un computador con el proveedor de servicios o ISP.
 

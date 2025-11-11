@@ -6,17 +6,10 @@ slug: gprs-servicio-general-de-paquetes-via-radio-gprs-general-packet-radio-serv
 aspectos:
 - señal
 - espacio
-fecha: '2025-10-11'
+fecha: '2025-8-25'
 ---
 
-# GPRS (Servicio General de Paquetes Vía Radio) | GPRS (General Packet Radio Services)
 
-Fecha de creación: 25 de agosto de 2025 18:30
-Autor(a): Belen Sevilla Morillo
-R2025: revisado
-idioma: english, español
-
-### Español
 
 GPRS fue una tecnología clave que introdujo el concepto de transferencia de datos por paquetes en las redes móviles, sentando las bases para los servicios de datos móviles que hoy damos por sentados, y sigue siendo útil en aplicaciones donde la transferencia de datos no requiere alta velocidad.
 

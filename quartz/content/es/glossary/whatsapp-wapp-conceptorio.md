@@ -8,7 +8,7 @@ fecha: '2025-07-15'
 autor: Belen Sevilla Morillo
 ---
 
-## Español
+
 
 [WhatsApp](https://www.whatsapp.com/?lang=es_LA) es una **aplicación de mensajería instantánea y llamadas,** propiedad de Meta, que permite a los usuarios enviar mensajes, hacer llamadas de voz y video, y compartir archivos a través de internet. 
 
@@ -16,7 +16,7 @@ Es ampliamente utilizada tanto para comunicaciones personales como para negocios
 
 Permite enviar mensajes de texto, voz, video, realizar llamadas de voz y video, y compartir archivos como fotos, documentos, ubicaciones y contactos.
 
-Aunque es principalmente conocida por su uso personal para comunicarse con amigos y familiares, tiene una versión para negocios llamada [**WhatsApp Business](https://business.whatsapp.com/whatsapp-vs-whatsapp-business?lang=es_LA),** que permite interactuar con clientes, gestionar ventas y ofrecer atención al cliente.
+Aunque es principalmente conocida por su uso personal para comunicarse con amigos y familiares, tiene una versión para negocios llamada [**WhatsApp Business**](https://business.whatsapp.com/whatsapp-vs-whatsapp-business?lang=es_LA), que permite interactuar con clientes, gestionar ventas y ofrecer atención al cliente.
 
 **¡Ten cuidado!** WhatsApp, normalmente, viene incluida en el plan de datos de la mayoría de operadores móviles en Colombia, aunque puede ocasionar cargos adicionales por datos y descargas no especificadas en tu plan. 
 

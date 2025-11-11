@@ -8,7 +8,6 @@ fecha: '2025-07-17'
 autor: Belen Sevilla Morillo
 ---
 
-## Español
 
 Un nombre de usuario es una **cadena única de caracteres que identifica a un usuario en un sistema informático, como una red social, un sitio web o una aplicación**. 
 
