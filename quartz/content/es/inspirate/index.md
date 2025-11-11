@@ -1,10 +1,10 @@
 ---
-title: Inspírate
-lang: es
+title: Get Inspired
+lang: en
 type: section-index
-description: Explora historias, preguntas provocadoras y aprende de comunidades.
+description: ''
 ---
 
-# Inspírate
+# Get Inspired
 
-Explora historias, preguntas provocadoras y aprende de comunidades.
+
