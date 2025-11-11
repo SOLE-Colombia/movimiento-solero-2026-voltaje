@@ -62,6 +62,10 @@ dist/
 build/
 *.egg-info/
 
+# Git Docker Helper (local)
+git-docker.sh
+GIT-DOCKER.md
+
 
 
 
