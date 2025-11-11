@@ -9,7 +9,6 @@ aspectos:
 fecha: '2025-07-09'
 ---
 
-## Español
 
 Un cable RG6 **es un tipo de cable coaxial utilizado principalmente para la transmisión de señales de televisión por cable, satélite e internet, así como para algunas aplicaciones de video de alta definición**. 
 
@@ -43,4 +42,4 @@ It is known for its ability to handle higher frequencies and reduce signal loss,
 
 In summary, RG6 cable is a versatile, high performance coaxial cable, ideal for transmitting video and data signals over different media and distances.
 
-![Cable RG6](assets\images\conc-rg6cable\conc-rg6cable-cable.webp)
+![Cable RG6](/assets/images/conc-rg6cable/conc-rg6cable-cable.webp)

@@ -6,18 +6,10 @@ aspectos:
 - señal
 - electricidad
 - dispositivos
-fecha: '2025-10-11'
+fecha: '2024-2-15'
 ---
 
-# Cable coaxial | Coaxial cable
 
-Fecha de creación: 15 de febrero de 2024 15:05
-carátula: https://upload.wikimedia.org/wikipedia/commons/7/73/RG-59.jpg
-Tags: material
-R2025: revisado
-idioma: english, español
-
-## Español
 
 El cable coaxial, es un cable utilizado para transportar señales eléctricas de alta frecuencia. 
 
@@ -43,7 +35,8 @@ Between the two, there is **a** **dielectric** **insulating layer**, the charact
 
 The whole assembly is usually **protected by an insulating jacket** (also called outer jacket).
 
-<img src="/assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\RG-59-400w.webp" alt="" srcset="/assets\images\Do I need to buy a 3G 4G antenna How to make the d 12a2bd68c5b68046819ded7c68cce2a6\RG-59-400w.webp 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+
+![cable coaxial](assets/images/conc-coaxcable/conc-coaxcable.webp)
 
 💡 Partes del cable coaxial RG-59 (para señales):
 A: cubierta protectora de plástico (elastómero termoplástico)
@@ -55,4 +48,4 @@ D: conductor central o núcleo de cobre (acero recubierto de cobre).
 
 ## References:
 
-- [https://es.wikipedia.org/wiki/Cable_coaxial#:~:text=Un cable coaxial consta de,electrónicas que constituyen la información](https://es.wikipedia.org/wiki/Cable_coaxial#:~:text=Un cable coaxial consta de,electrónicas que constituyen la información).
+ Un cable coaxial consta de señales electrónicas que constituyen la información [Wikipedia.gov](https://es.wikipedia.org/wiki/Cable_coaxial#:~:text=Un)

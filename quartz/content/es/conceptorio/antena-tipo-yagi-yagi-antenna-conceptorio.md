@@ -4,17 +4,9 @@ lang: en
 slug: antena-tipo-yagi-yagi-antenna-conceptorio
 aspectos:
 - señal
-fecha: '2025-10-11'
+fecha: '2025-9-11'
 ---
 
-# Antena tipo Yagi | Yagi antenna
-
-Fecha de creación: 9 de julio de 2025 20:38
-Autor(a): Belen Sevilla Morillo
-R2025: revisado
-idioma: english, español
-
-## Español
 
 Una antena Yagi **es un tipo de antena direccional, conocida por su alta ganancia y capacidad para enfocar la señal en una dirección específica**. 
 
@@ -68,4 +60,4 @@ It consists of a main element called the **arm** (or active element) and several
 
 In summary, the Yagi antenna is a valuable tool for improving signal reception and transmission in various applications due to its high directivity and gain.
 
-<img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![antena tipo Yagi](assets/images/conc-antenna-yagi/conc-antenna-yagi-antenna.png)

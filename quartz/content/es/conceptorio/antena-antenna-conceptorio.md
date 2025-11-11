@@ -7,33 +7,30 @@ aspectos:
 - electricidad
 - dispositivos
 - espacio
-fecha: '2025-10-11'
+fecha: '2025-02-24'
 ---
 
-# Antena | Antenna
-
-Fecha de creación: 24 de febrero de 2025 8:46
-R2025: revisado
-idioma: english, español
-
-## Español
 
 **Una Antena es un dispositivo diseñado para transmitir y/o recibir ondas electromagnéticas**
 
-[nasa.gov](https://translate.google.com/translate?u=https://www.nasa.gov/general/what-is-an-antenna/&hl=es&sl=en&tl=es&client=sge#:~:text=An antenna is a metallic,or transmits radio electromagnetic waves.) 
+[nasa.gov](https://www-nasa-gov.translate.goog/general/what-is-an-antenna/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=sge#:~:text=An)
 
 **Más detalles:**
 
-- **Transmisión:** Las antenas emiten ondas electromagnéticas al espacio, permitiendo la comunicación a distancia. (Fuente: https://www.nasa.gov/general/what-is-an-antenna/)
-- **Recepción:** También pueden recibir ondas electromagnéticas, transformándolas en señales eléctricas que pueden ser procesadas por un receptor. (Fuente: https://blogs.udima.es/ingenieria-industrial/las-antenas-pilares-invisibles-de-la-comunicacion-inalambrica/)
-- **Tipos de antenas:** Existen diversos tipos de antenas, como las antenas parabólicas, dipolos, y antenas de panel, cada una con características específicas para diferentes aplicaciones. (Fuente: http://www1.frm.utn.edu.ar/comunicaciones/antenas.html)
-- **Aplicaciones:** Las antenas son esenciales en la radiodifusión, la televisión, las comunicaciones móviles, las redes inalámbricas y muchas otras tecnologías que utilizan ondas electromagnéticas. (Fuente: https://museotelecomvlc.webs.upv.es/telecochips/antenas/)
+- **Transmisión:** Las antenas emiten ondas electromagnéticas al espacio, permitiendo la comunicación a distancia. [nasa.gov](https://www.nasa.gov/general/what-is-an-antenna/)
 
-[**Antena - Wikipedia, la enciclopedia libre**Wikipediahttps://es.wikipedia.org › wiki › Antena](https://es.wikipedia.org/wiki/Antena)
 
-[](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b+u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz/6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1+flswMu1EQZ3xlE7lK8eKDkjtwE+crBMV+wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk/9ryhFMAAAAASUVORK5CYII=)
+- **Recepción:** También pueden recibir ondas electromagnéticas, transformándolas en señales eléctricas que pueden ser procesadas por un receptor. [Pilares invisibles de la comunicacion inalambrica.gov](https://blogs.udima.es/ingenieria-industrial/las-antenas-pilares-invisibles-de-la-comunicacion-inalambrica/)
 
-![](https://ia601406.us.archive.org/10/items/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/Antena/IMG_20220729_083121.jpg)
+
+- **Tipos de antenas:** Existen diversos tipos de antenas, como las antenas parabólicas, dipolos, y antenas de panel, cada una con características específicas para diferentes aplicaciones. [Tipos de antenas.gov](http://www1.frm.utn.edu.ar/comunicaciones/antenas.html) 
+
+- **Aplicaciones:** Las antenas son esenciales en la radiodifusión, la televisión, las comunicaciones móviles, las redes inalámbricas y muchas otras tecnologías que utilizan ondas electromagnéticas. [Museo de telecomunicaciones Vicente Miralles Segarra.gov](https://museotelecomvlc.webs.upv.es/telecochips/antenas/)
+
+ [Wikipedia.gov](https://es.wikipedia.org/wiki/Antena)
+
+
+![](assets/images/conc-antenna/conc-antenna-3g.webp)
 
 ## English
 
