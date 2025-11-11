@@ -1,7 +1,7 @@
 ---
 title: 9:259:30
 lang: es
-slug: 9-259-30-sin-titulo
+slug: prueba
 aspectos:
 - electricidad
 - personas
