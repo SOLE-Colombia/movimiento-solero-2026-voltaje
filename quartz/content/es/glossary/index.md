@@ -5,6 +5,6 @@ type: section-index
 description: Glosario de términos técnicos y conceptos clave.
 ---
 
-# Glossary
+# Directorio de términos
 
 
