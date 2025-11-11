@@ -1,5 +1,5 @@
 ---
-title: Tecnología HSPA (Acceso de Paquetes de Alta Velocidad) | HSPA Technology (
+title: Tecnología HSPA (Acceso de Paquetes de Alta Velocidad) 
 lang: en
 slug: tecnologia-hspa-acceso-de-paquetes-de-alta-velocidad-hspa-technology-conceptorio
 aspectos:
