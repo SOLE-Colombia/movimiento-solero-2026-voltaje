@@ -9,7 +9,6 @@ fecha: '2025-07-22'
 autor: Belen Sevilla Morillo
 ---
 
-## Español
 
 Entendemos por **sistema informático** el **conjunto de elementos físicos y lógicos que se encargan de recibir, guardar y procesar datos para luego entregarlos en forma de resultados**. El esquema de un sistema informático engloba todo aquello que contiene una parte tangible (hardware) y otra lógica (software).
 

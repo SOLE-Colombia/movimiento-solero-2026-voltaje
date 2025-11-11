@@ -6,17 +6,8 @@ aspectos:
 - señal
 - dispositivos
 - espacio
-fecha: '2025-10-11'
+fecha: '2025-7-22'
 ---
-
-# Demonio Hostapd | Hostapd Daemon
-
-Fecha de creación: 22 de julio de 2025 11:45
-Autor(a): Belen Sevilla Morillo
-R2025: revisado
-idioma: english, español
-
-## Español
 
 **hostapd** (host access point daemon) **es un demonio de espacio de usuario que permite que una tarjeta de interfaz de red (NIC) funcione como un punto de acceso inalámbrico (AP) y un servidor de autenticación**. 
 

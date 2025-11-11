@@ -9,7 +9,6 @@ fecha: '2025-02-24'
 ---
 
 
-**El Sistema de Nombres de Dominio**
 
 Antes que nada, recordemos que los computadores entienden mejor números que textos. 
 
