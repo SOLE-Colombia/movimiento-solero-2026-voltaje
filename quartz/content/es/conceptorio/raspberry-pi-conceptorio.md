@@ -8,7 +8,6 @@ aspectos:
 fecha: '2025-02-24'
 ---
 
-## Español
 
 ### ¿Qué es?
 
@@ -16,7 +15,7 @@ Un [Raspberry Pi](https://www.raspberrypi.com/) es un computador del tamaño de 
 
 Inicialmente, no cuenta con teclado, ratón o monitor, pero puedes conectarle estos y otros periféricos sin ningún problema.
 
-Su "disco duro" es una memoria [**MicroSD](/memoria-sd-minisd-microsd-sd-minisd-microsd-memory-conceptorio),** en la cual se instala una versión de Linux, optimizada para este tipo de dispositivos, lo que te permite tener un computador muy portátil, que consume pocos recursos de electricidad, y en el que puedes hacer todo lo que normalmente haces con un computador de escritorio.
+Su "disco duro" es una memoria [MicroSD](/memoria-sd-minisd-microsd-sd-minisd-microsd-memory-conceptorio),** en la cual se instala una versión de Linux, optimizada para este tipo de dispositivos, lo que te permite tener un computador muy portátil, que consume pocos recursos de electricidad, y en el que puedes hacer todo lo que normalmente haces con un computador de escritorio.
 
 ### ¿Cómo cargar tu Raspberry Pi?
 
@@ -32,7 +31,7 @@ Para cargar una Raspberry Pi, **necesitas conectarla a una fuente de alimentaci�
 
 ### Ten en cuenta:
 
-- **Voltaje y corriente:** La Raspberry Pi necesita una fuente de alimentación de 5V. La corriente requerida puede variar según el modelo, pero generalmente se recomienda entre 2.5A y 3A para modelos como la Raspberry Pi 4, [**según bret.dk**](https://bret.dk/how-to-power-the-raspberry-pi-5-a-complete-guide/).
+- **Voltaje y corriente:** La Raspberry Pi necesita una fuente de alimentación de 5V. La corriente requerida puede variar según el modelo, pero generalmente se recomienda entre 2.5A y 3A para modelos como la Raspberry Pi 4. (Fuente: [Bret](https://bret.dk/how-to-power-the-raspberry-pi-5-a-complete-guide/)).
 - **Cargadores de teléfono:** Aunque algunos cargadores de teléfono pueden funcionar, es recomendable usar un adaptador de corriente diseñado específicamente para la Raspberry Pi para asegurar un rendimiento óptimo y evitar problemas de alimentación.
 - **Hubs USB:** Si necesitas conectar varios dispositivos USB a la Raspberry Pi, considera usar un hub USB alimentado externamente para evitar problemas de suministro de energía.
 - **Baterías:** Si necesitas alimentar la Raspberry Pi con una batería, asegúrate de usar un convertidor DC/DC para elevar el voltaje de la batería a 5V.

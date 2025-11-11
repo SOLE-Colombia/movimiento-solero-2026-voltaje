@@ -6,21 +6,13 @@ aspectos:
 - señal
 - personas
 - espacio
-fecha: '2025-10-11'
+fecha: '2025-70-17'
 ---
 
-# Nombre de dominio | Domain name
-
-Fecha de creación: 17 de julio de 2025 22:34
-Autor(a): Belen Sevilla Morillo
-R2025: revisado
-idioma: english, español
-
-## Español
 
 Un nombre de dominio es una **dirección única y fácil de recordar que se utiliza para acceder a un sitio web o a un servicio en internet**. 
 
-Es como la dirección postal de un sitio web, pero en lugar de números, utiliza texto. Por ejemplo, "solecolombia.org" es un nombre de dominio. Permite que los usuarios accedan a sitios web y servicios sin tener que recordar complejas direcciones IP numéricas (fuente [Google Help](https://support.google.com/a/answer/2573637?hl=es#:~:text=Un nombre de dominio (a,artículo Añadir y gestionar dominios.)).
+Es como la dirección postal de un sitio web, pero en lugar de números, utiliza texto. Por ejemplo, "solecolombia.org" es un nombre de dominio. Permite que los usuarios accedan a sitios web y servicios sin tener que recordar complejas direcciones IP numéricas. (Fuente:[Google Help](https://support.google.com/a/answer/2573637?hl=es#:~:text=Un))
 
 En términos más técnicos, un nombre de dominio es una forma de traducir una dirección IP numérica (como 192.0.2.1) en una cadena de texto fácil de recordar y de escribir, como "ejemplo.com". Este proceso de traducción lo realiza el Sistema de Nombres de Dominio (DNS), que es un directorio que asocia nombres de dominio con sus direcciones IP correspondientes.
 

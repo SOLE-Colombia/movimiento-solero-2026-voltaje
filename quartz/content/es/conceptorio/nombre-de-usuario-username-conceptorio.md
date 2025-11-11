@@ -12,7 +12,7 @@ autor: Belen Sevilla Morillo
 
 Un nombre de usuario es una **cadena única de caracteres que identifica a un usuario en un sistema informático, como una red social, un sitio web o una aplicación**. 
 
-Sirve para iniciar sesión y acceder a tu cuenta, y generalmente se usa junto con una contraseña para verificar tu identidad. (Fuente [Dashlane](https://www.dashlane.com/es/blog/6-cosas-que-siempre-debe-tener-un-nombre-de-usuario-seguro))
+Sirve para iniciar sesión y acceder a tu cuenta, y generalmente se usa junto con una contraseña para verificar tu identidad. (Fuente: [Dashlane](https://www.dashlane.com/es/blog/6-cosas-que-siempre-debe-tener-un-nombre-de-usuario-seguro))
 
 **En detalle, un nombre de usuario:**
 

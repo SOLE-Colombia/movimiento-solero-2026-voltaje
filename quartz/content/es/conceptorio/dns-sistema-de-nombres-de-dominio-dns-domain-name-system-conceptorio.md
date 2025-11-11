@@ -17,7 +17,7 @@ Por eso, las [***direcciones IP***](/direccion-ip-ip-address-conceptorio) que 
 
 Para solucionar esta diferencia de lenguajes en las direcciones de red, se desarrolló el protocolo DNS: Sistema de Nombres de Dominio (por sus siglas en inglés).
 
-Los DNS son, sencillamente, un inmenso directorio que guarda los nombres de dominio (`google.com`) y las direcciones IP, donde puede encontrarse la información de este servidor (`172.217.28.110`). Este directorio no se encuentra en un único lugar, por el contrario hay cientos de copias en diferentes servidores ubicados en diferentes partes del planeta, haciendo que las consultas tomen poco tiempo y los sitios web carguen más rápidamente. (Fuente: [Cloudflare.gov](https://www.cloudflare.com/es-es/learning/dns/what-is-dns/#:~:text=enlace) y [Wikipedia.gov](https://es.wikipedia.org/wiki/Sistema_de_nombres_de_dominio))
+Los DNS son, sencillamente, un inmenso directorio que guarda los nombres de dominio (`google.com`) y las direcciones IP, donde puede encontrarse la información de este servidor (`172.217.28.110`). Este directorio no se encuentra en un único lugar, por el contrario hay cientos de copias en diferentes servidores ubicados en diferentes partes del planeta, haciendo que las consultas tomen poco tiempo y los sitios web carguen más rápidamente. (Fuente: [Cloudflare](https://www.cloudflare.com/es-es/learning/dns/what-is-dns/#:~:text=enlace) y [Wikipedia](https://es.wikipedia.org/wiki/Sistema_de_nombres_de_dominio))
 
 ### **¿Cómo funciona el DNS?**
 
@@ -35,7 +35,7 @@ Los DNS son, sencillamente, un inmenso directorio que guarda los nombres de domi
     
 4. **Conexión:**El navegador utiliza la dirección IP para conectarse al servidor web que aloja el sitio web.
 
-(Fuente: [Cloudflare.gov](https://www.cloudflare.com/es-es/learning/dns/what-is-dns/))
+(Fuente: [Cloudflare](https://www.cloudflare.com/es-es/learning/dns/what-is-dns/))
 
 **En términos más sencillos:**
 

@@ -4,17 +4,9 @@ lang: en
 slug: red-2g-2g-net-conceptorio
 aspectos:
 - señal
-fecha: '2025-10-11'
+fecha: '2025-08-25'
 ---
 
-# Red 2G | 2G Net
-
-Fecha de creación: 25 de agosto de 2025 22:08
-Autor(a): Belen Sevilla Morillo
-R2025: revisado
-idioma: english, español
-
-### Español
 
 La red 2G (Segunda Generación) **es la tecnología móvil que marcó la transición de lo analógico a lo digital, haciendo posible las llamadas de voz encriptadas y los mensajes de texto (SMS)**. Sirve para comunicaciones básicas de voz y texto, además de dar soporte a algunos servicios de datos limitados como el correo electrónico y acceso a internet a baja velocidad. Fue fundamental para la expansión global de la telefonía móvil y la base para tecnologías posteriores, aunque su velocidad de datos es baja.
 

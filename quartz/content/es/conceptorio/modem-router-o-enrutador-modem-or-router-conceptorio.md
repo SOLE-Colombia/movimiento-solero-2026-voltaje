@@ -25,7 +25,7 @@ Es importante el aparato porque, normalmente, dispone de una pegatina donde se e
 
 ## Referencias
 
-- [https://es.wikipedia.org/wiki/M%C3%B3dem](https://es.wikipedia.org/wiki/Módem)
+- [Wikipedia](https://es.wikipedia.org/wiki/M%C3%B3dem)
 
 ## English
 
