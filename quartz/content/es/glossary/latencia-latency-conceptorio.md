@@ -7,8 +7,6 @@ aspectos:
 fecha: '2024-02-29'
 ---
 
-## Español
-
 La latencia es el tiempo exacto que tarda un paquete de datos en ser transmitido por una red. 
 
 Es el tiempo que transcurre desde que tu navegador realiza una solicitud de información y el tiempo que demora en llegar la respuesta solicitada. 
@@ -17,7 +15,7 @@ Cuanto menor sea la latencia, mejor será la conexión a internet.
 
 Para calcular la latencia se utilizan dos parámetros: el **ping**, una unidad de medida que se expresa en milisegundos (ms)., y el **lag**, que se refiere al retardo excesivo.
 
-Puedes medir ambos parámetros con un [test de velocidad](/como-probar-la-velocidad-de-tu-conexion-a-internet-solutions-db)
+Puedes medir ambos parámetros con un [test de velocidad](es/inspire/como-probar-la-velocidad-de-tu-conexion-a-internet-solutions-db)
 
 ### ¿Qué es el ping?
 

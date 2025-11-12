@@ -15,7 +15,7 @@ Un [Raspberry Pi](https://www.raspberrypi.com/) es un computador del tamaño de 
 
 Inicialmente, no cuenta con teclado, ratón o monitor, pero puedes conectarle estos y otros periféricos sin ningún problema.
 
-Su "disco duro" es una memoria [MicroSD](/memoria-sd-minisd-microsd-sd-minisd-microsd-memory-conceptorio),** en la cual se instala una versión de Linux, optimizada para este tipo de dispositivos, lo que te permite tener un computador muy portátil, que consume pocos recursos de electricidad, y en el que puedes hacer todo lo que normalmente haces con un computador de escritorio.
+Su "disco duro" es una memoria [**MicroSD**](/es/glossary/memoria-sd-minisd-microsd-sd-minisd-microsd-memory-conceptorio), en la cual se instala una versión de Linux, optimizada para este tipo de dispositivos, lo que te permite tener un computador muy portátil, que consume pocos recursos de electricidad, y en el que puedes hacer todo lo que normalmente haces con un computador de escritorio.
 
 ### ¿Cómo cargar tu Raspberry Pi?
 

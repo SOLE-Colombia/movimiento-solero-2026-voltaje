@@ -10,7 +10,6 @@ fecha: '2025-07-15'
 autor: Belen Sevilla Morillo
 ---
 
-## Español
 
 USB, que significa Bus Universal en Serie (Universal Serial Bus), **es una tecnología estandarizada que permite la conexión, comunicación y suministro de energía entre computadoras y dispositivos electrónicos**. 
 
