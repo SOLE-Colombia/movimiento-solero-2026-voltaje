@@ -7,10 +7,9 @@ aspectos:
 - electricidad
 - dispositivos
 - espacio
-fecha: '2025-10-11'
+fecha: '2024-11-7'
 ---
 
-# ¿Cómo aprovechar mi ancho de banda?
 
 Created: 7 de noviembre de 2024 11:31
 Autor: Manuela
@@ -31,19 +30,11 @@ recursos/personas: 1: Una persona
 recursos/tiempo: 1: Horas
 2025-prueba: No
 
-*Descarga esta solución para usarla desconectado*
 
-[Como_aprovechar_mi_ancho_de_banda_20250729.pdf](/downloads/como-aprovechar-mi-ancho-de-banda-20250729.pdf)
-
-*Download this solution to use it disconnected*
-
-[How_make_better_use_of_my_bandwidth_20250729.pdf](/downloads/how-make-better-use-of-my-bandwidth-20250729.pdf)
-
-### índice
 
 # Aprovecha las opciones de tu servicio de Internet
 
-## Bienvenida
+
 
 Hola, soy Manu. No soy experta en tecnología, pero sé lo frustrante que es cuando la película se queda congelada o la videollamada se corta. Así que, después de investigar un poco, encontré algunos trucos para mejorar la conexión en casa que quiero compartir contigo. 
 
@@ -72,14 +63,14 @@ Imagina que el **ancho de banda** es como un camión gigante de mercancía, así
     
     Si puedes, conecta tu computadora al router con un cable de red. Esto es como pasar de un camión a un tren de alta velocidad. ¡La diferencia es impresionante! La conexión por cable te dará la máxima velocidad y estabilidad.
     
-    <img src="/assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\pexels-pixabay-159304-800w.webp" alt="Foto tomada de Pexels, (2024)." srcset="/assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\pexels-pixabay-159304-400w.webp 400w, /assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\pexels-pixabay-159304-800w.webp 800w, /assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\pexels-pixabay-159304-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Network cable](assets/images/solv-bandwidth/solv-bandwidth-network.webp)
     
     Foto tomada de Pexels, (2024).
     
 - **Momento 2: Conéctate a 5GHz si Usas Wi-Fi**
     
     
-    <img src="/assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\eaf4c20e-761e-4d50-84ca-8f8a07c9e301-800w.webp" alt="Pantallazo tomado por Manuela Córdoba, (2024)." srcset="/assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\eaf4c20e-761e-4d50-84ca-8f8a07c9e301-400w.webp 400w, /assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\eaf4c20e-761e-4d50-84ca-8f8a07c9e301-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+ ![RedWifi5GHz](assets/images/solv-bandwidth/solv-bandwidth-connect.webp)
     
     Pantallazo tomado por Manuela Córdoba, (2024).
     
@@ -90,7 +81,7 @@ Imagina que el **ancho de banda** es como un camión gigante de mercancía, así
     
     Si estás un poco lejos del router, y ves que la conexión se pone lenta, cámbiate a la banda de 2.4GHz. Aunque es un poco más lenta que 5GHz, puede ser más confiable. Imagina que es un camino rural que siempre está disponible, aunque no sea tan rápido.
     
-    ![Foto tomada de Google fotos, (2024).](¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e/WhatsApp_Image_2024-11-07_at_11.26.28.jpeg)
+    ![RedWifi24GHz](assets/images/solv-bandwidth/solv-bandwidth-choosewifi.jpeg)
     
     Foto tomada de Google fotos, (2024).
     
@@ -105,7 +96,7 @@ Imagina que el **ancho de banda** es como un camión gigante de mercancía, así
     
     Por último, asegúrate de que tu router esté bien ubicado y actualizado. Colócalo en un lugar ventilado y alejado de otros dispositivos que puedan interferir. Un router bien cuidado es clave para tener una buena conexión.
     
-    <img src="/assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\ca687fb2-8049-4b5f-adcf-d2f7cd8fef20-800w.webp" alt="Foto tomada por Manuela Córdoba, (2024)." srcset="/assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\ca687fb2-8049-4b5f-adcf-d2f7cd8fef20-400w.webp 400w, /assets\images\¿Cómo aprovechar mi ancho de banda 1372bd68c5b680adbf93d08f2c52b69e\ca687fb2-8049-4b5f-adcf-d2f7cd8fef20-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Router](assets/images/solv-bandwidth/solv-bandwidth-place.webp)
     
     Foto tomada por Manuela Córdoba, (2024).
     
@@ -124,28 +115,9 @@ También puedes monitorear tu consumo de datos, el uso de datos de las aplicacio
 
 ## Soluciones recomendadas
 
-- [¿Cómo comprar un plan celular adecuado para mi?](/como-comprar-un-plan-celular-adecuado-para-mi-solutions-db) | [How to buy a suitable cellular plan for me?](/how-to-buy-a-suitable-cellular-plan-for-me-solutions-db)
-- [¿Cómo probar la velocidad de tu conexión a Internet?](/como-probar-la-velocidad-de-tu-conexion-a-internet-solutions-db) | [How to test the speed of your Internet connection?](/how-to-test-the-speed-of-your-internet-connection-solutions-db)
-- [¿Cómo saber qué tipo de señal de Internet tienes?](/como-saber-que-tipo-de-senal-de-internet-tienes-solutions-db) | [How to know what kind of Internet signal you have?](/how-to-know-what-kind-of-internet-signal-you-have-solutions-db)
+- [¿Cómo comprar un plan celular adecuado para mi?](es/solve/como-comprar-un-plan-celular-adecuado-para-mi-solutions-db) | [How to buy a suitable cellular plan for me?](/en/solve/how-to-buy-a-suitable-cellular-plan-for-me-solutions-db)
+- [¿Cómo probar la velocidad de tu conexión a Internet?](es/solve/como-probar-la-velocidad-de-tu-conexion-a-internet-solutions-db) | [How to test the speed of your Internet connection?](/en/solve/how-to-test-the-speed-of-your-internet-connection-solutions-db)
+- [¿Cómo saber qué tipo de señal de Internet tienes?](es/solve/como-saber-que-tipo-de-senal-de-internet-tienes-solutions-db) | [How to know what kind of Internet signal you have?](/en/solve/how-to-know-what-kind-of-internet-signal-you-have-solutions-db)
 
 ---
 
-[https://notionreactions.com/embed/aOACgHI5J1Xgz9RuiRiy](https://notionreactions.com/embed/aOACgHI5J1Xgz9RuiRiy)
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)

@@ -4,10 +4,10 @@ lang: es
 slug: aprende-a-disenar-tu-invitacion-expres-sin-ser-un-experto-solutions-db
 aspectos:
 - general
-fecha: '2025-10-11'
+fecha: '2024-10-25'
 ---
 
-# ¡Aprende a diseñar tu invitación exprés sin ser un experto!
+
 
 Created: 25 de octubre de 2024 13:36
 Autor: Manuela
@@ -19,27 +19,17 @@ Tardas: Horas
 impacto/personas: 100
 2025-prueba: No
 
-*Descarga esta solución para usarla desconectado*
-
-[Aprende_a_disenar_tu_invitacion_express_sin_ser_un_experto_20250729.pdf](/downloads/aprende-a-disenar-tu-invitacion-express-sin-ser-un-experto-20250729.pdf)
-
-*Download this solution to use it disconnected*
-
-[Learn_how_to_design_your_express_invitation_without_being_an_expert!_20250729.pdf](/downloads/learn-how-to-design-your-express-invitation-without-being-an-expert-20250729.pdf)
-
-### índice
+---
 
 # La forma, es importante
 
-## Bienvenida
-
 ¡Hola! Soy Manu y no soy diseñadora profesional, pero de eso se trata el cacharreo, de aprender autónomamente. 
 
-Me encanta diseñar, dibujar y crear. Hacer Collage es uno de mis pasatiempos favoritos. 
+Me encanta diseñar, dibujar y crear. Hacer Collage es uno de mis pasatiempos favoritos.
 
 ## ¿Qué es diseñar una invitación, sin ser un experto?
 
-Me emociona enseñarte cómo diseñar una invitación increíble para tu próximo SOLE o actividad. En SOLE Colombia hemos aprendido a usar [Canva](/canva-conceptorio), pero puedes tu invitación cómo más te guste, incluso, ¡a mano! ¡tú puedes hacerlo!
+ Me emociona enseñarte cómo diseñar una invitación increíble para tu próximo SOLE o actividad. En SOLE Colombia hemos aprendido a usar [Canva](/es/glossary/canva-conceptorio), pero puedes hacer tu invitación cómo más te guste, incluso, ¡a mano! ¡tú puedes hacerlo!
 
 ## ¿Para qué sirve?
 
@@ -77,7 +67,7 @@ Muchas veces sentimos que no vamos a ser capaces de hacer una invitación tan bo
     
     ¡Vamos a comenzar! Abre tu navegador y visita canva.com. Si aún no tienes una cuenta, puedes crear una de forma gratuita.
     
-    <img src="/assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-800w.webp" alt="Untitled" srcset="/assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-400w.webp 400w, /assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-800w.webp 800w, /assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+ ![Canva](assets/images/solv-expressinvite/solv-expressinvite-login.webp)
     
 - **Selecciona un tamaño**
     
@@ -85,7 +75,7 @@ Muchas veces sentimos que no vamos a ser capaces de hacer una invitación tan bo
     
     **Elige una Plantilla o Comienza Desde Cero** ¿Prefieres empezar con una plantilla prediseñada o dejar volar tu creatividad desde cero? Aquí puedes explorar las opciones y encontrar el estilo que más te guste:
     
-    <img src="/assets\images\¡Aprende a diseñar tu invitación exprés sin ser un 12a2bd68c5b6805ea10deb06a5635a72\Untitled 1-400w.webp" alt="Untitled" srcset="/assets\images\¡Aprende a diseñar tu invitación exprés sin ser un 12a2bd68c5b6805ea10deb06a5635a72\Untitled 1-400w.webp 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Canva](assets/images/solv-expressinvite/solv-expressinvite-canva.webp)
     
 - **Personaliza tu Diseño**
     
@@ -93,13 +83,13 @@ Muchas veces sentimos que no vamos a ser capaces de hacer una invitación tan bo
     
     Mira cómo quedó la mía:
     
-    <img src="/assets\images\¡Aprende a diseñar tu invitación exprés sin ser un 12a2bd68c5b6805ea10deb06a5635a72\Untitled 2-400w.webp" alt="Untitled" srcset="/assets\images\¡Aprende a diseñar tu invitación exprés sin ser un 12a2bd68c5b6805ea10deb06a5635a72\Untitled 2-400w.webp 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+   ![Canva](/assets/images/solv-expressinvite/solv-expressinvite-invite.webp)
     
 - **Descarga tu Invitación**
     
     Cuando estés contento con tu diseño, haz clic en el botón de descarga y elige el formato deseado (JPEG o PNG). ¡Tu invitación está lista para imprimir o compartir en línea!
     
-    <img src="/assets\images\¡Aprende a diseñar tu invitación exprés sin ser un 12a2bd68c5b6805ea10deb06a5635a72\Untitled 3-800w.webp" alt="Untitled" srcset="/assets\images\¡Aprende a diseñar tu invitación exprés sin ser un 12a2bd68c5b6805ea10deb06a5635a72\Untitled 3-400w.webp 400w, /assets\images\¡Aprende a diseñar tu invitación exprés sin ser un 12a2bd68c5b6805ea10deb06a5635a72\Untitled 3-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Canva](assets/images/solv-expressinvite/solv-expressinvite-share.webp)
     
 
 ## ¿Cómo saber si esta solución funciona?
@@ -110,40 +100,21 @@ Es necesario que verifiques si el contenido de tu invitación y el diseño funci
 
 Hay algunas consideraciones clave a la hora de evaluar el diseño de tu invitación, aquí tienes algunas preguntas que pueden guiar tu reflexión:
 
-- si la información es suficientemente clara (hora, lugar…) y si es fácil de encontrar y entender, revisar el texto, la fuente y la configuración del texto/ imagen para que no esté muy saturada
-- si es atractiva visualmente, coherente con el tema del evento, capta la atención y genera interés
-- si el estilo está alineado con la formalidad del evento y es apropiada para la audiencia objetivo
-- si es fácil de compartir, de visualizar, de entender los pasos que hay que dar o la llamada a la acción que estás proponiendo
+- Si la información es suficientemente clara (hora, lugar…) y si es fácil de encontrar y entender, revisar el texto, la fuente y la configuración del texto/ imagen para que no esté muy saturada
+- Si es atractiva visualmente, coherente con el tema del evento, capta la atención y genera interés
+- Si el estilo está alineado con la formalidad del evento y es apropiada para la audiencia objetivo
+- Si es fácil de compartir, de visualizar, de entender los pasos que hay que dar o la llamada a la acción que estás proponiendo
 
 Todos estos aspectos te sirven a ti para tus invitaciones, pero también puedes ayudar a otros a hacer las suyas… y, aunque ahora no eres experto, ¡muy pronto lo serás!
 
 ## Soluciones recomendadas
 
-- [¿Cómo escribir una buena invitación?](/como-escribir-una-buena-invitacion-solutions-db) | [How to write a good invitation](/how-to-write-a-good-invitation-solutions-db)
-- [Descubre a tu audiencia](/descubre-a-tu-audiencia-solutions-db) | [Discover your audience](/discover-your-audience-solutions-db)
-- [Difunde tu mensaje ](/difunde-tu-mensaje-solutions-db) | [Spread your message ](/spread-your-message-solutions-db)
-- [Crea un mensaje potente](/crea-un-mensaje-potente-solutions-db) | [Create a powerful message](/create-a-powerful-message-solutions-db)
+- [¿Cómo escribir una buena invitación?](es/solve/como-escribir-una-buena-invitacion-solutions-db) | [How to write a good invitation](/en/solve/how-to-write-a-good-invitation-solutions-db)
+
+
+- [Descubre a tu audiencia](es/solve/descubre-a-tu-audiencia-solutions-db) | [Discover your audience](/en/solve/discover-your-audience-solutions-db)
+- [Difunde tu mensaje ](es/solve/difunde-tu-mensaje-solutions-db) | [Spread your message ](/en/solve/difunde-tu-mensaje-solutions-db)
+- [Crea un mensaje potente](es/solve/crea-un-mensaje-potente-solutions-db) | [Create a powerful message](/en/solve/crea-un-mensaje-potente-solutions-db)
 
 ¡Ahora tienes todas las herramientas y la inspiración necesarias para crear una invitación memorable y personalizada! 
 
-Recuerda, ¡tú puedes hacerlo! Deja volar tu creatividad y haz que tu próximo evento sea todo un éxito con está guía. ¡Diviértete diseñando!
-
-[https://notionreactions.com/embed/TpJjPIOAag7HGoEqSLWu](https://notionreactions.com/embed/TpJjPIOAag7HGoEqSLWu)
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
