@@ -1,10 +1,10 @@
 ---
-title: Get Inspired
-lang: en
+title: Inspírate
+lang: es
 type: section-index
 description: ''
 ---
 
-# Get Inspired
+# Inspírate
 
 

@@ -8,7 +8,6 @@ fecha: '2025-07-15'
 autor: Belen Sevilla Morillo
 ---
 
-## Español
 
 Una tarjeta **MicroSD** es un dispositivo de almacenamiento portátil de muy pequeño tamaño. 
 
@@ -24,4 +23,4 @@ Sometimes they are simply called SD, although it is correct to name them accordi
 
 It is important to know the *class* of the memory, this indicates the speed of reading and writing. Generally, it is good to have *class 10* memory to have a good speed and that the devices that use it do not have problems when accessing the stored data.
 
-<img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![MicroSD card](assets/images/conc-sdmemory/conc-sdmemory-sizes.webp)

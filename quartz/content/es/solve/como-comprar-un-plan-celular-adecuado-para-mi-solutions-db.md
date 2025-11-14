@@ -7,10 +7,9 @@ aspectos:
 - electricidad
 - dispositivos
 - espacio
-fecha: '2025-10-11'
+fecha: '2024-10-25'
 ---
 
-# ¿Cómo comprar un plan celular adecuado para mi?
 
 Created: 25 de octubre de 2024 13:36
 Autor: Nicolás
@@ -30,21 +29,13 @@ recursos/personas: 1: Una persona
 recursos/tiempo: 0: Minutos
 2025-prueba: No
 
-*Descarga esta solución para usarla desconectado*
 
-[Como_comprar_un_plan_celular_adecuado_para_mi_20250729.zip](¿Cómo comprar un plan celular adecuado para mi 12a2bd68c5b680b790a0ed2d55ea777b/Como_comprar_un_plan_celular_adecuado_para_mi_20250729.zip)
-
-*Download this solution to use it disconnected*
-
-[How_to_buy_a_suitable_cellular_plan_for_me_20250729.zip](¿Cómo comprar un plan celular adecuado para mi 12a2bd68c5b680b790a0ed2d55ea777b/How_to_buy_a_suitable_cellular_plan_for_me_20250729.zip)
-
-### índice
 
 # Comprar un plan de celular que se ajuste a tus capacidades y necesidades
 
-<img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Particularneeds](assets/images/solv-buy-cellplan/solv-buy-cellplan-particularneeds.webp)
 
-## Bienvenida
+
 
 Hola, soy Nicolás y, al igual que tú, he estado aprendiendo progresivamente como mejorar mi conectividad. 
 
@@ -79,7 +70,7 @@ Si, después de hacer un barrido de tus opciones, definitivamente consideras que
 
 ## **¿Cómo hacerlo?**
 
-<img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Particularneeds2](assets/images/solv-buy-cellplan/solv-buy-cellplan-particularneeds2.webp)
 
 - **Antes de empezar: ¡ALERTA! ¿prepago o pospago?**
     
@@ -153,7 +144,7 @@ Si, después de hacer un barrido de tus opciones, definitivamente consideras que
     
     *Selectra, ¿Cuál es el mejor plan prepago celular en Colombia?*
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Postpaidtariffs](assets/images/solv-buy-cellplan/solv-buy-cellplan-postpaidtariffs.webp)
     
 - **Momento 4: Evaluar cuál es la mejor opción: ¿Qué es lo que realmente necesito?**
     
@@ -162,13 +153,13 @@ Si, después de hacer un barrido de tus opciones, definitivamente consideras que
     - **Frecuencia de uso, ¿qué tanto lo vas a usar?**
         
         
-        ![Pixabay License, [https://pixabay.com/photos/iphone-smartphone-apps-apple-inc-410324/](https://pixabay.com/photos/iphone-smartphone-apps-apple-inc-410324/)](%C2%BFC%C3%B3mo%20comprar%20un%20plan%20celular%20adecuado%20para%20mi%2012a2bd68c5b680b790a0ed2d55ea777b/pre_02.jpg)
+        ![Time](assets/images/solv-buy-cellplan/solv-buy-cellplan-time.webp)
         
-        Pixabay License, [https://pixabay.com/photos/iphone-smartphone-apps-apple-inc-410324/](https://pixabay.com/photos/iphone-smartphone-apps-apple-inc-410324/)
+         [Pixabay License](https://pixabay.com/photos/iphone-smartphone-apps-apple-inc-410324/)
         
         Si, por ejemplo, **la mayor parte de tus días** necesitas hacer llamadas y estar conectado a internet, haciendo un balance, los planes pospago terminan siendo la mejor opción. 
         
-        Pero si, por otro lado, tu **demanda es ocasional**, tiene variabilidades a lo largo del mes y/o puede estar constantemente conectado a una red [**WiFi**](https://www.notion.so/c8df36bd0025488fae657e72d045b5ef?pvs=21) en tu lugar de trabajo o casa, puede que hacer recargas prepago esporádicamente sea lo más útil.
+        Pero si, por otro lado, tu **demanda es ocasional**, tiene variabilidades a lo largo del mes y/o puede estar constantemente conectado a una red **WiFi** en tu lugar de trabajo o casa, puede que hacer recargas prepago esporádicamente sea lo más útil.
         
     - **Presupuesto, ¿cuánto dinero te quieres gastar?**
         
@@ -191,9 +182,9 @@ Si, después de hacer un barrido de tus opciones, definitivamente consideras que
         | Los minutos asociados a tu plan determinan **cuánto tiempo puedes durar hablando con otros móviles a nivel nacional**, en algunos casos también se incluye una cantidad de minutos a otros países como Venezuela, Canadá o Estados Unidos. **Actualmente, la mayoría de los planes pospago vienen con minutos ilimitados.** | Son la **cantidad de datos móviles destinados para el uso de internet en tú teléfonos**. Su uso es la cantidad que sube o descarga tu celular al utilizarlos. Puedes configurarlos para no gastarlos, ahorrarlos o restringir para que se usan. Recuerda que dependiendo del contenido que subas o bajes será mayor o menor el consumo de datos, por ejemplo, **ver una película de dos horas desde tu celular puede consumir aproximadamente 300 MB**, casi la tercera parte de un Gigabyte. Contenido como videos, audios o imágenes de alta resolución tiene un alto consumo de datos en comparación con otro tipo de archivos como los textos. |
         |  |  |
         
-        ![CC0 Public Domain,[https://pxhere.com/en/photo/645095](https://pxhere.com/en/photo/645095)](%C2%BFC%C3%B3mo%20comprar%20un%20plan%20celular%20adecuado%20para%20mi%2012a2bd68c5b680b790a0ed2d55ea777b/pre_03.jpg)
+      ![Use](assets/images/solv-buy-cellplan/solv-buy-cellplan-use.webp)
         
-        CC0 Public Domain,[https://pxhere.com/en/photo/645095](https://pxhere.com/en/photo/645095)
+        [CC0 Public Domain,](https://pxhere.com/en/photo/645095)
         
         Por ejemplo, cuando hacemos SOLE, necesitamos conectar unos cuantos computadores para poder investigar sobre Grandes Preguntas. 
         
@@ -240,7 +231,7 @@ Hay un pequeña oferta disponible en operadores pequeños, estos son planes prep
 
 Yo, que vivo en Bogotá, estoy evaluando cambiarme a Móvil Éxito. Actualmente tengo un plan pospago en WOM en el que **pago $40,000 COP**, esto me da derecho a **60 Gb y minutos ilimitados** ¡esto es un montón! Inicialmente, me pasé a WOM porque, haciendo portabilidad, me daban los **tres primeros meses gratis, más 20Gb** y me **cobraban $35,000 COP.** Ahora que ando en Bogotá y trabajo desde casa y oficina, tengo internet disponible desde estos lugares. Estuve revisando opciones mientras escribía esta solución y vi que Móvil Éxito ofrece los suientes planes prepago:
 
-<img src="/assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-800w.webp" alt="Untitled" srcset="/assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-400w.webp 400w, /assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-800w.webp 800w, /assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Compare](assets/images/solv-buy-cellplan/solv-buy-cellplan-compare.webp)
 
 Al mes, mi consumo no supera los 5 Gb y hago, por mucho, 30 llamadas al mes. Por esta razón el primer plan me saldría a **$13,000 COP, ¡Menos de la tercera parte de lo que pago ahora!** Eso si, tengo que hacer el pago de todo el año de una sola vez, pero no estoy atado a ningún tipo de contrato. 
 
@@ -254,72 +245,22 @@ Este tipo de razonamientos son los que nos gustaría que tuvieras al tomar una d
 
 ## Soluciones recomendadas
 
-- [**Cómo comprar una conexión temporal a internet satelital** ](/como-comprar-una-conexion-temporal-a-internet-satelital-solutions-db) | [**How to purchase a temporary satellite Internet connection** ](/how-to-purchase-a-temporary-satellite-internet-connection-solutions-db)
-- [¿Cómo aprovechar mi ancho de banda?](/como-aprovechar-mi-ancho-de-banda-solutions-db) | [How make better use of my bandwidth?](/how-make-better-use-of-my-bandwidth-solutions-db)
-- [¿Cómo comprar un celular adecuado para mí?](/como-comprar-un-celular-adecuado-para-mi-solutions-db) | [How to buy a suitable cell phone for me?](/how-to-buy-a-suitable-cell-phone-for-me-solutions-db)
-- [**Haz una colecta para pagar internet comunitario**](/haz-una-colecta-para-pagar-internet-comunitario-solutions-db) | [**Look for funding to pay for community internet**](/look-for-funding-to-pay-for-community-internet-solutions-db)
-- [¿Cómo comprar una antena satelital?](/como-comprar-una-antena-satelital-solutions-db) | [How to buy a satellite antenna?](/how-to-buy-a-satellite-antenna-solutions-db)
+- [**Cómo comprar una conexión temporal a internet satelital** ](es/solve/como-comprar-una-conexion-temporal-a-internet-satelital-solutions-db) | [**How to purchase a temporary satellite Internet connection** ](en/solve/how-to-purchase-a-temporary-satellite-internet-connection-solutions-db)
+- [¿Cómo aprovechar mi ancho de banda?](es/solve/como-aprovechar-mi-ancho-de-banda-solutions-db) | [How make better use of my bandwidth?](en/solve/how-make-better-use-of-my-bandwidth-solutions-db)
+- [¿Cómo comprar un celular adecuado para mí?](es/solve/como-comprar-un-celular-adecuado-para-mi-solutions-db) | [How to buy a suitable cell phone for me?](en/solve/how-to-buy-a-suitable-cell-phone-for-me-solutions-db)
+- [**Haz una colecta para pagar internet comunitario**](es/solve/haz-una-colecta-para-pagar-internet-comunitario-solutions-db) | [**Look for funding to pay for community internet**](en/solve/look-for-funding-to-pay-for-community-internet-solutions-db)
+- [¿Cómo comprar una antena satelital?](es/solve/como-comprar-una-antena-satelital-solutions-db) | [How to buy a satellite antenna?](en/solve/how-to-buy-a-satellite-antenna-solutions-db)
 
 ## Referencias
 
-- [<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/6jGYxMKqOTE" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/6jGYxMKqOTE" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>)
-- [https://www.phoneservicecenter.es/blog/que-son-los-datos-moviles/](https://www.phoneservicecenter.es/blog/que-son-los-datos-moviles/)
-- [<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/pS_es1-4keo" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/pS_es1-4keo" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>)
-- [https://www.opensignal.com/](https://www.opensignal.com/)
-- [https://www.semana.com/prepago-vs-pospago-cuando-elegir-cual/201500/](https://www.semana.com/prepago-vs-pospago-cuando-elegir-cual/201500/)
-- [https://www.larepublica.co/empresas/la-batalla-de-los-operadores-en-colombia-inicio-con-planes-desde-35-000-3150492](https://www.larepublica.co/empresas/la-batalla-de-los-operadores-en-colombia-inicio-con-planes-desde-35-000-3150492)
-- [https://selectra.com.co/celular/planes-prepago](https://selectra.com.co/celular/planes-prepago)
+- [Youtube](https://www.youtube.com/embed/6jGYxMKqOTE)
+- [Youtube](https://www.youtube.com/embed/6jGYxMKqOTE)  
+- [Phoneservicecenter](https://www.phoneservicecenter.es/blog/que-son-los-datos-moviles/)
+- [Youtube](https://www.youtube.com/embed/pS_es1-4keo)   
+- [Youtube](https://www.youtube.com/embed/pS_es1-4keo)
+- [Opensignal](https://www.opensignal.com/)
+- [Semana](https://www.semana.com/prepago-vs-pospago-cuando-elegir-cual/201500/)
+- [Larepublica](https://www.larepublica.co/empresas/la-batalla-de-los-operadores-en-colombia-inicio-con-planes-desde-35-000-3150492)
+- [Selectra](https://selectra.com.co/celular/planes-prepago)
 
 ---
-
-[https://notionreactions.com/embed/9sGbzgsc9UgJJ20OQ83y](https://notionreactions.com/embed/9sGbzgsc9UgJJ20OQ83y)
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)

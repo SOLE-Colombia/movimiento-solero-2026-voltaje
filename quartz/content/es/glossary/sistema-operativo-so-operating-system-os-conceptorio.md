@@ -9,7 +9,7 @@ fecha: '2025-07-17'
 autor: Belen Sevilla Morillo
 ---
 
-## Español
+
 
 Un sistema operativo (SO) **es un software fundamental que actúa como intermediario entre el hardware de un dispositivo (como una computadora o teléfono) y las aplicaciones que utilizas**. 
 

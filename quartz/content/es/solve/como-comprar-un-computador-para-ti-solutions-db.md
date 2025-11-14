@@ -6,10 +6,9 @@ aspectos:
 - señal
 - dispositivos
 - espacio
-fecha: '2025-10-11'
+fecha: '2024-3-21'
 ---
 
-# ¿Cómo comprar un computador para ti?
 
 Created: 21 de marzo de 2024 10:55
 Autor: Nicolás
@@ -29,19 +28,9 @@ recursos/dificultad: 1: Necesitas habilidades nuevas en un lenguaje que ya manej
 recursos/tiempo: 0: Minutos
 2025-prueba: No
 
-### índice
-
-*Descarga esta solución para usarla desconectado*
-
-[Como_comprar_un_computador_para_ti_20250821.pdf](/downloads/como-comprar-un-computador-para-ti-20250821.pdf)
-
-*Download this solution to use it disconnected*
-
-[How_to_buy_a_computer_for_yourself_20250821.pdf](/downloads/how-to-buy-a-computer-for-yourself-20250821.pdf)
 
 # Comprar el mejor computador para mi caso
 
-## Bienvenida
 
 Hola, soy Nicolás y, al igual que tú, he estado aprendiendo sobre cómo mejorar mi conexión a internet. No soy un experto en el tema, pero buscando en internet, tutoriales y aprendiendo de la prueba y el error he logrado mejorar la calidad del internet en zonas sin buena conectividad. 
 
@@ -66,11 +55,9 @@ Si agotaste las opciones anteriores y, definitivamente, decidiste comprar un com
     
     La velocidad y la capacidad son dos de las grandes ventajas que tienen las computadoras en comparación con los teléfonos. Con una computadora, tienes un teclado y un ratón a tu disposición, lo que te permite escribir y navegar por los menús mucho más rápido. Además, la pantalla más grande de una computadora te permite organizar tu espacio digital de una manera que la pantalla de un teléfono pequeño no puede. También te permitirá 
     
-    Estos factores no solo t
+    Estos factores no solo te ahorran tiempo; también te permiten realizar múltiples tareas. En una computadora, puedes cambiar más fácilmente entre aplicaciones e incluso tenerlas cómodamente en la pantalla al mismo tiempo. Por ejemplo, puedes tener una ventana abierta con tu hoja de vida y otra abierta con un trabajo que estés buscando. O si estás buscando la mejor oferta, puedes tener páginas de varios productos abiertas al mismo tiempo para compararlos fácilmente.
     
-    e ahorran tiempo; también te permiten realizar múltiples tareas. En una computadora, puedes cambiar más fácilmente entre aplicaciones e incluso tenerlas cómodamente en la pantalla al mismo tiempo. Por ejemplo, puedes tener una ventana abierta con tu hoja de vida y otra abierta con un trabajo que estés buscando. O si estás buscando la mejor oferta, puedes tener páginas de varios productos abiertas al mismo tiempo para compararlos fácilmente.
-    
-    <img src="/assets\images\How to buy a computer for yourself 2582bd68c5b680cc8dd2cd1a9ef91eb4\surface-pro-4-moto-g4-001-800w.webp" alt="surface-pro-4-moto-g4-001.jpg" srcset="/assets\images\How to buy a computer for yourself 2582bd68c5b680cc8dd2cd1a9ef91eb4\surface-pro-4-moto-g4-001-400w.webp 400w, /assets\images\How to buy a computer for yourself 2582bd68c5b680cc8dd2cd1a9ef91eb4\surface-pro-4-moto-g4-001-800w.webp 800w, /assets\images\How to buy a computer for yourself 2582bd68c5b680cc8dd2cd1a9ef91eb4\surface-pro-4-moto-g4-001-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Devices](assets/images/solv-buy-computer/solv-buy-computer-devices.webp)
     
 
 ## **Opciones a revisar**
@@ -80,14 +67,14 @@ Si agotaste las opciones anteriores y, definitivamente, decidiste comprar un com
     
     Este es un computador diseñado para ser instalado en una ubicación estática, como un escritorio o mesa. Los componentes del hardware suelen ser una caja de computadora que alberga la placa base con los respectivos componentes.
     
-    ![](https://upload.wikimedia.org/wikipedia/commons/9/93/Laboratorio_de_computaci%C3%B3n.jpg)
+    ![Desktop](assets/images/solv-buy-computer/Solv-buy-computer-destop.webp)
     
 - **Computador portátil**
     
     
     Tan solo llamado portátil, este es una computadora que se puede mover o transportar con relativa facilidad. Los portátiles son pequeños, livianos y están especialmente diseñadas para que sus baterías sean capaces de alimentarlas durante un período prolongado de tiempo (generalmente de 4 a 5 horas). La medida de las pantallas van de las 11 a las 15 pulgadas.
     
-    ![](https://upload.wikimedia.org/wikipedia/commons/b/ba/MSI_laptop_with_English_Wikipedia_screenshot_20100614.jpg)
+    ![Laptop](assets/images/solv-buy-computer/solv-buy-computer-laptop.webp)
     
 - **Pros y contras**
     
@@ -112,53 +99,19 @@ Si agotaste las opciones anteriores y, definitivamente, decidiste comprar un com
     
     A continuación te explicaremos cuales son los principales componentes del hardware de un computador que son importante a la hora de comprarlo.
     
-    **Elemento**
-    
-    Procesador
-    
-    Almacenamiento
-    
-    Memoria RAM
-    
-    Tarjeta gráfica
-    
-    Periféricos
-    
-    Pantalla
-    
-    Batería
-    
-    **Imagen**
-    
-    ![](https://upload.wikimedia.org/wikipedia/commons/d/dc/Intel_80486DX2_top.jpg)
-    
-    ![](https://upload.wikimedia.org/wikipedia/commons/f/f8/Laptop-hard-drive-exposed.jpg)
-    
-    ![](https://upload.wikimedia.org/wikipedia/commons/a/ac/RamTypes.JPG)
-    
-    ![](https://upload.wikimedia.org/wikipedia/commons/f/f3/Sapphire-Radeon-HD-5570-Video-Card.jpg)
-    
-    ![](https://upload.wikimedia.org/wikipedia/commons/c/c5/Red_computer_mouse.jpg)
-    
-    ![](https://upload.wikimedia.org/wikipedia/commons/0/08/TFT_LCD_display_Samsung_SyncMaster_510N.jpg)
-    
-    ![](https://upload.wikimedia.org/wikipedia/commons/5/5a/ThinkPad_X201_stock_battery.jpg)
-    
-    **Descripción**
-    
-    Este es el cerebro de la máquina, sin duda uno de los factores fundamentales a tener en cuenta. Recuerda que según la potencia de este elemento el equipo podrá ejecutar más rápido las instrucciones que le des.
-    
-    El disco duro marca la capacidad de almacenamiento de tu equipo. 
-    
-    La memoria RAM almacena de forma temporal los datos de las aplicaciones que se están ejecutando. Cuanta más memoria RAM tenga tu computador, mayor capacidad para ejecutar diferentes programas a la vez de forma óptima.
-    
-    La tarjeta gráfica se encarga del procesamiento de datos relacionados con imágenes y vídeos que se reproducen en el computador. 
-    
-    Se refieren al los accesos de entrada y salida de otros dispositivos que conectarás a tu computador. Por ejemplo:  puertos USB, Salidas de audio, conexiones HDMI, etc.
-    
-    Es la que te permite ver lo que estas realizando en tu computador.
-    
-    Solo aplica para portátiles y determina el tiempo de uso del que dispones sin estar conectado a la corriente.
+
+
+    | **Elemento** | **Imagen** | **Descripción** |
+    | --- | --- | --- |
+    | Procesador | [Processor](assets/images/solv-buy-computer/solv-buy-computer-processor.webp) | Este es el cerebro de la máquina, sin duda uno de los factores fundamentales a tener en cuenta. Recuerda que según la potencia de este elemento el equipo podrá ejecutar más rápido las instrucciones que le des. |
+    | Almacenamiento | [Storage](assets/images/solv-buy-computer/Solv-buy-computer-storage.webp) | El disco duro marca la capacidad de almacenamiento de tu equipo.  |
+    | Memoria RAM| [Ram](assets/images/solv-buy-computer/Solv-buy-computer-ram.webp) | La memoria RAM almacena de forma temporal los datos de las aplicaciones que se están ejecutando. Cuanta más memoria RAM tenga tu computador, mayor capacidad para ejecutar diferentes programas a la vez de forma óptima. |
+    | Trajeta gráfica | [Graphic](/assets/images/solv-buy-computer/solv-buy-computer-VideoCard.webp)| La tarjeta gráfica se encarga del procesamiento de datos relacionados con imágenes y vídeos que se reproducen en el computador.  |
+    | Periféricos| [Periferic](assets/images/solv-buy-computer/Solv-buy-computer-periferic.webp) | Se refieren al los accesos de entrada y salida de otros dispositivos que conectarás a tu computador. Por ejemplo:  puertos USB, Salidas de audio, conexiones HDMI, etc. |
+    | Pantalla| [Screen](content/assets/images/solv-buy-computer/Solv-buy-computer-screen.webp)| Es la que te permite ver lo que estas realizando en tu computador. |
+    | Batería| [Battery](assets/images/solv-buy-computer/Solv-buy-computer-battery.webp) | Solo aplica para portátiles y determina el tiempo de uso del que dispones sin estar conectado a la corriente. |
+
+
     
 - **Momento 1: Los criterios fundamentales**
     
@@ -204,31 +157,8 @@ Es importante recordar que al ir a una tienda un vendedor normalmente busca mete
 
 El computador desde el que te estoy escribiendo lo compré hace 13 años, ha pasado por cambio de disco duro y aumento de RAM, además de unos cuantos arreglos, pero ahorita funciona bien y ha sido una gran inversión para largo plazo. 
 
-Por ultimo, recuerda que ahora es muy fácil encontrar [páginas](https://uk.pcmag.com/laptops/21232/asus-n53sv-a1) y [personas](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/pwX6rCsu154" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>&ab_channel=RadioTech) dedicadas exclusivamente a hacer [reseñas](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/qr_j8wFYgi4" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>&ab_channel=IsaMarcial) y [evaluar](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/HeIz534YWas" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>&ab_channel=dBeta) el rendimiento de los computadores, además algunas [páginas te permiten comparar entre varias opciones](https://versus.com/es/laptop), una vez hayas seleccionado los computadores disponible en el mercado que más se justan a tu caso utiliza estas páginas y los comentarios de los usuarios para tomar una decisión más certera. 
+Por ultimo, recuerda que ahora es muy fácil encontrar [páginas](https://uk.pcmag.com/laptops/21232/asus-n53sv-a1) y [personas](https://www.youtube.com/embed/pwX6rCsu154)
+ dedicadas exclusivamente a hacer [reseñas](https://www.youtube.com/embed/qr_j8wFYgi4) y [evaluar](https://www.youtube.com/embed/HeIz534YWas) el rendimiento de los computadores, además algunas [páginas te permiten comparar entre varias opciones](https://versus.com/es/laptop), una vez hayas seleccionado los computadores disponible en el mercado que más se justan a tu caso utiliza estas páginas y los comentarios de los usuarios para tomar una decisión más certera. 
 
 Otra recomendación que nunca sobra, es guiarse por la reputación de la marca y del vendedor. En mi caso por experiencia recomiendo la marca ASUS en relación calidad-precio, aunque desde SOLE, también nos ha ido bien con la marca Lenovo.
 
@@ -240,53 +170,31 @@ Al no meditar bien mi decisión termine comprando un computador demasiado grande
 
 Con esto que acabamos de ver, ya no te pueden meter los dedos a la boca, **¡es hora tomar la decisión!**
 
-![asus-n53sv-a1_72av.1920.webp](How to buy a computer for yourself 2582bd68c5b680cc8dd2cd1a9ef91eb4/asus-n53sv-a1_72av.1920.webp)
+![Asus](/assets/images/solv-buy-computer/Solv-buy-computer-asus.webp)
 
 ## Soluciones relacionadas
 
-- [¿Cómo compartir los computadores disponibles?](/como-compartir-los-computadores-disponibles-solutions-db) | [How to share available computers?](/how-to-share-available-computers-solutions-db)
-- [¿Cómo conseguir equipos donados?](/como-conseguir-equipos-donados-solutions-db) |  [How to get donated equipment?](/how-to-get-donated-equipment-solutions-db)
-- [¿Cómo usar el juego para aprender a cuidar equipos en comunidad?](/como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-solutions-db) | [How to use the game to learn how to take care of equipment in community?](/how-to-use-the-game-to-learn-how-to-take-care-of-equipment-in-community-solutions-db)
+- [¿Cómo compartir los computadores disponibles?](es/solve/como-compartir-los-computadores-disponibles-solutions-db) | [How to share available computers?](en/solve/how-to-share-available-computers-solutions-db)
+- [¿Cómo conseguir equipos donados?](es/solve/como-conseguir-equipos-donados-solutions-db) |  [How to get donated equipment?](en/solve/how-to-get-donated-equipment-solutions-db)
+- [¿Cómo usar el juego para aprender a cuidar equipos en comunidad?](es/solve/como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-solutions-db) | [How to use the game to learn how to take care of equipment in community?](en/solve/how-to-use-the-game-to-learn-how-to-take-care-of-equipment-in-community-solutions-db)
 
 ## Referencias
 
-- [https://www.alkosto.com/guia-compra/guia-computadores/c/guia-computadores?fuente=google&medio=cpc&campaign=AK_COL_DSA_PEF_CPC_CT_AON_COMP_TLP_Computadores-Category-AON_PAC&keyword=&gad_source=1](https://www.alkosto.com/guia-compra/guia-computadores/c/guia-computadores?fuente=google&medio=cpc&campaign=AK_COL_DSA_PEF_CPC_CT_AON_COMP_TLP_Computadores-Category-AON_PAC&keyword=&gad_source=1)
-- [https://todotintasysuministros.com/blog/que-hay-que-tener-en-cuenta-antes-de-comprar-un-computador](https://todotintasysuministros.com/blog/que-hay-que-tener-en-cuenta-antes-de-comprar-un-computador)
-- [https://www.promart.pe/blog/como-elegir-una-buena-laptop](https://www.promart.pe/blog/como-elegir-una-buena-laptop)
-- [https://www.conquistainternet.com/blog/que-hay-que-tener-en-cuenta-a-la-hora-de-comprar-un-ordenador](https://www.conquistainternet.com/blog/que-hay-que-tener-en-cuenta-a-la-hora-de-comprar-un-ordenador)
-- [https://es.wikipedia.org/wiki/Computadora_de_escritorio](https://es.wikipedia.org/wiki/Computadora_de_escritorio)
-- [https://es.wikipedia.org/wiki/Computadora_port%C3%A1til](https://es.wikipedia.org/wiki/Computadora_portátil)
-- [https://compuline.com.mx/blog/5-diferencias-entre-comprar-laptop-o-computadora/](https://compuline.com.mx/blog/5-diferencias-entre-comprar-laptop-o-computadora/)
-- [https://www.multicopy.com.gt/blog/te-damos-la-bienvenida-a-nuestro-blog-1/post/computadora-de-escritorio-vs-portatil-laptop-o-notebook-45#:~:text=Computadora%20de%20Escritorio%3A%20Las%20computadoras%20de%20escritorio%20ocupan%20espacio%20f%C3%ADsico,trabajo%20despejado%20y%20sin%20cables](https://www.multicopy.com.gt/blog/te-damos-la-bienvenida-a-nuestro-blog-1/post/computadora-de-escritorio-vs-portatil-laptop-o-notebook-45#:~:text=Computadora de Escritorio: Las computadoras de escritorio ocupan espacio físico,trabajo despejado y sin cables).
-- [https://www.impactomedia.com/tecnologia-de-impacto/por-que-usar-una-computadora-cuando-tienes-un-telefono-smartphone/#:~:text=Con una computadora%2C tienes un,un teléfono pequeño no puede](https://www.impactomedia.com/tecnologia-de-impacto/por-que-usar-una-computadora-cuando-tienes-un-telefono-smartphone/#:~:text=Con una computadora, tienes un,un teléfono pequeño no puede).
-- [https://upload.wikimedia.org/wikipedia/commons/b/ba/MSI_laptop_with_English_Wikipedia_screenshot_20100614.jpg](https://upload.wikimedia.org/wikipedia/commons/b/ba/MSI_laptop_with_English_Wikipedia_screenshot_20100614.jpg)
-- [https://upload.wikimedia.org/wikipedia/commons/d/dc/Intel_80486DX2_top.jpg](https://upload.wikimedia.org/wikipedia/commons/d/dc/Intel_80486DX2_top.jpg)
-- [https://upload.wikimedia.org/wikipedia/commons/f/f8/Laptop-hard-drive-exposed.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f8/Laptop-hard-drive-exposed.jpg)
-- [https://upload.wikimedia.org/wikipedia/commons/5/5a/ThinkPad_X201_stock_battery.jpg](https://upload.wikimedia.org/wikipedia/commons/5/5a/ThinkPad_X201_stock_battery.jpg)
-- [https://uk.pcmag.com/laptops/21232/asus-n53sv-a1](https://uk.pcmag.com/laptops/21232/asus-n53sv-a1)
-- [https://felixwong.com/2017/08/my-microsoft-edition-android-phone-windows-10-mobile-vs-android-in-2017/](https://felixwong.com/2017/08/my-microsoft-edition-android-phone-windows-10-mobile-vs-android-in-2017/)
-- [https://www.wrike.com/es/blog/guia-para-tomar-mejores-decisiones/](https://www.wrike.com/es/blog/guia-para-tomar-mejores-decisiones/)
+- [Alkosto](https://www.alkosto.com/guia-compra/guia-computadores/c/guia-computadores?fuente=google&medio=cpc&campaign=AK_COL_DSA_PEF_CPC_CT_AON_COMP_TLP_Computadores-Category-AON_PAC&keyword=&gad_source=1)
+- [Todotintasysuministros](https://todotintasysuministros.com/blog/que-hay-que-tener-en-cuenta-antes-de-comprar-un-computador)
+- [Promart](https://www.promart.pe/blog/como-elegir-una-buena-laptop)
+- [Conquistainternet](https://www.conquistainternet.com/blog/que-hay-que-tener-en-cuenta-a-la-hora-de-comprar-un-ordenador)
+- [Wikipedia](https://es.wikipedia.org/wiki/Computadora_de_escritorio)
+- [Wikipedia](https://es.wikipedia.org/wiki/Computadora_portátil)
+- [Compuline](https://compuline.com.mx/blog/5-diferencias-entre-comprar-laptop-o-computadora/)
+- [Multicopy](https://www.multicopy.com.gt/blog/te-damos-la-bienvenida-a-nuestro-blog-1/computadora-de-escritorio-vs-portatil-laptop-o-notebook-45#:~:text=Computadora).
+- [Impactomedia](https://www.impactomedia.com/tecnologia-de-impacto/por-que-usar-una-computadora-cuando-tienes-un-telefono-smartphone/#:~:text=Con).
+- [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/b/ba/MSI_laptop_with_English_Wikipedia_screenshot_20100614.jpg)
+- [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/d/dc/Intel_80486DX2_top.jpg)
+- [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/f/f8/Laptop-hard-drive-exposed.jpg)
+- [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/5/5a/ThinkPad_X201_stock_battery.jpg)
+- [Pcmag](https://uk.pcmag.com/laptops/21232/asus-n53sv-a1)
+- [Felixwong](https://felixwong.com/2017/08/my-microsoft-edition-android-phone-windows-10-mobile-vs-android-in-2017/)
+- [Wrike](https://www.wrike.com/es/blog/guia-para-tomar-mejores-decisiones/)
 
 ---
-
-[https://notionreactions.com/embed/avIbCkjhI96U67mApQIH](https://notionreactions.com/embed/avIbCkjhI96U67mApQIH)
-
----
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
