@@ -38,14 +38,14 @@ export default ((opts?: Options) => {
         
         <div class="footer-section footer-info">
           <p class="footer-project">
-            <em>{translations.projectBy}{" "}
+            <a href="http://voltaje.solecolombia.org/">SOLE Voltaje</a> es un proyecto de{" "}
             <a href="https://www.solecolombia.org/" target="_blank" rel="noopener noreferrer">
               SOLE Colombia
             </a>{" "}
-            {translations.supportedBy}{" "}
+            con el apoyo de{" "}
             <a href="https://www.isocfoundation.org/" target="_blank" rel="noopener noreferrer">
               Internet Society Foundation
-            </a></em>
+            </a>
           </p>
           
           <p class="footer-license">
@@ -53,7 +53,7 @@ export default ((opts?: Options) => {
             <a href="http://www.solecolombia.org/" target="_blank" rel="noopener noreferrer">
               Fundación SOLE Colombia
             </a>{" "}
-            {translations.licensedBy}{" "}
+            is licensed by{" "}
             <a 
               href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" 
               target="_blank" 
@@ -74,6 +74,9 @@ export default ((opts?: Options) => {
         {Object.entries(links).length > 0 && (
           <div class="footer-section footer-custom">
             <ul>
+              <li>
+                <a href="/es">Página Principal</a>
+              </li>
               {Object.entries(links).map(([text, link]) => (
                 <li>
                   <a href={link} target="_blank" rel="noopener noreferrer">{text}</a>
