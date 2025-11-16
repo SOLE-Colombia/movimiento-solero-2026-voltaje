@@ -35,6 +35,10 @@ export interface Translation {
     readerMode: {
       title: string
     }
+    download: {
+      title: string
+      ariaLabel: string
+    }
     explorer: {
       title: string
     }

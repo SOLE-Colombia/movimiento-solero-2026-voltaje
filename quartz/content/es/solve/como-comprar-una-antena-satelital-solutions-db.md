@@ -6,10 +6,9 @@ aspectos:
 - señal
 - dispositivos
 - espacio
-fecha: '2025-10-11'
+fecha: '2024-02-29'
 ---
 
-# ¿Cómo comprar una antena satelital?
 
 Created: 29 de febrero de 2024 14:57
 Autor: Nicolás
@@ -29,31 +28,16 @@ recursos/dificultad: 0: No necesita habilidades nuevas solo seguir instrucciones
 recursos/tiempo: 0: Minutos
 2025-prueba: No
 
-*Descarga esta solución para usarla desconectado*
 
-[Como_comprar_una_antena_satelital_20250821.pdf](/downloads/como-comprar-una-antena-satelital-20250821.pdf)
-
-*Download this solution to use it disconnected*
-
-[How_to_buy_a_satellite_antenna_20250821.pdf](/downloads/how-to-buy-a-satellite-antenna-20250821.pdf)
-
-### índice
 
 # ¿Cómo escoger un servicio de internet para lugares no interconectados?
 
-![Foto tomada de wikipedia, [https://upload.wikimedia.org/wikipedia/commons/7/7e/Tooway_satellite_antenna_drawing.png](https://upload.wikimedia.org/wikipedia/commons/7/7e/Tooway_satellite_antenna_drawing.png) ](https://images.pexels.com/photos/5790645/pexels-photo-5790645.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![Antena satelital](https://images.pexels.com/photos/5790645/pexels-photo-5790645.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-Foto tomada de wikipedia, [https://upload.wikimedia.org/wikipedia/commons/7/7e/Tooway_satellite_antenna_drawing.png](https://upload.wikimedia.org/wikipedia/commons/7/7e/Tooway_satellite_antenna_drawing.png) 
+*Foto: [Antena satelital](https://upload.wikimedia.org/wikipedia/commons/7/7e/Tooway_satellite_antenna_drawing.png) - Wikipedia* 
 
 ---
 
-## **Audiolectura de la solución**
-
-Puedes escuchar esta audiolectura mientras desarrollas esta solución.
-
-[internet-para-lugares-no-interconectados-.mp3](How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f/internet-para-lugares-no-interconectados-.mp3)
-
-## Bienvenida
 
 Hola, soy Nicolás y estoy aprendiendo sobre cómo funciona el internet. No soy un experto en el tema, pero mediante búsquedas en internet, tutoriales y, sobre todo, mucha curiosidad, he aprendido a realizar el montaje de soluciones de internet funcionales. 
 
@@ -63,7 +47,7 @@ Hola, soy Nicolás y estoy aprendiendo sobre cómo funciona el internet. No soy 
 
 ## ¿Para qué sirve?
 
-Esta solución sirve para tener mayor claridad sobre qué servicio de internet satelital puedes escoger si estás ubicado en zonas que no tienen conexión a internet [Wi](http://Wi.fi)-fi o por cable de red.
+Esta solución sirve para tener mayor claridad sobre qué servicio de internet satelital puedes escoger si estás ubicado en zonas que no tienen conexión a internet Wifi o por cable de red.
 
 ## ¿Cómo saber si lo necesito?
 
@@ -95,18 +79,18 @@ Esta solución es una opción que puedes pagar junto con las personas de la comu
     - **WiMax**
         
         
-        ![Imagen tomada de wikipedia, [https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg](https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg) ](https://upload.wikimedia.org/wikipedia/commons/d/db/Alvarion_CPE.jpg)
+        ![Equipo CPE WiMAX Alvarion](https://upload.wikimedia.org/wikipedia/commons/d/db/Alvarion_CPE.jpg)
         
-        Imagen tomada de wikipedia, [https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg](https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg) 
+        *Imagen: [Equipo CPE WiMAX Alvarion](https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg) - Wikipedia* 
         
-        Lo primero que necesitas es contactar con una empresa que ofrezca estos servicios y que tenga un [repetidor](https://www.notion.so/36208321934045179a1bd4fef5a01720?pvs=21) cerca de tu casa para poder enviarte la señal de internet. Posteriormente, tienes que poner una antena en la fachada de tu casa. Esta antena tendrá que apuntar directamente al repetidor de la empresa que te va a dar el servicio o a un punto de conexión intermedio que se utilice para salvar los obstáculos que se interpongan entre tu antena y su repetidor. La instalación de la antena la hará la propia compañía.
+        Lo primero que necesitas es contactar con una empresa que ofrezca estos servicios y que tenga un [repetidor](es/glossary/modem-router-o-enrutador-modem-or-router-conceptorio.md) cerca de tu casa para poder enviarte la señal de internet. Posteriormente, tienes que poner una antena en la fachada de tu casa. Esta antena tendrá que apuntar directamente al repetidor de la empresa que te va a dar el servicio o a un punto de conexión intermedio que se utilice para salvar los obstáculos que se interpongan entre tu antena y su repetidor. La instalación de la antena la hará la propia compañía.
         
     - **Starlink**
         
         
-        ![Imagen tomada de Starlink, [https://www.starlink.com/es/specifications](https://www.starlink.com/es/specifications) ](https://api.starlink.com/public-files/Starlink_StandardActuated_500x500.png)
+        ![Antena Starlink Standard Actuated](https://api.starlink.com/public-files/Starlink_StandardActuated_500x500.png)
         
-        Imagen tomada de Starlink, [https://www.starlink.com/es/specifications](https://www.starlink.com/es/specifications) 
+        *Imagen: [Antena Starlink Standard Actuated](https://www.starlink.com/es/specifications) - Starlink* 
         
         Starlink es el proyecto de Internet por satélite de Elon Musk. Se trata de un internet satelital particular que facilita las conexiones especialmente en las zonas rurales. La compañía se considera la primera y más grande constelación de satélites del mundo que utiliza una órbita terrestre baja para ofrecer Internet satelital de banda ancha, alta velocidad y baja latencia, la cual permite ver contenido por streaming, jugar online, hacer videollamadas y más.
         Para ponerlo en funcionamiento, debes comprar un kit la antena que deberá colocarse en el exterior de tu casa y que se orienta automáticamente para establecer conexión en cuestión de minutos, siempre que se tenga una vista despejada del cielo.
@@ -119,14 +103,14 @@ Ya tenemos una introducción de las opciones disponibles, ahora podemos pasar al
     **Ventajas**
     
     - **Cobertura global:** Esto significa que las personas que viven en regiones apartadas o en zonas rurales pueden acceder a Internet de manera confiable.
-    - **Acceso rápido:** Más rápido que los [servicios DSL](https://www.notion.so/41ffd5a18b5d4bf7a415c5a897d65634?pvs=21) y de acceso telefónico con velocidades de hasta 25 Mbps y 100 Mbps. Si bien el internet satelital solía tener una reputación de ser lento, en la actualidad es posible disfrutar de velocidades comparables a las conexiones terrestres.
+    - **Acceso rápido:** Más rápido que los [servicios DSL](es/solve/como-saber-que-tipo-de-senal-de-internet-tienes-solutions-db.md) y de acceso telefónico con velocidades de hasta 25 Mbps y 100 Mbps. Si bien el internet satelital solía tener una reputación de ser lento, en la actualidad es posible disfrutar de velocidades comparables a las conexiones terrestres.
     - **Conectividad constante:** Una de las ventajas más destacadas del la antena parabólica es su capacidad para proporcionar una conexión constante y estable. A diferencia de las conexiones terrestres que pueden verse afectadas por interrupciones en la infraestructura o por condiciones climáticas adversas, el internet satelital no depende de cables físicos y se basa en satélites en órbita para la transmisión de datos. Esto garantiza una conexión confiable y continua, incluso en áreas propensas a desastres naturales.
     - **Alta flexibilidad y movilidad:** El internet satelital también ofrece flexibilidad y movilidad. Puedes tener acceso a Internet desde cualquier lugar cubierto por la señal del satélite, lo que lo convierte en una opción ideal para personas que viajan con frecuencia, trabajadores remotos o aquellos que necesitan conectividad en áreas temporales o en expansión.
     - **No necesita de un servicio telefónico residencial:** No es un requisito tener línea telefónica para acceder a este servicio de Internet.
     
     **Desventajas**
     
-    - **Alta** [latencia:](/latencia-latency-conceptorio) Una de las principales desventajas de la antena parabólica es la latencia, es decir, el tiempo que tarda la señal en viajar desde el satélite hasta la Tierra. Debido a la distancia que debe recorrer la señal, la latencia puede ser mayor en comparación con las conexiones terrestres. Esto puede afectar las actividades en tiempo real, como videoconferencias o juegos en línea, donde incluso pequeños retrasos pueden ser notables.
+    - **Alta** [latencia:](es/glossary/latencia-latency-conceptorio.md) Una de las principales desventajas de la antena parabólica es la latencia, es decir, el tiempo que tarda la señal en viajar desde el satélite hasta la Tierra. Debido a la distancia que debe recorrer la señal, la latencia puede ser mayor en comparación con las conexiones terrestres. Esto puede afectar las actividades en tiempo real, como videoconferencias o juegos en línea, donde incluso pequeños retrasos pueden ser notables.
     - **Alto costo:** El internet satelital tiende a ser más costoso en comparación con otras opciones de conectividad. Los precios de servicio son más altos que otros tipos de internet, esto debido a los costosos costos de equipo, operación y satélites.
     - **Condiciones del tiempo:** El buen funcionamiento del internet por satélite puede depender de buenas condiciones climáticas. Para el uso de la antena parabólica se necesita un cielo despejado. La estabilidad de la señal podría llegar a verse comprometida por la lluvia o las tormentas eléctricas.
     - **Limitaciones de datos:** Muchos proveedores de internet satelital aplican límites de datos mensuales en sus planes. Esto significa que los usuarios tienen una cantidad limitada de datos que pueden descargar y cargar durante un período determinado. Si se excede este límite, la velocidad puede reducirse o pueden aplicarse cargos adicionales.
@@ -134,9 +118,9 @@ Ya tenemos una introducción de las opciones disponibles, ahora podemos pasar al
     
     **Ventajas**
     
-    - **Alta fluidez y baja latencia:** Esto permite ener una conexión rápida y fluida con bajas [latencias](/latencia-latency-conceptorio).
+    - **Alta fluidez y baja latencia:** Esto permite tener una conexión rápida y fluida con bajas [latencias](es/glossary/latencia-latency-conceptorio.md).
     - **No necesita de un servicio telefónico residencial:** No es un requisito tener linea telefónica para acceder al servicio de Internet.
-    - **LLamadas por VoIP:** Habrá empresas que con la instalación de esta tecnología te permitirán realizar [llamadas VoIP](https://www.notion.so/d6bdea181db1494ead71d2bcd79c5d91?pvs=21) (es una tecnología que le permite realizar y recibir llamadas de voz a través de Internet).
+    - **LLamadas por VoIP:** Habrá empresas que con la instalación de esta tecnología te permitirán realizar llamadas VoIP (es una tecnología que le permite realizar y recibir llamadas de voz a través de Internet).
     
     **Desventajas**
     
@@ -172,9 +156,9 @@ Ya tenemos una introducción de las opciones disponibles, ahora podemos pasar al
     
     Antes que todo, define cuál será tu presupuesto, para esto puedes hacer las cuentas de cuántos días de trabajo estás dispuesto a invertir junto con tu comunidad para contratar este servicio. ¡No te endeudes por un plan de internet!
     
-    ![Maxi Gagliano,  [https://www.pexels.com/photo/close-up-photo-of-money-4636069/](https://www.pexels.com/photo/close-up-photo-of-money-4636069/)](How%20to%20buy%20a%20satellite%20antenna%202562bd68c5b680998e98e89ef2de943f/Untitled.png)
+    ![Money](assets/images/solv-buy-satelliteantenna/solv-buy-satelliteantenna-money.webp)
     
-    Maxi Gagliano,  [https://www.pexels.com/photo/close-up-photo-of-money-4636069/](https://www.pexels.com/photo/close-up-photo-of-money-4636069/)
+    *Foto: [Maxi Gagliano](https://www.pexels.com/photo/close-up-photo-of-money-4636069/) - Pexels*
     
     - **Confiabilidad**
     
@@ -203,39 +187,17 @@ Puedes tener en cuenta los siguientes criterios y pensarlos en función de las p
 
 ## Soluciones recomendadas
 
-- [**Haz una colecta para pagar internet comunitario**](/haz-una-colecta-para-pagar-internet-comunitario-solutions-db) | [**Look for funding to pay for community internet**](/look-for-funding-to-pay-for-community-internet-solutions-db)
-- [**¿Necesito comprar una antena 3G/4G? Cómo tomar la decisión**](/necesito-comprar-una-antena-3g-4g-como-tomar-la-decision-solutions-db) | [**Do I need to buy a 3G/4G antenna? How to make the decision**](/do-i-need-to-buy-a-3g-4g-antenna-how-to-make-the-decision-solutions-db)
-- [¿Qué Internet satelital elegir, según mis necesidades? ](/que-internet-satelital-elegir-segun-mis-necesidades-solutions-db) | [Which satellite Internet to choose, according to my needs?](/which-satellite-internet-to-choose-according-to-my-needs-solutions-db)
-- [¿Tu comunidad necesita apoyo económico para conectarse a Internet? ](/tu-comunidad-necesita-apoyo-economico-para-conectarse-a-internet-solutions-db) | [Does your community need financial support to connect to the Internet? ](/does-your-community-need-financial-support-to-connect-to-the-internet-solutions-db)
+- [**Haz una colecta para pagar internet comunitario**](es/solve/haz-una-colecta-para-pagar-internet-comunitario-solutions-db) | [**Look for funding to pay for community internet**](en/solve/look-for-funding-to-pay-for-community-internet-solutions-db)
+- [**¿Necesito comprar una antena 3G/4G? Cómo tomar la decisión**](es/solve//necesito-comprar-una-antena-3g-4g-como-tomar-la-decision-solutions-db) | [**Do I need to buy a 3G/4G antenna? How to make the decision**](es/solve/do-i-need-to-buy-a-3g-4g-antenna-how-to-make-the-decision-solutions-db)
+- [¿Qué Internet satelital elegir, según mis necesidades? ](es/solve/que-internet-satelital-elegir-segun-mis-necesidades-solutions-db) | [Which satellite Internet to choose, according to my needs?](en/solve/which-satellite-internet-to-choose-according-to-my-needs-solutions-db)
+- [¿Tu comunidad necesita apoyo económico para conectarse a Internet? ](es/solve/tu-comunidad-necesita-apoyo-economico-para-conectarse-a-internet-solutions-db) | [Does your community need financial support to connect to the Internet? ](en/solve/does-your-community-need-financial-support-to-connect-to-the-internet-solutions-db)
 
 ## Referencias
 
-- [https://ibred.es/pros-y-contras-de-conectarse-a-internet-wimax-o-satelite/](https://ibred.es/pros-y-contras-de-conectarse-a-internet-wimax-o-satelite/)
-- [https://www.xataka.com/basics/wimax-que-como-funciona](https://www.xataka.com/basics/wimax-que-como-funciona)
-- [https://www.lafm.com.co/tecnologia/starlink-el-internet-de-elon-musk-cuanto-cuesta-y-como-comprarlo-en-colombia#:~:text=Así las cosas%2C lo mejor,Starlink en su página web.&text=Directamente en la página%2C el,en total 2.299.600 pesos](https://www.lafm.com.co/tecnologia/starlink-el-internet-de-elon-musk-cuanto-cuesta-y-como-comprarlo-en-colombia#:~:text=Así las cosas, lo mejor,Starlink en su página web.&text=Directamente en la página, el,en total 2.299.600 pesos).
-- [https://codigoespagueti.com/noticias/tecnologia/starlink-ventajas-y-desventajas-del-servicio-de-internet-de-elon-musk/](https://codigoespagueti.com/noticias/tecnologia/starlink-ventajas-y-desventajas-del-servicio-de-internet-de-elon-musk/)
-- [https://www.prensalibre.com/vida/tecnologia/starlink-ventajas-y-desventajas-del-servicio-de-internet-satelital-de-spacex-compania-de-elon-musk/](https://www.prensalibre.com/vida/tecnologia/starlink-ventajas-y-desventajas-del-servicio-de-internet-satelital-de-spacex-compania-de-elon-musk/)
+- [Ibred](https://ibred.es/pros-y-contras-de-conectarse-a-internet-wimax-o-satelite/)
+- [Xataka](https://www.xataka.com/basics/wimax-que-como-funciona)
+- [Lafm](https://www.lafm.com.co/sociedad/starlink-internet-de-elon-musk-como-comprarlo-en-colombia-320194#:~:text=As%C3%AD%20las%20cosas%2C%20lo%20mejor,Starlink%20en%20su%20p%C3%A1gina%20web.&text=Directamente%20en%20la%20p%C3%A1gina%2C%20el,en%20total%202.299.600%20pesos).
+- [Codigoespagueti](https://codigoespagueti.com/noticias/tecnologia/starlink-ventajas-y-desventajas-del-servicio-de-internet-de-elon-musk/)
+- [Prensalibre](https://www.prensalibre.com/vida/tecnologia/starlink-ventajas-y-desventajas-del-servicio-de-internet-satelital-de-spacex-compania-de-elon-musk/)
 
 ---
-
-[https://notionreactions.com/embed/A3WRx4f6lz4IdzU3LxOt](https://notionreactions.com/embed/A3WRx4f6lz4IdzU3LxOt)
-
----
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)

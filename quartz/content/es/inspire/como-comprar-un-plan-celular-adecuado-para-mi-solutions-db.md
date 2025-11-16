@@ -238,11 +238,11 @@ Actualmente, en Colombia, puedes hacer **“portabilidad”,** es decir, pasarte
 
 Hay un pequeña oferta disponible en operadores pequeños, estos son planes prepago con vigencias largas. 
 
-Yo, que vivo en Bogotá, estoy evaluando cambiarme a Móvil Éxito. Actualmente tengo un plan pospago en WOM en el que **pago $40,000 COP**, esto me da derecho a **60 Gb y minutos ilimitados** ¡esto es un montón! Inicialmente, me pasé a WOM porque, haciendo portabilidad, me daban los **tres primeros meses gratis, más 20Gb** y me **cobraban $35,000 COP.** Ahora que ando en Bogotá y trabajo desde casa y oficina, tengo internet disponible desde estos lugares. Estuve revisando opciones mientras escribía esta solución y vi que Móvil Éxito ofrece los suientes planes prepago:
+Yo, que vivo en Bogotá, estoy evaluando cambiarme a Móvil Éxito. Actualmente tengo un plan pospago en WOM en el que **pago \$40,000 COP**, esto me da derecho a **60 Gb y minutos ilimitados** ¡esto es un montón! Inicialmente, me pasé a WOM porque, haciendo portabilidad, me daban los **tres primeros meses gratis, más 20Gb** y me **cobraban \$35,000 COP.** Ahora que ando en Bogotá y trabajo desde casa y oficina, tengo internet disponible desde estos lugares. Estuve revisando opciones mientras escribía esta solución y vi que Móvil Éxito ofrece los suientes planes prepago:
 
 <img src="/assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-800w.webp" alt="Untitled" srcset="/assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-400w.webp 400w, /assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-800w.webp 800w, /assets\images\How to buy a satellite antenna 2562bd68c5b680998e98e89ef2de943f\Untitled-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
 
-Al mes, mi consumo no supera los 5 Gb y hago, por mucho, 30 llamadas al mes. Por esta razón el primer plan me saldría a **$13,000 COP, ¡Menos de la tercera parte de lo que pago ahora!** Eso si, tengo que hacer el pago de todo el año de una sola vez, pero no estoy atado a ningún tipo de contrato. 
+Al mes, mi consumo no supera los 5 Gb y hago, por mucho, 30 llamadas al mes. Por esta razón el primer plan me saldría a **\$13,000 COP, ¡Menos de la tercera parte de lo que pago ahora!** Eso si, tengo que hacer el pago de todo el año de una sola vez, pero no estoy atado a ningún tipo de contrato. 
 
 ## **¿Cuánto es suficiente?**
 

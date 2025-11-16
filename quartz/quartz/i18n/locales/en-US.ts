@@ -32,6 +32,10 @@ export default {
     readerMode: {
       title: "Reader mode",
     },
+    download: {
+      title: "Download page",
+      ariaLabel: "Download this page as PDF",
+    },
     explorer: {
       title: "Explorer",
     },

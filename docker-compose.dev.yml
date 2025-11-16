@@ -9,8 +9,10 @@ services:
     container_name: voltaje-dev
     hostname: voltaje-dev
     ports:
-      - "8080:8080"  # Quartz dev server
+      - "8080:8080"  # Quartz dev server (puerto principal)
+      - "8082:8082"  # Quartz dev server (puerto alternativo si 8080 está ocupado)
       - "8081:3000"  # Preview alternativo (puertos 3000-3001 reservados en Windows)
+      - "3001:3001"  # WebSocket server para hot-reload
     volumes:
       # Montar todo el proyecto con cache optimizado
       - .:/workspace:cached
@@ -25,16 +27,11 @@ services:
       - NPM_CONFIG_LOGLEVEL=info
     working_dir: /workspace/quartz
     entrypoint: []  # Sobrescribir entrypoint de la imagen base
-    command: npx quartz build --serve
+    command: tail -f /dev/null  # Mantener contenedor vivo sin iniciar servidor
     stdin_open: true
     tty: true
     restart: unless-stopped
-    healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:8080"]
-      interval: 30s
-      timeout: 10s
-      retries: 3
-      start_period: 40s
+    # Healthcheck deshabilitado - el servidor se inicia manualmente
     networks:
       - voltaje-network
 

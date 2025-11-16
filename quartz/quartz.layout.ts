@@ -9,7 +9,6 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "SOLE Colombia": "https://www.solecolombia.org/",
-      "Internet Society Foundation": "https://www.isocfoundation.org/",
       "GitHub": "https://github.com/SOLE-Colombia/voltaje",
     },
   }),
@@ -36,6 +35,7 @@ export const defaultContentPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
+        { Component: Component.DownloadButton() },
         { Component: Component.ReaderMode() },
       ],
     }),
@@ -125,6 +125,7 @@ export const defaultListPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
+        { Component: Component.DownloadButton() },
       ],
     }),
     Component.Explorer({
