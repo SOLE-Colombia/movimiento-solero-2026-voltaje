@@ -78,7 +78,7 @@ En SOLE Voltaje hablamos desde apoyar a la gente a aclarar la implicación étic
     Ahora que has decidido si comprar un celular, haré  una introducción tomando mi caso como ejemplo: 
     
     
-💡 A inicios de 2024 boté mi celular al bajarme de un taxi, por mis trabajos y contacto con mi familiar y amigos me es importante tener un celular. Hace tiempo decidí que no voy a invertir más de $ 1’000,000 COP en esta herramienta. Desde hace unos 5 años conocí una marca nueva que estaba emergiendo manejaba buenos precios y tenía muy buenas referencias de amigos y usuarios en internet, esta marca es Xiaomi, mis últimos dos celulares habían sido de esta marca, cada uno valió alrededor de $ 700,000 COP. Sin embargo, busque por internet referencias y vi que hay una marca nueva que esta llegando y es económica, Tecno, mire varias referencias y vi que es la marca más vendida actualmente por mercado libre, así que busque un celular con características similares a los anteriores, 250 Gb de memoria interna, un procesador decente, una batería de más de 4000 mA/h, una pantalla grande y al menos 8 Gb de RAM. Estas características son compatibles con mi uso laboral y personal, no tomo fotos profesionales, ni tampoco lo buscaba para jugar videojuegos. Finalmente encontré un celular de esta marca por $ 475,000 COP, este celular que compré fue un Tecno Spark 20 Dual Sim de 256 Gb. Hasta el momento puedo decir que ha sido una ¡Excelente compra!
+💡 A inicios de 2024 boté mi celular al bajarme de un taxi, por mis trabajos y contacto con mi familiar y amigos me es importante tener un celular. Hace tiempo decidí que no voy a invertir más de \$1´000.000 COP  en esta herramienta. Desde hace unos 5 años conocí una marca nueva que estaba emergiendo manejaba buenos precios y tenía muy buenas referencias de amigos y usuarios en internet, esta marca es Xiaomi, mis últimos dos celulares habían sido de esta marca, cada uno valió alrededor de \$ 700,000 COP. Sin embargo, busque por internet referencias y vi que hay una marca nueva que esta llegando y es económica, Tecno, mire varias referencias y vi que es la marca más vendida actualmente por mercado libre, así que busque un celular con características similares a los anteriores, 250 Gb de memoria interna, un procesador decente, una batería de más de 4000 mA/h, una pantalla grande y al menos 8 Gb de RAM. Estas características son compatibles con mi uso laboral y personal, no tomo fotos profesionales, ni tampoco lo buscaba para jugar videojuegos. Finalmente encontré un celular de esta marca por $ 475,000 COP, este celular que compré fue un Tecno Spark 20 Dual Sim de 256 Gb. Hasta el momento puedo decir que ha sido una ¡Excelente compra!
 
     
   ![Solemodel](assets/images/solv-buy-cellphone/solv-buy-cellphone-solemodel.webp)
@@ -105,45 +105,44 @@ Una vez tengas claro lo anterior, podrás saber a qué características debes pr
 
      ![Pixelcompare](assets/images/solv-buy-cellphone/solv-buy-cellphone-pixelcompare.webp)
     
-    **Sensor y lentes**
+    - **Sensor y lentes**
 
-      Una buena cámara para celular debe tener un sensor de calidad, así como **varios lentes**. Esto último, de hecho, se ha convertido ya en un estándar. Al combinarse, permiten obtener mejores imágenes. Uno de los lentes más populares es el gran angular. Gracias a este se incorpora mucha más información a las fotografías y aporta un ángulo visual de hasta 120 grados, perfecta para fotos grupales o en interiores donde no hay mucho espacio.
+ Una buena cámara para celular debe tener un sensor de calidad, así como **varios lentes**. Esto último, de hecho, se ha convertido ya en un estándar. Al combinarse, permiten obtener mejores imágenes. Uno de los lentes más populares es el gran angular. Gracias a este se incorpora mucha más información a las fotografías y aporta un ángulo visual de hasta 120 grados, perfecta para fotos grupales o en interiores donde no hay mucho espacio.
     
-    ![Lens](assets/images/solv-buy-cellphone/solv-buy-cellphone-lens.jpg)
+![Lens](assets/images/solv-buy-cellphone/solv-buy-cellphone-lens.jpg)
     
-    **Apertura**
+**Apertura**
     
-    La apertura del lente será fundamental para una buena foto, esta característica **define que tanta luz puede captar la cámara.** Se identifica con la **letra f seguida de un número**, por ejemplo, f1.9 o f 2.0. Mientras menor sea este número, mayor será la cantidad de luz que captará la cámara. Por esto, **es importante que sea bajo**, pues con una mayor entrada de luz, las imágenes tendrán más detalle.
-    
-  ![Angle](assets/images/solv-buy-cellphone/solv-buy-cellphone-angle.webp)
+La apertura del lente será fundamental para una buena foto, esta característica **define que tanta luz puede captar la cámara.** Se identifica con la **letra f seguida de un número**, por ejemplo, f1.9 o f 2.0. Mientras menor sea este número, mayor será la cantidad de luz que captará la cámara. Por esto, **es importante que sea bajo**, pues con una mayor entrada de luz, las imágenes tendrán más detalle.
+      ![Angle](assets/images/solv-buy-cellphone/solv-buy-cellphone-angle.webp)
     
   
     
     
 - **Pantalla**
     
-    Una pantalla definirá si se nos cansan más o menos rápido los ojos, si veremos, o no, cierto grado de detalle o que tan rápido se consumirá la batería.
+Una pantalla definirá si se nos cansan más o menos rápido los ojos, si veremos, o no, cierto grado de detalle o que tan rápido se consumirá la batería.
     
-    Cuando tienes claro que tu celular debe ser un dispositivo que usa de manera grupal, como pasa cuando hacemos SOLE, esta característica cobra importancia, puesto que no es tan fácil que varias personas lean en una pantalla pequeña.
-    
-    **Tamaño de pantalla**
-    
-    El tamaño de las pantallas de celular ha aumentado con el tiempo, aunque de unos años para acá se han mantenido sin crecer mucho, ya que, pierden su función de portabilidad en el bolsillo. Podríamos decir que la mayoría de los celulares están entre 3.5” y 6” (esto mide la diagonal de esta, es decir de una esquina superior a la esquina inferior contraria). Realmente acá si depender de tu gusto, ¿quieres una pantalla grande que te permita ver un vídeo desde lejos entre varios o prefieres una pequeña para que tu celular no llame tanta la atención?
+Cuando tienes claro que tu celular debe ser un dispositivo que usa de manera grupal, como pasa cuando hacemos SOLE, esta característica cobra importancia, puesto que no es tan fácil que varias personas lean en una pantalla pequeña.
+
+
+ **Tamaño de pantalla**
+
+
+ El tamaño de las pantallas de celular ha aumentado con el tiempo, aunque de unos años para acá se han mantenido sin crecer mucho, ya que, pierden su función de portabilidad en el bolsillo. Podríamos decir que la mayoría de los celulares están entre 3.5” y 6” (esto mide la diagonal de esta, es decir de una esquina superior a la esquina inferior contraria). Realmente acá si depender de tu gusto, ¿quieres una pantalla grande que te permita ver un vídeo desde lejos entre varios o prefieres una pequeña para que tu celular no llame tanta la atención?
     
   ![Screenwidth](assets/images/solv-buy-cellphone/solv-buy-cellphone-screenwidth.png)
+  
+  
+**Tecnología de la pantalla**
     
-    **Tecnología de la pantalla**
-    
-    La **tecnología Full HD** es más reciente que la **HD** y el número de píxeles es mayor frente al HD que funciona con **1.280 x 720 píxeles.** El sistema Full HD da un aspecto mucho más real a la imagen. Esta última tecnología sólo esta llegando en los últimos celulares con paneles grandes, ya que no tiene mucho sentido alta resolución en pantallas pequeñas.
-    
-    **Tipo de pantalla**
-    
-    Hay diferentes tipos de pantalla, pero en el mercado actual dos son las más populares: Las de tecnología LCD, también conocidas como inorgánicas, y las de tecnologías OLED, conocidas como orgánicas.
-    
-    - **LCD:** Son las pantallas de cristal líquido retroiluminado que suelen cubrir todo el panel. En el pasado eran las más populares, pero cada vez se producen en menor cantidad. Al ser retroiluminados consumirán más energía, pero por esta misma razón se ven bien bajo la luz directa del sol.
-    - **OLED:**  Estas pantallas se diferencian de las LCD porque sus materiales le permiten generar luz por si misma cuando se le aplica electricidad, esto les permite apagar o prender cada píxel de manera independiente, por lo que **consumen menos energía.** Además, terminan siendo, **más brillantes y teniendo una mejor definición del color negro.**
-    
-    ![Screensize](/assets/images/solv-buy-cellphone/solv-buy-cellphone-screensize.webp)
+La **tecnología Full HD** es más reciente que la **HD** y el número de píxeles es mayor frente al HD que funciona con **1.280 x 720 píxeles.** El sistema Full HD da un aspecto mucho más real a la imagen. Esta última tecnología sólo esta llegando en los últimos celulares con paneles grandes, ya que no tiene mucho sentido alta resolución en pantallas pequeñas. 
+**Tipo de pantalla**
+Hay diferentes tipos de pantalla, pero en el mercado actual dos son las más populares: Las de tecnología LCD, también conocidas como inorgánicas, y las de tecnologías OLED, conocidas como orgánicas.
+- **LCD:** Son las pantallas de cristal líquido retroiluminado que suelen cubrir todo el panel. En el pasado eran las más populares, pero cada vez se producen en menor cantidad. Al ser retroiluminados consumirán más energía, pero por esta misma razón se ven bien bajo la luz directa del sol.
+-  - **OLED:**  Estas pantallas se diferencian de las LCD porque sus materiales le permiten generar luz por si misma cuando se le aplica electricidad, esto les permite apagar o prender cada píxel de manera independiente, por lo que **consumen menos energía.** Además, terminan siendo, **más brillantes y teniendo una mejor definición del color negro.**
+  
+   ![Screensize](/assets/images/solv-buy-cellphone/solv-buy-cellphone-screensize.webp)
     
 - **Almacenamiento interno**
     

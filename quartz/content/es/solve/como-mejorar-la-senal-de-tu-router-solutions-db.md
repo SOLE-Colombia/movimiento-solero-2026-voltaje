@@ -7,7 +7,7 @@ aspectos:
 - electricidad
 - dispositivos
 - espacio
-fecha: '2025-10-11'
+fecha: '2025-09-26'
 ---
 
 # ¿Cómo mejorar la señal de tu router?
@@ -30,16 +30,6 @@ recursos/dinero: 0: Sin dinero
 recursos/personas: 2: Entre 2 y 3 personas
 recursos/tiempo: 1: Horas
 2025-prueba: No
-
-*Descarga esta solución para usarla desconectado*
-
-[Como_mejorar_la_seal_de_tu_router_20250729.pdf](/downloads/como-mejorar-la-seal-de-tu-router-20250729.pdf)
-
-*Download this solution to use it disconnected*
-
-[How_to_improve_your_router_signal_20250729.pdf](/downloads/how-to-improve-your-router-signal-20250729.pdf)
-
-### índice
 
 # **Algunos consejos para sacarle el mayor provecho al router**
 

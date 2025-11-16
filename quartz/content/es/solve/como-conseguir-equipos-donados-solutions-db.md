@@ -4,10 +4,10 @@ lang: es
 slug: como-conseguir-equipos-donados-solutions-db
 aspectos:
 - dispositivos
-fecha: '2025-10-11'
+fecha: '2024-10-25'
 ---
 
-# ¿Cómo conseguir equipos donados?
+
 
 Created: 25 de octubre de 2024 13:36
 Autor: Sanjay
@@ -18,25 +18,9 @@ Ayudantes: Nadie
 Tardas: Horas
 2025-prueba: No
 
-### índice
+
 
 # Darle un segundo uso a equipos que, de otra manera serían descartados
-
-## **Audiolectura de la solución**
-
-Puedes escuchar esta audiolectura mientras desarrollas esta solución.
-
-[AUDIOLECTURA PARA LA SOLUCIÓN CÓMO CONSEGUIR EQUIPOS DONADOS.mp3](¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9/AUDIOLECTURA_PARA_LA_SOLUCIN_CMO_CONSEGUIR_EQUIPOS_DONADOS.mp3)
-
-*Descarga esta solución para usarla desconectado*
-
-[Como_conseguir_equipos_donados_20250729.pdf](/downloads/como-conseguir-equipos-donados-20250729.pdf)
-
-*Download this solution to use it disconnected*
-
-[How_to_get_donated_equipment_20250729.pdf](/downloads/how-to-get-donated-equipment-20250729.pdf)
-
-## **Bienvenida**
 
 Hola, ¿estás ahí? Mi nombre es Mateo y te acompañaré en el desarrollo de esta solución. Si estás leyendo, escuchando o viendo esto es porque estás interesado/a o tienes curiosidad en saber cómo conseguir equipos donados. Si es así, estás en el lugar indicado.
 
@@ -62,31 +46,34 @@ Si bien esta solución no necesita dinero para la compra de equipos, ten en cuen
 
 Esta solución está compuesta por tres pasos en los que te contaremos todo lo que sabemos y hemos aprendido en la Fundación SOLE Colombia sobre cómo conseguir equipos donados. Todos los casos son diferentes, por lo que es importante que estés dispuesto/a a adaptar estos pasos dependiendo de las dificultades que encuentres en el camino. 
 
-- **Momento 1: Busca posibles donantes**
+
+![Búsqueda de equipos donados](assets/images/solv-donatedequipment/solv-donatedequipment-search.webp)
+
+*Foto: veerasak Piyawatanakul - [Pexels](https://www.pexels.com/es-es/foto/mujer-con-portatil-negro-mientras-se-inclina-sobre-la-mesa-de-madera-marron-1143513/)*
+
+
+Por lo general, los donantes de equipos son empresas con gran capacidad económica, nómina e infraestructura. Piensa en las empresas de telefonía o computación, universidades o averigua sobre los patrocinadores de los proyectos sociales en tu región. Ahora bien, te sugerimos empezar por las empresas pequeñas. Para esto tienes dos opciones:
+
+
+**Opción 1. Busqueda directa:** puedes buscar empresas o personas que donen equipos a través de internet, redes sociales, consultando con tus redes de contacto o círculos cercanos.
     
-    <img src="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-veerasak-piyawatanakul-1143513-800w.webp" alt="pexels-veerasak-piyawatanakul-1143513.jpg" srcset="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-veerasak-piyawatanakul-1143513-400w.webp 400w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-veerasak-piyawatanakul-1143513-800w.webp 800w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-veerasak-piyawatanakul-1143513-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+*Para la opción 1, haz una lista de las empresas y las formas que tienes para contactarlas, puede ser a través de las personas que manejan las finanzas de la organización o de los que manejan los equipos de cómputo, lo importante es conseguir un contacto directo de la empresa donante con el que puedas hablar en persona, enviarle un correo, una llamada o una carta. Si le envías una carta o un correo asegúrate que la leerá y, en caso de no ser el responsable de tomar esa decisión, asegúrate que la redireccionará a la persona que necesitan.*
+
+**Opción 2. Difusión:** puedes escribir un mensaje o anuncio en redes sociales haciendo explícito que: 1. necesitas equipos donados en buen estado; 2. tienes un proyecto comunitario en el cual muchas personas estarán beneficiadas; 3. escribe el número al que pueden contactarte; 4. Deja claridad de quién eres y procura que el mensaje despierte empatía y confianza. Un ejemplo de mensaje puede ser: 
     
-    Foto de veerasak Piyawatanakul: [https://www.pexels.com/es-es/foto/mujer-con-portatil-negro-mientras-se-inclina-sobre-la-mesa-de-madera-marron-1143513/](https://www.pexels.com/es-es/foto/mujer-con-portatil-negro-mientras-se-inclina-sobre-la-mesa-de-madera-marron-1143513/)
+* “¡Hola a todos y todas! Mi nombre es Amaranta y hago parte de la FUNDACIÓN XYZ ¿Alguien  conoce organizaciones que estén donando equipos de cómputo en buen estado? Estamos buscando apoyo para implementar un proyecto con adultos mayores en zonas rurales de Colombia. Cualquier información o contacto sería de gran ayuda. ¡Gracias! 
+
+Mi número de contacto es 123456789”* 
     
-    Por lo general, los donantes de equipos son empresas con gran capacidad económica, nómina e infraestructura. Piensa en las empresas de telefonía o computación, universidades o averigua sobre los patrocinadores de los proyectos sociales en tu región. Ahora bien, te sugerimos empezar por las empresas pequeñas. Para esto tienes dos opciones:
-    **Opción 1. Busqueda directa:** puedes buscar empresas o personas que donen equipos a través de internet, redes sociales, consultando con tus redes de contacto o círculos cercanos.
+Te sugerimos realizar las dos opciones al tiempo, esto ampliará las posibilidades que tienes para encontrar una empresa donante. 
     
-    *Para la opción 1, haz una lista de las empresas y las formas que tienes para contactarlas, puede ser a través de las personas que manejan las finanzas de la organización o de los que manejan los equipos de cómputo, lo importante es conseguir un contacto directo de la empresa donante con el que puedas hablar en persona, enviarle un correo, una llamada o una carta. Si le envías una carta o un correo asegúrate que la leerá y, en caso de no ser el responsable de tomar esa decisión, asegúrate que la redireccionará a la persona que necesitan.*
-    
-    **Opción 2. Difusión:** puedes escribir un mensaje o anuncio en redes sociales haciendo explícito que: 1. necesitas equipos donados en buen estado; 2. tienes un proyecto comunitario en el cual muchas personas estarán beneficiadas; 3. escribe el número al que pueden contactarte; 4. Deja claridad de quién eres y procura que el mensaje despierte empatía y confianza. Un ejemplo de mensaje puede ser: 
-    
-    *“¡Hola a todos y todas! Mi nombre es Amaranta y hago parte de la FUNDACIÓN XYZ ¿Alguien  conoce organizaciones que estén donando equipos de cómputo en buen estado? Estamos buscando apoyo para implementar un proyecto con adultos mayores en zonas rurales de Colombia. Cualquier información o contacto sería de gran ayuda. ¡Gracias! 
-    Mi número de contacto es 123456789”* 
-    
-    Te sugerimos realizar las dos opciones al tiempo, esto ampliará las posibilidades que tienes para encontrar una empresa donante. 
-    
-    ***¡Ánimo!** En este momento es clave que seas persistente. Esto no tiene una fórmula mágica, es cuestión de tocar puertas y abrir caminos. En todo caso, si has leído o escuchado hasta aquí es porque ya tienes la voluntad de hacerlo y eso lo admiro.* 
+***¡Ánimo!** En este momento es clave que seas persistente. Esto no tiene una fórmula mágica, es cuestión de tocar puertas y abrir caminos. En todo caso, si has leído o escuchado hasta aquí es porque ya tienes la voluntad de hacerlo y eso lo admiro.* 
     
 - **Momento 2: Encuentra a la empresa donante e identifica el modelo de relación**
     
-    <img src="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-fauxels-3184416-800w.webp" alt="pexels-fauxels-3184416.jpg" srcset="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-fauxels-3184416-400w.webp 400w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-fauxels-3184416-800w.webp 800w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-fauxels-3184416-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Agree](assets/images/solv-donatedequipment/solv-donatedequipment-agree.webp)
     
-    Foto de fauxels: [https://www.pexels.com/es-es/foto/foto-de-personas-haciendo-apretones-de-manos-3184416/](https://www.pexels.com/es-es/foto/foto-de-personas-haciendo-apretones-de-manos-3184416/)
+    Foto de Fauxels: [Pexels](https://www.pexels.com/es-es/foto/foto-de-personas-haciendo-apretones-de-manos-3184416/)
     
     Una vez hayas enviado las solicitudes solo te queda esperar e insistir continuamente para recibir respuesta. No dejes enfriar el contacto, si pasa más de una semana sin tener alguna respuesta, vuelve a escribir o ve en persona si es posible. Cuando logres una respuesta afirmativa, ten claridad acerca de cuál es el modelo en el que recibirás los equipos: no todas las empresas donan sus equipos, algunas deciden regalarlos, por lo que hay dos tipos de modelos: 
     
@@ -101,13 +88,13 @@ Esta solución está compuesta por tres pasos en los que te contaremos todo lo q
 - **Momento 3: Recepción de los equipos y construcción de relación**
     
     
-    <img src="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-ketut-subiyanto-4246186-800w.webp" alt="pexels-ketut-subiyanto-4246186.jpg" srcset="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-ketut-subiyanto-4246186-400w.webp 400w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-ketut-subiyanto-4246186-800w.webp 800w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-ketut-subiyanto-4246186-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+  ![Recepción de equipos donados](assets/images/solv-donatedequipment/solv-donatedequipment-recieve.webp)
     
-    Foto de Ketut Subiyanto: [https://www.pexels.com/es-es/foto/pareja-amor-relacion-casa-4246186/](https://www.pexels.com/es-es/foto/pareja-amor-relacion-casa-4246186/)
+    *Foto: Ketut Subiyanto - [Pexels](https://www.pexels.com/es-es/foto/pareja-amor-relacion-casa-4246186/)*
     
-    <img src="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-cytonn-photography-955393-800w.webp" alt="pexels-cytonn-photography-955393.jpg" srcset="/assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-cytonn-photography-955393-400w.webp 400w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-cytonn-photography-955393-800w.webp 800w, /assets\images\¿Cómo conseguir equipos donados 12a2bd68c5b680b1955cc56850ba40a9\pexels-cytonn-photography-955393-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Firma de documentos](assets/images/solv-donatedequipment/solv-donatedequipment-sign.webp)
     
-    Foto de Cytonn photography: [https://www.pexels.com/es-es/foto/persona-que-firma-el-papel-955393/](https://www.pexels.com/es-es/foto/persona-que-firma-el-papel-955393/)
+    *Foto: Cytonn photography - [Pexels](https://www.pexels.com/es-es/foto/persona-que-firma-el-papel-955393/)*
     
     Para la recepción de los equipos, en cualquiera de las dos modalidades, ten en cuenta que cada empresa o persona tiene su propio procedimiento. La entrega de los equipos puede ser un envío, puede que tengas que recogerlos o llegar a un acuerdo sobre el lugar de entrega con la empresa o persona que hará la donación. Después de la entrega, es importante saber qué tipo de relación quieres y puedes construir con ellos: 
     
@@ -127,8 +114,8 @@ Esta solución está compuesta por tres pasos en los que te contaremos todo lo q
     
     ### **7. Sugerencias**
     
-    - [Si quieres saber más, haz clic aquí para que puedas leer la nota de prensa que hizo el periódico El Tiempo en el 2016.](https://www.eltiempo.com/archivo/documento/CMS-16524282)
-    - [https://www.gestionandote.org/donacion-de-computadores-para-desarrollo-de-proyectos-sociales/](https://www.gestionandote.org/donacion-de-computadores-para-desarrollo-de-proyectos-sociales/)
+    - Si quieres saber más, haz clic [aquí](https://www.eltiempo.com/archivo/documento/CMS-16524282) para que puedas leer la nota de prensa que hizo el periódico El Tiempo en el 2016.
+    - [Donacion de computadores para desarrollo de proyectos sociales/](https://www.gestionandote.org/donacion-de-computadores-para-desarrollo-de-proyectos-sociales/)
 
 ## ¿Cómo saber si esta solución funciona?
 
@@ -140,28 +127,7 @@ Quizá esta relación sea de largo alcance, ¿te imaginas que cada año te puede
 
 ## Soluciones recomendadas
 
-- [¿Cómo compartir los computadores disponibles?](/como-compartir-los-computadores-disponibles-solutions-db) | [How to share available computers?](/how-to-share-available-computers-solutions-db)
-- [¿Cómo usar el juego para aprender a cuidar equipos en comunidad?](/como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-solutions-db) |[How to use the game to learn how to take care of equipment in community?](/how-to-use-the-game-to-learn-how-to-take-care-of-equipment-in-community-solutions-db)
-- [¿Tu comunidad necesita apoyo económico para conectarse a Internet? ](/tu-comunidad-necesita-apoyo-economico-para-conectarse-a-internet-solutions-db)  | [Does your community need financial support to connect to the Internet? ](/does-your-community-need-financial-support-to-connect-to-the-internet-solutions-db)
+- [¿Cómo compartir los computadores disponibles?](es/solve/como-compartir-los-computadores-disponibles-solutions-db) | [How to share available computers?](en/solve/how-to-share-available-computers-solutions-db)
+- [¿Cómo usar el juego para aprender a cuidar equipos en comunidad?](es/solve/como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-solutions-db) |[How to use the game to learn how to take care of equipment in community?](en/solve/how-to-use-the-game-to-learn-how-to-take-care-of-equipment-in-community-solutions-db)
+- [¿Tu comunidad necesita apoyo económico para conectarse a Internet? ](es/solve/tu-comunidad-necesita-apoyo-economico-para-conectarse-a-internet-solutions-db)  | [Does your community need financial support to connect to the Internet? ](en/solve/does-your-community-need-financial-support-to-connect-to-the-internet-solutions-db)
 
-[https://notionreactions.com/embed/4bQP0CA8NiUNuTarwcL8](https://notionreactions.com/embed/4bQP0CA8NiUNuTarwcL8)
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
-
----
