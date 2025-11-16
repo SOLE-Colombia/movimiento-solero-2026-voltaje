@@ -5,11 +5,16 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { i18n } from "../i18n"
 import { classNames } from "../util/lang"
 
+const fallbackLabels = {
+  title: "Descargar página",
+  ariaLabel: "Descargar esta página como PDF",
+}
+
 const DownloadButton: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
-  const translations = i18n(cfg.locale).components.download
-  
+  const translations = i18n(cfg.locale).components.download ?? fallbackLabels
+
   return (
-    <button 
+    <button
       class={classNames(displayClass, "download-button")}
       aria-label={translations.ariaLabel}
       title={translations.title}
@@ -32,7 +37,7 @@ const DownloadButton: QuartzComponent = ({ displayClass, cfg }: QuartzComponentP
   )
 }
 
-DownloadButton.beforeDOMLoaded = downloadScript
+DownloadButton.afterDOMLoaded = downloadScript
 DownloadButton.css = styles
 
 export default (() => DownloadButton) satisfies QuartzComponentConstructor

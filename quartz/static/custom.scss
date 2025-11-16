@@ -243,27 +243,6 @@
     padding: 10pt;
   }
 
-  /* Encabezado y pie de página para impresión */
-  @page {
-    margin: 2cm;
-    @top-center {
-      content: "SOLE Voltaje";
-      font-size: 10pt;
-      color: #666;
-    }
-    @bottom-center {
-      content: "Página " counter(page) " de " counter(pages);
-      font-size: 10pt;
-      color: #666;
-    }
-  }
-
-  /* Primera página sin encabezado */
-  @page:first {
-    @top-center {
-      content: "";
-    }
-  }
 }
 
 /* ================================

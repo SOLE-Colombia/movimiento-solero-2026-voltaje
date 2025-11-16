@@ -38,8 +38,8 @@ EXPOSE 8080
 # Directorio de trabajo para ejecutar Quartz
 WORKDIR /workspace/quartz
 
-# Comando por defecto (sin entrypoint)
-CMD ["npx", "quartz", "build", "--serve"]
+# Comando por defecto: mantener el contenedor vivo hasta que el usuario ejecute scripts manualmente
+CMD ["tail", "-f", "/dev/null"]
 
 
 

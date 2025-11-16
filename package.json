@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "SOLE Voltaje - Sistema de documentación con Quartz",
   "scripts": {
-    "dev:start": "docker compose -f docker-compose.dev.yml up -d && echo '✅ Contenedor iniciado. Usa: npm run dev:watch'",
-    "dev:watch": "docker compose -f docker-compose.dev.yml exec voltaje-dev sh -c 'npx quartz build --serve --watch'",
+    "dev:start": "docker compose -f docker-compose.dev.yml up -d && echo '✅ Contenedor iniciado. Usa: npm run watch'",
+    "watch": "bash scripts/watch.sh",
+    "dev:watch": "npm run watch",
     "dev:build": "docker compose -f docker-compose.dev.yml exec voltaje-dev npx quartz build",
     "dev:logs": "docker compose -f docker-compose.dev.yml logs -f voltaje-dev",
     "dev:shell": "docker compose -f docker-compose.dev.yml exec voltaje-dev sh",
@@ -13,8 +14,7 @@
     "build": "docker compose -f docker-compose.dev.yml build",
     "clean": "docker compose -f docker-compose.dev.yml down -v",
     "setup": "cd quartz && npm install",
-    "dev": "npm run dev:start && echo '💡 Ejecuta: npm run dev:watch en otra terminal para iniciar el servidor con hot-reload'",
-    "dev:watch:direct": "cd quartz && (PORT=8080; (nc -z localhost 8080 2>/dev/null && PORT=8082) || true; npx quartz build --serve --watch --port $PORT)"
+    "dev": "npm run dev:start && echo '💡 Ejecuta: npm run watch en otra terminal para iniciar el servidor con hot-reload'"
   },
   "keywords": ["quartz", "documentation", "sole", "voltaje"],
   "author": "SOLE Colombia",
