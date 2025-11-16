@@ -196,7 +196,7 @@ Puedes tener en cuenta los siguientes criterios y pensarlos en función de las p
 
 - [Ibred](https://ibred.es/pros-y-contras-de-conectarse-a-internet-wimax-o-satelite/)
 - [Xataka](https://www.xataka.com/basics/wimax-que-como-funciona)
-- [Lafm](https://www.lafm.com.co/tecnologia/starlink-el-internet-de-elon-musk-cuanto-cuesta-y-como-comprarlo-en-colombia#:~:text=Así las cosas, lo mejor,Starlink en su página web.&text=Directamente en la página, el,en total 2.299.600 pesos).
+- [Lafm](https://www.lafm.com.co/sociedad/starlink-internet-de-elon-musk-como-comprarlo-en-colombia-320194#:~:text=As%C3%AD%20las%20cosas%2C%20lo%20mejor,Starlink%20en%20su%20p%C3%A1gina%20web.&text=Directamente%20en%20la%20p%C3%A1gina%2C%20el,en%20total%202.299.600%20pesos).
 - [Codigoespagueti](https://codigoespagueti.com/noticias/tecnologia/starlink-ventajas-y-desventajas-del-servicio-de-internet-de-elon-musk/)
 - [Prensalibre](https://www.prensalibre.com/vida/tecnologia/starlink-ventajas-y-desventajas-del-servicio-de-internet-satelital-de-spacex-compania-de-elon-musk/)
 
