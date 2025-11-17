@@ -97,13 +97,13 @@ Esta solución tiene 3 momentos, pero no te preocupes, no estás solo/a, yo te a
     3. ¡Ya casi! Estamos muy cerca de terminar. Para este paso debes forrar tu pieza metálica por lado y lado con cinta transparente gruesa, esto te permitirá protegerla.
     4. Por último, con cinta transparente pega esta pieza metálica en la parte posterior derecha de tu celular (lugar en el que suele ubicarse la antena de tu celular) y protégela, preferiblemente, con el forro del celular que estás usando. *Si llegaste a este paso, te envío todas mis felicitaciones y espero que este viaje haya sido retador y emocionante.*
     
-    <img src="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_9_-_LNEAS_PERPENDICULARES-800w.webp" alt="PASO 9 - LÍNEAS PERPENDICULARES.jpeg" srcset="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_9_-_LNEAS_PERPENDICULARES-400w.webp 400w, /assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_9_-_LNEAS_PERPENDICULARES-800w.webp 800w, /assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_9_-_LNEAS_PERPENDICULARES-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![PASO 9 - LÍNEAS PERPENDICULARES](assets/images/solve-improvewithcan/solve-improvewithcan-lines.webp)
     
-    <img src="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_11_-_PROTEGE_TU_PIEZA_METLICA-800w.webp" alt="PASO 11 - PROTEGE TU PIEZA METÁLICA.jpeg" srcset="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_11_-_PROTEGE_TU_PIEZA_METLICA-400w.webp 400w, /assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_11_-_PROTEGE_TU_PIEZA_METLICA-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![PASO 11 - PROTEGE TU PIEZA METÁLICA](assets/images/solve-improvewithcan/solve-improvewithcan-linescut.webp)
     
     ![PASO 10 - CORTA LAS PESTAÑAS](assets/images/solve-improvewithcan/solve-improvewithcan-protect.webp)
     
-    <img src="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_12_-_COLOCA_LA_PIEZA_EN_TU_CELULAR-800w.webp" alt="PASO 12 - COLOCA LA PIEZA EN TU CELULAR.jpeg" srcset="/assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_12_-_COLOCA_LA_PIEZA_EN_TU_CELULAR-400w.webp 400w, /assets\images\¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472\PASO_12_-_COLOCA_LA_PIEZA_EN_TU_CELULAR-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![PASO 12 - COLOCA LA PIEZA EN TU CELULAR](assets/images/solve-improvewithcan/solve-improvewithcan-placeit.webp)
     
 
 ## **¿Cómo saber si esta solución funciona?**
@@ -124,47 +124,14 @@ Ampliar la señal de tu celular puede servirte para compartir internet con perso
 
 ## **Soluciones recomendadas**
 
-- [¿Cómo probar la velocidad de tu conexión a Internet?](/como-probar-la-velocidad-de-tu-conexion-a-internet-solutions-db) |
-- [¿Cómo compartir Internet desde mi celular?](/como-compartir-internet-desde-mi-celular-solutions-db) |[How to share Internet from my cell phone?](/how-to-share-internet-from-my-cell-phone-solutions-db)
-- [¿Cómo aprovechar mi ancho de banda?](/como-aprovechar-mi-ancho-de-banda-solutions-db) | [How make better use of my bandwidth?](/how-make-better-use-of-my-bandwidth-solutions-db)
+- [¿Cómo probar la velocidad de tu conexión a Internet?](es/solve/como-probar-la-velocidad-de-tu-conexion-a-internet-solutions-db) |
+- [¿Cómo compartir Internet desde mi celular?](es/solve/como-compartir-internet-desde-mi-celular-solutions-db) 
+- [¿Cómo aprovechar mi ancho de banda?](es/solve/como-aprovechar-mi-ancho-de-banda-solutions-db) 
 
 ## **Referencias**
 
-- [https://www.bbc.com/mundo/noticias-45122838](https://www.bbc.com/mundo/noticias-45122838)
-- [<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/PRgiR94pT_8" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/PRgiR94pT_8" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>)
+- [Bbc](https://www.bbc.com/mundo/noticias-45122838)
+- [Youtube](https://www.youtube.com/embed/PRgiR94pT_8)
+- [Youtube](https://www.youtube.com/embed/PRgiR94pT_8)
+  
 
-[https://notionreactions.com/embed/GpCGTb8VwcbjIhOT2MoM](https://notionreactions.com/embed/GpCGTb8VwcbjIhOT2MoM)
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)

@@ -6,10 +6,9 @@ aspectos:
 - señal
 - electricidad
 - personas
-fecha: '2025-10-11'
+fecha: '2025-11-6'
 ---
 
-# ¿Cómo saber qué tan buena es tu conexión a Internet?
 
 Created: 6 de noviembre de 2024 17:44
 Autor: Manuela
@@ -24,17 +23,7 @@ recursos/personas: 3: Más de 3 personas
 recursos/tiempo: 1: Horas
 2025-prueba: No
 
-*Download this solution to use it disconnected*
 
-[Como_saber_que_tan_buena_es_tu_conexion_a_Internet_20250825.pdf](/downloads/como-saber-que-tan-buena-es-tu-conexion-a-internet-20250825.pdf)
-
-### índice
-
-*Download this solution to use it disconnected*
-
-[How_do_you_know_how_good_your_Internet_connection_is_20250825.pdf](/downloads/how-do-you-know-how-good-your-internet-connection-is-20250825.pdf)
-
-## Bienvenida
 
 Hola, soy Manuela. Soy la cuentera de SOLE Colombia y, aunque no sé mucho de tecnología, he empezado a cogerle el gusto a cacharrear y aprendo muchas cosas que me sacan continuamente de apuros.
 
@@ -65,40 +54,40 @@ Al optimizar la señal, tendrás una conexión más rápida y estable para poder
 
 - **Paso 1: Toma tu celular y observa si tienes señal móvil**
     
-    Mira en una esquina superior de tu celular. Allí encontrarás unas barras de señal móvil: Si ves una o más barras, el teléfono está recibiendo señal y leyendo tu [tarjeta SIM](/tarjeta-sim-sim-card-conceptorio).
+    Mira en una esquina superior de tu celular. Allí encontrarás unas barras de señal móvil: Si ves una o más barras, el teléfono está recibiendo señal y leyendo tu [tarjeta SIM](es/glossary/tarjeta-sim-sim-card-conceptorio).
     
 - **Paso 2: ¿Qué tan buena es la conexión?**
-    - [ ]  No tengo barras de señal móvil
-    - [ ]  1 barrita de señal móvil
-    - [ ]  2 barritas de señal móvil
-    - [ ]  3 barritas de señal móvil
+  -  No tengo barras de señal móvil
+  -  1 barrita de señal móvil
+  -  2 barritas de señal móvil
+  -  3 barritas de señal móvil
 - **Paso 3: ¿Qué tipo de conexión móvil tienes?**
     
     Mira junto a las barras de señal móvil y verás el tipo de señal que tienes. Estas letras indican las velocidades y las tecnologías que utilizan los operadores para enviarte información.
     
 - **Tipos de conexión móvil y ¿para qué sirven?**
     
-    **G:** Abrevia una conexión [**GPRS**](../../Conceptorio 12a2bd68c5b6808baf3be5e67cddb488/Conceptorio 1624106bff984c4590342afeae3e5e0d/GPRS (Servicio General de Paquetes Vía Radio)%20GPRS%2025a2bd68c5b6806cb09bd0f9bba9c44e.md), **la más lenta de todas** las tecnologías. Es una red de [**segunda generación o 2G**](/red-2g-2g-net-conceptorio) es utilizada **para enviar mensajes de texto**.
+    **G:** Abrevia una conexión [**GPRS**](es/glossary/gprs-servicio-general-de-paquetes-via-radio-gprs-general-packet-radio-services-conceptorio.md), **la más lenta de todas** las tecnologías. Es una red de [**segunda generación o 2G**](es/glossary/red-2g-2g-net-conceptorio) es utilizada **para enviar mensajes de texto**.
     
-    **E:** Abrevia una [conexión **EDGE**](/conexion-edge-edge-connection-conceptorio), es una versión mejorada del GPRS, también llamado **2.5G**, y sirve **para hacer búsquedas en internet**.
+    **E:** Abrevia una [conexión **EDGE**](es/glossary/conexion-edge-edge-connection-conceptorio), es una versión mejorada del GPRS, también llamado **2.5G**, y sirve **para hacer búsquedas en internet**.
     
-    **3G**: Denominada como [**UMTS**](/umts-sistema-universal-de-telecomuniaciones-moviles-umts-universal-mobile-telecommunications-system-conceptorio) es una red de **tercera generación o 3G**, ideada **para contenidos multimedia**.
+    **3G**: Denominada como [**UMTS**](es/glossary/umts-sistema-universal-de-telecomuniaciones-moviles-umts-universal-mobile-telecommunications-system-conceptorio) es una red de **tercera generación o 3G**, ideada **para contenidos multimedia**.
     
-    **H**: Utiliza la [tecnología **HSPA**](/concepto-concept-conceptorio), un **3G mejorado**, y es más que suficiente **para acceder a las redes sociales o escuchar música en Internet.**
+    **H**: Utiliza la [tecnología **HSPA**](es/glossary/tecnologia-hspa-acceso-de-paquetes-de-alta-velocidad-hspa-technology-conceptorio.md), un **3G mejorado**, y es más que suficiente **para acceder a las redes sociales o escuchar música en Internet.**
     
-    **H+**: Es un [**HSPA**](/tecnologia-hspa-acceso-de-paquetes-de-alta-velocidad-hspa-technology-conceptorio) evolucionado **para ver videos en línea o descargarloa más rápidamente**.
+    **H+**: Es un [**HSPA**](es/glossary/tecnologia-hspa-acceso-de-paquetes-de-alta-velocidad-hspa-technology-conceptorio) evolucionado **para ver videos en línea o descargarloa más rápidamente**.
     
-    **4G**: Es la tecnología también llamada [**LTE**](/conexion-4g-o-lte-lte-or-4g-connection-conceptorio), es considerada como la **cuarta generación o 4G**. La velocidad de esta red **alcanza los 100 Mbps de descarga y 50 Mbps de subida,** lo que llamamos **banda ancha.** ¡Rapídisima!
+    **4G**: Es la tecnología también llamada [**LTE**](es/glossary/conexion-4g-o-lte-lte-or-4g-connection-conceptorio), es considerada como la **cuarta generación o 4G**. La velocidad de esta red **alcanza los 100 Mbps de descarga y 50 Mbps de subida,** lo que llamamos **banda ancha.** ¡Rapídisima!
     
     **5G**: Es la tecnología más rápida todas, por ahora, y llega a ser **100 veces más rápida que el 4G**. Necesitas un teléfono que soporte 5G para poder usarlo.
     
-    - [ ]  **G:** solo mensajes de texto
-    - [ ]  E: Navegar en páginas web
-    - [ ]  3G, H, H+: redes sociales, música y videos
-    - [ ]  4G, LTE: videollamadas y videos en alta definición
+  -  **G:** solo mensajes de texto
+  -  E: Navegar en páginas web
+  -  3G, H, H+: redes sociales, música y videos
+  -  4G, LTE: videollamadas y videos en alta definición
 - **Paso 4: Haz una prueba de velocidad**
     
-    <img src="/assets\images\¿Cómo saber qué tan buena es tu conexión a Interne 1362bd68c5b680328cbffbdeb8b00c4d\Como_caharrear_tu_senal_movil_20241202_SOLE_Desconectado_v2-800w.webp" alt="Como caharrear tu señal movil_20241202_SOLE_Desconectado v2.png" srcset="/assets\images\¿Cómo saber qué tan buena es tu conexión a Interne 1362bd68c5b680328cbffbdeb8b00c4d\Como_caharrear_tu_senal_movil_20241202_SOLE_Desconectado_v2-400w.webp 400w, /assets\images\¿Cómo saber qué tan buena es tu conexión a Interne 1362bd68c5b680328cbffbdeb8b00c4d\Como_caharrear_tu_senal_movil_20241202_SOLE_Desconectado_v2-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+  ![PASO 4 - HAZ UNA PRUEBA DE VELOCIDAD](assets/images/solv-internetdiagnosis/solv-internetdiagnosis-steps.webp)
     
 
 ## ¿Cómo saber si esta solución funciona?
@@ -115,26 +104,7 @@ Quizá puedas también tomar decisiones sobre convocar a una colecta con tus vec
 
 ## Soluciones recomendadas
 
-- [¿Cómo aprovechar mi ancho de banda?](/como-aprovechar-mi-ancho-de-banda-solutions-db) | [How make better use of my bandwidth?](/how-make-better-use-of-my-bandwidth-solutions-db)
-- [¿Cómo comprar un plan celular adecuado para mi?](/como-comprar-un-plan-celular-adecuado-para-mi-solutions-db) | [How to buy a suitable cellular plan for me?](/how-to-buy-a-suitable-cellular-plan-for-me-solutions-db)
-- [¿Qué Internet satelital elegir, según mis necesidades? ](/que-internet-satelital-elegir-segun-mis-necesidades-solutions-db) | [Which satellite Internet to choose, according to my needs?](/which-satellite-internet-to-choose-according-to-my-needs-solutions-db)
+- [¿Cómo aprovechar mi ancho de banda?](es/solve/como-aprovechar-mi-ancho-de-banda-solutions-db) 
+- [¿Cómo comprar un plan celular adecuado para mi?](es/solve/como-comprar-un-plan-celular-adecuado-para-mi-solutions-db) 
+- [¿Qué Internet satelital elegir, según mis necesidades? ](es/solve/que-internet-satelital-elegir-segun-mis-necesidades-solutions-db) 
 
-[https://notionreactions.com/embed/y2ZSuyv2PolGMwefiqnr](https://notionreactions.com/embed/y2ZSuyv2PolGMwefiqnr)
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)

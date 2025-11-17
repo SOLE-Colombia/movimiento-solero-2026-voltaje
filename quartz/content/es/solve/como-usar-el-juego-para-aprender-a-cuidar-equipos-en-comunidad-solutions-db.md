@@ -5,10 +5,10 @@ slug: como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-solutions-d
 aspectos:
 - dispositivos
 - personas
-fecha: '2025-10-11'
+fecha: '2025-10-25'
 ---
 
-# ¿Cómo usar el juego para aprender a cuidar equipos en comunidad?
+
 
 Created: 25 de octubre de 2024 13:36
 Autor: Mateo
@@ -19,15 +19,7 @@ Ayudantes: Más de 3 personas
 Tardas: Horas
 2025-prueba: No
 
-*Descarga esta Solución para usarla desconectado*
 
-[Como_usar_el_juego_para_aprender_a_cuidar_equipos_en_comunidad_20250821.pdf](/downloads/como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-20250821.pdf)
-
-*Download this Solution to use it disconnected*
-
-[How_to_use_the_game_to_learn_how_to_take_care_of_equipment_in_community_20250821.pdf](/downloads/how-to-use-the-game-to-learn-how-to-take-care-of-equipment-in-community-20250821.pdf)
-
-### índice
 
 # Una solución de gobernanza para los recursos comunes
 
@@ -35,23 +27,7 @@ Tardas: Horas
 
 Puedes ver este video mientras desarrollas esta solución. 
 
-[<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/-Rg8bLTbS1Y" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/-Rg8bLTbS1Y" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>)
+![Youtube](https://www.youtube.com/embed/-Rg8bLTbS1Y)
 
 ## **Bienvenida**
 
@@ -84,79 +60,76 @@ Para empezar, te sorprenderás si te digo que no queremos darte fórmulas mágic
     
     
 💡 Para el **primer juego** coloca 50 de los 80 peces en el centro de una mesa y dile a los participantes: “*Hay 50 peces en un lago y ustedes son pescadores/as. Para pescar deben cumplir las siguientes instrucciones:*
-    
-    *a. Cada uno puede pescar entre 0 y 5 peces por ronda.*
-    
-    *b. No pueden hablar; solo pueden usar su lenguaje corporal.*
-    
-    *c. Se reproducen los peces: nace 1 pez nuevo por cada 10 peces que queden disponibles en la mesa después de terminada la ronda. Ejemplo: si quedan 30 peces en la mesas, debes colocar tres peces nuevos.*
-    
-    *d. Ustedes deciden cuándo terminan el juego.”*
 
-    
-    Después de dar las instrucciones deja la bolsa con los 30 peces extra sobre la mesa y verifica que cada persona tenga su momento para decidir cuántos peces va a tomar.
-    
-    Al finalizar la ronda pide a los jugadores que devuelvan los peces y pregúntale al grupo:
-    
-    - ¿Cómo se sintieron con la distribución de los peces? ¿Les parece justa?
+*a. Cada uno puede pescar entre 0 y 5 peces por ronda.*
 
-<img src="/assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\WhatsApp_Image_2024-04-11_at_10.00.17_PM-800w.webp" alt="WhatsApp Image 2024-04-11 at 10.00.17 PM.jpeg" srcset="/assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\WhatsApp_Image_2024-04-11_at_10.00.17_PM-400w.webp 400w, /assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\WhatsApp_Image_2024-04-11_at_10.00.17_PM-800w.webp 800w, /assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\WhatsApp_Image_2024-04-11_at_10.00.17_PM-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+*b. No pueden hablar; solo pueden usar su lenguaje corporal.*
 
-<img src="/assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\72883d16-5ed6-4940-a4d9-de6b4be2db5f-800w.webp" alt="WhatsApp Image 2024-04-11 at 10.01.07 PM.jpeg" srcset="/assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\72883d16-5ed6-4940-a4d9-de6b4be2db5f-400w.webp 400w, /assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\72883d16-5ed6-4940-a4d9-de6b4be2db5f-800w.webp 800w, /assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\72883d16-5ed6-4940-a4d9-de6b4be2db5f-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+*c. Se reproducen los peces: nace 1 pez nuevo por cada 10 peces que queden disponibles en la mesa después de terminada la ronda. Ejemplo: si quedan 30 peces en la mesas, debes colocar tres peces nuevos.*
 
-<img src="/assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\e87c2304-4724-4159-9a40-0f1d6310ffc3-800w.webp" alt="WhatsApp Image 2024-04-11 at 10.03.52 PM.jpeg" srcset="/assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\e87c2304-4724-4159-9a40-0f1d6310ffc3-400w.webp 400w, /assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\e87c2304-4724-4159-9a40-0f1d6310ffc3-800w.webp 800w, /assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\e87c2304-4724-4159-9a40-0f1d6310ffc3-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+*d. Ustedes deciden cuándo terminan el juego.”*
+
+Después de dar las instrucciones deja la bolsa con los 30 peces extra sobre la mesa y verifica que cada persona tenga su momento para decidir cuántos peces va a tomar.
+
+Al finalizar la ronda pide a los jugadores que devuelvan los peces y pregúntale al grupo:
+
+- ¿Cómo se sintieron con la distribución de los peces? ¿Les parece justa?
+
+![PASO 1 - PRIMER JUEGO](assets/images/solv-fishgame/solv-fishgame-firsgame1.webp)
+
+![PASO 2 - SEGUNDO JUEGO](assets/images/solv-fishgame/solv-fishgame-firstgame2.webp)
+
+![PASO 3 - TERCER JUEGO](assets/images/solv-fishgame/solv-fishgame-firstgame3.webp)
 
 - **Momento 2: segundo juego**
     
     
 💡 Para el **segundo juego** cambian las condiciones, así que explica las siguientes instrucciones en voz alta: “*Ahora hay 50 peces en un lago y ustedes siguen siendo pescadores/as, la diferencia es que están en epoca de sequía, por lo que pescar es mucho más difícil. Hay mucha escacez y deben garantizar comida para alimentar a sus familias en las próximas semanas.*” 
-    **Las reglas del juego son las mismas. Vuelve a mencionar a los participantes las reglas si es necesario.
+**Las reglas del juego son las mismas. Vuelve a mencionar a los participantes las reglas si es necesario.
 
-    
-    Al terminar la ronda pregúntales: 
-    
-    - ¿qué cambió ahora? ¿cómo se sienten con la distribución?
-    - ¿Creen que pueda haber dificultades parecidas al momento de compartir los equipos equipos tecnológicos de su comunidad?
+Al terminar la ronda pregúntales: 
+
+- ¿qué cambió ahora? ¿cómo se sienten con la distribución?
+- ¿Creen que pueda haber dificultades parecidas al momento de compartir los equipos equipos tecnológicos de su comunidad?
 - **Momento 3: tercer juego**
     
     
 💡 Para el **tercer juego** la situación es la misma del segundo juego pero cambian las instrucciones: “*hay 50 peces en un lago y ustedes siguen siendo pescadores/as, la diferencia es que están en epoca de sequía, por lo que pescar es mucho más difícil. Hay mucha escacez y deben garantizar comida para alimentar a sus familias en las próximas semanas. No hay mucho tiempo y por eso deben tomar decisiones rápidas.*” 
     
-    *a. Cada uno puede pescar entre 0 y 5 peces por ronda. 
-    b. Pueden hablar 2 minutos antes de hacer la pesca para decidir cuál es la mejor forma de hacerlo. 
-    c. Se reproducen los peces: nace 1 pez nuevo por cada 10 peces que queden disponibles después de terminada la ronda. Ejemplo: si quedan 30 peces en las mesas, debes colocar tres peces nuevos. 
-    d. Ustedes deciden cuándo termina el juego.”*
+*a. Cada uno puede pescar entre 0 y 5 peces por ronda. 
+b. Pueden hablar 2 minutos antes de hacer la pesca para decidir cuál es la mejor forma de hacerlo. 
+c. Se reproducen los peces: nace 1 pez nuevo por cada 10 peces que queden disponibles después de terminada la ronda. Ejemplo: si quedan 30 peces en las mesas, debes colocar tres peces nuevos. 
+d. Ustedes deciden cuándo termina el juego.”*
 
-    
-    Al finalizar la ronda, pregúntale a los participantes: 
-    
-    - ¿El acuerdo al que llegaron al inicio del juego cambió algo?
-    - ¿Cuál de los juegos les parece que tuvo una distribución más justa? ¿Qué diferencias hay entre los tres juegos?
-    - ¿Cómo podría llevarse el acuerdo que han hecho para el uso y cuidado de los equipos tecnológicos que tienen a su disposición?
+Al finalizar la ronda, pregúntale a los participantes: 
+
+- ¿El acuerdo al que llegaron al inicio del juego cambió algo?
+- ¿Cuál de los juegos les parece que tuvo una distribución más justa? ¿Qué diferencias hay entre los tres juegos?
+- ¿Cómo podría llevarse el acuerdo que han hecho para el uso y cuidado de los equipos tecnológicos que tienen a su disposición?
 - **Momento 4: el secreto de llegar a acuerdos**
     
     
 💡 Cuéntale a las personas los secretos del juego para llegar a acuerdos:
     
-    - Los pescadores representan a cada una de las personas de tu comunidad.
-    - Los peces representan los recursos finitos o  equipos tecnológicos que están a disposición de la comunidad, por ejemplo, computadores, antenas de internet, planes de datos, etc. Estos peces también aplican como una analogía sobre el manejo de recursos finitos como la tierra, el agua, la comida o el aire que respiramos.
+* Los pescadores representan a cada una de las personas de tu comunidad.
+* Los peces representan los recursos finitos o  equipos tecnológicos que están a disposición de la comunidad, por ejemplo, computadores, antenas de internet, planes de datos, etc. Estos peces también aplican como una analogía sobre el manejo de recursos finitos como la tierra, el agua, la comida o el aire que respiramos.
+
+La clave de este juego está en que entre más peces cojamos para nosotros mismos, menos peces se reproducirán; por lo que todos perdemos.
+
+Asimismo, entre menos peces cojamos, más peces se reproducirán en la mesa y la comunidad tendrá más recursos. 
         
-        La clave de este juego está en que entre más peces cojamos para nosotros mismos, menos peces se reproducirán; por lo que todos perdemos.
+![PASO 4 - SECRETO DE LLEGAR A ACUERDOS](assets/images/solv-fishgame/solv-fishgame-reachingagreement1.webp)
         
-        Asimismo, entre menos peces cojamos, más peces se reproducirán en la mesa y la comunidad tendrá más recursos. 
-        
-        <img src="/assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\WhatsApp_Image_2024-04-11_at_10.09.11_PM-800w.webp" alt="WhatsApp Image 2024-04-11 at 10.09.11 PM.jpeg" srcset="/assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\WhatsApp_Image_2024-04-11_at_10.09.11_PM-400w.webp 400w, /assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\WhatsApp_Image_2024-04-11_at_10.09.11_PM-800w.webp 800w, /assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\WhatsApp_Image_2024-04-11_at_10.09.11_PM-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
-        
-        <img src="/assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\WhatsApp_Image_2024-04-11_at_10.09.01_PM-800w.webp" alt="WhatsApp Image 2024-04-11 at 10.09.01 PM.jpeg" srcset="/assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\WhatsApp_Image_2024-04-11_at_10.09.01_PM-400w.webp 400w, /assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\WhatsApp_Image_2024-04-11_at_10.09.01_PM-800w.webp 800w, /assets\images\¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679\WhatsApp_Image_2024-04-11_at_10.09.01_PM-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![PASO 5 - LLEGUEMOS A UN ACUERDO](assets/images/solv-fishgame/solv-fishgame-reachingagreement2.webp)
 
     
 - **Momento 5: lleguemos a un acuerdo**
     
-    Dale a los participantes la cartulina y los marcadores. Invítalos a escribir acuerdos sobre cómo manejar los recursos o equipos tecnológicos que tienen a su disposición. Te recomendamos descargar la siguiente plantilla para guiarte en la conversación. 
-    
-    [Reglas uso y cuidado compartido de equipo tecnológicos.pptx](¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679/Reglas_uso_y_cuidado_compartido_de_equipo_tecnolgicos.pptx)
-    
-    Estas preguntas son solamente una guía, por lo que puedes añadir o quitar las preguntas que veas pertinentes. Pídele a los participantes que dejen por escrito los acuerdos a los que llegaron e invítalos a compartirlos con el resto de la comunidad. Esto es fundamental ya que, en momentos de conflicto o dificultades para resolver un problema, pueden volver a lo escrito para llegar a soluciones o para replantear nuevos acuerdos.
+Dale a los participantes la cartulina y los marcadores. Invítalos a escribir acuerdos sobre cómo manejar los recursos o equipos tecnológicos que tienen a su disposición. Te recomendamos descargar la siguiente plantilla para guiarte en la conversación. 
+
+[Reglas uso y cuidado compartido de equipo tecnológicos.pptx](¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679/Reglas_uso_y_cuidado_compartido_de_equipo_tecnolgicos.pptx)
+
+Estas preguntas son solamente una guía, por lo que puedes añadir o quitar las preguntas que veas pertinentes. Pídele a los participantes que dejen por escrito los acuerdos a los que llegaron e invítalos a compartirlos con el resto de la comunidad. Esto es fundamental ya que, en momentos de conflicto o dificultades para resolver un problema, pueden volver a lo escrito para llegar a soluciones o para replantear nuevos acuerdos.
     
 
 ## **¿Cómo funciona el juego?**
@@ -175,40 +148,19 @@ La tragedia de los comunes es un problema sobre las relaciones sociales y el com
 
 Queremos compartirte la historia de Alexander, un referente de la comunidad de la vereda en Agrado, ubicada en el Departamento del Cauca. Alexander, junto con su comunidad, logró llegar a un acuerdo sobre cómo usar el internet a través de un acuerdo que hicieron con la tienda que está ubicada al lado de la caseta comunal. Escuchemos su historia: 
 
-[Piendamó.mp4](¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679/Piendam.mp4)
+![Piendamó.mp4](¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679/Piendam.mp4)
 
 ## Soluciones recomendadas
 
-- [¿Cómo instalar mi antena 3/4G?](/como-instalar-mi-antena-3-4g-solutions-db) | [How to install my 3/4G antenna?](/how-to-install-my-3-4g-antenna-solutions-db)
-- [¿Cómo compartir los computadores disponibles?](/como-compartir-los-computadores-disponibles-solutions-db) | [How to share available computers?](/how-to-share-available-computers-solutions-db)
-- [**Haz una colecta para pagar internet comunitario**](/haz-una-colecta-para-pagar-internet-comunitario-solutions-db)  | [**Look for funding to pay for community internet**](/look-for-funding-to-pay-for-community-internet-solutions-db)
+- [¿Cómo instalar mi antena 3/4G?](es/solve/como-instalar-mi-antena-3-4g-solutions-db) 
+- [¿Cómo compartir los computadores disponibles?](es/solve/como-compartir-los-computadores-disponibles-solutions-db) 
+- [**Haz una colecta para pagar internet comunitario**](es/solve/haz-una-colecta-para-pagar-internet-comunitario-solutions-db)  
 
 ## **Referencias**
 
-[https://www.bbc.com/mundo/noticias-49082868](https://www.bbc.com/mundo/noticias-49082868)
+[Bbc](https://www.bbc.com/mundo/noticias-49082868)
 
-[https://www.redalyc.org/pdf/305/30541023.pdf](https://www.redalyc.org/pdf/305/30541023.pdf)
+[Redalyc](https://www.redalyc.org/pdf/305/30541023.pdf)
 
-[https://www.bbc.com/mundo/noticias-47739920](https://www.bbc.com/mundo/noticias-47739920)
+[Bbc](https://www.bbc.com/mundo/noticias-47739920)
 
----
-
-[https://notionreactions.com/embed/9j6OVQ7kDWIJg3zGxBrM](https://notionreactions.com/embed/9j6OVQ7kDWIJg3zGxBrM)
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)

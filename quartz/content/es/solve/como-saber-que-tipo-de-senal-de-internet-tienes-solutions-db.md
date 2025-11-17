@@ -7,10 +7,9 @@ aspectos:
 - electricidad
 - dispositivos
 - espacio
-fecha: '2025-10-11'
+fecha: '2025-11-6'
 ---
 
-# ¿Cómo saber qué tipo de señal de Internet tienes?
 
 Created: 6 de noviembre de 2024 10:23
 Autor: Belén
@@ -30,19 +29,10 @@ recursos/personas: 1: Una persona
 recursos/tiempo: 0: Minutos
 2025-prueba: No
 
-*Descarga esta solución para usarla desconectado*
 
-[Como_saber_que_tipo_de_senal_de_Internet_tienes_20250729.pdf](/downloads/como-saber-que-tipo-de-senal-de-internet-tienes-20250729.pdf)
-
-*Download this solution to use it disconnected*
-
-[How_to_know_what_kind_of_Internet_signal_you_have_20250729.pdf](/downloads/how-to-know-what-kind-of-internet-signal-you-have-20250729.pdf)
-
-### índice
 
 # Descubre cómo llega el internet a tu dispositivo
 
-## Bienvenida
 
 Hola, soy Belén. No soy una experta en internet, de hecho, ya me siento mayor y no entiendo muchas cosas sobre conectividad. Si también te sientes como yo, esta información te dará luz. Si no te sientes como yo, pero quieres entender mejor las diferencias entre las señales y cómo se relacionan con el funcionamiento de los dispositivos, esta información te sacará de dudas. 
 
@@ -128,7 +118,7 @@ Instalar la señal satelital implica que has tenido que instalar un paquete de p
     3. **Verifica la orientación de la antena hacia el satélite:** para esto, necesitarás verificar los ángulos de elevación (vertical) y azimut (horizontal). Para ello necesitarás una brújula y una aplicación de alineación de antenas, así como un medidor de señal. Puedes ir haciendo ajustes progresivos para ir afinando la recepción de señal.
     4. **Verifica la conexión del router:** revisa que esté encendido, el cable Ethernet conectado correctamente al modem satelital y al router y que el cable esté en buen estado.
     5. **Verifica la señal en tu dispositivo:** algunos sistemas de internet satelital cuentan con un software de monitorización de la señal que puede aportarte datos valiosos para saber si está conectado correctamente.
-    6. **Prueba la velocidad:** puedes hacer una verificación consultando [Ser un científico del Internet](/ser-un-cientifico-del-internet-voltaje-desconectado)
+    6. **Prueba la velocidad:** puedes hacer una verificación consultando [Ser un científico del Internet](es/inspire/ser-un-cientifico-del-internet-voltaje-desconectado)
     7. Si nada funciona, contacta con tu proveedor de servicio, puede haber algún error en la configuración.
 
 ## ¿Cómo saber si esta solución funciona?
@@ -143,26 +133,7 @@ Recuerda que Internet es de todos y para todos, cuanto más lo conozcamos, mejor
 
 ## Soluciones recomendadas
 
-- [¿Cómo saber qué tan buena es tu conexión a Internet?](/como-saber-que-tan-buena-es-tu-conexion-a-internet-solutions-db) |
-- [¿Cómo aprovechar mi ancho de banda?](/como-aprovechar-mi-ancho-de-banda-solutions-db) |[How make better use of my bandwidth?](/how-make-better-use-of-my-bandwidth-solutions-db)
-- [¿Cómo probar la velocidad de tu conexión a Internet?](/como-probar-la-velocidad-de-tu-conexion-a-internet-solutions-db) |[How to test the speed of your Internet connection?](/how-to-test-the-speed-of-your-internet-connection-solutions-db)
+- [¿Cómo saber qué tan buena es tu conexión a Internet?](es/solve/como-saber-que-tan-buena-es-tu-conexion-a-internet-solutions-db) 
+- [¿Cómo aprovechar mi ancho de banda?](es/solve/como-aprovechar-mi-ancho-de-banda-solutions-db) 
+- [¿Cómo probar la velocidad de tu conexión a Internet?](es/solve/como-probar-la-velocidad-de-tu-conexion-a-internet-solutions-db) 
 
-[https://notionreactions.com/embed/LzYaLWgrUfEyAfJ5ayMr](https://notionreactions.com/embed/LzYaLWgrUfEyAfJ5ayMr)
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)

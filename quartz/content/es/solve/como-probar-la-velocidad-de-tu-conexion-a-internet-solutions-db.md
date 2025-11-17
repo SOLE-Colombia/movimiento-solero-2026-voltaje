@@ -5,10 +5,10 @@ slug: como-probar-la-velocidad-de-tu-conexion-a-internet-solutions-db
 aspectos:
 - señal
 - dispositivos
-fecha: '2025-10-11'
+fecha: '2025-7-10'
 ---
 
-# ¿Cómo probar la velocidad de tu conexión a Internet?
+
 
 Created: 10 de julio de 2025 16:09
 Autor: Belén
@@ -19,25 +19,17 @@ Ayudantes: Nadie
 Tardas: Minutos
 2025-prueba: No
 
-*Descarga esta solución para usarla desconectado*
 
-[Como_probar_la_velocidad_de_tu_conexin_a_Internet_20250729.pdf](/downloads/como-probar-la-velocidad-de-tu-conexin-a-internet-20250729.pdf)
-
-*Download this solution to use it disconnected*
-
-[How_to_test_the_speed_of_your_Internet_connection_20250729.pdf](/downloads/how-to-test-the-speed-of-your-internet-connection-20250729.pdf)
-
-### índice
 
 # Verifica la calidad real de tu conexión
 
-## Bienvenida
+
 
 Hola, soy Belén. Hasta hace muy poco, no sabía que uno podría probar la velocidad de su conexión a Internet. Me pareció muy fácil y muy útil aprender a hacerlo porque me permite saber en cada momento el estado de mi conexión. Entender por qué no me funcionan algunas cosas en determinados momentos, me tranquiliza y me permite buscar soluciones. 
 
 ## ¿Qué es probar la velocidad de la conexión a internet?
 
-Un test de velocidad de conexión a internet, o speed test, **es una herramienta que mide la rapidez de tu conexión a internet, evaluando la velocidad de descarga y subida de datos, así como la latencia ([ping](/latencia-latency-conceptorio))**. 
+Un test de velocidad de conexión a internet, o speed test, **es una herramienta que mide la rapidez de tu conexión a internet, evaluando la velocidad de descarga y subida de datos, así como la [**latencia**](es/glossary/latencia-latency-conceptorio)**. 
 
 ## **¿Para qué sirve?**
 
@@ -46,37 +38,37 @@ Estos tests son útiles para verificar si la velocidad contratada con tu proveed
 ## **¿Qué necesitas?**
 
 - El dispositivo con el que te vas a conectar a Internet
-- Acceder a alguna página web, o descargar alguna app, de medición, como  [**Speedtest.net**](https://www.speedtest.net/es), [**Fast.com**](https://fast.com/es/), o nPerf.com. También existen aplicaciones móviles como [**Speedtest by Ookla**](https://www.speedtest.net/es/mobile/android/help).
+- Acceder a alguna página web, o descargar alguna app, de medición, como  [**Speedtest**](https://www.speedtest.net/es), [**Fast**](https://fast.com/es/), o [**nPerf**](https://nperf.com/). También existen aplicaciones móviles como [**Speedtest by Ookla**](https://www.speedtest.net/es/mobile/android/help).
 
 ## **¿Cómo hacerlo?**
 
 - **Momento 1: Accede a un servicio de test de velocidad**
     
-    Puedes utilizar sitios web como [**Speedtest.net**](https://www.speedtest.net/es), [**Fast.com**](https://fast.com/es/), o nPerf.com. También existen aplicaciones móviles como [**Speedtest by Ookla**](https://www.speedtest.net/es/mobile/android/help). 
+    Puedes utilizar sitios web como [**Speedtest**](https://www.speedtest.net/es), [**Fast**](https://fast.com/es/), o [**nPerf**](https://nperf.com/). También existen aplicaciones móviles como [**Speedtest by Ookla**](https://www.speedtest.net/es/mobile/android/help). 
     
-    <img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![PASO 1 - ACCEDE A UN SERVICIO DE TEST DE VELOCIDAD](assets/images/solv-speedtest/solv-speedtest-start.webp)
     
 - **Momento 2: Realiza la prueba**
     
     Inicia la prueba en el sitio web o la aplicación. 
     
-    <img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![PASO 2 - REALIZA LA PRUEBA](assets/images/solv-speedtest/solv-speedtest-measure.webp)
     
 - **Momento 3: Interpreta los resultados**
     
-    Los resultados generalmente muestran la velocidad de descarga, la velocidad de subida y la [latencia](/latencia-latency-conceptorio) (ping). 
+    Los resultados generalmente muestran la velocidad de descarga, la velocidad de subida y la [latencia](/latencia-latency-conceptorio). 
     
     - **Velocidad de descarga:** Es la velocidad a la que puedes recibir datos de Internet, como al descargar archivos o ver videos.
     - **Velocidad de subida:** Es la velocidad a la que puedes enviar datos a Internet, como al enviar correos electrónicos o subir videos a redes sociales.
     - **Latencia (ping):** Es el tiempo que tarda una señal en ir y volver entre tu dispositivo y un servidor remoto, medido en milisegundos. Un ping bajo es preferible, especialmente para juegos en línea o videollamadas.
     
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![PASO 3 - INTERPRETA LOS RESULTADOS](assets/images/solv-speedtest/solv-speedtest-result.webp)
     
 
 **Consideraciones adicionales:**
 
-- [**Conexión por cable](/conexion-cable-ethernet-ethernet-cable-connection-conceptorio) vs. [WiFi](/wifi-fidelidad-inalambrica-wifi-wireless-fidelity-conceptorio):** Las pruebas de velocidad por cable (Ethernet) suelen ser más precisas que las pruebas por WiFi, ya que la conexión WiFi puede verse afectada por interferencias.
-- [**Servidores de prueba](/servidor-server-conceptorio):** Algunos servicios te permiten elegir el servidor de prueba para obtener resultados más precisos o para probar diferentes ubicaciones.
+- [**Conexión por cable**](es/glossary/conexion-cable-ethernet-ethernet-cable-connection-conceptorio) vs. [**WiFi**](es/glossary/wifi-fidelidad-inalambrica-wifi-wireless-fidelity-conceptorio):** Las pruebas de velocidad por cable (Ethernet) suelen ser más precisas que las pruebas por WiFi, ya que la conexión WiFi puede verse afectada por interferencias.
+- [**Servidores de prueba**](es/glossary/servidor-server-conceptorio):** Algunos servicios te permiten elegir el servidor de prueba para obtener resultados más precisos o para probar diferentes ubicaciones.
 - **Interpretar los resultados:** Compara los resultados con la velocidad contratada con tu proveedor y considera factores como la hora del día y la actividad en tu red, ya que esto puede afectar los resultados.
 
 ## **¿Cómo saber si esta solución funciona?**
@@ -94,32 +86,13 @@ Por ejemplo, es importante saber hacerlo cuando en los proyectos de SOLE Colombi
 
 ## **Soluciones recomendadas**
 
-- [¿Cómo saber qué tan buena es tu conexión a Internet?](/como-saber-que-tan-buena-es-tu-conexion-a-internet-solutions-db) |
-- [¿Cómo aprovechar mi ancho de banda?](/como-aprovechar-mi-ancho-de-banda-solutions-db) | [How make better use of my bandwidth?](/how-make-better-use-of-my-bandwidth-solutions-db)
-- [¿Cómo probar la velocidad de tu conexión a Internet?](/como-probar-la-velocidad-de-tu-conexion-a-internet-solutions-db) | [How to test the speed of your Internet connection?](/how-to-test-the-speed-of-your-internet-connection-solutions-db)
+- [¿Cómo saber qué tan buena es tu conexión a Internet?](es/solve/como-saber-que-tan-buena-es-tu-conexion-a-internet-solutions-db) |
+- [¿Cómo aprovechar mi ancho de banda?](es/solve/como-aprovechar-mi-ancho-de-banda-solutions-db) 
+- [¿Cómo probar la velocidad de tu conexión a Internet?](es/solve/como-probar-la-velocidad-de-tu-conexion-a-internet-solutions-db) 
 
 ## **Referencias**
 
-- https://www.xataka.com/servicios/como-funciona-exactamente-test-velocidad-como-fiables
-- https://www.movistar.com.co/test-de-velocidad
-- https://www.highspeedinternet.com/es/herramientas/test-velocidad
+- [Xataka](https://www.xataka.com/servicios/como-funciona-exactamente-test-velocidad-como-fiables)
+- [Movistar](https://www.movistar.com.co/test-de-velocidad)
+- [Highspeedinternet](https://www.highspeedinternet.com/es/herramientas/test-velocidad)
 
-[https://notionreactions.com/embed/8QJFEef7ley8kQhaK6Pl](https://notionreactions.com/embed/8QJFEef7ley8kQhaK6Pl)
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
