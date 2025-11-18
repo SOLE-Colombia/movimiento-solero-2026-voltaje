@@ -8,10 +8,9 @@ aspectos:
 - dispositivos
 - personas
 - espacio
-fecha: '2025-10-11'
+fecha: '2024-10-25'
 ---
 
-# Big Box de Jangala: Gestiona un potente router de internet inalámbrico para comunidades en exclusión digital
 
 Created: 25 de octubre de 2024 13:36
 Autor: Sanjay
@@ -31,31 +30,14 @@ recursos/dificultad: 2: Necesita estar inmerso en un lenguaje nuevo y seguir poc
 recursos/personas: 3: Más de 3 personas
 2025-prueba: No
 
-*Descarga esta solución para usarla desconectado* 
-
-[Big_Box_de_Jangala_Gestiona_un_potente_router_de_internet_inalambrico_para_comunidades_en_exclusion_digital_20250208.pdf](/downloads/big-box-de-jangala-gestiona-un-potente-router-de-internet-inalambrico-para-comunidades-en-exclusion-digital-20250208.pdf)
-
-*Download this solution to use it disconnected*
-
-[Jangalas_Big_Box_Manages_a_powerful_wireless_internet_router_for_digitally_excluded_communities_20250908.pdf](/downloads/jangalas-big-box-manages-a-powerful-wireless-internet-router-for-digitally-excluded-communities-20250908.pdf)
-
-### índice
 
 # La conexión a Internet en un maletín
 
-[Video ideado, creado y producido por SOLE Colombia, 2024](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/Fox3N4QHVN4" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>)
+![Youtube](https://www.youtube.com/embed/Fox3N4QHVN4) 
 
 Video ideado, creado y producido por SOLE Colombia, 2024
 
-## Bienvenida
+
 
 Hola, soy Sanjay y no soy un experto en temas de conectividad, pero he aprendido *cacharreando,* a punta de prueba y error, al igual que investigando en internet junto con otros. 
 
@@ -99,7 +81,7 @@ Si eres una comunidad de bajos recursos, o en zonas remotas, puedes ser consider
 
 - **Momento 1: Entrar a www.janga.la y buscar el formulario de solicitud de un Big Box**
     
-    Ingresen a [www.janga.la](https://www.janga.la/request-a-box) a la sección de solicitar una caja "Request a Box". Ahí pueden decidir si lo que necesitan es un *Get Box* que es más pequeño o un *Big Box*. 
+    Ingresen a [Janga](https://www.janga.la/request-a-box) a la sección de solicitar una caja "Request a Box". Ahí pueden decidir si lo que necesitan es un *Get Box* que es más pequeño o un *Big Box*. 
     
     Los siguientes pasos tienen que ver con la solicitud del BigBox.
     
@@ -167,26 +149,6 @@ El Jangala Big Box no resolverá la conectividad si no hay señal de Internet (c
 
 ## Soluciones recomendadas
 
-- [¿Cómo usar el juego para aprender a cuidar equipos en comunidad?](/como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-solutions-db) | [How to use the game to learn how to take care of equipment in community?](/how-to-use-the-game-to-learn-how-to-take-care-of-equipment-in-community-solutions-db)
-- [Pide un Salón Comunal, o cualquier espacio comunitario](/pide-un-salon-comunal-o-cualquier-espacio-comunitario-solutions-db) | [Request a Community Room, or any community space](/request-a-community-room-or-any-community-space-solutions-db)
-- [¿Cómo comprar un plan celular adecuado para mi?](/como-comprar-un-plan-celular-adecuado-para-mi-solutions-db) | [How to buy a suitable cellular plan for me?](/how-to-buy-a-suitable-cellular-plan-for-me-solutions-db)
-
-[https://notionreactions.com/embed/Smzp0DICqpBQGrArHEAZ](https://notionreactions.com/embed/Smzp0DICqpBQGrArHEAZ)
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
+- [¿Cómo usar el juego para aprender a cuidar equipos en comunidad?](es/solve/como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-solutions-db) 
+- [Pide un Salón Comunal, o cualquier espacio comunitario](es/solve/pide-un-salon-comunal-o-cualquier-espacio-comunitario-solutions-db) 
+- [¿Cómo comprar un plan celular adecuado para mi?](es/solve/como-comprar-un-plan-celular-adecuado-para-mi-solutions-db) 
