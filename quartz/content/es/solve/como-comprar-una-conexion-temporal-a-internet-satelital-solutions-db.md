@@ -7,10 +7,8 @@ aspectos:
 - electricidad
 - dispositivos
 - espacio
-fecha: '2025-10-11'
+fecha: '2024-02-24'
 ---
-
-# Cómo comprar una conexión temporal a internet satelital
 
 Created: 24 de febrero de 2025 7:17
 Autor: Belén
@@ -31,19 +29,9 @@ recursos/personas: 0: Nadie
 recursos/tiempo: 0: Minutos
 2025-prueba: No
 
-*Download this solution to use it disconnected*
-
-[Como_comprar_una_conexin_temporal_a_internet_satelital_20250729.pdf](/downloads/como-comprar-una-conexin-temporal-a-internet-satelital-20250729.pdf)
-
-*Download this solution to use it disconnected*
-
-[How_to_purchase_a_temporary_satellite_Internet_connection_20250729.pdf](/downloads/how-to-purchase-a-temporary-satellite-internet-connection-20250729.pdf)
-
-### índice
 
 # **Un código o PIN para acceder a internet satelital**
 
-## Bienvenida
 
 ¡Hola! Soy Belén. No escribí la totalidad de esta solución, pero, al revisarla, recordé muchas sesiones de SOLE que funcionan gracias a esta solución. Encontrar un lugar donde vendan unos cuantos datos, o minutos, de conexión a Internet a través de un satélite, nos ha permitido llevar SOLE donde nunca pensamos llegar. 
 
@@ -73,7 +61,7 @@ Sigue estos pasos necesarios para comprar el PIN y conectarse a Internet:
     
     Primero que todo, es necesario saber si este servicio lo ofrecen en tu territorio regularmente. Este servicio existe en los lugares donde la red de datos móviles de los operadores convencionales no existe, ya que, si existiera, sería más viable recargar tu número telefónico con un paquete de datos, o tener un plan pospago.
     
-    En algunos lugares, los operadores de Internet subarriendan la conexión a internet satelital en algunos lugares donde la conexión no puede llegar por cable o conocen que las personas de la zona no pueden contratar otro tipo de servicios de telefonía móvil. Por ejemplo, esta es una empresa que ofrece este tipo de servicio en Barranquilla: [https://zonawipi.com/](https://zonawipi.com/)
+    En algunos lugares, los operadores de Internet subarriendan la conexión a internet satelital en algunos lugares donde la conexión no puede llegar por cable o conocen que las personas de la zona no pueden contratar otro tipo de servicios de telefonía móvil. Por ejemplo, esta es una empresa que ofrece este tipo de servicio en Barranquilla: [Zonawipi](https://zonawipi.com/)
     
 - **Momento 2: Evalúa otras opciones**
     
@@ -85,9 +73,9 @@ Sigue estos pasos necesarios para comprar el PIN y conectarse a Internet:
     
     Ahora que decidiste comprar un PIN, recuerda aprovecharlo al máximo. El tiempo de conexión estará restringido sólo a los lugares donde esta red tenga alcance. En la práctica, funciona como un Café Internet en el que te conectas de manera inalámbrica con tu propio dispositivo.
     
-    Solo tienes que seguir las instrucciones del papel donde viene el PIN comprado. Normalmente debes conectarte a una red [**WiFi**](https://sole-manuela.tiddlyhost.com/#WiFi), que automáticamente te redireccionará a un enlace donde te pedirá el número de PIN para darte acceso a Internet. Eso es todo, ¡Ahora sí a conectarte y disfrutar!
+    Solo tienes que seguir las instrucciones del papel donde viene el PIN comprado. Normalmente debes conectarte a una red [**WiFi**](es/glossary/wifi-fidelidad-inalambrica-wifi-wireless-fidelity-conceptorio), que automáticamente te redireccionará a un enlace donde te pedirá el número de PIN para darte acceso a Internet. Eso es todo, ¡Ahora sí a conectarte y disfrutar!
     
-    Recuerda que sacarás muy buen partido de tu conexión a Internet si la compartes con más personas que no pueden acceder a este recurso. Una gran manera de aprender y disfrutar juntos es hacer SOLE. SOLE es una metodología en la que se pueden solucionar los retos de la vida real a través de Grandes Preguntas, usando Internet. En tu comunidad ¿quieren aprender cómo sacar mejor partido a sus cultivos? ¿Quieren saber cuáles son los juegos que juegan niños de otros países? ¿Tienen dudas sobre cómo se produce un fenómeno atmosférico concreto o cómo aprovechar los cambios del clima? ¡Hagan un SOLE! Pueden encontrar más información en [https://www.solecolombia.org/solea](https://www.solecolombia.org/solea)
+    Recuerda que sacarás muy buen partido de tu conexión a Internet si la compartes con más personas que no pueden acceder a este recurso. Una gran manera de aprender y disfrutar juntos es hacer SOLE. SOLE es una metodología en la que se pueden solucionar los retos de la vida real a través de Grandes Preguntas, usando Internet. En tu comunidad ¿quieren aprender cómo sacar mejor partido a sus cultivos? ¿Quieren saber cuáles son los juegos que juegan niños de otros países? ¿Tienen dudas sobre cómo se produce un fenómeno atmosférico concreto o cómo aprovechar los cambios del clima? ¡Hagan un SOLE! Pueden encontrar más información en [Sole Colombia](es/inspire/como-hacer-sole-tutorial-inspiration-db)
     
 
 ## ¿Cómo saber que esta solución funciona?
@@ -100,32 +88,10 @@ Tenemos que medir muy bien el ancho de banda que ofrece el servicio y, en genera
 
 ## Soluciones recomendadas
 
-- [¿Cómo aprovechar mi ancho de banda?](/como-aprovechar-mi-ancho-de-banda-solutions-db) | [How make better use of my bandwidth?](/how-make-better-use-of-my-bandwidth-solutions-db)
-- ‣ | [¿Cómo compartir Internet desde mi celular?](/como-compartir-internet-desde-mi-celular-solutions-db)
-- [¿Cómo amplificar tu señal móvil dentro de un espacio?](/como-amplificar-tu-senal-movil-dentro-de-un-espacio-solutions-db) | [¿Cómo amplificar tu señal móvil dentro de un espacio?](/como-amplificar-tu-senal-movil-dentro-de-un-espacio-solutions-db)
+- [¿Cómo aprovechar mi ancho de banda?](es/solve/como-aprovechar-mi-ancho-de-banda-solutions-db) | [How make better use of my bandwidth?](/how-make-better-use-of-my-bandwidth-solutions-db)
+- [¿Cómo compartir Internet desde mi celular?](es/solve/como-compartir-internet-desde-mi-celular-solutions-db)
+- [¿Cómo amplificar tu señal móvil dentro de un espacio?](es/solve/como-amplificar-tu-senal-movil-dentro-de-un-espacio-solutions-db) | [¿Cómo amplificar tu señal móvil dentro de un espacio?](/como-amplificar-tu-senal-movil-dentro-de-un-espacio-solutions-db)
 
 ## Referencias
 
-- [https://zonawipi.com/](https://zonawipi.com/)
-
-[https://notionreactions.com/embed/sd2unpHMK26grXQjtzJF](https://notionreactions.com/embed/sd2unpHMK26grXQjtzJF)
-
----
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
+- [Zonawipi](https://zonawipi.com/)

@@ -5,9 +5,8 @@ slug: como-mejorar-mi-senal-con-una-lata-solutions-db
 aspectos:
 - señal
 - dispositivos
-fecha: '2021-10-25'
+fecha: '2024-10-25'
 ---
-
 
 
 Created: 25 de octubre de 2024 13:36
@@ -27,6 +26,7 @@ Tardas: Horas
 Puedes escuchar esta audiolectura mientras desarrollas esta solución. 
 
 [AUDIOLECTURA PARA SOLUCIÓN CELULAR, INTERNET CON UNA LATA.mp3](¿Cómo mejorar mi señal con una lata 12a2bd68c5b680679629dbd1ed999472/AUDIOLECTURA_PARA_SOLUCIN_CELULAR_INTERNET_CON_UNA_LATA.mp3)
+
 
 
 Es un gusto saludarte, mi nombre es Mateo y te acompañaré en el desarrollo de esta solución. Si estás leyendo, escuchando o viendo esto es porque estás interesado/a o tienes curiosidad en saber cómo mejorar la señal de tu celular con una lata. Si es así, estás en el lugar indicado.
@@ -69,28 +69,27 @@ Esta solución tiene 3 momentos, pero no te preocupes, no estás solo/a, yo te a
     3. Una vez hayas cortado la lata como una hoja de papel rectangular, aplánala hasta eliminar la mayor cantidad de irregularidades posibles en la superficie. Imagínate que debe quedar como si fuera una hoja de papel lisa. Esta será la lámina metálica con la que trabajaremos de aquí en adelante.
     4. Con la regla y el marcador de punta fina dibuja, sobre la lámina metálica un cuadrado de 4 cm por 4 cm. *Me importa tu seguridad, por lo que es importante que tengas precaución con todos los cortes que vas a realizar y recuerda usar preferiblemente guantes de seguridad.*
     
-    ![Alista los materiales](assets/images/solve-improvewithcan/solve-improvewithcan-materials.webp)
+    ![PASO 1 - ALISTA LOS MATERIALES](assets/images/solve-improvewithcan/solve-improvewithcan-materials.webp)
     
-    ![Nuestra lámina metálica](assets/images/solve-improvewithcan/solve-improvewithcan-cut.webp)
+   ![PASO 2 - NUESTRA LÁMINA METÁLICA](assets/images/solve-improvewithcan/solve-improvewithcan-cutmetalsheet.webp)
     
-    ![Corta la lata](assets/images/solve-improvewithcan/solve-improvewithcan-metalsheet.webp)
+    ![PASO 3- CORTA LA LATA](assets/images/solve-improvewithcan/solve-improvewithcan-metalsheet.webp)
     
-    ![Cuadrado metálico](assets/images/solve-improvewithcan/solve-improvewithcan-metalsheet-square.webp)
-
-
+    ![PASO 4 - EL CUADRADO METÁLICO](assets/images/solve-improvewithcan/solve-improvewithcan-metalsheet-square.webp)
+    
 - **Momento 2: Corta un cuadrado de 4 x 4**
     1. Corta el cuadrado de 4 cm x 4 cm con las tijeras. Con esto tendrás una lámina metálica cuadrada.
     2. Escoge uno de los lados de esta lámina metálica cuadrada y señala con un marcador de punta fina el centro de ese lado que escogiste, es decir, 2 centímetros.
     3. Ubica la regla en el centro que marcaste previamente y señala con el marcador de punta fina 0,5 cm a cada lado de ese centro. Repite este mismo paso en el lado contrario del lado que estás trabajando. Une las marcas y traza las líneas de manera tal que tengas un rectángulo de 1 cm. *¿Cómo te sientes? Si terminaste el paso 7, vamos por buen camino. Si no, te invitamos a repetir los pasos con paciencia. Aquí te esperaré.*
     4. Sobre cada una de las dos líneas dibujadas, dibuja marcas cada 0.5 cm. Como resultado deberías tener 7 marcas en cada una de las líneas.
     
-    ![Corta el cuadrado de 4 x 4](assets/images/solve-improvewithcan/solve-improvewithcan-metalsheet-cut.webp)
+    ![PASO 5 - CORTA EL CUADRADO METÁLICO](assets/images/solve-improvewithcan/solve-improvewithcan-metalsheet-cut.webp)
     
-    ![Dibuja un rectángulo de 1 cm de ancho](assets/images/solve-improvewithcan/solve-improvewithcan-mark.webp)
+    ![PASO 6 - DIBUJA UN RECTÁNGULO DE 1 CM DE ANCHO](assets/images/solve-improvewithcan/solve-improvewithcan-mark.webp)
     
-    ![Marca el centro](assets/images/solve-improvewithcan/solve-improvewithcan-draw.webp)
+    ![PASO 7 - MARCA EL CENTRO](assets/images/solve-improvewithcan/solve-improvewithcan-draw.webp)
     
-    ![Dibuja 7 marcas a cada lado](assets/images/solve-improvewithcan/solve-improvewithcan-drawmark.webp)
+    ![PASO 8 - DIBUJA 7 MARCAS A CADA LADO](assets/images/solve-improvewithcan/solve-improvewithcan-drawmark.webp)
     
 - **Momento 3: Instala tu antena en el celular**
     1. Dibuja de lado a lado líneas perpendiculares a las marcas que hiciste en el paso anterior. Posteriormente, corta estas líneas dibujadas a cada lado sin cortar la columna central que tiene el ancho de 1 cm.
@@ -98,14 +97,13 @@ Esta solución tiene 3 momentos, pero no te preocupes, no estás solo/a, yo te a
     3. ¡Ya casi! Estamos muy cerca de terminar. Para este paso debes forrar tu pieza metálica por lado y lado con cinta transparente gruesa, esto te permitirá protegerla.
     4. Por último, con cinta transparente pega esta pieza metálica en la parte posterior derecha de tu celular (lugar en el que suele ubicarse la antena de tu celular) y protégela, preferiblemente, con el forro del celular que estás usando. *Si llegaste a este paso, te envío todas mis felicitaciones y espero que este viaje haya sido retador y emocionante.*
     
+    ![PASO 9 - LÍNEAS PERPENDICULARES](assets/images/solve-improvewithcan/solve-improvewithcan-lines.webp)
     
+    ![PASO 11 - PROTEGE TU PIEZA METÁLICA](assets/images/solve-improvewithcan/solve-improvewithcan-linescut.webp)
     
-
-    ![Dibuja líneas perpendiculares](assets/images/solve-improvewithcan/solve-improvewithcan-lines.webp)
-    ![Corta las pestañas](assets/images/solve-improvewithcan/solve-improvewithcan-linescut.webp)
-    ![Protege](assets/images/solve-improvewithcan/solve-improvewithcan-protect.webp)
+    ![PASO 10 - CORTA LAS PESTAÑAS](assets/images/solve-improvewithcan/solve-improvewithcan-protect.webp)
     
-    ![Instala la antena en el celular](assets/images/solve-improvewithcan/solve-improvewithcan-placeit.webp)
+    ![PASO 12 - COLOCA LA PIEZA EN TU CELULAR](assets/images/solve-improvewithcan/solve-improvewithcan-placeit.webp)
     
 
 ## **¿Cómo saber si esta solución funciona?**
@@ -127,12 +125,13 @@ Ampliar la señal de tu celular puede servirte para compartir internet con perso
 ## **Soluciones recomendadas**
 
 - [¿Cómo probar la velocidad de tu conexión a Internet?](es/solve/como-probar-la-velocidad-de-tu-conexion-a-internet-solutions-db) |
-- [¿Cómo compartir Internet desde mi celular?](es/solve/como-compartir-internet-desde-mi-celular-solutions-db) |[How to share Internet from my cell phone?](/how-to-share-internet-from-my-cell-phone-solutions-db)
-- [¿Cómo aprovechar mi ancho de banda?](es/solve/como-aprovechar-mi-ancho-de-banda-solutions-db) | [How make better use of my bandwidth?](/how-make-better-use-of-my-bandwidth-solutions-db)
+- [¿Cómo compartir Internet desde mi celular?](es/solve/como-compartir-internet-desde-mi-celular-solutions-db) 
+- [¿Cómo aprovechar mi ancho de banda?](es/solve/como-aprovechar-mi-ancho-de-banda-solutions-db) 
 
 ## **Referencias**
 
 - [Bbc](https://www.bbc.com/mundo/noticias-45122838)
-- [Youtube](https://www.youtube.com/embed/PRgiR94pT_8")
-- [Youtube](https://www.youtube.com/embed/PRgiR94pT_8")
+- [Youtube](https://www.youtube.com/embed/PRgiR94pT_8)
+- [Youtube](https://www.youtube.com/embed/PRgiR94pT_8)
   
+

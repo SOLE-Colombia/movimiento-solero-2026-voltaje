@@ -7,10 +7,9 @@ aspectos:
 - electricidad
 - dispositivos
 - espacio
-fecha: '2025-09-26'
+fecha: '2024-09-26'
 ---
 
-# ¿Cómo mejorar la señal de tu router?
 
 Created: 26 de septiembre de 2024 15:08
 Autor: Manuela
@@ -33,7 +32,6 @@ recursos/tiempo: 1: Horas
 
 # **Algunos consejos para sacarle el mayor provecho al router**
 
-## **Bienvenida**
 
 ¡Hola! Soy Manu, la cuentera de SOLE Colombia, y también me he sentido muy frustrada por perder la señal de Internet justo en medio de una reunión importante o de un SOLE.  
 
@@ -65,7 +63,7 @@ Ahora sí, voy a acompañarte paso a paso para que mejores la señal de tu WiFi.
     
     Lo primero que tienes que hacer es medir la velocidad de tu conexión actual. Esto te permitirá comparar el "antes" y "después" de hacer los ajustes. Descarga la aplicación [**Fast**](https://fast.com/es/) o usa el medidor de velocidad que prefieras, y realiza pruebas desde varios puntos de tu casa.
     
-    ![Pantallazo, tomado por Manuela Córdoba, (2024).](assets/images/solv-improveroutersignal/solv-improveroutersignal-measure1.webp)
+   ![Pantallazo, tomado por Manuela Córdoba, (2024).](assets/images/solv-improveroutersignal/solv-improveroutersignal-measure1.webp)
     
     Pantallazo, tomado por Manuela Córdoba, (2024).
     
@@ -89,7 +87,7 @@ Ahora sí, voy a acompañarte paso a paso para que mejores la señal de tu WiFi.
     
     Foto tomada de Pexels, (2024).
     
-    ![Foto tomada por Manuela Córdoba, (2024).](assets/images/solv-improveroutersignal/solv-improveroutersignal-locateok.webp)
+   ![Foto tomada por Manuela Córdoba, (2024).](assets/images/solv-improveroutersignal/solv-improveroutersignal-locateok.webp)
     
     Foto tomada por Manuela Córdoba, (2024).
     
@@ -97,10 +95,10 @@ Ahora sí, voy a acompañarte paso a paso para que mejores la señal de tu WiFi.
     
     ¿Ya viste las antenas de tu router? Revísalas ahora mismo. Un detalle importante para mejorar la señal es asegurarte de que estén en posición perpendicular, es decir, que apunten hacia el techo. Esto ayuda a que las ondas de señal se distribuyan mejor.
     
-    ![Router antennas wrong](assets/images/solv-improveroutersignal/solv-improveroutersignal-routerantennawrong.webp)
+    ![Antenas del Router en posición correcta](assets/images/solv-improveroutersignal/solv-improveroutersignal-routeranetnnaok.webp)
     
-    ![Router antennas ok](assets/images/solv-improveroutersignal/solv-improveroutersignal-routeranetnnaok.webp)
-
+    ![Antenas del Router en posición incorrecta](assets/images/solv-improveroutersignal/solv-improveroutersignal-routerantennawrong.webp)
+    
     Haz ese ajuste y notarás la diferencia. ¡Bien hecho!
     
 
@@ -151,7 +149,7 @@ Espero que estos consejos te sean útiles y que ya no tengas más cortes de Inte
 
 ## Soluciones relacionadas
 
-- [¿Cómo probar la velocidad de tu conexión a Internet?](es/solve/como-probar-la-velocidad-de-tu-conexion-a-internet-solutions-db) |[How to test the speed of your Internet connection?](en/solve/how-to-test-the-speed-of-your-internet-connection-solutions-db)
-- [¿Cómo aprovechar mi ancho de banda?](es/solve/como-aprovechar-mi-ancho-de-banda-solutions-db) | [How make better use of my bandwidth?](en/solve/how-make-better-use-of-my-bandwidth-solutions-db)
-- [¿Cómo saber qué tipo de señal de Internet tienes?](es/solve/como-saber-que-tipo-de-senal-de-internet-tienes-solutions-db) | [How to know what kind of Internet signal you have?](en/solve/how-to-know-what-kind-of-internet-signal-you-have-solutions-db)
+- [¿Cómo probar la velocidad de tu conexión a Internet?](es/solve/como-probar-la-velocidad-de-tu-conexion-a-internet-solutions-db.md) |
+- [¿Cómo aprovechar mi ancho de banda?](es/solve/como-aprovechar-mi-ancho-de-banda-solutions-db.md) 
+- [¿Cómo saber qué tipo de señal de Internet tienes?](es/solve/como-saber-que-tipo-de-senal-de-internet-tienes-solutions-db.md) 
 

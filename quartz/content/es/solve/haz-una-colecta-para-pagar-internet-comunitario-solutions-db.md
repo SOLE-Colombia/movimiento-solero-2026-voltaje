@@ -7,10 +7,9 @@ aspectos:
 - electricidad
 - dispositivos
 - espacio
-fecha: '2025-10-11'
+fecha: '2024-10-24'
 ---
 
-# Haz una colecta para pagar internet comunitario
 
 Created: 24 de febrero de 2025 7:21
 Autor: Sanjay
@@ -31,17 +30,7 @@ recursos/personas: 3: Más de 3 personas
 recursos/tiempo: 3: Semanas
 2025-prueba: No
 
-*Descarga esta solución para usarla desconectado*
 
-[Haz_una_colecta_para_pagar_internet_comunitario_20250729.pdf](/downloads/haz-una-colecta-para-pagar-internet-comunitario-20250729.pdf)
-
-*Download this solution to use it disconnected*
-
-[Look_for_ funding_to_pay_for_community_internet_20250729.pdf](/downloads/look-for-funding-to-pay-for-community-internet-20250729.pdf)
-
-### índice
-
-## Bienvenida
 
 Hola, soy Sanjay y una de mis grandes empresas es darle uso comunitario a los recursos que tenemos disponibles. Me gusta cacharrear, sí, pero también me interesan las maneras en las que los humanos nos coordinamos para vivir mejor juntos. 
 
@@ -80,13 +69,13 @@ Estas recomendaciones son relevantes a la hora de hacer colectas de dinero con f
     
     En este caso **¿qué es eso que nos une en esta colecta, que nos inspira a movernos para conseguir los fondos?** Cuando estés estableciendo el propósito de algún proyecto es momento de preguntarnos incansablemente el *para qué*, hasta que estemos convencidos.
     
-    [Hacer SOLE](/como-hacer-sole-tutorial-inspiration-db) es una gran manera de encontrar un propósito para la colecta, además de pagarlo entre todos, pueden aprender, dialogar y crear comunidades florecientes, usando el internet en grupo. Pagar el internet entre todos ¡permite usarlo para hacer SOLE, o para cualquier cosa que se les ocurra!
+    [Hacer SOLE](es/inspire/como-hacer-sole-tutorial-inspiration-db) es una gran manera de encontrar un propósito para la colecta, además de pagarlo entre todos, pueden aprender, dialogar y crear comunidades florecientes, usando el internet en grupo. Pagar el internet entre todos ¡permite usarlo para hacer SOLE, o para cualquier cosa que se les ocurra!
     
     Por ejemplo:
     
     - ¿Para qué queremos internet en un lugar de acceso público? Para que las personas de mi comunidad puedan aprender nuevas cosas que necesiten o que quieran aprender, conversar y dialogar con otras personas y comunidades en una Gran Conversación, y tomar acción de forma autoorganizada para vivir mejor juntos.
     - ¿Para qué queremos que las personas de nuestra comunidad puedan aprender juntos? Para que no sea necesario depender exclusivamente de los espacios de aprendizaje y personas relacionadas con el sistema educativo, para darnos cuenta de que cualquier persona puede aprender cualquier cosa, usando internet. ¿Por qué en grupo? Porque ir solo a cualquier parte es un camino difícil, en cambio, cuando lo hacemos juntos, se hace mejor.
-    - ¿Para qué queremos que puedan conversar a través de internet? Interactuar con otras personas con el objetivo de aprender o de que otros puedan ser parte de nuestra vida siempre nos hace sentir mejor. Aprender juntos cuando hay otras personas que participan de nuestros hallazgos y con quienes podemos recorrer el camino juntos, nos hace sentir que lo que aprendemos trasciende y es más grande que nosotros. Si las personas conectamos unas con otras a través de internet es porque nos interesamos mutuamente y podemos acompañarnos, no estamos solos en el camino... ¿Quieres conectar con personas alrededor del mundo en tus sesiones de SOLE? ¡Echa un vistazo a [La Nube de Abuelitas SOLE](https://www.solecolombia.org/comunidad)! Son personas voluntarias de todas partes del mundo, que se conectan a las sesiones de SOLE para acompañar, brindar cálido aliento, compartir, aprender y divertirse juntos.
+    - ¿Para qué queremos que puedan conversar a través de internet? Interactuar con otras personas con el objetivo de aprender o de que otros puedan ser parte de nuestra vida siempre nos hace sentir mejor. Aprender juntos cuando hay otras personas que participan de nuestros hallazgos y con quienes podemos recorrer el camino juntos, nos hace sentir que lo que aprendemos trasciende y es más grande que nosotros. Si las personas conectamos unas con otras a través de internet es porque nos interesamos mutuamente y podemos acompañarnos, no estamos solos en el camino... ¿Quieres conectar con personas alrededor del mundo en tus sesiones de SOLE? ¡Echa un vistazo a [La Nube de Abuelitas SOLE](/es/inspire/insp-granny-cloud.md)! Son personas voluntarias de todas partes del mundo, que se conectan a las sesiones de SOLE para acompañar, brindar cálido aliento, compartir, aprender y divertirse juntos.
     - ¿Para qué queremos colaborar a que nuestra comunidad pueda florecer? ¡Para que tengamos todos una vida más feliz, completa y sabrosa!
     
     ¿Tiene sentido tener internet de acceso público en nuestra comunidad? ¡Por supuesto!
@@ -117,7 +106,7 @@ Estas recomendaciones son relevantes a la hora de hacer colectas de dinero con f
     
     Así, si le interesa y puede ser parte de esta colecta, ¡súmese a esta lista! ¡ya pronto podremos tener internet para nosotros! 
     
-    Todos los gastos y pagos de los recibos los enviaré el primero de cada mes a un grupo de [***WhatsApp***](/whatsapp-wapp-conceptorio) y por ahí podremos estar al tanto de cualquier novedad 
+    Todos los gastos y pagos de los recibos los enviaré el primero de cada mes a un grupo de [***WhatsApp***](es/glossary/whatsapp-wapp-conceptorio) y por ahí podremos estar al tanto de cualquier novedad 
     
     ¿Se suma a la causa?
 
@@ -151,33 +140,13 @@ El siguiente paso sería cómo mejorar las condiciones de esta conectividad, sin
 
 ## Soluciones relacionadas
 
-- [Crea un mensaje potente](/crea-un-mensaje-potente-solutions-db) | [Create a powerful message](/create-a-powerful-message-solutions-db)
-- [Descubre a tu audiencia](/descubre-a-tu-audiencia-solutions-db) | [Discover your audience](/discover-your-audience-solutions-db)
-- [**¿Necesito comprar una antena 3G/4G? Cómo tomar la decisión**](/necesito-comprar-una-antena-3g-4g-como-tomar-la-decision-solutions-db)  | [**Do I need to buy a 3G/4G antenna? How to make the decision**](/do-i-need-to-buy-a-3g-4g-antenna-how-to-make-the-decision-solutions-db)
+- [**Crea un mensaje potente**](es/solve/crea-un-mensaje-potente-solutions-db) 
+- [**Descubre a tu audiencia**](es/solve/descubre-a-tu-audiencia-solutions-db) 
+- [**¿Necesito comprar una antena 3G/4G? Cómo tomar la decisión**](es/solve/necesito-comprar-una-antena-3g-4g-como-tomar-la-decision-solutions-db)  
 
 ## Referencias
 
-- [https://www.gofundme.com/es-es/c/fundraising-ideas/schools](https://www.gofundme.com/es-es/c/fundraising-ideas/schools)
-- [https://www.gofundme.com/es-es/c/fundraising-ideas/fast](https://www.gofundme.com/es-es/c/fundraising-ideas/fast)
+- [Goofundme](https://www.gofundme.com/es-es/c/fundraising-ideas/schools)
+- [Gofundme](https://www.gofundme.com/es-es/c/fundraising-ideas/fast)
 
-[https://notionreactions.com/embed/7rUVdJsh3A15CL1ZnKIP](https://notionreactions.com/embed/7rUVdJsh3A15CL1ZnKIP)
 
----
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)

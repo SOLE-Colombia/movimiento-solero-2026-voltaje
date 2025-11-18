@@ -4,10 +4,9 @@ lang: es
 slug: que-internet-satelital-elegir-segun-mis-necesidades-solutions-db
 aspectos:
 - señal
-fecha: '2025-10-11'
+fecha: '2025-10-25'
 ---
 
-# ¿Qué Internet satelital elegir, según mis necesidades?
 
 Created: 25 de octubre de 2024 13:36
 Autor: Nicolás
@@ -18,21 +17,12 @@ Ayudantes: Nadie
 Tardas: Horas
 2025-prueba: No
 
-*Descarga esta solución para usarla desconectado*
 
-[Que_Internet_satelital_elegir_segun_mis_necesidades_20250729.pdf](/downloads/que-internet-satelital-elegir-segun-mis-necesidades-20250729.pdf)
-
-*Download this solution to use it disconnected*
-
-[Which_satellite_Internet_to_choose_according_to_my_needs_20250719.pdf](/downloads/which-satellite-internet-to-choose-according-to-my-needs-20250719.pdf)
-
-### índice
 
 # Invierte bien tu dinero para instalar Internet
 
-<img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Antena 3 4G](assets/images/solv-chooseinternet/solv-chooseinternet-tower.webp)
 
-## Bienvenida
 
 Hola, soy Nicolás y, al igual que tú, he estado aprendiendo sobre cómo mejorar mi conexión a internet. No soy un experto en el tema, pero buscando, haciendo tutoriales y aprendiendo de la prueba y el error he trabajado mejorando la calidad del internet en lugares que no tienen buena conectividad. 
 
@@ -52,7 +42,7 @@ Esta solución sirve para que puedas decidir cuál es el internet satelital que 
 
 En esta solución abordaremos las ventajas y desventajas de tres soluciones diferentes para que puedas tomar una decisión consciente y responsable: **antena parabólica, WiMax o Starlink.**
 
- ****Antes de empezar, sugerimos que, en caso de decidir comprar algunas de las opciones presentadas en esta solución, puedas pagarla junto con otras personas y así disfrutarán de un uso comunitario del internet. 
+ **Antes de empezar, sugerimos que, en caso de decidir comprar algunas de las opciones presentadas en esta solución, puedas pagarla junto con otras personas y así disfrutarán de un uso comunitario del internet.**
 
 ## **Antes de empezar, algunas cuestiones éticas**
 
@@ -73,30 +63,30 @@ Si por el contrario respondiste no a todas las preguntas anteriores, cuentas con
 En esta solución trabajaremos tres tecnologías disponibles en Colombia: Internet satelital, WiMax y Starlink para el año 2024. El tiempo estimado de lectura  de esta solución es de unos **15 minutos,** pero no te asustes, puedes leer estas recomendaciones con ayuda de otras personas. Recuerda que en SOLE Voltaje queremos promover el uso colectivo del internet. 
 
 - **Internet satelital**
-    
-    
-    La opción más popular de internet en la ruralidad es el internet por satélite. Aunque el nombre se explica a sí mismo, se trata de la conexión a internet mediante satélites. La gran ventaja de esta opción es que puede llegar a cualquier lugar, ¡Incluidas las áreas rurales más apartadas! Para acceder a esta tecnología la compañía deberá instalar una antena parabólica en tu casa.
-    
-    <img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
-    
+
+
+La opción más popular de internet en la ruralidad es el internet por satélite. Aunque el nombre se explica a sí mismo, se trata de la conexión a internet mediante satélites. La gran ventaja de esta opción es que puede llegar a cualquier lugar, ¡Incluidas las áreas rurales más apartadas! Para acceder a esta tecnología la compañía deberá instalar una antena parabólica en tu casa.
+
+![Antena Parabólica](assets/images/solv-chooseinternet/solv-chooseinternet-parabaolic.webp)
+
 - **WiMax**
-    
-    
-    ![Imagen tomada de wikipedia, [https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg](https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg) ](%C2%BFQu%C3%A9%20Internet%20satelital%20elegir,%20seg%C3%BAn%20mis%20necesida%2012a2bd68c5b6803f9042e811506863cb/Alvarion_CPE.jpg)
-    
-    Imagen tomada de wikipedia, [https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg](https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg) 
-    
-    El funcionamiento de WiMAX es sencillo, ya que es un [repetidor](https://www.notion.so/36208321934045179a1bd4fef5a01720?pvs=21) de la empresa que quieres contratar emitiendo las señales de microondas que te llegan a la antena. Por lo tanto, lo primero que necesitas es contactar con una empresa que ofrezca estos servicios y que tenga un repetidor cerca de tu casa para poder enviarte la señal. Luego, tienes que poner una  antena en la fachada de tu casa. Esta antena tendrá que apuntar directamente al repetidor de la empresa que te va a dar el servicio o a un punto de conexión intermedio que se utilice para salvar los obstáculos que se interpongan entre tu antena y su repetidor. La instalación de la antena la hará la propia compañía.
-    
+
+
+![WiMax](assets/images/solv-chooseinternet/solv-chooseinternet-antenna.webp)
+
+Imagen tomada de [Wikipedia](https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg) 
+
+El funcionamiento de WiMAX es sencillo, ya que es un [repetidor](es/glossary/modem-router-o-enrutador-modem-or-router-conceptorio.md) de la empresa que quieres contratar emitiendo las señales de microondas que te llegan a la antena. Por lo tanto, lo primero que necesitas es contactar con una empresa que ofrezca estos servicios y que tenga un repetidor cerca de tu casa para poder enviarte la señal. Luego, tienes que poner una  antena en la fachada de tu casa. Esta antena tendrá que apuntar directamente al repetidor de la empresa que te va a dar el servicio o a un punto de conexión intermedio que se utilice para salvar los obstáculos que se interpongan entre tu antena y su repetidor. La instalación de la antena la hará la propia compañía.
+
 - **Starlink**
-    
-    
-    ![Imagen tomada de Starlink, [https://www.starlink.com/es/specifications](https://www.starlink.com/es/specifications) ](%C2%BFQu%C3%A9%20Internet%20satelital%20elegir,%20seg%C3%BAn%20mis%20necesida%2012a2bd68c5b6803f9042e811506863cb/Starlink_StandardActuated_500x500.png)
-    
-    Imagen tomada de Starlink, [https://www.starlink.com/es/specifications](https://www.starlink.com/es/specifications) 
-    
-    Starlink es el proyecto de Internet por satélite de Elon Musk. Se trata de un internet satelital particular que facilita las conexiones especialmente en las zonas rurales. La compañía se considera la primera y más grande constelación de satélites del mundo que utiliza una órbita terrestre baja para ofrecer Internet satelital de banda ancha, alta velocidad y baja latencia. Esto permite ver contenidos por streaming, jugar online, hacer videollamadas y más.
-    Para ponerlo en funcionamiento, el usuario compra un kit con todo lo necesario, entre lo que destaca la antena que deberá colocarse en el exterior y que se orienta automáticamente para establecer conexión en cuestión de minutos, siempre que tenga el cielo despejado.
+
+
+![Starlink](assets/images/solv-chooseinternet/solv-chooseinternet-starlink.webp)
+
+Imagen tomada de [Starlink](https://www.starlink.com/es/specifications) 
+
+Starlink es el proyecto de Internet por satélite de Elon Musk. Se trata de un internet satelital particular que facilita las conexiones especialmente en las zonas rurales. La compañía se considera la primera y más grande constelación de satélites del mundo que utiliza una órbita terrestre baja para ofrecer Internet satelital de banda ancha, alta velocidad y baja latencia. Esto permite ver contenidos por streaming, jugar online, hacer videollamadas y más.
+Para ponerlo en funcionamiento, el usuario compra un kit con todo lo necesario, entre lo que destaca la antena que deberá colocarse en el exterior y que se orienta automáticamente para establecer conexión en cuestión de minutos, siempre que tenga el cielo despejado.
     
 
 Ya tenemos una introducción de las opciones disponibles, ahora vamos al momento queremos que conozcas los criterios que debes tener en cuenta para escoger la opción que más te conviene.
@@ -109,9 +99,9 @@ Aunque este análisis lo hicimos en 2024 para Colombia, puede ser útil para otr
 
 ### **Presupuesto: ¿Cuánto dinero puedo pagar?**
 
-- El costo de servicio de **WiMax** puede estar  desde **$150,000 COP** al mes con un pago por los equipos entre **$300.000 COP** y **$2.000.000 COP** dependiendo de la compañía con la que quieras contratar
-- El costo del servicio de **internet satelital** puede estar desde **$150.000 COP** al mes con un pago por los equipos entre **$300.000 COP** y **$2.000.000 COP** dependiendo de la compañía con la que quieras contratar.
-- El costo del servicio de **Starlink** puede estar desde **$180.000 COP** al mes con un pago único por el equipo de **$1.900.000 COP.**
+- El costo de servicio de **WiMax** puede estar  desde **\$150,000 COP** al mes con un pago por los equipos entre **\$300.000 COP** y **\   $2.000.000 COP** dependiendo de la compañía con la que quieras contratar
+- El costo del servicio de **internet satelital** puede estar desde **\$150.000 COP** al mes con un pago por los equipos entre **\$300.000 COP** y **\$2.000.000 COP** dependiendo de la compañía con la que quieras contratar.
+- El costo del servicio de **Starlink** puede estar desde **\$180.000 COP** al mes con un pago único por el equipo de **\$1.900.000 COP.**
 
 ### **Condiciones climáticas: ¿Puede el clima afectar la señal del internet?**
 
@@ -131,31 +121,12 @@ Aunque este análisis lo hicimos en 2024 para Colombia, puede ser útil para otr
 
 Por latencia por referiremos al tiempo que tarda la señal en viajar desde el satélite hasta la Tierra. Para el caso de **Starlink** el Internet de banda ancha es de alta velocidad y baja latencia. Tendrá latencias de alrededor de 20ms, comparado con la media de 600ms. 
 
-Por su parte, **WiMax** permite tener una conexión rápida y fluida con bajas [latencias](/latencia-latency-conceptorio). 
+Por su parte, **WiMax** permite tener una conexión rápida y fluida con bajas [latencias](es/glossary/latencia-latency-conceptorio.md). 
 
 Ahora bien, la velocidad del **internet satelital** puede ser menor en comparación con las conexiones terrestres. Esto puede afectar las actividades en tiempo real, como videoconferencias o juegos en línea, donde incluso pequeños retrasos pueden ser notables.
 
 ## Soluciones relacionadas
 
-- [**¿Necesito comprar una antena 3G/4G? Cómo tomar la decisión**](/necesito-comprar-una-antena-3g-4g-como-tomar-la-decision-solutions-db) | [**Do I need to buy a 3G/4G antenna? How to make the decision**](/do-i-need-to-buy-a-3g-4g-antenna-how-to-make-the-decision-solutions-db)
-- [¿Tu comunidad necesita apoyo económico para conectarse a Internet? ](/tu-comunidad-necesita-apoyo-economico-para-conectarse-a-internet-solutions-db) | [Does your community need financial support to connect to the Internet? ](/does-your-community-need-financial-support-to-connect-to-the-internet-solutions-db)
+- [**¿Necesito comprar una antena 3G/4G? Cómo tomar la decisión**](es/solve/necesito-comprar-una-antena-3g-4g-como-tomar-la-decision-solutions-db) 
+- [**¿Tu comunidad necesita apoyo económico para conectarse a Internet?**](es/solve/tu-comunidad-necesita-apoyo-economico-para-conectarse-a-internet-solutions-db) 
 
-[https://notionreactions.com/embed/sYlZW37eDvFb1Y6Iid1l](https://notionreactions.com/embed/sYlZW37eDvFb1Y6Iid1l)
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)

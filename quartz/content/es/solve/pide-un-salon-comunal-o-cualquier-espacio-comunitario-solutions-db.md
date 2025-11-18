@@ -5,10 +5,9 @@ slug: pide-un-salon-comunal-o-cualquier-espacio-comunitario-solutions-db
 aspectos:
 - personas
 - espacio
-fecha: '2025-10-11'
+fecha: '2024-10-25'
 ---
 
-# Pide un Salón Comunal, o cualquier espacio comunitario
 
 Created: 25 de octubre de 2024 13:36
 Autor: Manuela
@@ -19,19 +18,9 @@ Ayudantes: 2-3 personas
 Tardas: Días
 2025-prueba: No
 
-*Descarga esta solución para usarla desconectado*
-
-[Pide_un_Salon_Comunal_o_cualquier_espacio_comunitario_20250729.pdf](/downloads/pide-un-salon-comunal-o-cualquier-espacio-comunitario-20250729.pdf)
-
-*Download this solution to use it disconnected*
-
-[Request_a_Community_Room_or_any_community_space_20250729.pdf](/downloads/request-a-community-room-or-any-community-space-20250729.pdf)
-
-### índice
 
 # Los espacios públicos también son tuyos
 
-## Bienvenida
 
 Hola, soy Manu. Como Exploradora SOLE he tenido que aprender a solicitar los espacios comunitarios en los lugares donde hemos ido a hacer SOLE y sé que no siempre es fácil saber por dónde empezar. 
 
@@ -65,11 +54,11 @@ Acá te cuento algunos pasos que puedes seguir para reservar el salón comunal m
     
     Anímales también a participar de tu actividad, por  ejemplo, si vas a hacer un SOLE, puedes invitarlos a que se conviertan en participantes.
     
-    <img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+   ![Acercate](assets/images/solv-communityspace/solv-communityspace-investigation.webp)
     
 - **Momento 2: Pregunta los requerimientos, qué necesitas para formalizar la solicitud**
     
-    <img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+    ![Preguntas](assets/images/solv-communityspace/solv-communityspace-light.webp)
     
     Una vez ya estés en contacto con las personas encargadas, pregúntales qué  disponibilidad hay en el lugar y qué requerimientos necesitas, o cómo puedes reservarlo.
     
@@ -96,49 +85,48 @@ Acá te cuento algunos pasos que puedes seguir para reservar el salón comunal m
     
     Así se vería esta fórmula escrita:
     
-    
-💡 Vereda El Montecillo
-    Municipio de Arracachal
-    
-    13 de febrero de 2038
-    
-    Buenos días,
-    
-    Mi nombre es (tu nombre completo), estoy identificado con la CC No. (Número Cédula), y me pongo en contacto con ustedes para solicitar el uso del (nombre del espacio o salón de reunión) para llevar a cabo una actividad, en compañía de personas de la comunidad.
-    
-    Mi idea es utilizar el espacio para aprender, dialogar y solucionar algunos retos de mi comunidad que identificaremos en la reunión, usando Internet en grupo.
-    
-    Los detalles de la reunión son:
-    - Fecha: el (día de la semana), (día) de (mes) de (año)
-    - Hora: a las (hora)
-    - Número de personas: nos reuniremos (número) personas
-    - Duración del encuentro: (tiempo)
-    
-    Para llevar a cabo la actividad, necesitamos algunas condiciones y mobiliario: una silla por persona, algunas mesas donde poder ubicar algunos computadores y posibilidad para enchufarlos (para que no se queden sin batería). También es necesario tener disponible electricidad y conexión a Internet. 
-    
-    Nos comprometemos a cuidar el espacio común y a cumplir las normas de uso en este espacio de todos.
-    
-    Pueden contactar conmigo en el (número de teléfono) o a través de (otro medio de contacto).
-    
-    Muchas gracias por su atención, espero sus noticias
-    
-    (Nombre de quién firma).
 
-    
-    <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
-    
-    *Recuerda que este es sólo un ejemplo, puedes elaborar la carta como tú quieras. No olvides preguntar a la persona encargada qué información, datos o  anexos debes incluir en el documento.*
-    
+💡 Vereda El Montecillo
+Municipio de Arracachal
+
+13 de febrero de 2038
+
+Buenos días,
+
+Mi nombre es (tu nombre completo), estoy identificado con la CC No. (Número Cédula), y me pongo en contacto con ustedes para solicitar el uso del (nombre del espacio o salón de reunión) para llevar a cabo una actividad, en compañía de personas de la comunidad.
+
+Mi idea es utilizar el espacio para aprender, dialogar y solucionar algunos retos de mi comunidad que identificaremos en la reunión, usando Internet en grupo.
+
+Los detalles de la reunión son:
+- Fecha: el (día de la semana), (día) de (mes) de (año)
+- Hora: a las (hora)
+- Número de personas: nos reuniremos (número) personas
+- Duración del encuentro: (tiempo)
+
+Para llevar a cabo la actividad, necesitamos algunas condiciones y mobiliario: una silla por persona, algunas mesas donde poder ubicar algunos computadores y posibilidad para enchufarlos (para que no se queden sin batería). También es necesario tener disponible electricidad y conexión a Internet. 
+
+Nos comprometemos a cuidar el espacio común y a cumplir las normas de uso en este espacio de todos.
+
+Pueden contactar conmigo en el (número de teléfono) o a través de (otro medio de contacto).
+
+Muchas gracias por su atención, espero sus noticias
+
+(Nombre de quién firma).
+
+![Firma](assets/images/solv-communityspace/solv-communityspace-sign.webp)
+
+*Recuerda que este es sólo un ejemplo, puedes elaborar la carta como tú quieras. No olvides preguntar a la persona encargada qué información, datos o  anexos debes incluir en el documento.*
+
 - **Momento 4: Solicita un contacto para hacer seguimiento y solicita la confirmación, no esperes demasiado**
-    
-    Puede pasar que tu confirmación requiera pasar unos filtros o que el proceso tarde un poco. Aunque no debes perder la calma, no está de más que solicites los datos de la persona de contacto para hacer seguimiento del proceso, así te asegurarás de que puedes planificar y hacer realidad tu actividad en los plazos que habías ideado.
-    
+
+Puede pasar que tu confirmación requiera pasar unos filtros o que el proceso tarde un poco. Aunque no debes perder la calma, no está de más que solicites los datos de la persona de contacto para hacer seguimiento del proceso, así te asegurarás de que puedes planificar y hacer realidad tu actividad en los plazos que habías ideado.
+
 - **Momento 5: Agradece la gestión y celebra, ¡has encontrado un aliado en tu comunidad!**
-    
-    Una vez te confirmen que puedes usar el espacio, no olvides agradecerle a la persona encargada con la que tuviste contacto desde el principio. 
-    
-    Puedes escribirle un correo, un mensaje de WhatsApp o saludarla por la calle recordándole lo importante que fue su apoyo para conseguir llevar a cabo la actividad. Es un buen aliado para futuras ocasiones en las que quieras volver a usar el salón comunal.
-    
+
+Una vez te confirmen que puedes usar el espacio, no olvides agradecerle a la persona encargada con la que tuviste contacto desde el principio. 
+
+Puedes escribirle un correo, un mensaje de WhatsApp o saludarla por la calle recordándole lo importante que fue su apoyo para conseguir llevar a cabo la actividad. Es un buen aliado para futuras ocasiones en las que quieras volver a usar el salón comunal.
+
 
 ¡Cuéntanos cómo te fue reservando el Salón Comunal de tu vereda, comunidad o conjunto! :)
 
@@ -156,25 +144,8 @@ Muchas veces es suficiente con recordar a la persona con quien hiciste la solici
 
 ## Soluciones recomendadas
 
-- [Descubre a tu audiencia](/descubre-a-tu-audiencia-solutions-db) |[Discover your audience](/discover-your-audience-solutions-db)
-- [Difunde tu mensaje ](/difunde-tu-mensaje-solutions-db) |[Spread your message ](/spread-your-message-solutions-db)
+- [Descubre a tu audiencia](es/solve/descubre-a-tu-audiencia-solutions-db) 
+- [Difunde tu mensaje ](es/solve/difunde-tu-mensaje-solutions-db) 
 
-[https://notionreactions.com/embed/j4vdAH4A1IArwGwyZOhW](https://notionreactions.com/embed/j4vdAH4A1IArwGwyZOhW)
 
----
 
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
