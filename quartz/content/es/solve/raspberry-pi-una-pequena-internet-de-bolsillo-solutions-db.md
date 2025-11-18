@@ -6,10 +6,9 @@ aspectos:
 - señal
 - dispositivos
 - personas
-fecha: '2025-10-11'
+fecha: '2025-07-15'
 ---
 
-# Raspberry Pi: Una pequeña Internet de bolsillo
 
 Created: 15 de julio de 2025 17:49
 Autor: Gabriel
@@ -20,17 +19,16 @@ Ayudantes: 2-3 personas
 Tardas: Horas
 2025-prueba: No
 
-### índice
+
 
 # **Instala un servidor web en un computador de bolsillo**
 
-## Bienvenida
 
 Hola, soy Gabriel. Soy artista. Los aparatos digitales, su funcionamiento y la forma en la que los humanos interactuamos con ellos, me resultan interesantes. Me considero un cacharrero y te invito, si quieres, a que tú también lo seas.
 
 ## ¿Qué es un RaspberryPi, o una Internet de bolsillo?
 
-Esta solución te servirá para crear una pequeña internet en tu [**red local**](/lan-red-local-lan-local-area-network-conceptorio) con pocos recursos. 
+Esta solución te servirá para crear una pequeña internet en tu [**red local**](es/glossary/lan-red-local-lan-local-area-network-conceptorio) con pocos recursos. 
 
 Al instalar, y configurar, un servidor en la red, tu comunidad podrá acceder a los contenidos hospedados en él desde sus computadores o teléfonos. De esta manera podrán tener, por ejemplo, una copia de la wikipedia para que todos la puedan revisar cuando la necesiten, sin necesidad de acceder a Internet para ello.
 
@@ -40,7 +38,7 @@ Si hablamos de utilizar el Internet para solucionar Grandes Preguntas y retos de
 
 Tener contenidos descargables sin conexión, les permitirá investigar y llegar a algunas conclusiones, que pueden ampliar en otro momento con conexión a Internet o cuando puedan conectar una Abuelita. 
 
-¿Quieres saber más de cómo convertir tu espacio en un lugar para aprender, o quiénes son las Abuelitas de la Nube? Visita [https://www.solecolombia.org/solea](https://www.solecolombia.org/solea) para aprender cómo y navega por el sitio para saber más sobre la Nube de Abuelitas que puede apoyar los procesos de aprendizaje que sucedan en tu espacio.
+¿Quieres saber más de cómo convertir tu espacio en un lugar para aprender, o quiénes son las Abuelitas de la Nube? Visita [Solecolombia.org](https://www.solecolombia.org/solea) para aprender cómo y navega por el sitio para saber más sobre la Nube de Abuelitas que puede apoyar los procesos de aprendizaje que sucedan en tu espacio.
 
 ## ¿Cómo saber si lo necesitas?
 
@@ -52,11 +50,11 @@ Aún cuando sus prestaciones son muchas y evidentes, esta es una solución que r
 
 ## ¿Qué necesitas?
 
-- [**Raspberry Pi**](/raspberry-pi-conceptorio)
-- Tarjeta [**MicroSD**](/memoria-sd-minisd-microsd-sd-minisd-microsd-memory-conceptorio) 32 GB **clase 10**
-- Fuente de alimentación para el **Raspberry Pi** - revisa las especificaciones en [Raspberry Pi](/raspberry-pi-conceptorio)
-- [Cable de Ethernet](/conexion-cable-ethernet-ethernet-cable-connection-conceptorio)
-- Adaptador de memoria [**MicroSD**](/memoria-sd-minisd-microsd-sd-minisd-microsd-memory-conceptorio) a [USB](/conexion-usb-usd-connection-conceptorio).
+- [**Raspberry Pi**](es/glossary/raspberry-pi-conceptorio)
+- Tarjeta [**MicroSD**](es/glossary/memoria-sd-minisd-microsd-sd-minisd-microsd-memory-conceptorio) 32 GB **clase 10**
+- Fuente de alimentación para el **Raspberry Pi** - revisa las especificaciones en [Raspberry Pi](es/glossary/raspberry-pi-conceptorio)
+- [Cable de Ethernet](es/glossary/conexion-cable-ethernet-ethernet-cable-connection-conceptorio)
+- Adaptador de memoria [**MicroSD**](es/glossary/memoria-sd-minisd-microsd-sd-minisd-microsd-memory-conceptorio) a [USB](es/glossary/conexion-usb-usd-connection-conceptorio).
 - Caja para RPI (opcional)
 - Conexión a Internet
 - Un computador
@@ -76,7 +74,7 @@ Aún cuando sus prestaciones son muchas y evidentes, esta es una solución que r
         
         Para instalarlo en tu computador visita [https://www.raspberrypi.com/software/](https://www.raspberrypi.com/software/). Allí puedes descargar la versión del Raspberry Pi Imager que funcione en tu sistema operativo (Windows, Linux o Mac) una vez lo instales puedes continuar con el siguiente paso.
         
-        <img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+        ![Descarga](assets/images/solv-raspberrypi-pocketinternet/solv-raspberrypi-pocketinternet-install.webp)
         
     - **Conecta la MicroSD a tu computador**
         
@@ -88,26 +86,26 @@ Aún cuando sus prestaciones son muchas y evidentes, esta es una solución que r
         
     - **Abre el Raspberry Pi Imager y elige tu sistema operativo**
         
-        <img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+        ![Raspberry Pi Imager](assets/images/solv-raspberrypi-pocketinternet/solv-raspberrypi-pocketinternet-screenshot.webp)
         
 - **Momento 2: Conecta tu Pi**
     - **Ubícalo en el Pi Imager**
         
-        Ahora que ya está nuestro Pi conectado a la corriente, y a nuestra [**red local](/lan-red-local-lan-local-area-network-conceptorio),** debemos ubicarlo para poder conectarnos a él. 
+        Ahora que ya está nuestro Pi conectado a la corriente, y a nuestra [**red local](es/glossary/lan-red-local-lan-local-area-network-conceptorio),** debemos ubicarlo para poder conectarnos a él. 
         
-        Antes de esto, una pequeña nota: **los pasos que vienen a continuación los realizaremos por medio de un** [Terminal](/terminal-o-consola-terminal-or-console-conceptorio). Si usas un [sistema operativo](../../Conceptorio 12a2bd68c5b6808baf3be5e67cddb488/Conceptorio 1624106bff984c4590342afeae3e5e0d/Sistema operativo (SO)%20Operating%20system%20(OS)%202342bd68c5b68003b66beb552afaa17a.md) tipo Unix (Linux, MacOs), simplemente, busca el terminal y ahí podrás seguir los pasos (más abajo tienes cómo hacerlo). Si usas Windows, puedes usar el [CMD](/simbolo-de-sistema-cmd-command-prompt-cmd-conceptorio) en este paso y, para conectarte al Pi, puedes usar [Putty](https://www.putty.org/).
+        Antes de esto, una pequeña nota: **los pasos que vienen a continuación los realizaremos por medio de un** [Terminal](es/glossary/terminal-o-consola-terminal-or-console-conceptorio). Si usas un [sistema operativo](../../Conceptorio 12a2bd68c5b6808baf3be5e67cddb488/Conceptorio 1624106bff984c4590342afeae3e5e0d/Sistema operativo (SO)%20Operating%20system%20(OS)%202342bd68c5b68003b66beb552afaa17a.md) tipo Unix (Linux, MacOs), simplemente, busca el terminal y ahí podrás seguir los pasos (más abajo tienes cómo hacerlo). Si usas Windows, puedes usar el [CMD](es/glossary/simbolo-de-sistema-cmd-command-prompt-cmd-conceptorio) en este paso y, para conectarte al Pi, puedes usar [Putty](https://www.putty.org/).
         
-        Para ubicar el Pi en un Terminal usamos el [programa ping](/programa-ping-ping-program-conceptorio), este intentará enviar un pequeño paquete de datos a la dirección que le indiquemos y nos dirá entre otras cosas la dirección [**IP**](https://sole-doc.tiddlyhost.com/#IP) del computador. 
+        Para ubicar el Pi en un Terminal usamos el [programa ping](es/solve/programa-ping-ping-program-conceptorio), este intentará enviar un pequeño paquete de datos a la dirección que le indiquemos y nos dirá entre otras cosas la dirección [**IP**](https://sole-doc.tiddlyhost.com/#IP) del computador. 
         
         Acá vamos a hacer uso del nombre que le pusimos a nuestro Pi, en nuestro caso *solevoltaje*. En el terminal escribimos `ping solevoltaje.local` el programa nos responde entre otras cosas con la [**IP**](https://sole-doc.tiddlyhost.com/#IP) `192.168.0.25`, lo que indica que nuestro Pi está disponible para que nos conectemos y empecemos a trabajar.
         
-        <img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp" alt="image.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 2-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+        ![Ping](assets/images/solv-raspberrypi-pocketinternet/solv-raspberrypi-pocketinternet-config.webp)
         
     - **Conéctate al Pi**
         
-        Para que la conexión entre tu Pi y el resto de dispositivos sea segura, nos conectamos por medio de un [Protocolo SSH](/protocolo-ssh-ssh-protocol-conceptorio) a nuestro Pi. Para ello, escribimos en nuestra terminal `ssh solevoltaje@solevoltaje.local` o con la [Dirección IP](/direccion-ip-ip-address-conceptorio) `ssh solevoltaje@192.168.0.25`
+        Para que la conexión entre tu Pi y el resto de dispositivos sea segura, nos conectamos por medio de un [Protocolo SSH](es/glossary/protocolo-ssh-ssh-protocol-conceptorio) a nuestro Pi. Para ello, escribimos en nuestra terminal `ssh solevoltaje@solevoltaje.local` o con la [Dirección IP](es/glossary/direccion-ip-ip-address-conceptorio) `ssh solevoltaje@192.168.0.25`
         
-        Recuerda que debemos colocar nuestro [nombre de usuario](/nombre-de-usuario-username-conceptorio) y [nombre de dominio](/nombre-de-dominio-domain-name-conceptorio) o [**IP**](https://sole-doc.tiddlyhost.com/#IP) en los parámetros que entregamos a **SSH** `ssh <nombre de usuario>@<nombre de dominio>`. 
+        Recuerda que debemos colocar nuestro [nombre de usuario](es/glossary/nombre-de-usuario-username-conceptorio) y [nombre de dominio](es/glossary/nombre-de-dominio-domain-name-conceptorio) o [**IP**](https://sole-doc.tiddlyhost.com/#IP) en los parámetros que entregamos a **SSH** `ssh <nombre de usuario>@<nombre de dominio>`. 
         
         Tan pronto se establezca la conexión, el sistema nos pedirá la contraseña. Escribe la misma que ingresaste en la configuración en los pasos anteriores y termina presionando la tecla `enter`.
         

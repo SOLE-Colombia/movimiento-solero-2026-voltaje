@@ -4,10 +4,8 @@ lang: es
 slug: crea-un-mensaje-potente-solutions-db
 aspectos:
 - personas
-fecha: '2025-10-11'
+fecha: '2024-10-25'
 ---
-
-# Crea un mensaje potente
 
 Created: 25 de octubre de 2024 13:36
 Autor: Manuela
@@ -18,19 +16,10 @@ Ayudantes: Una persona
 Tardas: Horas
 2025-prueba: Yes
 
-*Descarga esta solución para usarla desconectado*
-
-[Crea_un_mensaje_potente_20250729.pdf](/downloads/crea-un-mensaje-potente-20250729.pdf)
-
-*Download this solution to use it disconnected*
-
-[Create_a_powerful_message_20250729.pdf](/downloads/create-a-powerful-message-20250729.pdf)
-
-### índice
 
 # Un mensaje potente puede cambiar el mundo, conecta con tu propósito
 
-## Bienvenida
+
 
 ¡Hola! Soy Manu, la cuentera de SOLE Colombia y hoy quiero hablarte sobre el poder de un mensaje.
 
@@ -56,7 +45,7 @@ Crear un mensaje potente, enfocado desde el propósito, implica conectar emocion
 
 ## ¿Cómo hacerlo?
 
-[Vídeo sin título ‐ Hecho con Clipchamp (5).mp4](Crea un mensaje potente 12a2bd68c5b680c198cee71d7d6322e7/Vdeo_sin_ttulo__Hecho_con_Clipchamp_(5).mp4)
+![Video](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/a6e3ad9c-19b6-46e9-8ef3-2184ad609e21/Vdeo_sin_ttulo__Hecho_con_Clipchamp_(5).mp4?table=block&id=12a2bd68-c5b6-81cc-a580-d32a8d9dbe02&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763503200000&signature=QmRo3r8m4m7r8d43PlHxaKPC3JDRNYENcmzHwc43-lc&downloadName=V%C3%ADdeo+sin+t%C3%ADtulo+%E2%80%90+Hecho+con+Clipchamp+%285%29.mp4)
 
 - **Momento 1: Comienza con el qué**
     
@@ -68,7 +57,7 @@ Crear un mensaje potente, enfocado desde el propósito, implica conectar emocion
     
     Si aún tienes dudas usa los ejemplos para  iniciar tu círculo dorado. ¡Ánimo!
     
-    [Vídeo sin título ‐ Hecho con Clipchamp (6).mp4](Crea un mensaje potente 12a2bd68c5b680c198cee71d7d6322e7/Vdeo_sin_ttulo__Hecho_con_Clipchamp_(6).mp4)
+![Video](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/95251427-a4a8-4a64-9935-5bfb39faed13/Vdeo_sin_ttulo__Hecho_con_Clipchamp_(6).mp4?table=block&id=12a2bd68-c5b6-814d-842d-ed4a523d2e50&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763503200000&signature=TM_6MWI0RSmzqZXZTso8aUQ5aS-_qfZCPvJpuZsjtNI&downloadName=V%C3%ADdeo+sin+t%C3%ADtulo+%E2%80%90+Hecho+con+Clipchamp+%286%29.mp4)
     
 - **Momento 2: Define el cómo**
     
@@ -83,7 +72,7 @@ Crear un mensaje potente, enfocado desde el propósito, implica conectar emocion
     
     **Mira cómo lo hice yo para guiarte:**
     
-    [Vídeo sin título ‐ Hecho con Clipchamp (7).mp4](Crea un mensaje potente 12a2bd68c5b680c198cee71d7d6322e7/Vdeo_sin_ttulo__Hecho_con_Clipchamp_(7).mp4)
+![Video](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/bb30cc71-c2b1-4a7f-a5e6-e7b159534f19/Vdeo_sin_ttulo__Hecho_con_Clipchamp_(7).mp4?table=block&id=12a2bd68-c5b6-8192-8f51-e483e5a18759&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763503200000&signature=EgKGH3S_7IDS9UaEzpYCeUg7rkTnGuFzgVaVfUp9IBA&downloadName=V%C3%ADdeo+sin+t%C3%ADtulo+%E2%80%90+Hecho+con+Clipchamp+%287%29.mp4)
     
 - **Momento 3: Dale forma a tu por qué**
     
@@ -93,7 +82,7 @@ Crear un mensaje potente, enfocado desde el propósito, implica conectar emocion
     
     **Actividad: Para descubrir el por qué de tu mensaje, agarra una hoja en blanco y escribe lo que primero venga a tu cabeza. No lo dudes tanto.** Esta bien si son solo unas palabras, poco a poco irán tomando forma 😉Así quedó mi por qué:
     
-    [Vídeo sin título ‐ Hecho con Clipchamp (8).mp4](Crea un mensaje potente 12a2bd68c5b680c198cee71d7d6322e7/Vdeo_sin_ttulo__Hecho_con_Clipchamp_(8).mp4)
+    ![Video](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/ea8689c5-4bdc-4e84-8b8e-b50a5744ae6e/Vdeo_sin_ttulo__Hecho_con_Clipchamp_(8).mp4?table=block&id=12a2bd68-c5b6-8100-9062-c2b1908a766d&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763503200000&signature=8nrJn52khgfdelBtz5i08P0EONbTl8EiSvDG6Vjg0MQ&downloadName=V%C3%ADdeo+sin+t%C3%ADtulo+%E2%80%90+Hecho+con+Clipchamp+%288%29.mp4)
     
     Consejo: **Piensa en qué es eso que te motiva a hacer lo que estás haciendo, y verás que poco a poco aparecerán las palabras.**
     
@@ -116,31 +105,12 @@ Es muy importante que tu mensaje cree una conexión emocional con quien lo recib
 
 ## Soluciones recomendadas
 
-- [Descubre a tu audiencia](/descubre-a-tu-audiencia-solutions-db) | [Discover your audience](/discover-your-audience-solutions-db)
-- [Difunde tu mensaje ](/difunde-tu-mensaje-solutions-db) | [Spread your message ](/spread-your-message-solutions-db)
-- [¡Aprende a diseñar tu invitación exprés sin ser un experto!](/aprende-a-disenar-tu-invitacion-expres-sin-ser-un-experto-solutions-db) | [Learn how to design your express invitation without being an expert!](/learn-how-to-design-your-express-invitation-without-being-an-expert-solutions-db)
+- [Descubre a tu audiencia](es/solve/descubre-a-tu-audiencia-solutions-db) 
+- [Difunde tu mensaje ](es/solve/difunde-tu-mensaje-solutions-db) 
+- [¡Aprende a diseñar tu invitación exprés sin ser un experto!](es/solve/aprende-a-disenar-tu-invitacion-expres-sin-ser-un-experto-solutions-db) 
 
 ## Referencias
 
-- **“El Círculo Dorado”de Simon Sinek:** [https://dizalo.com/branding/que-es-el-circulo-dorado-de-simon-sinek-y-como-podemos-usarlo/](https://dizalo.com/branding/que-es-el-circulo-dorado-de-simon-sinek-y-como-podemos-usarlo/)
-- [https://www.deustoformacion.com/blog/gestion-y-organizacion-de-eventos/invitacion-formal-evento](https://www.deustoformacion.com/blog/gestion-y-organizacion-de-eventos/invitacion-formal-evento)
+- **“El Círculo Dorado”de Simon Sinek:** [Dizalo](https://dizalo.com/branding/que-es-el-circulo-dorado-de-simon-sinek-y-como-podemos-usarlo/)
+- [Deustoformacion](https://www.deustoformacion.com/blog/gestion-y-organizacion-de-eventos/invitacion-formal-evento)
 
-[https://notionreactions.com/embed/OsmhQJGJQrdRjd8BK1b0](https://notionreactions.com/embed/OsmhQJGJQrdRjd8BK1b0)
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
