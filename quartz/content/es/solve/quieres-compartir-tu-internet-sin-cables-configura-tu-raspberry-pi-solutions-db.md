@@ -27,7 +27,7 @@ recursos/personas: 2: Entre 2 y 3 personas
 recursos/tiempo: 0: Minutos
 2025-prueba: No
 
-### índice
+
 
 # Comparte tu internet de bolsillo
 
