@@ -1,164 +1,107 @@
 # 🌐 SOLE Voltaje
 
-Sistema de documentación para SOLE Colombia usando Quartz v4.
+> **Jardín Digital y Sistema de Documentación para la Fundación SOLE Colombia.**  
+> *Desarrollado por David Vega.*
 
-## ⚡ Inicio Rápido
+Este repositorio aloja la base de conocimiento de **SOLE Colombia**, estructurada como un jardín digital interconectado. El proyecto utiliza **Quartz v4** como generador de sitios estáticos y un entorno de desarrollo estandarizado basado en **DevContainers** para garantizar que todos los colaboradores (técnicos y no técnicos) trabajen bajo las mismas condiciones.
 
-### Opción 1: Con npm (Recomendado)
+## 🚀 Inicio Rápido (Recomendado)
 
-```bash
-# Iniciar servidor de desarrollo
-npm run dev
+Este proyecto está diseñado para funcionar "out-of-the-box" con **VS Code Dev Containers**. No necesitas instalar Node.js, Python ni Quartz en tu máquina local. Solo necesitas Docker y VS Code.
 
-# Ver en tiempo real (con logs)
-npm run dev:watch
+### Prerrequisitos
+1.  [Docker Desktop](https://www.docker.com/products/docker-desktop/) (o Docker Engine en Linux).
+2.  [Visual Studio Code](https://code.visualstudio.com/).
+3.  Extensión [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) para VS Code.
 
-# Detener
-npm run stop
+### Pasos para desarrollar
+1.  **Clona el repositorio:**
+    ```bash
+    git clone <url-del-repo>
+    cd voltaje-dev
+    ```
+2.  **Abre la carpeta en VS Code:**
+    ```bash
+    code .
+    ```
+3.  **Inicia el Contenedor:**
+    *   VS Code detectará la configuración en `.devcontainer` y te mostrará una notificación: *"Reopen in Container"*. Haz clic en ella.
+    *   *Alternativa:* Presiona `F1` -> Escribe `Dev Containers: Reopen in Container`.
 
-# Ver logs
-npm run logs
-```
+4.  **Inicia el Servidor:**
+    Una vez dentro de la terminal integrada (verás el usuario `sole@...`), ejecuta:
+    ```bash
+    npm run dev
+    ```
+    El sitio estará disponible automáticamente en: `http://localhost:8080`
 
-### Opción 2: Con Make
-
-```bash
-# Iniciar servidor de desarrollo
-make dev
-
-# Ver logs
-make logs
-
-# Detener
-make stop
-
-# Ver todos los comandos
-make help
-```
-
-### Opción 3: Directo con Docker
-
-```bash
-# Iniciar
-docker compose -f docker-compose.dev.yml up -d
-
-# Detener
-docker compose -f docker-compose.dev.yml down
-```
-
-## 🌐 Acceder al Sitio
-
-Una vez iniciado, abre tu navegador en:
-- **Español:** http://localhost:8080/es/
-- **English:** http://localhost:8080/en/
-
-## 📁 Estructura del Proyecto
-
-```
-dev_voltaje/
-├── content/              # Tu contenido (edita aquí)
-│   ├── es/              # Español
-│   ├── en/              # English
-│   └── assets/          # Imágenes y recursos
-├── quartz/              # Framework Quartz
-├── docs/                # Documentación del proyecto
-└── docker-compose.dev.yml
-```
-
-## 📝 Desarrollo
-
-### Editar Contenido
-
-1. Edita archivos en `content/es/` o `content/en/`
-2. Guarda (Ctrl+S)
-3. Los cambios se reflejan automáticamente en http://localhost:8080
-
-### Estructura de Archivos Markdown
-
-```markdown
----
-title: "Título de la página"
-description: "Descripción para SEO"
 ---
 
-# Contenido aquí
+## 📂 Estructura del Proyecto
+
+La arquitectura se ha simplificado para facilitar la contribución y el mantenimiento:
+
+```text
+.
+├── content/           # 📝 AQUÍ SE ESCRIBE. Todo tu contenido Markdown vive aquí.
+│   ├── assets/        # Imágenes, videos y archivos estáticos.
+│   └── ...            # Tus notas y carpetas de conocimiento.
+├── quartz/            # ⚙️ Código fuente de Quartz (Componentes, Plugins, Estilos).
+├── docs/              # 📚 Documentación del proyecto.
+│   ├── tecnico/       # Guías para desarrolladores (Docker, Deploy, Git).
+│   └── archivo/       # Documentación histórica o legada.
+├── scripts/           # 🛠️ Scripts de utilidad (Python/Bash) para automatización.
+├── .devcontainer/     # 🐳 Configuración del entorno Docker (La "magia" del entorno).
+├── quartz.config.ts   # 🔧 Configuración principal de Quartz (Plugins, Markdown).
+├── quartz.layout.ts   # 🎨 Configuración de diseño (Cabecera, Pie, Barras laterales).
+└── package.json       # 📦 Dependencias y scripts del proyecto.
 ```
 
 ## 🛠️ Comandos Disponibles
 
-### Con npm
+Desde la terminal del contenedor (`sole@...`):
 
 | Comando | Descripción |
-|---------|-------------|
-| `npm run dev` | Inicia el servidor (background) |
-| `npm run dev:watch` | Inicia con logs en tiempo real |
-| `npm run stop` | Detiene el servidor |
-| `npm run logs` | Ver logs |
-| `npm run shell` | Acceder al contenedor |
-| `npm run build` | Rebuild de imágenes |
-| `npm run clean` | Limpiar todo |
-| `npm run setup` | Configuración inicial |
+| :--- | :--- |
+| `npm run dev` | **Principal.** Levanta el servidor local con recarga automática (Hot Reload). |
+| `npx quartz build` | Compila el sitio estático en la carpeta `public/` (listo para producción). |
+| `npx quartz update` | Actualiza el núcleo de Quartz a la última versión. |
+| `npx quartz sync` | Sincroniza cambios con el repositorio (commit + push simplificado). |
+| `npm run format` | Formatea el código y markdown usando Prettier. |
 
-### Con Make
+## 📝 Guía de Edición
 
-| Comando | Descripción |
-|---------|-------------|
-| `make dev` | Inicia el servidor |
-| `make stop` | Detiene el servidor |
-| `make logs` | Ver logs |
-| `make shell` | Acceder al contenedor |
-| `make build` | Rebuild de imágenes |
-| `make clean` | Limpiar todo |
-| `make setup` | Configuración inicial |
+1.  Crea o edita archivos `.md` dentro de la carpeta `content/`.
+2.  Usa `[[Wikilinks]]` para conectar ideas entre páginas.
+3.  El servidor detectará los cambios y refrescará el navegador automáticamente.
 
-## 📚 Documentación
+### Frontmatter Básico
+Al inicio de cada nota, puedes usar este bloque de metadatos:
 
-Ver la carpeta `docs/` para documentación detallada:
-- `docs/DESARROLLO.md` - Guía de desarrollo
-- `docs/DOCKER.md` - Información sobre Docker
-- `docs/DESPLIEGUE.md` - Deployment y CI/CD
-
-## 🐛 Troubleshooting
-
-### Puerto 8080 ocupado
-
-```bash
-# Ver qué proceso usa el puerto
-netstat -ano | findstr :8080
-
-# O cambiar el puerto en docker-compose.dev.yml
+```yaml
+---
+title: Título de la Nota
+date: 2025-11-20
+tags:
+  - etiqueta1
+  - etiqueta2
+---
 ```
 
-### Hot reload no funciona
+## 🐳 Detalles Técnicos del Entorno
 
-```bash
-# Reiniciar el contenedor
-npm run stop
-npm run dev
-```
+Para los curiosos o mantenedores:
+*   **Usuario:** El contenedor corre bajo el usuario `sole` (UID 1000) para evitar conflictos de permisos con Linux/WSL.
+*   **Credenciales:** Tus llaves SSH (`~/.ssh`) y configuración de Git (`~/.gitconfig`) se inyectan automáticamente desde tu máquina anfitriona. Puedes hacer `git push` sin configuración extra.
+*   **Herramientas Incluidas:** Node.js 22, Python 3, Zsh + Powerlevel10k, Git, Curl.
 
-### Problemas con node_modules
+Para más detalles, consulta [docs/tecnico/DOCKER.md](./docs/tecnico/DOCKER.md) y [docs/tecnico/ARQUITECTURA.md](./docs/tecnico/ARQUITECTURA.md).
 
-```bash
-# Limpiar y reconstruir
-npm run clean
-npm run build
-npm run dev
-```
+## 🤝 Contribución
 
-## 🤝 Contribuir
-
-1. Crea un branch: `git checkout -b feature/mi-feature`
-2. Commitea cambios: `git commit -m "feat: descripción"`
-3. Push: `git push origin feature/mi-feature`
-4. Crea un Pull Request
-
-## 📞 Soporte
-
-- **Documentación Quartz:** https://quartz.jzhao.xyz/
-- **Issues:** https://github.com/SOLEvoltaje/quartz/issues
+Consulta la carpeta `docs/` para guías detalladas sobre:
+*   [Guía de Desarrollo](./docs/tecnico/DESARROLLO.md)
+*   [Flujo de Despliegue](./docs/tecnico/DESPLIEGUE.md)
 
 ---
-
-**SOLE Colombia** - Conectando comunidades rurales 🌱
-
+*Fundación SOLE Colombia - Conectando el conocimiento.*
