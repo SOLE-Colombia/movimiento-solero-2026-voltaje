@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-  workflow_dispatch:  # Permite ejecución manual
+  workflow_dispatch: # Permite ejecución manual
 
 permissions:
   contents: read
@@ -26,35 +26,35 @@ jobs:
       ENVIRONMENT: production
       NODE_VERSION: 22
       TZ: America/Bogota
-      
+
     steps:
       - name: 📥 Checkout código fuente
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Necesario para git history en Quartz
+          fetch-depth: 0 # Necesario para git history en Quartz
           submodules: recursive
-          
+
       - name: 🔧 Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: ${{ env.NODE_VERSION }}
-          cache: 'npm'
-          cache-dependency-path: 'package-lock.json'
-          
+          cache: "npm"
+          cache-dependency-path: "package-lock.json"
+
       - name: 📦 Instalar dependencias de Quartz
         run: |
           npm ci
-          
+
       - name: ℹ️ Verificar instalación
         run: |
           echo "Node.js: $(node --version)"
           echo "npm: $(npm --version)"
           echo "Quartz instalado correctamente"
-          
+
       - name: 🏗️ Build del sitio con Quartz
         run: |
           npx quartz build
-          
+
       - name: 📊 Verificar build
         run: |
           if [ -d "public" ]; then
@@ -65,42 +65,42 @@ jobs:
             echo "❌ Error: No se generó la carpeta public"
             exit 1
           fi
-          
+
       - name: 🔧 Configurar Git para deploy
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "github-actions@github.com"
-          
+
       - name: 📥 Checkout repositorio de producción
         uses: actions/checkout@v4
         with:
           repository: ${{ secrets.PROD_REPO }}
           path: deploy-production
           token: ${{ secrets.PAT }}
-          
+
       - name: 🚀 Deploy a producción
         run: |
           # Copiar archivos del build
           cp -r public/* deploy-production/
-          
+
           # Ir al directorio de deploy
           cd deploy-production
-          
+
           # Crear archivo .nojekyll (necesario para GitHub Pages)
           touch .nojekyll
-          
+
           # Crear CNAME si tienes dominio personalizado
           echo "voltaje.solecolombia.org" > CNAME
-          
+
           # Agregar todos los cambios
           git add .
-          
+
           # Commit con SHA del commit original
           git commit -m "🚀 Deploy desde main - ${{ github.sha }}" || echo "No hay cambios nuevos"
-          
+
           # Push a main
           git push origin main
-          
+
       - name: 📊 Resumen del deploy
         run: |
           echo "✅ Deploy a PRODUCCIÓN completado"
