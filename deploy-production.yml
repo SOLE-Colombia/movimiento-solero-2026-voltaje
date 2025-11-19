@@ -1,0 +1,75 @@
+name: Production Build and Deploy
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-production
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      ENVIRONMENT: production
+      NODE_VERSION: 22
+      TZ: America/Bogota
+
+    steps:
+      - name: 📥 Checkout código fuente
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🔧 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: "npm"
+          # cache-dependency-path eliminado si package-lock.json está en raíz
+
+      - name: 📦 Instalar dependencias
+        run: npm ci
+
+      - name: 🏗️ Build del sitio
+        run: npx quartz build
+
+      - name: 🔧 Configurar Git para deploy
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "github-actions@github.com"
+
+      - name: 📥 Checkout repositorio destino
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ secrets.PROD_REPO }}
+          path: deploy-production
+          token: ${{ secrets.PAT }}
+
+      - name: 🚀 Deploy a producción
+        run: |
+          # Limpiar destino preservando .git
+          find deploy-production -mindepth 1 -maxdepth 1 -not -name '.git' -exec rm -rf {} +
+
+          # Copiar nuevos archivos (la carpeta public está en raíz ahora)
+          cp -r public/* deploy-production/
+
+          cd deploy-production
+          touch .nojekyll
+
+          # Verificar si hay cambios antes de commitear
+          if [ -n "$(git status --porcelain)" ]; then
+            git add .
+            git commit -m "🚀 Deploy prod ${{ github.sha }}"
+            git push origin main
+          else
+            echo "No hay cambios para desplegar."
+          fi

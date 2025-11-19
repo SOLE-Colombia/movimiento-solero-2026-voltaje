@@ -20,6 +20,11 @@ yarn-error.log*
 # Quartz
 quartz/.quartz-cache/
 quartz/public/
+# NOTA: quartz/content/ SÍ se comitea (es el contenido principal)
+quartz/node_modules/     # Dependencias de npm
+
+# Backups de contenido antiguo (no comitear)
+content_backup_*/
 
 # Temporales y reportes de migración
 temp/
@@ -42,6 +47,13 @@ Thumbs.db
 .DS_Store
 *.log
 
+# Windows
+*.exe
+*.dll
+*.bat
+*.cmd
+*.msi
+
 # Docker
 .dockerignore
 
@@ -49,6 +61,10 @@ Thumbs.db
 dist/
 build/
 *.egg-info/
+
+# Git Docker Helper (local)
+git-docker.sh
+GIT-DOCKER.md
 
 
 

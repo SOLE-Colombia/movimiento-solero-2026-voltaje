@@ -1,0 +1,664 @@
+    1  sudo npm install -g npm@latest
+    2  npm audit fix
+    3  npx quartz build --serve
+Warning: content/es/disconnected/jugar-a-ser-electricidad-y-ondas-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sin-titulo-57.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/gprs-servicio-general-de-paquetes-via-radio-gprs-general-packet-radio-services-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+⠴ Parsing input files using 3 threads
+Warning: content/es/disconnected/mejora-el-alcance-de-tu-router-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sin-titulo-58.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/has-buscado-informacion-en-internet-para-arreglar-un-problema-de-tu-casa-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sin-titulo-6.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/disconnected/que-te-gustaria-mas-sin-titulo.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/has-solucionado-algun-problema-tecnologico-por-tu-cuenta-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sin-titulo-63.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/disconnected/saltar-de-arriba-a-abajo-en-el-internet-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sin-titulo-64.md isn't yet tracked by git, dates will be inaccurate
+⠦ Parsing input files using 3 threads
+Warning: content/es/inspire/sin-titulo-65.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/disconnected/ser-internet-para-viajar-por-un-cable-a-traves-de-la-tierra-y-los-oceanos-sin-titulo.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/helper-randomizer-inspiratio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sin-titulo-66.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/disconnected/ser-internet-para-viajar-por-un-cable-a-traves-de-la-tierra-y-los-oceanos-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sin-titulo-67.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/disconnected/ser-un-cientifico-del-internet-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sin-titulo-68.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/disconnected/sin-titulo-nuevo-formulario.md isn't yet tracked by git, dates will be inaccurate
+⠧ Parsing input files using 3 threads
+Warning: content/es/inspire/sin-titulo-69.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/helper-randomizer-solutions.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/disconnected/surfear-cada-vez-en-olas-mas-altas-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sin-titulo-7.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sin-titulo-70.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/disconnected/transformarte-en-ondas-para-viajar-por-el-mundo-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sin-titulo-71.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/disconnected/transformarte-en-una-tecnologia-inalambrica-para-conectar-historias-de-vida-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/how-did-the-internet-improve-in-anori-antioquia-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sin-titulo-72.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/disconnected/viajar-a-la-velocidad-de-la-luz-sin-titulo.md isn't yet tracked by git, dates will be inaccurate
+⠇ Parsing input files using 3 threads
+Warning: content/es/inspire/sin-titulo-73.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/disconnected/viajar-a-la-velocidad-de-la-luz-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sin-titulo-74.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/how-did-the-internet-improve-in-buenaventura-valle-del-cauca-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sin-titulo-75.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sin-titulo-76.md isn't yet tracked by git, dates will be inaccurate
+⠏ Parsing input files using 3 threads
+Warning: content/es/inspire/sin-titulo-77.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/antena-3-4g-3-4g-antenna-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sin-titulo-78.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/how-to-improve-your-router-signal-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sin-titulo-79.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/antena-antenna-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sin-titulo-8.md isn't yet tracked by git, dates will be inaccurate
+⠋ Parsing input files using 3 threads
+Warning: content/es/inspire/sin-titulo-80.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/antena-tipo-yagi-yagi-antenna-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/how-to-make-sole-tutorial-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sin-titulo-81.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sin-titulo-82.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/how-to-write-a-good-invitation-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sin-titulo-83.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/cable-coaxial-coaxial-cable-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+⠙ Parsing input files using 3 threads
+Warning: content/es/inspire/sin-titulo-84.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/identificador-ssid-ssid-identifier-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/cable-rg6-rg6-cable-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sin-titulo-85.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sin-titulo-86.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/canva-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/index.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sin-titulo-87.md isn't yet tracked by git, dates will be inaccurate
+⠹ Parsing input files using 3 threads
+Warning: content/es/inspire/sin-titulo-88.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/insp-big-questions.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/cliente-client-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sin-titulo-89.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sin-titulo-9.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/insp-build-dyi-antenna3g.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/codigo-imei-imei-code-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sin-titulo-nuevo-formulario.md isn't yet tracked by git, dates will be inaccurate
+⠸ Parsing input files using 3 threads
+Warning: content/es/inspire/sin-titulo-randomizer-inspiratio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/insp-climbing-a-ladder.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/concepto-concept-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sin-titulo-responses.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/conceptorio-sole-voltaje.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/insp-fish-game.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sistema-informatico-si-information-system-is-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+⠼ Parsing input files using 3 threads
+Warning: content/es/glossary/conexion-4g-o-lte-lte-or-4g-connection-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/insp-granny-cloud.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/conexion-cable-ethernet-ethernet-cable-connection-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sistema-operativo-so-operating-system-os-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/insp-granny-costurero.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/conexion-edge-edge-connection-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+⠴ Parsing input files using 3 threads
+Warning: content/es/inspire/insp-granny-no-connection.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sobre-el-internet-inspirate.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/conexion-usb-usd-connection-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sole-colombia-lo-que-somos-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/insp-granny-questions.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/sole-hilando-vidas-y-esperanza-2022-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/cortafuegos-firewall-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+⠦ Parsing input files using 3 threads
+Warning: content/es/inspire/soluciona-que-es-el-internet-una-cobija-de-solidaridad.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/insp-how-internet-works.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/demonio-hostapd-hostapd-daemon-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/soluciona-what-is-the-internet-a-blanket-of-solidarity.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/insp-internet-in-a-box.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/demonio-servicio-o-programa-daemon-service-or-program-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/suele-danarse-tu-internet-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+⠧ Parsing input files using 3 threads
+Warning: content/es/inspire/insp-internet-in-group.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/direccion-ip-ip-address-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/surfear-cada-vez-en-olas-mas-altas-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/insp-internet-signal-transmission.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/tarjeta-sim-sim-card-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/dns-sistema-de-nombres-de-dominio-dns-domain-name-system-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+⠇ Parsing input files using 3 threads
+Warning: content/es/inspire/insp-internet-usage-measure.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/gprs-servicio-general-de-paquetes-via-radio-gprs-general-packet-radio-services-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/te-consideras-privilegiado-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/insp-internetimprove-caceres.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/identificador-ssid-ssid-identifier-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/te-has-preguntado-como-llega-el-internet-la-luz-o-la-senal-movil-a-ti-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/index.md isn't yet tracked by git, dates will be inaccurate
+⠏ Parsing input files using 3 threads
+Warning: content/es/inspire/insp-internetimprove-chalan.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/tecnologia-hspa-acceso-de-paquetes-de-alta-velocidad-hspa-technology-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/interfaz-interface-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/insp-internetimprove-coloso.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/telefono-movil-inteligente-smartphone-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/lan-red-local-lan-local-area-network-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+⠋ Parsing input files using 3 threads
+Warning: content/es/inspire/insp-internetimprove-dominguillo.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/terminal-o-consola-terminal-or-console-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/latencia-latency-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/tienes-preguntas-o-comentarios-responses.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/insp-internetimprove-nepomuceno.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/memoria-ram-ram-memory-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+⠙ Parsing input files using 3 threads
+Warning: content/es/inspire/insp-internetimprove-nuevomexico.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/memoria-sd-minisd-microsd-sd-minisd-microsd-memory-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/titulo-de-la-inspiracion-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/insp-internetimprove-piendamo.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/memoria-swap-swap-memory-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/titulo-de-la-inspiracion-plantilla.md isn't yet tracked by git, dates will be inaccurate
+⠹ Parsing input files using 3 threads
+Warning: content/es/inspire/insp-internetimprove-tambo.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/modem-mifi-mifi-modem-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/transformarte-en-ondas-para-viajar-por-el-mundo-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/modem-router-o-enrutador-modem-or-router-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/transformarte-en-una-tecnologia-inalambrica-para-conectar-historias-de-vida-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/insp-internetimprove-valdivia.md isn't yet tracked by git, dates will be inaccurate
+⠸ Parsing input files using 3 threads
+Warning: content/es/glossary/nombre-de-dominio-domain-name-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/trayectoria-socio-tecnica-comunidad-de-cacharreras-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/insp-others-build-antenna3g.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/nombre-de-usuario-username-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/trayectoria-socio-tecnica-de-boca-de-camarones-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/insp-sole-unal.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/programa-ping-ping-program-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+⠼ Parsing input files using 3 threads
+Warning: content/es/inspire/trayectoria-socio-tecnica-de-dominguillo-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/insp-solecolombia-in-thailand.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/trayectoria-socio-tecnica-de-el-tambo-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/protocolo-dhcp-dhcp-protocol-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/insp-solecolombia-is-us.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/trayectorias-socio-tecnicas-inspirate.md isn't yet tracked by git, dates will be inaccurate
+⠴ Parsing input files using 3 threads
+Warning: content/es/inspire/tu-comunidad-necesita-apoyo-para-conectarse-a-internet-algunas-organizaciones-que-pueden-apoyar-que-internet-satelital-elegir-segun-mis-necesida.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/protocolo-ssh-ssh-protocol-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/insp-solelab-boca-camarones.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/tu-comunidad-necesita-apoyo-para-conectarse-a-internet-algunas-organizaciones-que-pueden-apoyar-which-satellite-internet-to-choose-according-to-m.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/tus-papas-abuelos-as-o-amigos-te-llaman-para-que-les-ayudes-a-resolver-algo-con-el-computador-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/insp-solelab-lauch-recap.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/raspberry-pi-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/umts-sistema-universal-de-telecomuniaciones-moviles-umts-universal-mobile-telecommunications-system-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+⠦ Parsing input files using 3 threads
+Warning: content/es/inspire/insp-solelab-tambo.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/red-2g-2g-net-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/viajar-a-la-velocidad-de-la-luz-sin-titulo.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/insp-speed-access-info.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/viajar-a-la-velocidad-de-la-luz-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+⠧ Parsing input files using 3 threads
+Warning: content/es/inspire/whatsapp-wapp-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/redireccionador-dns-y-servidor-dhcp-ligero-dnsmasq-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/insp-tinkerer-corner.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/wifi-fidelidad-inalambrica-wifi-wireless-fidelity-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/servidor-server-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/simbolo-de-sistema-cmd-command-prompt-cmd-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+⠇ Parsing input files using 3 threads
+Warning: content/es/inspire/insp-tinkerer-inspiration.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/new-here/index.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/sistema-informatico-si-information-system-is-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/new-here/nuevo-aqui-que-es-el-internet-una-cobija-de-solidaridad.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/insp-voltage-statements.md isn't yet tracked by git, dates will be inaccurate
+⠏ Parsing input files using 3 threads
+Warning: content/es/new-here/nuevo-aqui-sole-voltaje.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/sistema-operativo-so-operating-system-os-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/insp-voltaje-tests.md isn't yet tracked by git, dates will be inaccurate
+⠋ Parsing input files using 3 threads
+Warning: content/es/glossary/tarjeta-sim-sim-card-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/insp-what-is-internet.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/new-here/nuevo-aqui-what-is-the-internet-a-blanket-of-solidarity.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/tecnologia-hspa-acceso-de-paquetes-de-alta-velocidad-hspa-technology-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/inspirate-que-es-el-internet-una-cobija-de-solidaridad.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/inspirate-sole-voltaje.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/aprende-a-disenar-tu-invitacion-expres-sin-ser-un-experto-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/telefono-movil-inteligente-smartphone-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/inspirate-what-is-the-internet-a-blanket-of-solidarity.md isn't yet tracked by git, dates will be inaccurate
+⠙ Parsing input files using 3 threads
+Warning: content/es/solve/baja-parametros-de-senal-3-4g.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/terminal-o-consola-terminal-or-console-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/instrucciones-para-jugar-sole-voltaje-desconectado-desconectado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/umts-sistema-universal-de-telecomuniaciones-moviles-umts-universal-mobile-telecommunications-system-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/bicigenerador-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+⠹ Parsing input files using 3 threads
+Warning: content/es/inspire/interfaz-interface-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/whatsapp-wapp-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/glossary/wifi-fidelidad-inalambrica-wifi-wireless-fidelity-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/internet-satelital-compartido-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/big-box-de-jangala-gestiona-un-potente-router-de-internet-inalambrico-para-comunidades-en-exclusion.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/inventar-una-alimentacion-informatica-saludable-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+⠸ Parsing input files using 3 threads
+Warning: content/es/inspire/is-it-a-technical-solution-title-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/acordar-con-un-vecino-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/buena-parametros-de-senal-3-4g.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/antena-3-4g-3-4g-antenna-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/jugar-a-ser-electricidad-y-ondas-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/buscar-senales-de-wifi-a-tu-alrededor-con-una-aplicacion-movil-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+⠼ Parsing input files using 3 threads
+Warning: content/es/inspire/la-escuela-esta-un-poco-lejos-soluciona.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/antena-antenna-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/la-luz-se-va-a-cada-rato-soluciona.md isn't yet tracked by git, dates will be inaccurate
+⠴ Parsing input files using 3 threads: text->markdown 128/430
+Warning: content/es/inspire/antena-tipo-yagi-yagi-antenna-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/la-senal-de-internet-es-mala-soluciona.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/la-wikipedia-de-bolsillo-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/como-aliarse-con-lugares-que-convocan-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/antenas-de-radioenlace-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+⠦ Parsing input files using 3 threads: text->markdown 128/430
+Warning: content/es/inspire/baja-parametros-de-senal-3-4g.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/lan-red-local-lan-local-area-network-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/buena-parametros-de-senal-3-4g.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/como-amplificar-tu-senal-movil-dentro-de-un-espacio-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/cable-coaxial-coaxial-cable-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/latencia-latency-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+⠧ Parsing input files using 3 threads: text->markdown 128/430
+Warning: content/es/inspire/cable-rg6-rg6-cable-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/media-parametros-de-senal-3-4g.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/como-aprovechar-mi-ancho-de-banda-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/mejora-el-alcance-de-tu-router-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/canva-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/memoria-ram-ram-memory-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+⠇ Parsing input files using 3 threads: text->markdown 128/430
+Warning: content/es/solve/como-compartir-internet-desde-mi-celular-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/cliente-client-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/memoria-sd-minisd-microsd-sd-minisd-microsd-memory-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/codigo-imei-imei-code-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/como-compartir-los-computadores-disponibles-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/memoria-swap-swap-memory-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/como-cacharrear-tu-senal-movil-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+⠏ Parsing input files using 3 threads: text->markdown 128/430
+Warning: content/es/inspire/como-cacharrear-tu-senal-wifi-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/metodologia-como-construir-memoria-en-ambientes-de-aprendizaje-auto-organizado-sole-lab-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/como-comprar-un-celular-adecuado-para-mi-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/como-compartir-internet-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/como-comprar-una-antena-3-4g-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+⠋ Parsing input files using 3 threads: text->markdown 128/430
+Warning: content/es/inspire/metodologia-como-imaginar-futuros-en-comunidad-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/como-comprar-una-antena-satelital-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/metodologia-como-la-tecnologia-nos-puede-ayudar-a-tejer-historias-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/como-hacer-sole-tutorial-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/como-comprar-un-computador-para-ti-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+⠙ Parsing input files using 3 threads: text->markdown 128/430
+Warning: content/es/inspire/como-mejoro-el-internet-en-anori-antioquia-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/metodologia-inspirate.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/modem-mifi-mifi-modem-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/como-mejoro-el-internet-en-buenaventura-valle-del-cauca-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+⠹ Parsing input files using 3 threads: text->markdown 128/430
+Warning: content/es/inspire/modem-router-o-enrutador-modem-or-router-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/nadie-me-copia-la-idea-soluciona.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/como-saber-que-tan-rapido-es-el-internet-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/no-tenemos-computadores-soluciona.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/como-comprar-un-plan-celular-adecuado-para-mi-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/nombre-de-dominio-domain-name-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+⠸ Parsing input files using 3 threads: text->markdown 128/430
+Warning: content/es/inspire/como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/nombre-de-usuario-username-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/por-que-el-cielo-es-azul-new-form.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/comprar-una-antena-3-4g-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/pregunta-comenta-que-es-el-internet-una-cobija-de-solidaridad.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/comunidades-conectadas-inspirate.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/pregunta-comenta-what-is-the-internet-a-blanket-of-solidarity.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/como-comprar-una-antena-satelital-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+⠼ Parsing input files using 3 threads: text->markdown 128/430
+Warning: content/es/inspire/concepto-concept-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/preguntas-provocadoras-inspirate.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/conceptorio-que-es-el-internet-una-cobija-de-solidaridad.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/programa-ping-ping-program-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/conceptorio-what-is-the-internet-a-blanket-of-solidarity.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/conexion-4g-o-lte-lte-or-4g-connection-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/como-comprar-una-conexion-temporal-a-internet-satelital-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+⠴ Parsing input files using 3 threads: text->markdown 128/430
+Warning: content/es/inspire/protocolo-dhcp-dhcp-protocol-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/conexion-cable-ethernet-ethernet-cable-connection-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/protocolo-ssh-ssh-protocol-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/como-conseguir-equipos-donados-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/conexion-edge-edge-connection-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+⠦ Parsing input files using 3 threads: text->markdown 128/430
+Warning: content/es/inspire/conexion-usb-usd-connection-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/prueba-01-sole-voltaje-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/como-escribir-una-buena-invitacion-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+⠧ Parsing input files using 3 threads: text->markdown 128/430
+Warning: content/es/solve/como-instalar-mi-antena-3-4g-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/construye-una-antena-3g-casera-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+⠇ Parsing input files using 3 threads: text->markdown 128/430
+Warning: content/es/inspire/construye-una-antena-3g-casera-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+⠏ Parsing input files using 3 threads: text->markdown 128/430
+Warning: content/es/inspire/convertirte-en-informacion-que-viaja-por-el-internet-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/cortafuegos-firewall-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/como-mejorar-la-senal-de-tu-router-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/prueba-02-sole-voltaje-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+⠋ Parsing input files using 3 threads: text->markdown 128/430
+Warning: content/es/inspire/crees-que-el-acceso-a-internet-deberia-ser-libre-y-gratuito-para-todos-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/crees-que-los-mas-privilegiados-deberian-subsidiar-el-internet-de-todos-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/como-mejorar-mi-senal-con-una-lata-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/crees-que-podrias-convencer-a-tus-vecinos-de-quitar-su-contrasena-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/como-probar-la-velocidad-de-tu-conexion-a-internet-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+⠙ Parsing input files using 3 threads: text->markdown 256/430
+Warning: content/es/inspire/prueba-03-sole-voltaje-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/como-saber-las-contrasenas-wifi-de-mi-celular-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/como-saber-que-tan-buena-es-tu-conexion-a-internet-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+⠹ Parsing input files using 3 threads: text->markdown 256/430
+Warning: content/es/solve/como-saber-que-tipo-de-senal-de-internet-tienes-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/prueba-04-sole-voltaje-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+⠸ Parsing input files using 3 threads: text->markdown 256/430
+Warning: content/es/solve/como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/pruebas-inspirate.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/que-hay-dentro-de-un-hoyo-negro-new-form.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/que-pregunta-siempre-has-tenido-y-nunca-has-podido-resolver-new-form.md isn't yet tracked by git, dates will be inaccurate
+⠼ Parsing input files using 3 threads: text->markdown 256/430
+Warning: content/es/inspire/que-tan-cacharrero-te-consideras-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/que-tanta-curiosidad-sientes-por-saber-como-funcionan-los-aparatos-que-usas-en-tu-dia-a-dia-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/construye-una-antena-3g-casera-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/que-tanta-mamera-te-da-llamar-a-un-tecnico-para-que-solucione-las-cosas-inspiration-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/que-te-gustaria-mas-sin-titulo.md isn't yet tracked by git, dates will be inaccurate
+⠴ Parsing input files using 3 threads: text->markdown 256/430
+Warning: content/es/inspire/raspberry-pi-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/crea-un-mensaje-potente-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/red-2g-2g-net-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+⠦ Parsing input files using 3 threads: text->markdown 256/430
+Warning: content/es/inspire/redireccionador-dns-y-servidor-dhcp-ligero-dnsmasq-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/descubre-a-tu-audiencia-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/saltar-de-arriba-a-abajo-en-el-internet-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/ser-internet-para-viajar-por-un-cable-a-traves-de-la-tierra-y-los-oceanos-sin-titulo.md isn't yet tracked by git, dates will be inaccurate
+⠧ Parsing input files using 3 threads: text->markdown 256/430
+Warning: content/es/inspire/ser-internet-para-viajar-por-un-cable-a-traves-de-la-tierra-y-los-oceanos-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/difunde-tu-mensaje-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/ser-un-cientifico-del-internet-voltaje-desconectado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/inspire/servidor-server-conceptorio.md isn't yet tracked by git, dates will be inaccurate
+⠇ Parsing input files using 3 threads: text->markdown 256/430
+Warning: content/es/solve/do-i-need-to-buy-a-3g-4g-antenna-how-to-make-the-decision-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+⠏ Parsing input files using 3 threads: text->markdown 384/430
+Warning: content/es/solve/es-una-solucion-tecnica-titulo-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/excelente-parametros-de-senal-3-4g.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/haz-una-colecta-para-pagar-internet-comunitario-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+⠋ Parsing input files using 3 threads: text->markdown 384/430
+Warning: content/es/solve/helper-randomizer-solutions.md isn't yet tracked by git, dates will be inaccurate
+⠙ Parsing input files using 3 threads: text->markdown 384/430
+Warning: content/es/solve/how-to-write-a-good-invitation-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/index.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/la-escuela-esta-un-poco-lejos-soluciona.md isn't yet tracked by git, dates will be inaccurate
+⠹ Parsing input files using 3 threads: text->markdown 384/430
+Warning: content/es/solve/la-luz-se-va-a-cada-rato-soluciona.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/la-senal-de-internet-es-mala-soluciona.md isn't yet tracked by git, dates will be inaccurate
+⠸ Parsing input files using 3 threads: text->markdown 384/430
+Warning: content/es/solve/la-wikipedia-de-bolsillo-en-tu-raspberrypi.md isn't yet tracked by git, dates will be inaccurate
+⠼ Parsing input files using 3 threads: text->markdown 384/430
+Warning: content/es/solve/media-parametros-de-senal-3-4g.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/nadie-me-copia-la-idea-soluciona.md isn't yet tracked by git, dates will be inaccurate
+⠴ Parsing input files using 3 threads: text->markdown 384/430
+Warning: content/es/solve/necesito-comprar-una-antena-3g-4g-como-tomar-la-decision-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+⠦ Parsing input files using 3 threads: text->markdown 384/430
+Warning: content/es/solve/no-tenemos-computadores-soluciona.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/es/solve/pide-un-salon-comunal-o-cualquier-espacio-comunitario-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+⠧ Parsing input files using 3 threads: text->markdown 384/430
+Warning: content/es/solve/que-internet-satelital-elegir-segun-mis-necesidades-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+⠏ Parsing input files using 3 threads: text->markdown 384/430
+Warning: content/es/solve/quieres-compartir-tu-internet-sin-cables-configura-tu-raspberry-pi-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+⠋ Parsing input files using 3 threads: text->markdown 384/430
+Warning: content/es/solve/raspberry-pi-una-pequena-internet-de-bolsillo-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+⠙ Parsing input files using 3 threads: text->markdown 384/430
+Warning: content/es/solve/soluciona-sole-voltaje.md isn't yet tracked by git, dates will be inaccurate
+⠹ Parsing input files using 3 threads: text->markdown 384/430
+Warning: content/es/solve/tu-comunidad-necesita-apoyo-economico-para-conectarse-a-internet-solutions-db.md isn't yet tracked by git, dates will be inaccurate
+⠸ Parsing input files using 3 threads: text->markdown 384/430
+Warning: content/index.md isn't yet tracked by git, dates will be inaccurate
+Parsed 430 Markdown files in 9s
+Filtered out 1 files in 526μs
+Emitted 1216 files to `public` in 1m
+Done processing 430 files in 1m
+Started a Quartz server listening at http://localhost:8080
+hint: exit with ctrl+c

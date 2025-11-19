@@ -1,0 +1,45 @@
+import { pathToRoot } from "../util/path"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { classNames } from "../util/lang"
+import { i18n } from "../i18n"
+
+const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzComponentProps) => {
+  const title = cfg?.pageTitle ?? i18n(cfg.locale).propertyDefaults.title
+  const baseDir = pathToRoot(fileData.slug!)
+  return (
+    <h2 class={classNames(displayClass, "page-title")}>
+      <a href={baseDir} aria-label={title}>
+        <img src="/static/logo.png" alt="" class="page-logo" />
+      </a>
+    </h2>
+  )
+}
+
+PageTitle.css = `
+.page-title {
+  margin: 0;
+  display: flex;
+  align-items: center;
+}
+
+.page-title a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.page-logo {
+  height: 6rem;
+  width: auto;
+  object-fit: contain;
+}
+
+/* Responsive: Logo más pequeño en móvil */
+@media (max-width: 768px) {
+  .page-logo {
+    height: 3.5rem;
+  }
+}
+`
+
+export default (() => PageTitle) satisfies QuartzComponentConstructor

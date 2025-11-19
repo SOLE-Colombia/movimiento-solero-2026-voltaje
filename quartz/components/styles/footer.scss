@@ -1,0 +1,160 @@
+footer {
+  text-align: left;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--lightgray);
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+
+  @media (min-width: 768px) {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+
+  .footer-section {
+    flex: 1;
+    
+    h3 {
+      font-size: 1rem;
+      margin-top: 0;
+      margin-bottom: 1rem;
+      font-weight: 600;
+      opacity: 0.9;
+    }
+
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+
+      li {
+        margin: 0;
+        
+        a {
+          text-decoration: none;
+          opacity: 0.7;
+          transition: opacity 0.2s ease;
+          
+          &:hover {
+            opacity: 1;
+          }
+        }
+      }
+    }
+  }
+
+  .footer-links {
+    min-width: 200px;
+  }
+
+  .footer-info {
+    flex: 2;
+    font-size: 0.9rem;
+    
+    p {
+      margin: 0.5rem 0;
+      line-height: 1.6;
+      opacity: 0.8;
+    }
+
+    .footer-project {
+      font-size: 0.95rem;
+      margin-bottom: 1rem;
+    }
+
+    .footer-license {
+      font-size: 0.85rem;
+      
+      a {
+        text-decoration: underline;
+        opacity: 0.8;
+        
+        &:hover {
+          opacity: 1;
+        }
+      }
+    }
+
+    .footer-tech {
+      font-size: 0.8rem;
+      margin-top: 1rem;
+      opacity: 0.6;
+    }
+  }
+
+  .footer-custom {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 1.5rem;
+    
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      gap: 1rem;
+      justify-content: flex-end;
+    }
+    
+    .footer-branding {
+      display: flex;
+      justify-content: flex-end;
+      
+      .footer-logo {
+        width: 32px;
+        height: 32px;
+        object-fit: contain;
+        border-radius: 6px;
+        opacity: 0.7;
+        transition: opacity 0.2s ease;
+        
+        &:hover {
+          opacity: 1;
+        }
+      }
+    }
+  }
+
+  a {
+    color: inherit;
+    transition: opacity 0.2s ease;
+    
+    &:hover {
+      opacity: 1;
+    }
+  }
+
+  // Responsivo para móvil
+  @media (max-width: 767px) {
+    .footer-section {
+      width: 100%;
+    }
+    
+    .footer-links ul {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 0.75rem;
+    }
+    
+    .footer-custom {
+      align-items: right;
+      
+      ul {
+        justify-content: center;
+      }
+      
+      .footer-branding {
+        justify-content: center;
+      }
+    }
+  }
+}

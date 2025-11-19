@@ -1,0 +1,68 @@
+{
+  "name": "SOLE Voltaje Dev",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "args": {
+      "USERNAME": "sole"
+    }
+  },
+  // ❌ BORRA O COMENTA ESTAS LÍNEAS (Dejemos que VS Code decida la ruta)
+  // "workspaceFolder": "/workspace",
+  // "workspaceMount": "...",
+
+  "mounts": [
+    "source=${localEnv:HOME}/.ssh,target=/home/sole/.ssh-host,type=bind,consistency=cached",
+    "source=${localEnv:HOME}/.gitconfig,target=/home/sole/.gitconfig,type=bind,consistency=cached",
+    "source=/run/host-services/ssh-auth.sock,target=/run/host-services/ssh-auth.sock,type=bind,consistency=cached"
+  ],
+  
+  "containerEnv": {
+    "SSH_AUTH_SOCK": "/run/host-services/ssh-auth.sock"
+  },
+
+  "features": {
+    "ghcr.io/devcontainers/features/common-utils:2": {
+      "username": "sole",
+      "installZsh": true,
+      "configureZshAsDefaultShell": true
+    }
+  },
+
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "zsh",
+        "editor.formatOnSave": true,
+        "files.watcherExclude": {
+          "**/node_modules/**": true,
+          "**/.quartz-cache/**": true,
+          "**/public/**": true
+        }
+      },
+      "extensions": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "yzhang.markdown-all-in-one",
+        "bradlc.vscode-tailwindcss",
+        "tamasfe.even-better-toml"
+      ]
+    }
+  },
+
+  "forwardPorts": [8080],
+  "portsAttributes": {
+    "8080": {
+      "label": "Quartz Server",
+      "onAutoForward": "notify"
+    }
+  },
+
+  "remoteUser": "sole",
+
+  // 👇 COMANDOS SIMPLIFICADOS (Usamos rutas relativas)
+  // Quitamos 'cd /workspace' porque ya estaremos ahí.
+  "postCreateCommand": "mkdir -p ~/.ssh && cp -r ~/.ssh-host/. ~/.ssh/ 2>/dev/null || true && chmod 700 ~/.ssh && chmod 600 ~/.ssh/* 2>/dev/null || true && npm install",
+  
+  // Usamos '.' para referirnos a la carpeta actual
+  "postStartCommand": "sudo chown -R sole:sole ."
+}
