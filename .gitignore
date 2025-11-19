@@ -20,6 +20,7 @@ yarn-error.log*
 # Quartz
 quartz/.quartz-cache/
 quartz/public/
+public/
 # NOTA: quartz/content/ SÍ se comitea (es el contenido principal)
 quartz/node_modules/     # Dependencias de npm
 
@@ -65,9 +66,3 @@ build/
 # Git Docker Helper (local)
 git-docker.sh
 GIT-DOCKER.md
-
-
-
-
-
-

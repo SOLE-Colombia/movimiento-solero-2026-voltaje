@@ -39,11 +39,10 @@ jobs:
         with:
           node-version: ${{ env.NODE_VERSION }}
           cache: 'npm'
-          cache-dependency-path: 'quartz/package-lock.json'
+          cache-dependency-path: 'package-lock.json'
           
       - name: 📦 Instalar dependencias de Quartz
         run: |
-          cd quartz
           npm ci
           
       - name: ℹ️ Verificar instalación
@@ -54,15 +53,14 @@ jobs:
           
       - name: 🏗️ Build del sitio con Quartz
         run: |
-          cd quartz
           npx quartz build
           
       - name: 📊 Verificar build
         run: |
-          if [ -d "quartz/public" ]; then
+          if [ -d "public" ]; then
             echo "✅ Build completado exitosamente"
             echo "📁 Archivos generados:"
-            ls -lah quartz/public
+            ls -lah public
           else
             echo "❌ Error: No se generó la carpeta public"
             exit 1
@@ -83,7 +81,7 @@ jobs:
       - name: 🚀 Deploy a producción
         run: |
           # Copiar archivos del build
-          cp -r quartz/public/* deploy-production/
+          cp -r public/* deploy-production/
           
           # Ir al directorio de deploy
           cd deploy-production
@@ -92,8 +90,7 @@ jobs:
           touch .nojekyll
           
           # Crear CNAME si tienes dominio personalizado
-          # Descomenta la siguiente línea y cambia el dominio
-          # echo "voltaje.solecolombia.org" > CNAME
+          echo "voltaje.solecolombia.org" > CNAME
           
           # Agregar todos los cambios
           git add .
@@ -112,9 +109,6 @@ jobs:
           echo "👤 Por: ${{ github.actor }}"
           echo ""
           echo "🌐 El sitio estará disponible en:"
-          echo "   https://<tu-usuario>.github.io/<repo-produccion>"
+          echo "   https://solecolombia.github.io/voltaje-site"
           echo ""
           echo "⏰ Puede tomar 1-2 minutos en actualizarse"
-
-
-
