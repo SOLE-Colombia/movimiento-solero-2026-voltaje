@@ -1,4 +1,4 @@
-import { pathToRoot } from "../util/path"
+import { pathToRoot, joinSegments } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 import { i18n } from "../i18n"
@@ -9,7 +9,7 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   return (
     <h2 class={classNames(displayClass, "page-title")}>
       <a href={baseDir} aria-label={title}>
-        <img src="/static/logo.png" alt="" class="page-logo" />
+        <img src={joinSegments(baseDir, "static/logo.png")} alt="" class="page-logo" />
       </a>
     </h2>
   )
