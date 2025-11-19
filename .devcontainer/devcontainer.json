@@ -6,15 +6,13 @@
       "USERNAME": "sole"
     }
   },
-  "workspaceFolder": "/workspace",
-  // 👇 AGREGA ESTA LÍNEA PARA CORREGIR EL MONTAJE
-  "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind",
-  
-  // 👇 MAGIA DE KAUKA: Montaje de credenciales del host
+  // ❌ BORRA O COMENTA ESTAS LÍNEAS (Dejemos que VS Code decida la ruta)
+  // "workspaceFolder": "/workspace",
+  // "workspaceMount": "...",
+
   "mounts": [
     "source=${localEnv:HOME}/.ssh,target=/home/sole/.ssh-host,type=bind,consistency=cached",
     "source=${localEnv:HOME}/.gitconfig,target=/home/sole/.gitconfig,type=bind,consistency=cached",
-    // Si usas agente SSH en Linux:
     "source=/run/host-services/ssh-auth.sock,target=/run/host-services/ssh-auth.sock,type=bind,consistency=cached"
   ],
   
@@ -61,10 +59,10 @@
 
   "remoteUser": "sole",
 
-  // Comandos de inicialización
-  // 1. Copiamos llaves SSH con permisos correctos (truco de Kauka)
-  // 2. Instalamos dependencias de Quartz
-"postCreateCommand": "mkdir -p ~/.ssh && cp -r ~/.ssh-host/. ~/.ssh/ 2>/dev/null || true && chmod 700 ~/.ssh && chmod 600 ~/.ssh/* 2>/dev/null || true && cd /workspace && npm install",
-  // Aseguramos permisos al iniciar
-  "postStartCommand": "sudo chown -R sole:sole /workspace"
+  // 👇 COMANDOS SIMPLIFICADOS (Usamos rutas relativas)
+  // Quitamos 'cd /workspace' porque ya estaremos ahí.
+  "postCreateCommand": "mkdir -p ~/.ssh && cp -r ~/.ssh-host/. ~/.ssh/ 2>/dev/null || true && chmod 700 ~/.ssh && chmod 600 ~/.ssh/* 2>/dev/null || true && npm install",
+  
+  // Usamos '.' para referirnos a la carpeta actual
+  "postStartCommand": "sudo chown -R sole:sole ."
 }
