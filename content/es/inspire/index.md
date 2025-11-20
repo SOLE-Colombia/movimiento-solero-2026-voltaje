@@ -13,14 +13,17 @@ A veces, solo necesitas abrir una ventana para encontrarte con la magia del Inte
 
 ## ¿Cómo quieres inspirarte?
 
-[Sobre el Internet](/sobre-el-internet-inspirate)
+[Sobre el Internet](es/inspire/sobre-el-internet-inspirate.md)
 
-[Pruebas](/pruebas-inspirate)
+[Pruebas](es/inspire/pruebas-inspirate.md)
 
-[Metodología](/metodologia-inspirate)
+[Metodología](es/inspire/metodologia-inspirate.md)
 
-[Preguntas Provocadoras](/preguntas-provocadoras-inspirate)
+[Preguntas Provocadoras](es/inspire/preguntas-provocadoras-inspirate.md)
 
-[Comunidades conectadas](/comunidades-conectadas-inspirate)
+[Comunidades conectadas](es/inspire/comunidades-conectadas-inspirate.md)
 
-[Trayectorías socio-técnicas](/trayectorias-socio-tecnicas-inspirate)
+[Trayectorías socio-técnicas](es/inspire/trayectorias-socio-tecnicas-inspirate.md)
+
+---
+## Ejemplos de inspiración

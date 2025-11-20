@@ -5,6 +5,6 @@ type: section-index
 description: Glosario de términos técnicos y conceptos clave.
 ---
 
-# Directorio de términos
 
+Tantos términos tecnológicos pueden enloquecer. **Explóralos y cacharrea sin miedo**.
 
