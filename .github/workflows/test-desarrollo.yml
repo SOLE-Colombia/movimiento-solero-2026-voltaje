@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - desarrollo
-  workflow_dispatch:  # Permite ejecución manual
+  workflow_dispatch: # Permite ejecución manual
 
 permissions:
   contents: read
@@ -26,36 +26,36 @@ jobs:
       ENVIRONMENT: desarrollo
       NODE_VERSION: 22
       TZ: America/Bogota
-      
+
     steps:
       - name: 📥 Checkout código fuente
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Necesario para git history en Quartz
+          fetch-depth: 0 # Necesario para git history en Quartz
           submodules: recursive
-          
+
       - name: 🔧 Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: ${{ env.NODE_VERSION }}
-          cache: 'npm'
-          cache-dependency-path: 'package-lock.json'
-          
+          cache: "npm"
+          cache-dependency-path: "package-lock.json"
+
       - name: 📦 Instalar dependencias de Quartz
         run: |
           npm ci
-          
+
       - name: ℹ️ Verificar instalación
         run: |
           echo "Node.js: $(node --version)"
           echo "npm: $(npm --version)"
           echo "Environment: ${{ env.ENVIRONMENT }}"
           echo "Quartz instalado correctamente"
-          
+
       - name: 🏗️ Build del sitio con Quartz
         run: |
           node quartz/bootstrap-cli.mjs build
-          
+
       - name: 📊 Verificar build
         run: |
           if [ -d "public" ]; then
@@ -66,42 +66,42 @@ jobs:
             echo "❌ Error: No se generó la carpeta public"
             exit 1
           fi
-          
+
       - name: 🔧 Configurar Git para deploy
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "github-actions@github.com"
-          
+
       - name: 📥 Checkout repositorio de desarrollo
         uses: actions/checkout@v4
         with:
           repository: ${{ secrets.PUBLIC_REPO }}
           path: deploy-dev
           token: ${{ secrets.PAT }}
-          
+
       - name: 🚀 Deploy a desarrollo
         run: |
           # Copiar archivos del build
           cp -r public/* deploy-dev/
-          
+
           # Ir al directorio de deploy
           cd deploy-dev
-          
+
           # Crear archivo .nojekyll (necesario para GitHub Pages)
           touch .nojekyll
-          
+
           # Banner de desarrollo (opcional)
           echo "<!-- SITE EN DESARROLLO -->" >> index.html
-          
+
           # Agregar todos los cambios
           git add .
-          
+
           # Commit con SHA del commit original
           git commit -m "🔧 Deploy desde desarrollo - ${{ github.sha }}" || echo "No hay cambios nuevos"
-          
+
           # Push a main (del repo de desarrollo)
           git push origin main
-          
+
       - name: 📊 Resumen del deploy
         run: |
           echo "✅ Deploy a DESARROLLO completado"
@@ -113,30 +113,30 @@ jobs:
           echo "   https://solecolombia.github.io/voltaje-site"
           echo ""
           echo "⏰ Puede tomar 1-2 minutos en actualizarse"
-          
+
   test:
     runs-on: ubuntu-latest
     if: github.event_name == 'pull_request'
-    
+
     steps:
       - name: 📥 Checkout código
         uses: actions/checkout@v4
-        
+
       - name: 🔧 Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '22'
-          cache: 'npm'
-          cache-dependency-path: 'package-lock.json'
-          
+          node-version: "22"
+          cache: "npm"
+          cache-dependency-path: "package-lock.json"
+
       - name: 📦 Instalar Quartz
         run: |
           npm ci
-          
+
       - name: 🏗️ Test build
         run: |
           node quartz/bootstrap-cli.mjs build
-          
+
       - name: 💬 Comentar resultado en PR
         uses: actions/github-script@v7
         with:
