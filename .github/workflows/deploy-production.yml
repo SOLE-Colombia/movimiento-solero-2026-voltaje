@@ -53,7 +53,7 @@ jobs:
 
       - name: 🏗️ Build del sitio con Quartz
         run: |
-          node bootstrap-cli.mjs build
+          node quartz/bootstrap-cli.mjs build
 
       - name: 📊 Verificar build
         run: |
