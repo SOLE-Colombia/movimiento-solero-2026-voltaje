@@ -88,6 +88,20 @@ tags:
 ---
 ```
 
+### Imágenes para las tarjetas del Home
+Si quieres que una carpeta principal (`content/es/<carpeta>/index.md`) muestre una imagen en el grid inicial:
+
+```yaml
+---
+title: Soluciona
+icon: 🛠️
+cardImage: /assets/images/solv-bicigenerator/solv-bicigenerator-bici.webp
+---
+```
+
+- `cardImage` acepta rutas absolutas (por ejemplo `/assets/...` o `/static/...`) o URLs externas.  
+- También puedes usar rutas relativas al archivo (`cardImage: ./hero.jpg`) cuando la imagen vive junto al `index.md`.
+
 ## 🐳 Detalles Técnicos del Entorno
 
 Para los curiosos o mantenedores:

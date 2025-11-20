@@ -1,6 +1,6 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/folderGrid.scss"
-import { resolveRelative } from "../util/path"
+import { resolveRelative, isAbsoluteURL, FullSlug } from "../util/path"
 
 export default (() => {
   const FolderGrid: QuartzComponent = ({ allFiles, fileData }: QuartzComponentProps) => {
@@ -38,17 +38,40 @@ export default (() => {
       return customOrder.indexOf(slugA) - customOrder.indexOf(slugB)
     })
 
+    const getImageUrl = (raw?: string) => {
+      if (!raw || raw.trim().length === 0) return undefined
+      const clean = raw.trim()
+
+      if (clean.startsWith("/")) {
+        return clean
+      }
+
+      if (isAbsoluteURL(clean)) {
+        return clean
+      }
+
+      return resolveRelative(fileData.slug!, `${file.slug}/${clean}` as FullSlug)
+    }
+
     return (
       <div class="folder-grid">
         {folders.map((file) => {
           const title = file.frontmatter?.title ?? file.slug?.split("/")[1]
           const icon = file.frontmatter?.icon ?? "📁"
           const description = file.frontmatter?.description ?? ""
+          const rawImage =
+            file.frontmatter?.cardImage ?? file.frontmatter?.cover ?? file.frontmatter?.image
+          const imageUrl = getImageUrl(rawImage)
 
           return (
             <a href={resolveRelative(fileData.slug!, file.slug!)} class="folder-card">
-              <div class="card-icon">{icon}</div>
-              <div class="card-content">
+              {imageUrl && (
+                <div class="card-image">
+                  <img src={imageUrl} alt={`Imagen principal de ${title}`} loading="lazy" />
+                </div>
+              )}
+              <div class="card-body">
+                <div class="card-icon">{icon}</div>
                 <h3>{title}</h3>
                 <p class="card-description">{description}</p>
               </div>

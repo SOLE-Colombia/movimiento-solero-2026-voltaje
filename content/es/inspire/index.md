@@ -4,6 +4,7 @@ lang: es
 type: section-index
 icon: 💡
 description: Descubre historias de éxito, ideas innovadoras y ejemplos de cómo otras comunidades han logrado conectarse.
+cardImage: /assets/images/insp-soleunacional/insp-soleunacional-ideas.webp
 ---
 
 # Inspírate
