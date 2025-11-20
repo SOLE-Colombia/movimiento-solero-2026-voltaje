@@ -10,6 +10,12 @@ export const sharedPageComponents: SharedLayout = {
       component: Component.FolderGrid(),
       condition: (page) => page.fileData.slug === "index",
     }),
+    Component.ConditionalRender({
+      component: Component.RandomCardGrid({ count: 3 }),
+      condition: (props) =>
+        props.fileData.frontmatter?.type === "section-index" &&
+        props.fileData.slug !== "index",
+    }),
   ],
   footer: Component.Footer({
     links: {

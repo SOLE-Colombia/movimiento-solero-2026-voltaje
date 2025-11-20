@@ -102,6 +102,51 @@ cardImage: /assets/images/solv-bicigenerator/solv-bicigenerator-bici.webp
 - `cardImage` acepta rutas absolutas (por ejemplo `/assets/...` o `/static/...`) o URLs externas.  
 - También puedes usar rutas relativas al archivo (`cardImage: ./hero.jpg`) cuando la imagen vive junto al `index.md`.
 
+### Tarjetas aleatorias dentro de cada carpeta
+Las páginas `index.md` de cada carpeta (`type: section-index`) muestran 3 notas aleatorias del mismo directorio cada vez que recargas. Para configurar la información que aparece:
+
+```yaml
+---
+type: section-index
+cards:
+  title: También puedes leer
+  count: 3        # opcional. 3 por defecto
+  folders:        # opcional. Mezcla otras carpetas
+    - es/solve
+    - es/inspire
+  showSummary: false
+  random: true    # opcional. true = tirada aleatoria en cada carga
+---
+```
+
+Cada nota hija puede exponer:
+
+```yaml
+---
+title: Bicigenerador comunitario
+author: Equipo SOLE
+description: Aprende a armar un bicigenerador con materiales fáciles de conseguir.
+cardImage: /assets/images/solv-bicigenerator/solv-bicigenerator-bici.webp
+---
+```
+
+Los campos `title`, `description`, `cardImage` y `author` se usan para renderizar la tarjeta; si falta alguno, se emplean valores por defecto. Activa `cards.showSummary: true` si quieres mostrar el resumen dentro del índice o `cards.random: false` si prefieres que siempre aparezcan las mismas notas (sin rotación aleatoria).
+
+### Comando para insertar tarjetas donde quieras
+Dentro de cualquier `.md` puedes invocar un bloque manual usando:
+
+```md
+{{random-cards count=3 folders="es/solve,es/inspire" title="Notas recomendadas" summary=false random=true}}
+```
+
+Parámetros disponibles:
+
+- `count`: número de tarjetas visibles (3 por defecto).
+- `folders`: lista separada por comas con las carpetas que quieres mezclar.
+- `title`: texto del encabezado del bloque.
+- `summary`: `true` o `false` para mostrar/ocultar los resúmenes (por defecto `false`).
+- `random`: `true` para rotar en cada carga (por defecto) o `false` para dejar fijas las tarjetas declaradas.
+
 ## 🐳 Detalles Técnicos del Entorno
 
 Para los curiosos o mantenedores:
