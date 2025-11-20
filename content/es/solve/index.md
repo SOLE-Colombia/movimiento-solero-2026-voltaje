@@ -2,7 +2,8 @@
 title: Soluciona
 lang: es
 type: section-index
-description: Encuentra soluciones para mejorar la conectividad en tu comunidad.
+icon: 🛠️
+description: Encuentra soluciones prácticas y herramientas para mejorar la conectividad y resolver problemas técnicos en tu comunidad.
 ---
 
 # Soluciona

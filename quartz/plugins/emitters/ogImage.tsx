@@ -30,13 +30,31 @@ async function generateSocialImage(
   userOpts: SocialImageOptions,
 ): Promise<Readable> {
   const { width, height } = userOpts
-  const iconPath = joinSegments("static", "icon.png")
+  const iconCandidates = [
+    joinSegments(QUARTZ, "static", "icon.png"),
+    joinSegments("static", "icon.png"),
+  ]
   let iconBase64: string | undefined = undefined
-  try {
-    const iconData = await fs.readFile(iconPath)
-    iconBase64 = `data:image/png;base64,${iconData.toString("base64")}`
-  } catch (err) {
-    console.warn(styleText("yellow", `Warning: Could not find icon at ${iconPath}`))
+
+  for (const iconPath of iconCandidates) {
+    try {
+      const iconData = await fs.readFile(iconPath)
+      iconBase64 = `data:image/png;base64,${iconData.toString("base64")}`
+      break
+    } catch (err) {
+      continue
+    }
+  }
+
+  if (!iconBase64) {
+    console.warn(
+      styleText(
+        "yellow",
+        `Warning: Could not find icon at ${iconCandidates.join(
+          " or ",
+        )}. Se generarán las imágenes OG sin logo.`,
+      ),
+    )
   }
 
   const imageComponent = userOpts.imageStructure({
