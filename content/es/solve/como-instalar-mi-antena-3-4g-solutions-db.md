@@ -26,9 +26,12 @@ recursos/dificultad: 2: Necesita estar inmerso en un lenguaje nuevo y seguir poc
 
 
 
-# Instalar una antena, para tener Internet en un espacio fijo
+## Instalar una antena, para tener Internet en un espacio fijo
 
 ![Bienvenida](/assets/images/solv-need-3Gantenna/solve-need-3Gantenna-welcome.webp)
+
+### Audiolectura de la solución
+[Audio antena 3g](assets/audios/es/Audiolecturas/Audio_Como_instalar_una_antena_34G.mp3)
 
 Hola, soy Sanjay, y no soy un experto en temas de conectividad, pero he aprendido *cacharreando:* a punta de prueba y error, y, también, preguntándole a otras personas sobre el tema. 
 
