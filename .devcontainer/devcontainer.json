@@ -12,7 +12,7 @@
 
   "mounts": [
     "source=${localEnv:HOME}/.ssh,target=/home/sole/.ssh-host,type=bind,consistency=cached",
-    "source=${localEnv:HOME}/.gitconfig,target=/home/sole/.gitconfig,type=bind,consistency=cached",
+    "source=${localEnv:HOME}/.gitconfig,target=/home/sole/.gitconfig_mount,type=bind,consistency=cached",
     "source=/run/host-services/ssh-auth.sock,target=/run/host-services/ssh-auth.sock,type=bind,consistency=cached"
   ],
   
@@ -59,10 +59,7 @@
 
   "remoteUser": "sole",
 
-  // 👇 COMANDOS SIMPLIFICADOS (Usamos rutas relativas)
-  // Quitamos 'cd /workspace' porque ya estaremos ahí.
-  "postCreateCommand": "mkdir -p ~/.ssh && cp -r ~/.ssh-host/. ~/.ssh/ 2>/dev/null || true && chmod 700 ~/.ssh && chmod 600 ~/.ssh/* 2>/dev/null || true && npm install",
+  "postCreateCommand": "mkdir -p ~/.ssh && cp -r ~/.ssh-host/. ~/.ssh/ 2>/dev/null || true && chmod 700 ~/.ssh && chmod 600 ~/.ssh/* 2>/dev/null || true && npm install && ( [ -d ~/.gitconfig ] && rm -rf ~/.gitconfig || true ) && touch ~/.gitconfig",
   
-  // Usamos '.' para referirnos a la carpeta actual
-  "postStartCommand": "sudo chown -R sole:sole ."
+  "postStartCommand": "sudo chown -R sole:sole . && if [ -f ~/.gitconfig_mount ]; then git config --global include.path ~/.gitconfig_mount; fi"
 }
