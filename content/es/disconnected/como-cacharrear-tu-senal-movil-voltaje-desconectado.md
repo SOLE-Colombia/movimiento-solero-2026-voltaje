@@ -14,7 +14,7 @@ fecha: '2025-10-11'
 Creado: 17 de diciembre de 2024 22:22
 Etiquetas: Cacharrear, Tarjeta
 
-![Versión Voltaje Virtual_20241202_SOLE_Desconectado v2 (17).png](¿Cómo cacharrear tu señal móvil 3c7c35ed93ea4a03978cf507dbb0328b/Versin_Voltaje_Virtual_20241202_SOLE_Desconectado_v2_(17).png)
+![WelcomeImage.png](assets/images/desconectado-tinkermobilesignal/desconectado-tinkermobilesignal-card.png)
 
 **Diagnóstico de señal móvil**
 
