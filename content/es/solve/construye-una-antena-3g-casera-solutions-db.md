@@ -18,7 +18,7 @@ Tardas: Horas
 2025-prueba: No
 
 
-# **Mejora tu conexión a la red móvil**
+## **Mejora tu conexión a la red móvil**
 
 ![Antena 3G casera](assets/images/solv-build-3Gantenna/solv-build-3Gantenna-antenna.webp)
 

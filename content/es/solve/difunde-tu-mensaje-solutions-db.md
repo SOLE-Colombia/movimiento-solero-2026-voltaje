@@ -31,7 +31,7 @@ recursos/tiempo: 2: Días
 2025-prueba: No
 
 
-# Llega al corazón de las personas a las que mueve tu mensaje
+## Llega al corazón de las personas a las que mueve tu mensaje
 
 
 ¡Buenaaas! Te saluda Manu. Hoy quiero compartir contigo algunas técnicas poderosas que puedes utilizar para llevar tu mensaje a más personas y generar un impacto positivo en tu comunidad.
@@ -83,7 +83,7 @@ Actividad:
 2. Dibuja los medios de comunicación que normalmente usarían esas personas: ¿usan Redes Sociales? ¿leen periódicos? ¿escuchan radios comunitarias? 
 3. Subraya en la lista cuáles son los medios ganadores
     
-![Video](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/ada24a15-4949-47c5-8432-4e57e7056171/Ilustracion_sin_titulo(11)(1).mp4?table=block&id=12a2bd68-c5b6-8129-81d8-f4051caf56dc&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763503200000&signature=ltESO11SDW6W83IATpZkWifd7MCk6AFKqLZbBAiXpnw&downloadName=Ilustracio%CC%81n_sin_ti%CC%81tulo%2811%29%281%29.mp4)
+![Video](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/ada24a15-4949-47c5-8432-4e57e7056171/Ilustracion_sin_titulo(11)(1).mp4?table=block&id=12a2bd68-c5b6-8129-81d8-f4051caf56dc&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763841600000&signature=SlRmurICZAZVQIix0yxDyFX6ZUFq0YMAcaAxDMQsvuk&downloadName=Ilustracio%CC%81n_sin_ti%CC%81tulo%2811%29%281%29.mp4)
 ¡Listo! Cuando termines este ejercicio sabrás que los medios listados en la hoja son en los que debes enfocarte para transmitir tu mensaje. 
     
 - **Momento 2: Lo segundo, define el canal ¿cómo vas a llegar a ellos?**
@@ -123,7 +123,7 @@ Escucha con atención y muestra interés genuino en lo que dicen. Establece cone
 
 
 
-![Video](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/b5b2a7cd-7694-4723-9cfe-d4bc71f2bbba/Vdeo_sin_ttulo__Hecho_con_Clipchamp_(9).mp4?table=block&id=12a2bd68-c5b6-813d-b6e2-ee1a85422ca8&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763503200000&signature=NYnV6XEN6EX8jrOmlrBFrL5padFZklGRfkNFIOMWRds&downloadName=V%C3%ADdeo+sin+t%C3%ADtulo+%E2%80%90+Hecho+con+Clipchamp+%289%29.mp4)
+![Video](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/b5b2a7cd-7694-4723-9cfe-d4bc71f2bbba/Vdeo_sin_ttulo__Hecho_con_Clipchamp_(9).mp4?table=block&id=12a2bd68-c5b6-813d-b6e2-ee1a85422ca8&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763841600000&signature=XYPwd8WD3BTOfTBi2ut4oym9hKgvLqhTKLDpngD5GBE&downloadName=V%C3%ADdeo+sin+t%C3%ADtulo+%E2%80%90+Hecho+con+Clipchamp+%289%29.mp4)
 
 - **Momento 3: Busca ayuda en otros, la unión hace la fuerza**
 

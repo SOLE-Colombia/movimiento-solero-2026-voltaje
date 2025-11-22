@@ -32,7 +32,7 @@ recursos/tiempo: 1: Horas
 
 
 
-# Aprovecha las opciones de tu servicio de Internet
+## Aprovecha las opciones de tu servicio de Internet
 
 
 
@@ -69,8 +69,7 @@ Imagina que el **ancho de banda** es como un camión gigante de mercancía, así
     
 - **Momento 2: Conéctate a 5GHz si Usas Wi-Fi**
     
-    
- ![RedWifi5GHz](assets/images/solv-bandwidth/solv-bandwidth-connect.webp)
+    ![RedWifi5GHz](assets/images/solv-bandwidth/solv-bandwidth-connect.webp)
     
     Pantallazo tomado por Manuela Córdoba, (2024).
     
@@ -115,9 +114,8 @@ También puedes monitorear tu consumo de datos, el uso de datos de las aplicacio
 
 ## Soluciones recomendadas
 
-- [¿Cómo comprar un plan celular adecuado para mi?](es/solve/como-comprar-un-plan-celular-adecuado-para-mi-solutions-db) | [How to buy a suitable cellular plan for me?](/en/solve/how-to-buy-a-suitable-cellular-plan-for-me-solutions-db)
-- [¿Cómo probar la velocidad de tu conexión a Internet?](es/solve/como-probar-la-velocidad-de-tu-conexion-a-internet-solutions-db) | [How to test the speed of your Internet connection?](/en/solve/how-to-test-the-speed-of-your-internet-connection-solutions-db)
-- [¿Cómo saber qué tipo de señal de Internet tienes?](es/solve/como-saber-que-tipo-de-senal-de-internet-tienes-solutions-db) | [How to know what kind of Internet signal you have?](/en/solve/how-to-know-what-kind-of-internet-signal-you-have-solutions-db)
-
+- [¿Cómo comprar un plan celular adecuado para mi?](es/solve/como-comprar-un-plan-celular-adecuado-para-mi-solutions-db) 
+- [¿Cómo probar la velocidad de tu conexión a Internet?](es/solve/como-probar-la-velocidad-de-tu-conexion-a-internet-solutions-db) 
+- [¿Cómo saber qué tipo de señal de Internet tienes?](es/solve/como-saber-que-tipo-de-senal-de-internet-tienes-solutions-db) 
 ---
 

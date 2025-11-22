@@ -29,7 +29,7 @@ recursos/tiempo: 0: Minutos
 
 
 
-# Comparte tu internet de bolsillo
+## Comparte tu internet de bolsillo
 
 
 Hola, soy Gabriel. Soy artista. Los aparatos digitales, su funcionamiento y la forma en la que los humanos interactuamos con ellos, me resultan interesantes. Me considero un cacharrero y te invito, si quieres, a que tú también lo seas.
@@ -235,7 +235,7 @@ En el contenido de este, buscamos la línea que dice `#net.ipv4.ip_forward=1` y 
 
 - **Momento 10: Finalmente, asegura el Firewall**
 
-![Configure firewall](assets/images/solv-raspberrypi-configure/solv-raspberrypi-configure-firewall.webp)
+![Configure firewall](assets/images/solv-raspberrypi-configure/solv-raspberrypi-configure-settings.webp)
 
 Ya estamos en el último paso de la configuración. Acá tenemos que decirle al [Firewall](es/glossary/cortafuegos-firewall-conceptorio) que permita el transito del tráfico de la red entre las interfaces inalámbricas y cableadas, para ello, entramos estos comandos en nuestro terminal:
 
@@ -253,7 +253,7 @@ sudo sh -c
 
 - **Momento 11: Ahora, ¡con Internet!**
 
-![Solehomepage](assets/images/solv-raspberrypi-configure/solv-raspberrypi-configure-solehomepage.webp)
+![Solehomepage](assets/images/solv-raspberrypi-configure/solv-raspberrypi-configure-solehome.webp)
 
 Luego de este largo proceso, los [clientes](es/glossary/cliente-client-conceptorio) conectados a nuestro Pi podrán tener acceso a la conexión de Internet compartida desde nuestro Raspberry Pi… ¡CONSEGUIDO!
     

@@ -34,7 +34,7 @@ recursos/tiempo: 2: Días
 
 
 
-# **Instala Kiwix en tu Raspberry Pi**
+## **Instala Kiwix en tu Raspberry Pi**
 
 
 ¡Hola! Soy Gabriel y soy artista. Me gusta la tecnología y soy uno de los primeros cacharreros de SOLE Colombia. 

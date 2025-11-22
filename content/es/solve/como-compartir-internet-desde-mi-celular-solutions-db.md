@@ -21,7 +21,7 @@ Tardas: Días
 2025-prueba: No
 
 
-# **Reiniciar y compartir el internet de su teléfono con otros**
+## **Reiniciar y compartir el internet de su teléfono con otros**
 
 
 ¡Hola! Esta solución la escribió Nicolás, uno de los cacharreros de SOLE Colombia.
@@ -64,7 +64,7 @@ Una vez reiniciado ¡podrás compartir la señal de Internet de tu teléfono par
     
     Dirígete a configuración y busca **“punto de acceso móvil”**, en inglés aparece como **“Hotspot”**. 
     
-    En este menú busca la opción **“Establecer un punto de acceso móvil”**. Te aparecerán varios datos, por ahora solo nos interesa configurar el nombre de la [red WiFi](/wifi-fidelidad-inalambrica-wifi-wireless-fidelity-conceptorio) que crees y la contraseña de acceso. 
+    En este menú busca la opción **“Establecer un punto de acceso móvil”**. Te aparecerán varios datos, por ahora solo nos interesa configurar el nombre de la [red WiFi](/es/glossary/wifi-fidelidad-inalambrica-wifi-wireless-fidelity-conceptorio) que crees y la contraseña de acceso. 
     
     Una vez los cambies presiona en el chulo (o el aspa) para guardar la nueva configuración.
     
@@ -93,8 +93,8 @@ Esta receta no te servirá si la señal de telefonía en tu zona no es de buena 
 
 ## **Soluciones recomendadas**
 
-- [¿Cómo mejorar la señal de tu router?](es/solve/como-mejorar-la-senal-de-tu-router-solutions-db) | [How to improve your router signal?](en/solve/how-to-improve-your-router-signal-solutions-db)
-- [¿Cómo mejorar mi señal con una lata?](es/solve/como-mejorar-mi-senal-con-una-lata-solutions-db) | [How to improve my signal with a can?](en/solve/how-to-improve-my-signal-with-a-can-solutions-db)
-- [¿Cómo saber las contraseñas WiFi de mi celular?](es/solve/como-saber-las-contrasenas-wifi-de-mi-celular-solutions-db) | [How to know the WiFi passwords of my cell phone?](en/solve/how-to-know-the-wifi-passwords-of-my-cell-phone-solutions-db)
+- [¿Cómo mejorar la señal de tu router?](es/solve/como-mejorar-la-senal-de-tu-router-solutions-db) 
+- [¿Cómo mejorar mi señal con una lata?](es/solve/como-mejorar-mi-senal-con-una-lata-solutions-db) 
+- [¿Cómo saber las contraseñas WiFi de mi celular?](es/solve/como-saber-las-contrasenas-wifi-de-mi-celular-solutions-db) 
 
 ---

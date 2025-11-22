@@ -30,7 +30,7 @@ recursos/tiempo: 0: Minutos
 2025-prueba: No
 
 
-# **Un código o PIN para acceder a internet satelital**
+## **Un código o PIN para acceder a internet satelital**
 
 
 ¡Hola! Soy Belén. No escribí la totalidad de esta solución, pero, al revisarla, recordé muchas sesiones de SOLE que funcionan gracias a esta solución. Encontrar un lugar donde vendan unos cuantos datos, o minutos, de conexión a Internet a través de un satélite, nos ha permitido llevar SOLE donde nunca pensamos llegar. 
@@ -88,7 +88,7 @@ Tenemos que medir muy bien el ancho de banda que ofrece el servicio y, en genera
 
 ## Soluciones recomendadas
 
-- [¿Cómo aprovechar mi ancho de banda?](es/solve/como-aprovechar-mi-ancho-de-banda-solutions-db) | [How make better use of my bandwidth?](/how-make-better-use-of-my-bandwidth-solutions-db)
+- [¿Cómo aprovechar mi ancho de banda?](es/solve/como-aprovechar-mi-ancho-de-banda-solutions-db) 
 - [¿Cómo compartir Internet desde mi celular?](es/solve/como-compartir-internet-desde-mi-celular-solutions-db)
 - [¿Cómo amplificar tu señal móvil dentro de un espacio?](es/solve/como-amplificar-tu-senal-movil-dentro-de-un-espacio-solutions-db) | [¿Cómo amplificar tu señal móvil dentro de un espacio?](/como-amplificar-tu-senal-movil-dentro-de-un-espacio-solutions-db)
 

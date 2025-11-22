@@ -31,7 +31,9 @@ recursos/dificultad: 2: Necesita estar inmerso en un lenguaje nuevo y seguir poc
 ![Bienvenida](/assets/images/solv-need-3Gantenna/solve-need-3Gantenna-welcome.webp)
 
 ### Audiolectura de la solución
-[Audio antena 3g](assets/audios/es/Audiolecturas/Audio_Como_instalar_una_antena_34G.mp3)
+
+_________________
+
 
 Hola, soy Sanjay, y no soy un experto en temas de conectividad, pero he aprendido *cacharreando:* a punta de prueba y error, y, también, preguntándole a otras personas sobre el tema. 
 
@@ -63,11 +65,11 @@ Recuerda que estas trabajando con equipos eléctricos. Ten cuidado al momento de
 
 ![Materiales](/assets/images/solv-install3Gantenna/solv-install3Gantenna-materials.webp)
 
-1. [Antena 3/4G](/workspace/quartz/content/es/glossary/antena-3-4g-3-4g-antenna-conceptorio.md) que hayas comprado  
-2. [Cable coaxial](es/solve/cable-coaxial-coaxial-cable-conceptorio) de la antena
+1. [Antena 3/4G](es/glossary/antena-3-4g-3-4g-antenna-conceptorio.md) que hayas comprado  
+2. [Cable coaxial](es/glossary/cable-coaxial-coaxial-cable-conceptorio) de la antena
 3. [Modem](es/glossary/modem-router-o-enrutador-modem-or-router-conceptorio.md) con su respectivo cable de poder, cable de Ethernet y guía de **Inicio Rápido**
-4. [Tarjeta SIM](es/solve/tarjeta-sim-sim-card-conceptorio) del operador celular que tenga mejor señal en la zona
-5. Computador con [conexión Ethernet](es/solve/conexion-cable-ethernet-ethernet-cable-connection-conceptorio) y/o [WiFi](/wifi-fidelidad-inalambrica-wifi-wireless-fidelity-conceptorio)  o [Teléfono móvil inteligente](/telefono-movil-inteligente-smartphone-conceptorio) (Android / IOS) 
+4. [Tarjeta SIM](es/glossary/tarjeta-sim-sim-card-conceptorio) del operador celular que tenga mejor señal en la zona
+5. Computador con [conexión Ethernet](es/glossary/conexion-cable-ethernet-ethernet-cable-connection-conceptorio) y/o [WiFi](es/glossary/wifi-fidelidad-inalambrica-wifi-wireless-fidelity-conceptorio)  o [Teléfono móvil inteligente](es/glossary/telefono-movil-inteligente-smartphone-conceptorio) (Android / IOS) 
 6. Vara alta (de la misma longitud del cable o un poco menos): puede ser un tubo de metal, madera o guadua. Lo importante es que sea lo más recta posible y resistente. 
 7. Soportes de la antena
 8. Llave para apretar tuercas.
@@ -140,7 +142,7 @@ Esta solución tiene 6 pasos, unos más sencillos que otros, pero no te preocupe
     
     Insértalo cuidadosamente en la bandeja y tápala. 
     
-    Luego conecta ****el cable de poder al módem y luego a la toma corriente. Enciende el módem como te indica la guía. Puede ser automático o en un botón de encendido.
+    Luego conecta **el cable de poder al módem y luego a la toma corriente. Enciende el módem como te indica la guía. Puede ser automático o en un botón de encendido**.
     
     ![Insertsim](assets/images/solv-install3Gantenna/solv-install3Gantenna-insertsim.webp)
     
@@ -271,7 +273,13 @@ Si buscas en ese listado de información encontrarás varios datos. Los 4 parám
 
 A continuación puedes ver una tabla que te indica los parámetros de la cobertura de la señal de celular que está recibiendo tu antena. Nota que tres de ellos son números negativos y a medida que se van acercando a cero es que la señal mejora. Puede parecer un poco técnica esta información, pero no te preocupes, no es necesario entenderla con mucha profundidad para que funcione. 
 
-![Parametros de señal 3/4G](https://solecolombia.notion.site/12a2bd68c5b6811680fed33cf194d1c2?v=12a2bd68c5b681079b4a000ccf423b6d&source=copy_link)
+|	Cobertura	| RSRQ	| RSRP	| RSSI	| SINR	|
+|---	|---	|---	|---	|---	|
+| Excelente	| > -10 dB	| > -80 dBm	| > -65 dBm	| > 20 dB	|
+| Buena	| -10 dB a -15dB	| -80 dBm a -90 dBm	| -65 dBm a -75 dBm	| 13 dB a 20 dB	|
+| Media	| -15 dB a -20 dB	| -90 dBm a -100 dBm	| -75 dBm a -85 dBm	| 0 dB a 13 dB	|
+| Baja	| <-20 dB	| <-100 dBm	| <-85 dBm	| <-0 dB	|
+
 
 Lo que debes hacer, de nuevo, es ir rotando la antena izada en pequeños intervalos y esperar unos segundos para notar cómo cambian esos números. Yo me fijo principalmente en el RSRP que es el de la potencia de la conexión. Si quieres puedes dibujar un círculo en el piso alrededor de la vara de la antena y dibujar líneas que dividan el círculo en pedazos iguales. Entonces apuntas la antena en la dirección de la línea y verificas si el parámetro mejoró o empeoró. Si mejoró sigue girando y revisando el parámetro. Si empeoró regresa al punto anterior. 
 
@@ -331,9 +339,8 @@ Te invito a pensar hasta dónde puedes llegar tú y ¡que lo compartas con otros
 
 ## Soluciones recomendadas
 
-- [¿Cómo comprar una antena satelital?](es/solve/como-comprar-una-antena-satelital-solutions-db)  | [How to buy a satellite antenna?](en/solve/how-to-buy-a-satellite-antenna-solutions-db)
-- [¿Cómo usar el juego para aprender a cuidar equipos en comunidad?](es/solve/como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-solutions-db)  | [How to use the game to learn how to take care of equipment in community?](en/solve/how-to-use-the-game-to-learn-how-to-take-care-of-equipment-in-community-solutions-db)
-
+- [¿Cómo comprar una antena satelital?](es/solve/como-comprar-una-antena-satelital-solutions-db) 
+- [¿Cómo usar el juego para aprender a cuidar equipos en comunidad?](es/solve/como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-solutions-db)  
 ## Referencias
 
 - [Problemas con el internet](https://problemasconinternet.com/router-blu-castle-4g/)

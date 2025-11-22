@@ -30,7 +30,7 @@ recursos/tiempo: 0: Minutos
 
 
 
-# ¿Cómo escoger un servicio de internet para lugares no interconectados?
+## ¿Cómo escoger un servicio de internet para lugares no interconectados?
 
 ![Antena satelital](https://images.pexels.com/photos/5790645/pexels-photo-5790645.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
@@ -187,10 +187,10 @@ Puedes tener en cuenta los siguientes criterios y pensarlos en función de las p
 
 ## Soluciones recomendadas
 
-- [**Haz una colecta para pagar internet comunitario**](es/solve/haz-una-colecta-para-pagar-internet-comunitario-solutions-db) | [**Look for funding to pay for community internet**](en/solve/look-for-funding-to-pay-for-community-internet-solutions-db)
-- [**¿Necesito comprar una antena 3G/4G? Cómo tomar la decisión**](es/solve//necesito-comprar-una-antena-3g-4g-como-tomar-la-decision-solutions-db) | [**Do I need to buy a 3G/4G antenna? How to make the decision**](es/solve/do-i-need-to-buy-a-3g-4g-antenna-how-to-make-the-decision-solutions-db)
-- [¿Qué Internet satelital elegir, según mis necesidades? ](es/solve/que-internet-satelital-elegir-segun-mis-necesidades-solutions-db) | [Which satellite Internet to choose, according to my needs?](en/solve/which-satellite-internet-to-choose-according-to-my-needs-solutions-db)
-- [¿Tu comunidad necesita apoyo económico para conectarse a Internet? ](es/solve/tu-comunidad-necesita-apoyo-economico-para-conectarse-a-internet-solutions-db) | [Does your community need financial support to connect to the Internet? ](en/solve/does-your-community-need-financial-support-to-connect-to-the-internet-solutions-db)
+- [**Haz una colecta para pagar internet comunitario**](es/solve/haz-una-colecta-para-pagar-internet-comunitario-solutions-db) 
+- [**¿Necesito comprar una antena 3G/4G? Cómo tomar la decisión**](es/solve//necesito-comprar-una-antena-3g-4g-como-tomar-la-decision-solutions-db) 
+- [¿Qué Internet satelital elegir, según mis necesidades? ](es/solve/que-internet-satelital-elegir-segun-mis-necesidades-solutions-db) 
+- [¿Tu comunidad necesita apoyo económico para conectarse a Internet? ](es/solve/tu-comunidad-necesita-apoyo-economico-para-conectarse-a-internet-solutions-db) 
 
 ## Referencias
 

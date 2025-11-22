@@ -29,7 +29,7 @@ recursos/tiempo: 0: Minutos
 2025-prueba: No
 
 
-# Comprar el mejor computador para mi caso
+## Comprar el mejor computador para mi caso
 
 
 Hola, soy Nicolás y, al igual que tú, he estado aprendiendo sobre cómo mejorar mi conexión a internet. No soy un experto en el tema, pero buscando en internet, tutoriales y aprendiendo de la prueba y el error he logrado mejorar la calidad del internet en zonas sin buena conectividad. 
@@ -103,13 +103,13 @@ Si agotaste las opciones anteriores y, definitivamente, decidiste comprar un com
 
     | **Elemento** | **Imagen** | **Descripción** |
     | --- | --- | --- |
-    | Procesador | [Processor](assets/images/solv-buy-computer/solv-buy-computer-processor.webp) | Este es el cerebro de la máquina, sin duda uno de los factores fundamentales a tener en cuenta. Recuerda que según la potencia de este elemento el equipo podrá ejecutar más rápido las instrucciones que le des. |
-    | Almacenamiento | [Storage](assets/images/solv-buy-computer/Solv-buy-computer-storage.webp) | El disco duro marca la capacidad de almacenamiento de tu equipo.  |
-    | Memoria RAM| [Ram](assets/images/solv-buy-computer/Solv-buy-computer-ram.webp) | La memoria RAM almacena de forma temporal los datos de las aplicaciones que se están ejecutando. Cuanta más memoria RAM tenga tu computador, mayor capacidad para ejecutar diferentes programas a la vez de forma óptima. |
-    | Trajeta gráfica | [Graphic](/assets/images/solv-buy-computer/solv-buy-computer-VideoCard.webp)| La tarjeta gráfica se encarga del procesamiento de datos relacionados con imágenes y vídeos que se reproducen en el computador.  |
-    | Periféricos| [Periferic](assets/images/solv-buy-computer/Solv-buy-computer-periferic.webp) | Se refieren al los accesos de entrada y salida de otros dispositivos que conectarás a tu computador. Por ejemplo:  puertos USB, Salidas de audio, conexiones HDMI, etc. |
-    | Pantalla| [Screen](content/assets/images/solv-buy-computer/Solv-buy-computer-screen.webp)| Es la que te permite ver lo que estas realizando en tu computador. |
-    | Batería| [Battery](assets/images/solv-buy-computer/Solv-buy-computer-battery.webp) | Solo aplica para portátiles y determina el tiempo de uso del que dispones sin estar conectado a la corriente. |
+    | Procesador | ![Processor](assets/images/solv-buy-computer/solv-buy-computer-processor.webp) | Este es el cerebro de la máquina, sin duda uno de los factores fundamentales a tener en cuenta. Recuerda que según la potencia de este elemento el equipo podrá ejecutar más rápido las instrucciones que le des. |
+    | Almacenamiento | ![Storage](assets/images/solv-buy-computer/Solv-buy-computer-storage.webp) | El disco duro marca la capacidad de almacenamiento de tu equipo.  |
+    | Memoria RAM| ![Ram](assets/images/solv-buy-computer/Solv-buy-computer-ram.webp) | La memoria RAM almacena de forma temporal los datos de las aplicaciones que se están ejecutando. Cuanta más memoria RAM tenga tu computador, mayor capacidad para ejecutar diferentes programas a la vez de forma óptima. |
+    | Trajeta gráfica | ![Graphic](/assets/images/solv-buy-computer/solv-buy-computer-VideoCard.webp)| La tarjeta gráfica se encarga del procesamiento de datos relacionados con imágenes y vídeos que se reproducen en el computador.  |
+    | Periféricos| ![Periferic](assets/images/solv-buy-computer/Solv-buy-computer-periferic.webp) | Se refieren al los accesos de entrada y salida de otros dispositivos que conectarás a tu computador. Por ejemplo:  puertos USB, Salidas de audio, conexiones HDMI, etc. |
+    | Pantalla| ![Screen](assets/images/solv-buy-computer/Solv-buy-computer-screen.webp)| Es la que te permite ver lo que estas realizando en tu computador. |
+    | Batería| ![Battery](assets/images/solv-buy-computer/Solv-buy-computer-battery.webp) | Solo aplica para portátiles y determina el tiempo de uso del que dispones sin estar conectado a la corriente. |
 
 
     
@@ -120,7 +120,7 @@ Si agotaste las opciones anteriores y, definitivamente, decidiste comprar un com
     | **Elemento** | **Detalle** | **Preguntas relevante** |
     | --- | --- | --- |
     | Procesador | Si buscas un ordenador rápido, que realice las tareas de forma efectiva y sin ponerse lento, hay que tener en cuenta la cantidad de núcleos. Además, debe detallarse la frecuencia o velocidad de trabajo. A mayor número mejor rendimiento este factor se mide en Ghz (gigahercios). Así que 3Ghz es mucho mejor que un 2.5 Ghz. En cuanto a marcas esta es la recomendación: **Si puedes pagarlo, opta por un Intel; si necesitas algo más barato, un AMD. Y si andas realmente ajustado de dinero, elige un Celeron.** | ¿Cuántos programas puedes utilizar al mismo tiempo?,¿Qué actividades realizaras con tu computador, vas a diseñar modelos, explorar en internet jugar?, ¿Intel o AMD?, ¿Cuántos núcleos? |
-    | Almacenamiento | 500 GB es más que suficiente para un uso casero “normal”. Si eres de guardar películas, series, etc, puede ser necesario que elijas un disco duro de  1 TB (terabyte) o superior. La velocidad también es fundamental. Se mide en revoluciones por minuto (rpm) a mayor velocidad mejor será la lectura y escritura de datos. Actualmente existen dos tecnologías diferentes: **El disco duro tradicional (HDD),** que es más lento, pero más económico. El otro es el d**isco de estado sólido (SSD)**, más rápido pero más costoso. | ¿Unidad de estado sólido o disco duro?, ¿Cuánta información vas a guardar?, ¿Quiero que el computador prenda rápidamente?  |
+    | Almacenamiento | 500 GB es más que suficiente para un uso casero “normal”. Si eres de guardar películas, series, etc, puede ser necesario que elijas un disco duro de  1 TB (terabyte) o superior. La velocidad también es fundamental. Se mide en revoluciones por minuto (rpm) a mayor velocidad mejor será la lectura y escritura de datos. Actualmente existen dos tecnologías diferentes: **El disco duro tradicional (HDD),** que es más lento, pero más económico. El otro es el **disco de estado sólido (SSD)**, más rápido pero más costoso. | ¿Unidad de estado sólido o disco duro?, ¿Cuánta información vas a guardar?, ¿Quiero que el computador prenda rápidamente?  |
     | Memoria RAM | Cuanta más memoria RAM tenga tu computador, mayor será su capacidad para ejecutar diferentes programas a la vez de forma óptima. Calcular cuánta memoria RAM necesitas para tu equipo está 100% relacionado al tipo de uso que le das. Mientras más programas utilices (como programas de diseño, edición, entre otros), necesitarás un mayor número. Si vas a usar programas de diseño, videojuegos o simplemente tienes el dinero y quieres un computador muy rápido compra 16GB; si tu uso es para labores convencionales (escribir, navegar, etc) 8 GB serán suficientes; si no tienes mucho presupuesto debes confórmate con 4 GB y estar dispuesto a que el computador no sea muy veloz.    | ¿Qué programas voy a usar?, ¿Cuántos GB necesito? |
     | Tarjeta gráfica | Puede ser un factor importante o no dependiendo el uso que le vayas a dar, si en tu caso solo lo necesitas para tareas básicas uso estándar, funciona cualquier tarjeta gráfica. Pero, si requieres trabajo gráfico o gaming, es ideal una tarjeta gráfica dedicada.
     No te compliques la vida. Para un uso estándar no necesitas una tarjeta gráfica espectacular. Cualquiera de las marcas Radeon o Nvidia te dará un gran servicio. | ¿Voy a usarlo para videojuegos o programas de diseño?, ¿Nvidia y Radeon? |
@@ -174,9 +174,9 @@ Con esto que acabamos de ver, ya no te pueden meter los dedos a la boca, **¡es 
 
 ## Soluciones relacionadas
 
-- [¿Cómo compartir los computadores disponibles?](es/solve/como-compartir-los-computadores-disponibles-solutions-db) | [How to share available computers?](en/solve/how-to-share-available-computers-solutions-db)
-- [¿Cómo conseguir equipos donados?](es/solve/como-conseguir-equipos-donados-solutions-db) |  [How to get donated equipment?](en/solve/how-to-get-donated-equipment-solutions-db)
-- [¿Cómo usar el juego para aprender a cuidar equipos en comunidad?](es/solve/como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-solutions-db) | [How to use the game to learn how to take care of equipment in community?](en/solve/how-to-use-the-game-to-learn-how-to-take-care-of-equipment-in-community-solutions-db)
+- [¿Cómo compartir los computadores disponibles?](es/solve/como-compartir-los-computadores-disponibles-solutions-db) 
+- [¿Cómo conseguir equipos donados?](es/solve/como-conseguir-equipos-donados-solutions-db) 
+- [¿Cómo usar el juego para aprender a cuidar equipos en comunidad?](es/solve/como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-solutions-db) 
 
 ## Referencias
 

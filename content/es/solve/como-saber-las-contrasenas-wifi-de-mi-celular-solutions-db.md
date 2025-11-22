@@ -32,7 +32,7 @@ recursos/tiempo: 0: Minutos
 
 
 
-# **Explora la contraseñas de conexión WiFi de tu celular**
+## **Explora la contraseñas de conexión WiFi de tu celular**
 
 
 

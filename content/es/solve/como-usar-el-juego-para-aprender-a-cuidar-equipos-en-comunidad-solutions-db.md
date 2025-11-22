@@ -21,7 +21,7 @@ Tardas: Horas
 
 
 
-# Una solución de gobernanza para los recursos comunes
+## Una solución de gobernanza para los recursos comunes
 
 ## **Video de la solución**
 

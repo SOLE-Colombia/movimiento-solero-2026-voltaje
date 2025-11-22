@@ -28,7 +28,7 @@ recursos/tiempo: 1: Horas
 
 
 
-# En comunicación, la audiencia manda
+## En comunicación, la audiencia manda
 
 
 ¡Hola! 😊 
@@ -69,7 +69,7 @@ Crearás contenido más relevante para esas personas, adecuado a sus intereses y
     
     Mira cómo me fue a mí haciendo este ejercicio:
     
-![Video](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/23990d99-62f9-4160-a663-8be5b76b477d/Ilustracion_sin_titulo(12).mp4?table=block&id=12a2bd68-c5b6-816a-a375-f885980e099f&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763503200000&signature=PMFsg4VpGEZKiYPUkra-2GEHTaQs351iDz25fY5tj2Q&downloadName=Ilustracio%CC%81n_sin_ti%CC%81tulo%2812%29.mp4)
+![Video](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/23990d99-62f9-4160-a663-8be5b76b477d/Ilustracion_sin_titulo(12).mp4?table=block&id=12a2bd68-c5b6-816a-a375-f885980e099f&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763841600000&signature=G1cvje923Sllh1_-8RGLpB0gKEmg-I1EgvzP9UoyrX8&downloadName=Ilustracio%CC%81n_sin_ti%CC%81tulo%2812%29.mp4)
     
 - **Momento 2: Crea tus personajes, profundiza para crear tu persona ideal**
     
@@ -82,7 +82,7 @@ Crearás contenido más relevante para esas personas, adecuado a sus intereses y
     
     Cuando hayas terminado este ejercicio será más fácil visualizar tu audiencia ideal. Mira cómo lo hice yo:
     
-![Video](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/5f42a906-5190-4558-96fd-9e3eceb4818b/Ilustracion_sin_titulo(13).mp4?table=block&id=12a2bd68-c5b6-811e-88c2-dfe8933929a3&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763503200000&signature=9J6x8tMCIWJQaiHX6W409yujznAy_LjPXeE-cRnNOS8&downloadName=Ilustracio%CC%81n_sin_ti%CC%81tulo%2813%29.mp4)
+![Video](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/5f42a906-5190-4558-96fd-9e3eceb4818b/Ilustracion_sin_titulo(13).mp4?table=block&id=12a2bd68-c5b6-811e-88c2-dfe8933929a3&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763841600000&signature=RFMcmarCc3M-2OVt3pOteTo8m9XHtvGtkFP7iRzpCDU&downloadName=Ilustracio%CC%81n_sin_ti%CC%81tulo%2813%29.mp4)
     
 - **Momento 3: Observa y escucha a tu gente, busca respuestas**
     

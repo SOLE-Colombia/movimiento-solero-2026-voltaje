@@ -32,7 +32,7 @@ recursos/tiempo: 0: Minutos
 
 
 
-# Encuentra las redes disponibles a tu alrededor
+## Encuentra las redes disponibles a tu alrededor
 
 
 ¡Hola! Soy Belén y te doy la bienvenida. No escribí esta solución, pero voy a acompañarte a recorrerla y me encantaría que, al final, puedas decirme si te gustó, te sirvió y puedes aplicarla en tu contexto. 

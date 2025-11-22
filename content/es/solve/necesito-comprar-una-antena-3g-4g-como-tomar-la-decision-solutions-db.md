@@ -32,7 +32,7 @@ recursos/tiempo: 2: Días
 
 
 
-# **Comprar una antena para tener mejor calidad de señal de Internet móvil**
+## **Comprar una antena para tener mejor calidad de señal de Internet móvil**
 
 ## Bienvenida
 

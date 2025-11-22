@@ -31,7 +31,7 @@ recursos/tiempo: 0: Minutos
 
 
 
-# Descubre cómo llega el internet a tu dispositivo
+## Descubre cómo llega el internet a tu dispositivo
 
 
 Hola, soy Belén. No soy una experta en internet, de hecho, ya me siento mayor y no entiendo muchas cosas sobre conectividad. Si también te sientes como yo, esta información te dará luz. Si no te sientes como yo, pero quieres entender mejor las diferencias entre las señales y cómo se relacionan con el funcionamiento de los dispositivos, esta información te sacará de dudas. 

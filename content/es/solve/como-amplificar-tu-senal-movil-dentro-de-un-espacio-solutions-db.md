@@ -28,7 +28,7 @@ recursos/dificultad: 0: No necesita habilidades nuevas solo seguir instrucciones
 
 ---
 
-# Amplifica tu señal móvil
+## Amplifica tu señal móvil
 
 
 ¡Hola! Soy Sanjay y te doy la bienvenida a SOLE Voltaje. No soy experto en temas de conectividad, pero saber algunos trucos de cómo mejorar mi señal me ha hecho la vida más fácil y voy a acompañarte a descubrirlos. Me encantará que, al final, puedas decirme si esta solución te gustó, te sirvió y cómo te hizo sentir. ¡Vamos allá!
@@ -73,10 +73,9 @@ Recuerda, para las comunidades expertas en SOLE, tener una conexión sólida es 
 
 ## **Soluciones recomendadas**
 
-- [¿Cómo compartir Internet desde mi celular?](es/solve/como-compartir-internet-desde-mi-celular-solutions-db) | [How to share Internet from my cell phone?](/en/solve/how-to-share-internet-from-my-cell-phone-solutions-db)
-- [¿Cómo mejorar mi señal con una lata?](es/solve/como-mejorar-mi-senal-con-una-lata-solutions-db) | [How to improve my signal with a can?](/en/solve/how-to-improve-my-signal-with-a-can-solutions-db)
-- [¿Cómo probar la velocidad de tu conexión a Internet?](es/solve/como-probar-la-velocidad-de-tu-conexion-a-internet-solutions-db) | [How to test the speed of your Internet connection?](/en/solve/how-to-test-the-speed-of-your-internet-connection-solutions-db)
-
+- [¿Cómo compartir Internet desde mi celular?](es/solve/como-compartir-internet-desde-mi-celular-solutions-db) 
+- [¿Cómo mejorar mi señal con una lata?](es/solve/como-mejorar-mi-senal-con-una-lata-solutions-db) 
+- [¿Cómo probar la velocidad de tu conexión a Internet?](es/solve/como-probar-la-velocidad-de-tu-conexion-a-internet-solutions-db) 
 ## Referencias
 
 - [Kiwix](https://www.kiwix.org/en/)

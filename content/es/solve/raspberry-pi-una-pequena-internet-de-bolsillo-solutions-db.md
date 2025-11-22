@@ -91,11 +91,11 @@ Aún cuando sus prestaciones son muchas y evidentes, esta es una solución que r
 - **Momento 2: Conecta tu Pi**
     - **Ubícalo en el Pi Imager**
         
-        Ahora que ya está nuestro Pi conectado a la corriente, y a nuestra [**red local](es/glossary/lan-red-local-lan-local-area-network-conceptorio),** debemos ubicarlo para poder conectarnos a él. 
+        Ahora que ya está nuestro Pi conectado a la corriente, y a nuestra [**red local**](es/glossary/lan-red-local-lan-local-area-network-conceptorio),** debemos ubicarlo para poder conectarnos a él. 
         
         Antes de esto, una pequeña nota: **los pasos que vienen a continuación los realizaremos por medio de un** [Terminal](es/glossary/terminal-o-consola-terminal-or-console-conceptorio). Si usas un [sistema operativo](../../Conceptorio 12a2bd68c5b6808baf3be5e67cddb488/Conceptorio 1624106bff984c4590342afeae3e5e0d/Sistema operativo (SO)%20Operating%20system%20(OS)%202342bd68c5b68003b66beb552afaa17a.md) tipo Unix (Linux, MacOs), simplemente, busca el terminal y ahí podrás seguir los pasos (más abajo tienes cómo hacerlo). Si usas Windows, puedes usar el [CMD](es/glossary/simbolo-de-sistema-cmd-command-prompt-cmd-conceptorio) en este paso y, para conectarte al Pi, puedes usar [Putty](https://www.putty.org/).
         
-        Para ubicar el Pi en un Terminal usamos el [programa ping](es/solve/programa-ping-ping-program-conceptorio), este intentará enviar un pequeño paquete de datos a la dirección que le indiquemos y nos dirá entre otras cosas la dirección [**IP**](https://sole-doc.tiddlyhost.com/#IP) del computador. 
+        Para ubicar el Pi en un Terminal usamos el [programa ping](es/glossary/programa-ping-ping-program-conceptorio), este intentará enviar un pequeño paquete de datos a la dirección que le indiquemos y nos dirá entre otras cosas la dirección [**IP**](https://sole-doc.tiddlyhost.com/#IP) del computador. 
         
         Acá vamos a hacer uso del nombre que le pusimos a nuestro Pi, en nuestro caso *solevoltaje*. En el terminal escribimos `ping solevoltaje.local` el programa nos responde entre otras cosas con la [**IP**](https://sole-doc.tiddlyhost.com/#IP) `192.168.0.25`, lo que indica que nuestro Pi está disponible para que nos conectemos y empecemos a trabajar.
         
@@ -127,7 +127,7 @@ Aún cuando sus prestaciones son muchas y evidentes, esta es una solución que r
         
         ![](https://archive.org/download/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/ServerAtPi/swap.png)
         
-        Ahora, es necesario expandir el espacio de la [Memoria SWAP](https://sole-doc.tiddlyhost.com/#SWAPhttps://www.notion.so/solecolombia/Memoria-SWAP-2342bd68c5b680cbad43fe0b7fa090c0?source=copy_link) para que nuestro Pi pueda lidiar fácilmente con operaciones que requieren más memoria que la que tenemos disponible en la [Memoria RAM](/memoria-ram-ram-memory-conceptorio). Realiza los pasos a continuación uno tras otro:
+        Ahora, es necesario expandir el espacio de la [Memoria SWAP](https://sole-doc.tiddlyhost.com/#SWAPhttps://www.notion.so/solecolombia/Memoria-SWAP-2342bd68c5b680cbad43fe0b7fa090c0?source=copy_link) para que nuestro Pi pueda lidiar fácilmente con operaciones que requieren más memoria que la que tenemos disponible en la [Memoria RAM](es/glossary/memoria-ram-ram-memory-conceptorio). Realiza los pasos a continuación uno tras otro:
         
         Primero desactivamos la memoria **SWAP**
         
@@ -161,7 +161,7 @@ Aún cuando sus prestaciones son muchas y evidentes, esta es una solución que r
         sudo reboot
         ```
         
-        Este último comando, reincia el Pi, cerrando nuestra conexión remota. Debes esperar que se complete el proceso en un par de minutos y volver a conectarte por [Protocolo SSH](/protocolo-ssh-ssh-protocol-conceptorio) para continuar.
+        Este último comando, reincia el Pi, cerrando nuestra conexión remota. Debes esperar que se complete el proceso en un par de minutos y volver a conectarte por [Protocolo SSH](es/glossary/protocolo-ssh-ssh-protocol-conceptorio) para continuar.
         
     - **Ahora, instalamos el servidor**
         
@@ -202,26 +202,7 @@ Con esta solución tendrás un servidor portátil, sin embargo aún no tiene nad
 
 ## Soluciones recomendadas
 
-- [¿Quieres compartir tu internet sin cables? Configura tu Raspberry Pi ](/quieres-compartir-tu-internet-sin-cables-configura-tu-raspberry-pi-solutions-db) | [Do you want to share your internet wirelessly? Configure your Raspberry Pi ](/do-you-want-to-share-your-internet-wirelessly-configure-your-raspberry-pi-solutions-db)
-- [La Wikipedia de bolsillo en tu RaspberryPi](/la-wikipedia-de-bolsillo-en-tu-raspberrypi) \[A pocket Wikipedia in your RaspberryPi](/a-pocket-wikipedia-in-your-raspberrypi)
-- [¿Cómo usar el juego para aprender a cuidar equipos en comunidad?](/como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-solutions-db) | [How to use the game to learn how to take care of equipment in community?](/how-to-use-the-game-to-learn-how-to-take-care-of-equipment-in-community-solutions-db)
+- [¿Quieres compartir tu internet sin cables? Configura tu Raspberry Pi ](/quieres-compartir-tu-internet-sin-cables-configura-tu-raspberry-pi-solutions-db) 
+- [La Wikipedia de bolsillo en tu RaspberryPi](/la-wikipedia-de-bolsillo-en-tu-raspberrypi)
+- [¿Cómo usar el juego para aprender a cuidar equipos en comunidad?](/como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-solutions-db) 
 
-[https://notionreactions.com/embed/i1mj2EQyocvveN1TLmuk](https://notionreactions.com/embed/i1mj2EQyocvveN1TLmuk)
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)

@@ -20,7 +20,7 @@ Tardas: Horas
 
 
 
-# Darle un segundo uso a equipos que, de otra manera serían descartados
+## Darle un segundo uso a equipos que, de otra manera serían descartados
 
 Hola, ¿estás ahí? Mi nombre es Mateo y te acompañaré en el desarrollo de esta solución. Si estás leyendo, escuchando o viendo esto es porque estás interesado/a o tienes curiosidad en saber cómo conseguir equipos donados. Si es así, estás en el lugar indicado.
 
@@ -127,7 +127,7 @@ Quizá esta relación sea de largo alcance, ¿te imaginas que cada año te puede
 
 ## Soluciones recomendadas
 
-- [¿Cómo compartir los computadores disponibles?](es/solve/como-compartir-los-computadores-disponibles-solutions-db) | [How to share available computers?](en/solve/how-to-share-available-computers-solutions-db)
-- [¿Cómo usar el juego para aprender a cuidar equipos en comunidad?](es/solve/como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-solutions-db) |[How to use the game to learn how to take care of equipment in community?](en/solve/how-to-use-the-game-to-learn-how-to-take-care-of-equipment-in-community-solutions-db)
-- [¿Tu comunidad necesita apoyo económico para conectarse a Internet? ](es/solve/tu-comunidad-necesita-apoyo-economico-para-conectarse-a-internet-solutions-db)  | [Does your community need financial support to connect to the Internet? ](en/solve/does-your-community-need-financial-support-to-connect-to-the-internet-solutions-db)
+- [¿Cómo compartir los computadores disponibles?](es/solve/como-compartir-los-computadores-disponibles-solutions-db) 
+- [¿Cómo usar el juego para aprender a cuidar equipos en comunidad?](es/solve/como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-solutions-db) 
+- [¿Tu comunidad necesita apoyo económico para conectarse a Internet? ](es/solve/tu-comunidad-necesita-apoyo-economico-para-conectarse-a-internet-solutions-db)  
 

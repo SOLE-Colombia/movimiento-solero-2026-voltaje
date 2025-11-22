@@ -21,7 +21,7 @@ impacto/personas: 100
 
 ---
 
-# La forma, es importante
+## La forma, es importante
 
 ¡Hola! Soy Manu y no soy diseñadora profesional, pero de eso se trata el cacharreo, de aprender autónomamente. 
 
@@ -109,12 +109,10 @@ Todos estos aspectos te sirven a ti para tus invitaciones, pero también puedes 
 
 ## Soluciones recomendadas
 
-- [¿Cómo escribir una buena invitación?](es/solve/como-escribir-una-buena-invitacion-solutions-db) | [How to write a good invitation](/en/solve/how-to-write-a-good-invitation-solutions-db)
-
-
-- [Descubre a tu audiencia](es/solve/descubre-a-tu-audiencia-solutions-db) | [Discover your audience](/en/solve/discover-your-audience-solutions-db)
-- [Difunde tu mensaje ](es/solve/difunde-tu-mensaje-solutions-db) | [Spread your message ](/en/solve/difunde-tu-mensaje-solutions-db)
-- [Crea un mensaje potente](es/solve/crea-un-mensaje-potente-solutions-db) | [Create a powerful message](/en/solve/crea-un-mensaje-potente-solutions-db)
+- [¿Cómo escribir una buena invitación?](es/solve/como-escribir-una-buena-invitacion-solutions-db) 
+- [Descubre a tu audiencia](es/solve/descubre-a-tu-audiencia-solutions-db) 
+- [Difunde tu mensaje ](es/solve/difunde-tu-mensaje-solutions-db) 
+- [Crea un mensaje potente](es/solve/crea-un-mensaje-potente-solutions-db) 
 
 ¡Ahora tienes todas las herramientas y la inspiración necesarias para crear una invitación memorable y personalizada! 
 

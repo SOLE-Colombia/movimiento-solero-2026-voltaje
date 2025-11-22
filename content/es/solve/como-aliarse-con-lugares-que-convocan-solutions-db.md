@@ -20,7 +20,7 @@ Tardas: Días
 
 
 
-# Asociarnos con otros más visibles
+## Asociarnos con otros más visibles
 
 
 Hola, soy Belén. No sé mucho de tecnología, pero me encantan las personas y crear relaciones con ellas se me da muy bien. Llegué a SOLE hace algún tiempo y he aprendido mucho sobre el poder de la gente y lo que podemos conseguir cuando nos juntamos unos con otros. 
@@ -145,12 +145,11 @@ Recuerda que no siempre lograrás convencer a todas las personas de trabajar con
 
 ## Soluciones recomendadas
 
-- [Difunde tu mensaje ](es/solve/difunde-tu-mensaje-solutions-db) | [Spread your message ](/en/solve/difunde-tu-mensaje-solutions-db)
-- [Descubre a tu audiencia](es/solve/descubre-a-tu-audiencia-solutions-db) | [Discover your audience](en/solve/discover-your-audience-solutions-db)
-- [¿Cómo escribir una buena invitación?](es/solve/como-escribir-una-buena-invitacion-solutions-db) | [How to write a good invitation](/en/solve/how-to-write-a-good-invitation-solutions-db)
-- [Crea un mensaje potente](es/solve/crea-un-mensaje-potente-solutions-db) | [Create a powerful message](/en/solve/create-a-powerful-message-solutions-db)
-- [¿Cómo conseguir equipos donados?](es/solve/como-conseguir-equipos-donados-solutions-db) | [How to share available computers?](/en/solve/how-to-share-available-computers-solutions-db)
-
+- [Difunde tu mensaje ](es/solve/difunde-tu-mensaje-solutions-db) 
+- [Descubre a tu audiencia](es/solve/descubre-a-tu-audiencia-solutions-db) 
+- [¿Cómo escribir una buena invitación?](es/solve/como-escribir-una-buena-invitacion-solutions-db) 
+- [Crea un mensaje potente](es/solve/crea-un-mensaje-potente-solutions-db) 
+- [¿Cómo conseguir equipos donados?](es/solve/como-conseguir-equipos-donados-solutions-db) 
 
 ---
 

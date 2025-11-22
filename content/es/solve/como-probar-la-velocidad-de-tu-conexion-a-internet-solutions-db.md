@@ -56,7 +56,7 @@ Estos tests son útiles para verificar si la velocidad contratada con tu proveed
     
 - **Momento 3: Interpreta los resultados**
     
-    Los resultados generalmente muestran la velocidad de descarga, la velocidad de subida y la [latencia](/latencia-latency-conceptorio). 
+    Los resultados generalmente muestran la velocidad de descarga, la velocidad de subida y la [latencia](es/glossary/latencia-latency-conceptorio). 
     
     - **Velocidad de descarga:** Es la velocidad a la que puedes recibir datos de Internet, como al descargar archivos o ver videos.
     - **Velocidad de subida:** Es la velocidad a la que puedes enviar datos a Internet, como al enviar correos electrónicos o subir videos a redes sociales.

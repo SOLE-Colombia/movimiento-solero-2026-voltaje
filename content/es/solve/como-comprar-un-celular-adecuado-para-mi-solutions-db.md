@@ -32,7 +32,7 @@ recursos/tiempo: 1: Horas
 
 
 
-# Comprar un celular que se ajuste a tus capacidades y necesidades
+## Comprar un celular que se ajuste a tus capacidades y necesidades
 
 ![Cellmodels](assets/images/solv-buy-cellphone/solv-buy-cellphone-cellmodels.webp)
 
@@ -114,7 +114,8 @@ Una vez tengas claro lo anterior, podrás saber a qué características debes pr
 **Apertura**
     
 La apertura del lente será fundamental para una buena foto, esta característica **define que tanta luz puede captar la cámara.** Se identifica con la **letra f seguida de un número**, por ejemplo, f1.9 o f 2.0. Mientras menor sea este número, mayor será la cantidad de luz que captará la cámara. Por esto, **es importante que sea bajo**, pues con una mayor entrada de luz, las imágenes tendrán más detalle.
-      ![Angle](assets/images/solv-buy-cellphone/solv-buy-cellphone-angle.webp)
+
+![Angle](assets/images/solv-buy-cellphone/solv-buy-cellphone-angle.webp)
     
   
     
@@ -216,9 +217,9 @@ Esta pregunta es difícil de responder, pero creo que la podemos reformular de l
 
 ## Soluciones relacionadas
 
-- [¿Cómo comprar un celular adecuado para mí?](/es/solve/como-comprar-un-celular-adecuado-para-mi-solutions-db) | [How to buy a suitable cell phone for me?](en/solve/how-to-buy-a-suitable-cell-phone-for-me-solutions-db)
-- [¿Cómo aprovechar mi ancho de banda?](/es/solve//como-aprovechar-mi-ancho-de-banda-solutions-db) | [How make better use of my bandwidth?](en/solve//how-make-better-use-of-my-bandwidth-solutions-db)
-- [¿Cómo compartir Internet desde mi celular?](/es/solve//como-compartir-internet-desde-mi-celular-solutions-db) | [How to share Internet from my cell phone?](en/solve//how-to-share-internet-from-my-cell-phone-solutions-db)
+- [¿Cómo comprar un celular adecuado para mí?](/es/solve/como-comprar-un-celular-adecuado-para-mi-solutions-db) 
+- [¿Cómo aprovechar mi ancho de banda?](/es/solve//como-aprovechar-mi-ancho-de-banda-solutions-db) 
+- [¿Cómo compartir Internet desde mi celular?](/es/solve//como-compartir-internet-desde-mi-celular-solutions-db) 
 
 ## Imagenes
 

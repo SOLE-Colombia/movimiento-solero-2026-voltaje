@@ -30,7 +30,7 @@ recursos/personas: 2: Entre 2 y 3 personas
 recursos/tiempo: 1: Horas
 2025-prueba: No
 
-# **Algunos consejos para sacarle el mayor provecho al router**
+## **Algunos consejos para sacarle el mayor provecho al router**
 
 
 ¡Hola! Soy Manu, la cuentera de SOLE Colombia, y también me he sentido muy frustrada por perder la señal de Internet justo en medio de una reunión importante o de un SOLE.  

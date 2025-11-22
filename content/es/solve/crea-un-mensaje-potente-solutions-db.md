@@ -17,7 +17,7 @@ Tardas: Horas
 2025-prueba: Yes
 
 
-# Un mensaje potente puede cambiar el mundo, conecta con tu propósito
+## Un mensaje potente puede cambiar el mundo, conecta con tu propósito
 
 
 
@@ -45,7 +45,7 @@ Crear un mensaje potente, enfocado desde el propósito, implica conectar emocion
 
 ## ¿Cómo hacerlo?
 
-![Video](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/a6e3ad9c-19b6-46e9-8ef3-2184ad609e21/Vdeo_sin_ttulo__Hecho_con_Clipchamp_(5).mp4?table=block&id=12a2bd68-c5b6-81cc-a580-d32a8d9dbe02&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763503200000&signature=QmRo3r8m4m7r8d43PlHxaKPC3JDRNYENcmzHwc43-lc&downloadName=V%C3%ADdeo+sin+t%C3%ADtulo+%E2%80%90+Hecho+con+Clipchamp+%285%29.mp4)
+![Video](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/a6e3ad9c-19b6-46e9-8ef3-2184ad609e21/Vdeo_sin_ttulo__Hecho_con_Clipchamp_(5).mp4?table=block&id=12a2bd68-c5b6-81cc-a580-d32a8d9dbe02&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763841600000&signature=t7dES7O4_HiGNKUqaCTIdIWssmujJ57DJJfJZl-zgUM&downloadName=V%C3%ADdeo+sin+t%C3%ADtulo+%E2%80%90+Hecho+con+Clipchamp+%285%29.mp4)
 
 - **Momento 1: Comienza con el qué**
     
@@ -57,7 +57,7 @@ Crear un mensaje potente, enfocado desde el propósito, implica conectar emocion
     
     Si aún tienes dudas usa los ejemplos para  iniciar tu círculo dorado. ¡Ánimo!
     
-![Video](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/95251427-a4a8-4a64-9935-5bfb39faed13/Vdeo_sin_ttulo__Hecho_con_Clipchamp_(6).mp4?table=block&id=12a2bd68-c5b6-814d-842d-ed4a523d2e50&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763503200000&signature=TM_6MWI0RSmzqZXZTso8aUQ5aS-_qfZCPvJpuZsjtNI&downloadName=V%C3%ADdeo+sin+t%C3%ADtulo+%E2%80%90+Hecho+con+Clipchamp+%286%29.mp4)
+![Video](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/95251427-a4a8-4a64-9935-5bfb39faed13/Vdeo_sin_ttulo__Hecho_con_Clipchamp_(6).mp4?table=block&id=12a2bd68-c5b6-814d-842d-ed4a523d2e50&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763841600000&signature=qsuMcmRXv2dcQh07g-Vprno0Hd-gVfQ4Q9J8TvazBkM&downloadName=V%C3%ADdeo+sin+t%C3%ADtulo+%E2%80%90+Hecho+con+Clipchamp+%286%29.mp4)
     
 - **Momento 2: Define el cómo**
     
@@ -72,7 +72,7 @@ Crear un mensaje potente, enfocado desde el propósito, implica conectar emocion
     
     **Mira cómo lo hice yo para guiarte:**
     
-![Video](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/bb30cc71-c2b1-4a7f-a5e6-e7b159534f19/Vdeo_sin_ttulo__Hecho_con_Clipchamp_(7).mp4?table=block&id=12a2bd68-c5b6-8192-8f51-e483e5a18759&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763503200000&signature=EgKGH3S_7IDS9UaEzpYCeUg7rkTnGuFzgVaVfUp9IBA&downloadName=V%C3%ADdeo+sin+t%C3%ADtulo+%E2%80%90+Hecho+con+Clipchamp+%287%29.mp4)
+![Video](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/bb30cc71-c2b1-4a7f-a5e6-e7b159534f19/Vdeo_sin_ttulo__Hecho_con_Clipchamp_(7).mp4?table=block&id=12a2bd68-c5b6-8192-8f51-e483e5a18759&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763841600000&signature=21nStT-wV9899mSVRyYiM3TwfExlRiAXYCOyQrQsUp4&downloadName=V%C3%ADdeo+sin+t%C3%ADtulo+%E2%80%90+Hecho+con+Clipchamp+%287%29.mp4)
     
 - **Momento 3: Dale forma a tu por qué**
     
@@ -82,7 +82,7 @@ Crear un mensaje potente, enfocado desde el propósito, implica conectar emocion
     
     **Actividad: Para descubrir el por qué de tu mensaje, agarra una hoja en blanco y escribe lo que primero venga a tu cabeza. No lo dudes tanto.** Esta bien si son solo unas palabras, poco a poco irán tomando forma 😉Así quedó mi por qué:
     
-    ![Video](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/ea8689c5-4bdc-4e84-8b8e-b50a5744ae6e/Vdeo_sin_ttulo__Hecho_con_Clipchamp_(8).mp4?table=block&id=12a2bd68-c5b6-8100-9062-c2b1908a766d&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763503200000&signature=8nrJn52khgfdelBtz5i08P0EONbTl8EiSvDG6Vjg0MQ&downloadName=V%C3%ADdeo+sin+t%C3%ADtulo+%E2%80%90+Hecho+con+Clipchamp+%288%29.mp4)
+    ![Video](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/ea8689c5-4bdc-4e84-8b8e-b50a5744ae6e/Vdeo_sin_ttulo__Hecho_con_Clipchamp_(8).mp4?table=block&id=12a2bd68-c5b6-8100-9062-c2b1908a766d&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763841600000&signature=ELqQzigFtqRvfID_QQZP9O9gf7MzlJ9aQMRxAnvjzK8&downloadName=V%C3%ADdeo+sin+t%C3%ADtulo+%E2%80%90+Hecho+con+Clipchamp+%288%29.mp4)
     
     Consejo: **Piensa en qué es eso que te motiva a hacer lo que estás haciendo, y verás que poco a poco aparecerán las palabras.**
     

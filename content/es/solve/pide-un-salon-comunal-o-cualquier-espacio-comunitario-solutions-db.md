@@ -19,7 +19,7 @@ Tardas: Días
 2025-prueba: No
 
 
-# Los espacios públicos también son tuyos
+## Los espacios públicos también son tuyos
 
 
 Hola, soy Manu. Como Exploradora SOLE he tenido que aprender a solicitar los espacios comunitarios en los lugares donde hemos ido a hacer SOLE y sé que no siempre es fácil saber por dónde empezar. 

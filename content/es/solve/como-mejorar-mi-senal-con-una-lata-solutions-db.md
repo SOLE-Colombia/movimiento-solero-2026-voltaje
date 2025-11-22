@@ -19,7 +19,7 @@ Tardas: Horas
 2025-prueba: No
 
 
-# Hacer una pequeña antena para mi celular
+## Hacer una pequeña antena para mi celular
 
 ### **Audiolectura de la solución**
 
@@ -70,8 +70,7 @@ Esta solución tiene 3 momentos, pero no te preocupes, no estás solo/a, yo te a
     4. Con la regla y el marcador de punta fina dibuja, sobre la lámina metálica un cuadrado de 4 cm por 4 cm. *Me importa tu seguridad, por lo que es importante que tengas precaución con todos los cortes que vas a realizar y recuerda usar preferiblemente guantes de seguridad.*
     
     ![PASO 1 - ALISTA LOS MATERIALES](assets/images/solve-improvewithcan/solve-improvewithcan-materials.webp)
-    
-   ![PASO 2 - NUESTRA LÁMINA METÁLICA](assets/images/solve-improvewithcan/solve-improvewithcan-cutmetalsheet.webp)
+    ![PASO 2 - NUESTRA LÁMINA METÁLICA](assets/images/solve-improvewithcan/solve-improvewithcan-cut.webp)
     
     ![PASO 3- CORTA LA LATA](assets/images/solve-improvewithcan/solve-improvewithcan-metalsheet.webp)
     

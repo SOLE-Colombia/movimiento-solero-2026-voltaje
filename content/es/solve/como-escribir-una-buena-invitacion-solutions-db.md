@@ -20,7 +20,7 @@ Tardas: Horas
 
 
 
-# Crea tu propia invitación
+## Crea tu propia invitación
 
 
 ¡Hola! 🙂 Soy Manu, la cuentera de SOLE Colombia. 
@@ -67,7 +67,7 @@ Manos a la obra:
 
 No importa si a la primera no te sale, mira todas las veces que tuve que borrar en el video para hacer mi invitación… ¡Ya iremos afinando en el paso a paso!
 
-![Escribe invitación](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/02ceb289-fa4d-4c3e-8c95-22e69a9b3235/20240801_SOLEBOLT_Voltaje_Escribe_tu_invitacin_1.mp4?table=block&id=12a2bd68-c5b6-8163-bfb4-f2b0886d9b8c&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763272800000&signature=QtEqZruyYqGeQJNyl-GsCz_Kbe8lHvL_iU0qwufQtEM&downloadName=20240801_SOLE%2BBOLT_Voltaje_Escribe_tu_invitaci%C3%B3n_1.mp4)
+![Escribe invitación](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/02ceb289-fa4d-4c3e-8c95-22e69a9b3235/20240801_SOLEBOLT_Voltaje_Escribe_tu_invitacin_1.mp4?table=block&id=12a2bd68-c5b6-8163-bfb4-f2b0886d9b8c&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763841600000&signature=4abfS6uCikO9lxdvcCgx1KMKsCk1kN7nQKheNrNSEP8&downloadName=20240801_SOLE%2BBOLT_Voltaje_Escribe_tu_invitaci%C3%B3n_1.mp4)
     
 - **Momento 2: La escritura**
 ¡Bien! Ha llegado el momento de liberar toda esa creatividad en el papel, con el contenido claro va a ser mucho más sencillo hacer la invitación.
@@ -87,7 +87,7 @@ No importa si a la primera no te sale, mira todas las veces que tuve que borrar 
 
 Yo me fui por esta última opción. Mira lo que escribí:
 
-![Frase Potente](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/163ed384-f30e-4ccf-b3bb-adfdd736f1e6/20240801_SOLEBOLT_Escribe_tu_invitacin_2.mp4?table=block&id=12a2bd68-c5b6-8120-a439-ff87aa609131&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763272800000&signature=MSwV1G1E62Fd82wvQ669XSWDWPHEtl6ZxDWWEnryrVg&downloadName=20240801_SOLE%2BBOLT_Escribe_tu_invitaci%C3%B3n_2.mp4)
+![Frase Potente](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/163ed384-f30e-4ccf-b3bb-adfdd736f1e6/20240801_SOLEBOLT_Escribe_tu_invitacin_2.mp4?table=block&id=12a2bd68-c5b6-8120-a439-ff87aa609131&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763841600000&signature=SZv7mTjLL3CIOt2x6hlge3EDOXOtUJGFlYfIhRV5Piw&downloadName=20240801_SOLE%2BBOLT_Escribe_tu_invitaci%C3%B3n_2.mp4)
 
 - **'La pulidora', cómo afinar el mensaje**
 
@@ -98,7 +98,7 @@ Ponte manos a la obra:
 1. Subraya la respuesta a las preguntas  *cómo* y *dónde* (las que escribimos en la sección 'El contenido', un poco más arriba en esta Solución). 
 2. Ahora, escribe los datos claros del **día**, la **hora**, la **fecha**, y el **lugar** en dónde vas a convocar a tu gente (sin nada de adorno). 
 
-![Pulidora](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/757ad35f-2178-47f5-b209-6afb5e207208/20240801_SOLEBOLT_Escribe_tu_invitacin_3.mp4?table=block&id=12a2bd68-c5b6-8180-8048-ebea2341c6bd&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763272800000&signature=g-69JDG9Gql8cx3RxlS5mVauZmUroKar_hM42-GQjPI&downloadName=20240801_SOLE%2BBOLT_Escribe_tu_invitaci%C3%B3n_3.mp4)
+![Pulidora](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/757ad35f-2178-47f5-b209-6afb5e207208/20240801_SOLEBOLT_Escribe_tu_invitacin_3.mp4?table=block&id=12a2bd68-c5b6-8180-8048-ebea2341c6bd&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763841600000&signature=uDovwpIu-1LLlOQDwltRvcI3cBqHLL7LL6zIJDAzX-8&downloadName=20240801_SOLE%2BBOLT_Escribe_tu_invitaci%C3%B3n_3.mp4)
 
 Pon lo que escribiste en tu *cómo*, de la forma más resumida y clara posible. Ejemplo: Si tu *cómo* era una reunión en el salón comunal, pon: "Salón comunal de [Nombre de tu comunidad]".
 
@@ -110,7 +110,7 @@ Casi siempre, cuando leemos algo, solemos quedarnos con la última frase. Inclus
 
 Actividad: Usa un verbo en acción para iniciar la frase que cierra tu invitación.
 
-![Accion](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/65b56eb0-79ec-4f9a-bfa8-1c1b7b4e83e0/20240801_SOLEBOLT_Escribe_tu_invitacin_4.mp4?table=block&id=12a2bd68-c5b6-81bb-8620-c4ff1b4a67aa&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763272800000&signature=aCszHS-Z1tccF5RxJm86E7cra29vHHRc6pjKIClpOAc&downloadName=20240801_SOLE%2BBOLT_Escribe_tu_invitaci%C3%B3n_4.mp4)
+![Accion](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/65b56eb0-79ec-4f9a-bfa8-1c1b7b4e83e0/20240801_SOLEBOLT_Escribe_tu_invitacin_4.mp4?table=block&id=12a2bd68-c5b6-81bb-8620-c4ff1b4a67aa&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763841600000&signature=S3vLTxuNK5t4lfuKCGiA7sWX2-Gnhm6e2QV-N0cRNZI&downloadName=20240801_SOLE%2BBOLT_Escribe_tu_invitaci%C3%B3n_4.mp4)
         
     
       
@@ -126,10 +126,9 @@ Buena suerte 😉
 
 ## Soluciones recomendadas
 
-- [Crea un mensaje potente](es/solve/crea-un-mensaje-potente-solutions-db) | [Create a powerful message](en/solve/create-a-powerful-message-solutions-db)
-- [¡Aprende a diseñar tu invitación exprés sin ser un experto!](es/solve/aprende-a-disenar-tu-invitacion-expres-sin-ser-un-experto-solutions-db) | [Learn how to design your express invitation without being an expert!](en/solve/learn-how-to-design-your-express-invitation-without-being-an-expert-solutions-db)
-- [Difunde tu mensaje ](es/solve/difunde-tu-mensaje-solutions-db) | [Spread your message ](en/solve/spread-your-message-solutions-db)
-
+- [Crea un mensaje potente](es/solve/crea-un-mensaje-potente-solutions-db)
+- [¡Aprende a diseñar tu invitación exprés sin ser un experto!](es/solve/aprende-a-disenar-tu-invitacion-expres-sin-ser-un-experto-solutions-db) 
+- [Difunde tu mensaje ](es/solve/difunde-tu-mensaje-solutions-db) 
 ## Referencias
 
 - **“El Círculo Dorado”de Simon Sinek:** [Dizalo](https://dizalo.com/branding/que-es-el-circulo-dorado-de-simon-sinek-y-como-podemos-usarlo/)

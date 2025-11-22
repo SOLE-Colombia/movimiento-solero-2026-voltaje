@@ -32,7 +32,7 @@ recursos/tiempo: 3: Semanas
 
 
 
-# Comprar y montar un sistema de generación eléctrica con una bicicleta
+## Comprar y montar un sistema de generación eléctrica con una bicicleta
 
 
 Hola, soy Nicolás. Soy lo que se llama un cacharrero. Soy ingeniero y me interesa el funcionamiento de las cosas. Disfruto armando y desarmando aparatos para saber cómo funcionan y también disfruto averiguando cómo podemos usar los recursos disponibles en comunidad.

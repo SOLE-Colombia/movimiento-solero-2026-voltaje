@@ -19,7 +19,7 @@ Tardas: Horas
 
 
 
-# Invierte bien tu dinero para instalar Internet
+## Invierte bien tu dinero para instalar Internet
 
 ![Antena 3 4G](assets/images/solv-chooseinternet/solv-chooseinternet-tower.webp)
 

@@ -31,7 +31,7 @@ recursos/tiempo: 0: Minutos
 
 
 
-# Comprar un plan de celular que se ajuste a tus capacidades y necesidades
+## Comprar un plan de celular que se ajuste a tus capacidades y necesidades
 
 ![Particularneeds](assets/images/solv-buy-cellplan/solv-buy-cellplan-particularneeds.webp)
 
@@ -113,12 +113,12 @@ Si, después de hacer un barrido de tus opciones, definitivamente consideras que
     
 💡 En 2022 tenía dos trabajos y no tenía oficina. Además, me movía mucho: viajaba por Bogotá y a diferentes partes del país de forma recurrente. Necesitaba conectarme a reuniones virtuales, uno de mis trabajos requería tener videollamadas por Zoom. Así que necesitaba de una conexión de datos y hacer llamadas a muchas personas. En ese momento, decidí tener un plan pospago con 10 Gb y minutos ilimitados. 
     
-    Poco después, empecé a viajar y quedarme constantemente en una finca familiar, donde la señal de datos era muy mala. Decidí comprar un plan de internet fijo para la finca. 
+Poco después, empecé a viajar y quedarme constantemente en una finca familiar, donde la señal de datos era muy mala. Decidí comprar un plan de internet fijo para la finca. 
     
-    En 2023 solo tuve un trabajo y tenía oficina con internet. Ya no necesitaba viajar tanto. Cambie mi plan pospago a uno más económico, y cancele el plan de internet en la finca.
+En 2023 solo tuve un trabajo y tenía oficina con internet. Ya no necesitaba viajar tanto. Cambie mi plan pospago a uno más económico, y cancele el plan de internet en la finca.
 
     
-    ¡Ahora es tu turno de identificar para que necesitas el plan de internet!
+¡Ahora es tu turno de identificar para que necesitas el plan de internet!
     
 - **Momento 2: De acuerdo con lo que necesitas, estas son las preguntas para hacerte**
     - ¿Necesitas minutos, datos o ambas?
@@ -229,7 +229,7 @@ Actualmente, en Colombia, puedes hacer **“portabilidad”,** es decir, pasarte
 
 Hay un pequeña oferta disponible en operadores pequeños, estos son planes prepago con vigencias largas. 
 
-Yo, que vivo en Bogotá, estoy evaluando cambiarme a Móvil Éxito. Actualmente tengo un plan pospago en WOM en el que **pago $40,000 COP**, esto me da derecho a **60 Gb y minutos ilimitados** ¡esto es un montón! Inicialmente, me pasé a WOM porque, haciendo portabilidad, me daban los **tres primeros meses gratis, más 20Gb** y me **cobraban $35,000 COP.** Ahora que ando en Bogotá y trabajo desde casa y oficina, tengo internet disponible desde estos lugares. Estuve revisando opciones mientras escribía esta solución y vi que Móvil Éxito ofrece los suientes planes prepago:
+Yo, que vivo en Bogotá, estoy evaluando cambiarme a Móvil Éxito. Actualmente tengo un plan pospago en WOM en el que **pago \$40,000 COP**, esto me da derecho a **60 Gb y minutos ilimitados** ¡esto es un montón! Inicialmente, me pasé a WOM porque, haciendo portabilidad, me daban los **tres primeros meses gratis, más 20Gb** y me **cobraban \$35,000 COP.** Ahora que ando en Bogotá y trabajo desde casa y oficina, tengo internet disponible desde estos lugares. Estuve revisando opciones mientras escribía esta solución y vi que Móvil Éxito ofrece los suientes planes prepago:
 
 ![Compare](assets/images/solv-buy-cellplan/solv-buy-cellplan-compare.webp)
 
@@ -245,11 +245,11 @@ Este tipo de razonamientos son los que nos gustaría que tuvieras al tomar una d
 
 ## Soluciones recomendadas
 
-- [**Cómo comprar una conexión temporal a internet satelital** ](es/solve/como-comprar-una-conexion-temporal-a-internet-satelital-solutions-db) | [**How to purchase a temporary satellite Internet connection** ](en/solve/how-to-purchase-a-temporary-satellite-internet-connection-solutions-db)
-- [¿Cómo aprovechar mi ancho de banda?](es/solve/como-aprovechar-mi-ancho-de-banda-solutions-db) | [How make better use of my bandwidth?](en/solve/how-make-better-use-of-my-bandwidth-solutions-db)
-- [¿Cómo comprar un celular adecuado para mí?](es/solve/como-comprar-un-celular-adecuado-para-mi-solutions-db) | [How to buy a suitable cell phone for me?](en/solve/how-to-buy-a-suitable-cell-phone-for-me-solutions-db)
-- [**Haz una colecta para pagar internet comunitario**](es/solve/haz-una-colecta-para-pagar-internet-comunitario-solutions-db) | [**Look for funding to pay for community internet**](en/solve/look-for-funding-to-pay-for-community-internet-solutions-db)
-- [¿Cómo comprar una antena satelital?](es/solve/como-comprar-una-antena-satelital-solutions-db) | [How to buy a satellite antenna?](en/solve/how-to-buy-a-satellite-antenna-solutions-db)
+- [**Cómo comprar una conexión temporal a internet satelital** ](es/solve/como-comprar-una-conexion-temporal-a-internet-satelital-solutions-db) 
+- [¿Cómo aprovechar mi ancho de banda?](es/solve/como-aprovechar-mi-ancho-de-banda-solutions-db) 
+- [¿Cómo comprar un celular adecuado para mí?](es/solve/como-comprar-un-celular-adecuado-para-mi-solutions-db)
+- [**Haz una colecta para pagar internet comunitario**](es/solve/haz-una-colecta-para-pagar-internet-comunitario-solutions-db) 
+- [¿Cómo comprar una antena satelital?](es/solve/como-comprar-una-antena-satelital-solutions-db) 
 
 ## Referencias
 

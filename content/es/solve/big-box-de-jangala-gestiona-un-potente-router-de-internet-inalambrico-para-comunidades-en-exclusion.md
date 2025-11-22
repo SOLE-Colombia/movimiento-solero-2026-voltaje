@@ -31,7 +31,7 @@ recursos/personas: 3: Más de 3 personas
 2025-prueba: No
 
 
-# La conexión a Internet en un maletín
+## La conexión a Internet en un maletín
 
 ![Youtube](https://www.youtube.com/embed/Fox3N4QHVN4) 
 
