@@ -10,12 +10,11 @@ aspectos:
 fecha: '2025-10-11'
 ---
 
-# Viajar a la velocidad de la luz
 
 Creado: 17 de diciembre de 2024 21:17
 Etiquetas: Conocimiento, Tarjeta
 
-![Versión Voltaje Virtual_20241202_SOLE_Desconectado v2 (6).png](../Sin título 7a3aa606c7184c28b51833e1547881a6/Viajar a la velocidad de la luz 27a7b88a75794eee824b53f6ded0851b/Versin_Voltaje_Virtual_20241202_SOLE_Desconectado_v2_(6).png)
+![Viajar a la velocidad de la luz](assets/images/desconectado-lightspeed/desconectado-lightspeed-card.png)
 
 # **¿Qué tan rápido puedes acceder a la información en internet?**
 
@@ -27,4 +26,4 @@ Etiquetas: Conocimiento, Tarjeta
 - **Entre 1 MB y 5 MB: puedes hacer una videollamada estable.**
 - **Menos de 1 MB: puedes hacer búsquedas en internet y puedes enviar mensajes de texto.**
 
-***Entre más dispositivos estén conectados a internet, tendrás menos MB de descarga. Esto ocurre porque la velocidad se distribuye entre la cantidad de dispositivos conectados.***
+**Entre más dispositivos estén conectados a internet, tendrás menos MB de descarga. Esto ocurre porque la velocidad se distribuye entre la cantidad de dispositivos conectados.**

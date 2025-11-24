@@ -6,15 +6,14 @@ aspectos:
 - señal
 - personas
 - espacio
-fecha: '2025-10-11'
+fecha: '2024-12-17'
 ---
 
-# Encontrar un aguja en un pajar
 
 Creado: 17 de diciembre de 2024 20:16
 Etiquetas: Conocimiento, Tarjeta
 
-<img src="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-800w.webp" alt="5.png" srcset="/assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-400w.webp 400w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-800w.webp 800w, /assets\images\A pocket Wikipedia in your RaspberryPi 1a42bd68c5b680289571fc002238a69a\image 5-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Encontrar un aguja en un pajar](assets/images/desconectado-findneedle/desconectado-findneedle-card.png)
 
 # **Piensa en una Gran Pregunta que siempre has tenido y no hayas podido responder**
 

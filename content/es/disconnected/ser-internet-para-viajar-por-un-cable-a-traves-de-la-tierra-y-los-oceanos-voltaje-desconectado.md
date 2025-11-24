@@ -15,7 +15,7 @@ fecha: '2025-10-11'
 Creado: 17 de diciembre de 2024 22:01
 Etiquetas: Conocimiento, Tarjeta
 
-![Versión Voltaje Virtual_20241202_SOLE_Desconectado v2 (13).png](../Sin título 7a3aa606c7184c28b51833e1547881a6/Ser internet para viajar por un cable a través de  be6bba6a9097448a88276a02a9febc71/Versin_Voltaje_Virtual_20241202_SOLE_Desconectado_v2_(13).png)
+![Ser internet para viajar por un cable a través de la tierra y los oceanos](assets/images/desconectado-cable/desconectado-cable-card.png)
 
 # **¿Cómo saber que tienes señal por cable?**
 
@@ -23,4 +23,4 @@ Si tienes un cable de ethernet conectado a tu computador, tienes señal por cabl
 
 ***¿Qué dispositivos tienen señal por cable?** Computadores y algunos televisores.* 
 
-<img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Ser internet para viajar por un cable a través de la tierra y los oceanos 2](assets/images/desconectado-cable/desconectado-cable-cable.png)

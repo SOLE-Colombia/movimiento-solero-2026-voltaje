@@ -6,15 +6,14 @@ aspectos:
 - señal
 - electricidad
 - personas
-fecha: '2025-10-11'
+fecha: '2024-12-17'
 ---
 
-# Ser un científico del internet
 
 Creado: 17 de diciembre de 2024 21:19
 Etiquetas: Conocimiento, Tarjeta
 
-![Versión Voltaje Virtual_20241202_SOLE_Desconectado v2 (8).png](Ser un científico del internet 6ae493f86a5a4d668ebded7c45cefcd4/Versin_Voltaje_Virtual_20241202_SOLE_Desconectado_v2_(8).png)
+![Ser un científico del internet](assets/images/desconectado-cientist/desconectado-cientist-card.png)
 
 **¿Cómo saber qué tan rápido es el internet? Haz una prueba de velocidad**
 

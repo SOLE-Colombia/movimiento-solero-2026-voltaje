@@ -7,15 +7,15 @@ aspectos:
 - electricidad
 - dispositivos
 - personas
-fecha: '2025-10-11'
+fecha: '2024-12-17'
 ---
 
-# Saltar de arriba a abajo en el internet
+
 
 Creado: 17 de diciembre de 2024 21:19
 Etiquetas: Conocimiento, Tarjeta
 
-![Versión Voltaje Virtual_20241202_SOLE_Desconectado v2 (7).png](Saltar de arriba a abajo en el internet 4c9ffd7e4ed94deb8c98469d39f806e3/Versin_Voltaje_Virtual_20241202_SOLE_Desconectado_v2_(7).png)
+![Saltar de arriba a abajo en el internet](assets/images/desconectado-jump/desconectado-jump-card.png)
 
 # **¿Qué significan los términos "velocidad de carga y de descarga"?**
 

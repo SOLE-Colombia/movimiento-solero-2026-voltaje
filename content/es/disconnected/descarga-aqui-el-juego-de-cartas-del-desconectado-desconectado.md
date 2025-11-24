@@ -7,9 +7,9 @@ aspectos:
 fecha: '2025-10-11'
 ---
 
-# Descarga aquí el juego de cartas del Desconectado
 
-![Juego de cartas.jpg](Descarga aquí el juego de cartas del Desconectado e25d495dd2f046cea10c39798ff3d0fe/Juego_de_cartas.jpg)
+
+![Descarga aquí el juego de cartas del Desconectado](assets/images/desconectado-cover/desconectado-cover-card.jpg)
 
 **Descarga la versión de Desconectado para impresión**
 
@@ -18,6 +18,14 @@ fecha: '2025-10-11'
 3. Recomendamos imprimirla en propalcote de 300 gramos. 
 4. 
 
-[Desconectado 2025. Versión para impresión](/downloads/desconectado-para-impresin-2025.pdf)
+<iframe
+  src="assets/images/desconectado-cover/desconectado-descarga.pdf#view=FitH"
+  width="100%"
+  height="600"
+  style="border: none;"
+  title="Desconectado 2025 - versión imprimible"
+></iframe>
+
+[Descargar el PDF](assets/images/desconectado-cover/desconectado-descarga.pdf)
 
 Desconectado 2025. Versión para impresión

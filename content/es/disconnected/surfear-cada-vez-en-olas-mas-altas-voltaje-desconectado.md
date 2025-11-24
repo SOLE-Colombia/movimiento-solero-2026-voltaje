@@ -9,12 +9,11 @@ aspectos:
 fecha: '2025-10-11'
 ---
 
-# Surfear cada vez en olas más altas
 
 Creado: 17 de diciembre de 2024 21:54
 Etiquetas: Conocimiento, Tarjeta
 
-![Versión Voltaje Virtual_20241202_SOLE_Desconectado v2 (11).png](Surfear cada vez en olas más altas 88d49d7d32da48c4b90582d7f30be245/Versin_Voltaje_Virtual_20241202_SOLE_Desconectado_v2_(11).png)
+![Surfear cada vez en olas más altas](assets/images/desconectado-surf/desconectado-surf-card.png)
 
 # **¿Cómo saber qué tipo de señal móvil tienes y para qué te sirve?**
 

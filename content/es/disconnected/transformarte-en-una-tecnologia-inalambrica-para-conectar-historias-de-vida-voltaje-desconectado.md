@@ -7,15 +7,15 @@ aspectos:
 - electricidad
 - dispositivos
 - personas
-fecha: '2025-10-11'
+fecha: '2024-12-17'
 ---
 
-# Transformarte en una tecnología inalámbrica para conectar historias de vida
+
 
 Creado: 17 de diciembre de 2024 21:55
 Etiquetas: Conocimiento, Tarjeta
 
-![Versión Voltaje Virtual_20241202_SOLE_Desconectado v2 (12).png](Transformarte en una tecnología inalámbrica para c f0ab69bbafd64ba5a0e5ac4e76111dd0/Versin_Voltaje_Virtual_20241202_SOLE_Desconectado_v2_(12).png)
+![Transformarte en una tecnología inalámbrica para conectar historias de vida](assets/images/desconectado-wireless/desconectado-wireless-card.png)
 
 # **¿Cómo saber que tienes señal WiFi?**
 
@@ -23,4 +23,4 @@ Si tienes un celular, puedes dirigirte a la opción de configuración y buscar l
 
 ***¿Qué dispositivos tienen señal móvil?** Celulares, computadores, tablets e incluso neveras o televisores tienen WiFi.*
 
-<img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Transformarte en una tecnología inalámbrica para conectar historias de vida 2](assets/images/desconectado-wireless/desconectado-wireless-wifi.png)

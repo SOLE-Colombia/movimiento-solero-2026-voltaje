@@ -8,15 +8,14 @@ aspectos:
 - dispositivos
 - personas
 - espacio
-fecha: '2025-10-11'
+fecha: '2024-12-17'
 ---
 
-# Jugar a ser electricidad y ondas
 
 Creado: 17 de diciembre de 2024 21:07
 Etiquetas: Conocimiento, Tarjeta
 
-![Versión Voltaje Virtual_20241202_SOLE_Desconectado v2 (4).png](Jugar a ser electricidad y ondas b8d037d0921f4de08f4bed128642eaa6/Versin_Voltaje_Virtual_20241202_SOLE_Desconectado_v2_(4).png)
+![Jugar a ser electricidad y ondas](assets/images/desconectado-electricity/desconectado-electricity-card.png)
 
 # **¿Cómo se transmite la señal de internet?**
 

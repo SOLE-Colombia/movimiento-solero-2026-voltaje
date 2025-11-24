@@ -6,20 +6,20 @@ aspectos:
 - señal
 - electricidad
 - personas
-fecha: '2025-10-11'
+fecha: '2024-12-17'
 ---
 
-# Acordar con un vecino
+## Acordar con un vecino
 
 Creado: 17 de diciembre de 2024 22:39
 Etiquetas: Conseguir, Internet, Soluciones, Tarjeta
 
-![Versión Voltaje Virtual_20241202_SOLE_Desconectado v2.png](Antenas de radioenlace 062f4718da4b497cb449639bbb55ea3e/Versin_Voltaje_Virtual_20241202_SOLE_Desconectado_v2.png)
+![Como acordar con un vecino](assets/images/desconectado-buy3Gantenna-how/desconectado-buy3Gantenna-how-card.png)
 
-[**Paso 1:** Para saber si necesitas esta solución revisa la tarjeta ¿Cómo cacharrear tu señal WiFi?](/como-cacharrear-tu-senal-wifi-voltaje-desconectado)
+[**Paso 1:** Para saber si necesitas esta solución revisa la tarjeta ¿Cómo cacharrear tu señal WiFi?](es/disconnected/como-cacharrear-tu-senal-wifi-voltaje-desconectado)
 
 **Paso 2:** Si tienes alguna señal WiFi cercana significa que tienes una fuente de internet que puedes extender hasta donde la necesitas. Acordar con un vecino que tenga esa red te permitirá conectarte a Internet.
 
-Paso 3: dirígete a la solución ¿cómo acordar con un vecino? [Pendiente enlace de solución]
+Paso 3: dirígete a la solución [Como acordar con un vecino](es/disconnected/como-acordar-con-un-vecino-voltaje-desconectado)
 
-<img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Como acordar con un vecino](assets/images/desconectado-agreements/desconectado-agreements-hands.webp)

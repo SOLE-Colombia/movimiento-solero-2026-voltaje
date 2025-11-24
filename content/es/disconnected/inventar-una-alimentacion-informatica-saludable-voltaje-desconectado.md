@@ -6,15 +6,14 @@ aspectos:
 - señal
 - electricidad
 - personas
-fecha: '2025-10-11'
+fecha: '2024-12-17'
 ---
 
-# inventar una alimentación informática saludable
 
 Creado: 17 de diciembre de 2024 21:10
 Etiquetas: Conocimiento, Tarjeta
 
-![Versión Voltaje Virtual_20241202_SOLE_Desconectado v2 (5).png](inventar una alimentación informática saludable 9ef38cd89e3e4e6db641bdc9c009a589/Versin_Voltaje_Virtual_20241202_SOLE_Desconectado_v2_(5).png)
+![Inventar una alimentación informática saludable](assets/images/desconectado-digitalhealth/desconectado-digitalhealth-card.png)
 
 # **¿Cómo se mide el uso del internet?**
 

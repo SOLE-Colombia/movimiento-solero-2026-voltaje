@@ -7,15 +7,15 @@ aspectos:
 - electricidad
 - dispositivos
 - personas
-fecha: '2025-10-11'
+fecha: '2024-12-17'
 ---
 
-# Convertirte en información que viaja por el internet
+
 
 Creado: 17 de diciembre de 2024 21:04
 Etiquetas: Conocimiento, Tarjeta
 
-![Versión Voltaje Virtual_20241202_SOLE_Desconectado v2 (3).png](Convertirte en información que viaja por el intern ff19a0c6e05445468df99e821229a9fd/Versin_Voltaje_Virtual_20241202_SOLE_Desconectado_v2_(3).png)
+![Convertirte en información que viaja por el internet](assets/images/desconectado-information/desconectado-information-card.png)
 
 # **¿Cómo funciona el internet?**
 
