@@ -12,7 +12,7 @@ fecha: '2025-10-11'
 
 ## ¿Desconectado?
 
-# SOLE Voltaje Desconectado
+## SOLE Voltaje Desconectado
 
 En el 2024 el equipo de SOLE Colombia diseñó un prototipo para que cualquier persona, en cualquier parte del mundo y sin importar los conocimientos previos, pudiera entender, de manera práctica y divertida, cómo funciona el internet sin internet. Este prototipo se llama **Desconectado.** Después de varias pruebas, desarrollamos este juego de cartas que nos invitan a navegar por historias, aprendizajes e información muy valiosa. Una vez hayas explorado este juego creemos que estarás listo para identificar qué tan buena es tu señal de internet, cómo funciona y podrás evaluar las mejores soluciones para cualquier problema de conectividad que tengas.
 
