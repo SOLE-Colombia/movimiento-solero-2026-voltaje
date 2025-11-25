@@ -57,7 +57,7 @@ Te animamos a que, junto con tu comunidad, inventes una manera en la que la cone
 
 Imagina una comunidad sin conectividad. Sin conocimientos técnicos para la instalación, la configuración y el mantenimiento de una red inalámbrica. Ahora piensa que, de un momento a otro, logran conectarse todos a una sola red wifi. 
 
-¿Qué pasaría? Entre muchas cosas, toda una comunidad podría pagar un solo plan de Internet y todos podrían conectarse. Mejor aún, conectarse desde equipos compartidos, como computadores o tablets, y tener más velocidad, un experiencia divertida y de aprendizaje colectivo. Eso es lo que podrían lograr si gestionan este dispositivo: el [*Big Box*](https://www.janga.la/big-box) o Caja Grande de [Jangala](http://janga.la).
+¿Qué pasaría? Entre muchas cosas, toda una comunidad podría pagar un solo plan de Internet y todos podrían conectarse. Mejor aún, conectarse desde equipos compartidos, como computadores o tablets, y tener más velocidad, un experiencia divertida y de aprendizaje colectivo. Eso es lo que podrían lograr si gestionan este dispositivo: el [*Big Box*](https://www.janga.la/get-box) o Caja Grande de [Jangala](http://janga.la).
 
 **Big Box de Jangala es un dispositivo ligero, del tamaño de un maletín, que transforma cualquier forma de conectividad a Internet en WiFi** fácil de gestionar y ampliar, desde decenas a miles de usuarios. Es como si uno tuviera un amplificador para el internet de un teléfono, que le funciona a cientos, o miles, de computadores.
 
@@ -81,11 +81,11 @@ Si eres una comunidad de bajos recursos, o en zonas remotas, puedes ser consider
 
 - **Momento 1: Entrar a www.janga.la y buscar el formulario de solicitud de un Big Box**
     
-    Ingresen a [Janga](https://www.janga.la/request-a-box) a la sección de solicitar una caja "Request a Box". Ahí pueden decidir si lo que necesitan es un *Get Box* que es más pequeño o un *Big Box*. 
+    Ingresen a [Janga get box](https://www.janga.la/get-box) a la sección de solicitar una caja "Request a Box". Ahí pueden decidir si lo que necesitan es un *Get Box* que es más pequeño o un *Big Box*. 
     
     Los siguientes pasos tienen que ver con la solicitud del BigBox.
     
-    ![](https://archive.org/download/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/JangalaBixBox/JangalaBigBox_Home.png)
+    ![box jangala home](https://archive.org/download/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/JangalaBixBox/JangalaBigBox_Home.png)
     
 - **Momento 2: Diligenciar el formulario en línea**
     

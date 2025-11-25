@@ -47,6 +47,8 @@ Crear un mensaje potente, enfocado desde el propósito, implica conectar emocion
 
 ![Video](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/a6e3ad9c-19b6-46e9-8ef3-2184ad609e21/Vdeo_sin_ttulo__Hecho_con_Clipchamp_(5).mp4?table=block&id=12a2bd68-c5b6-81cc-a580-d32a8d9dbe02&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763841600000&signature=t7dES7O4_HiGNKUqaCTIdIWssmujJ57DJJfJZl-zgUM&downloadName=V%C3%ADdeo+sin+t%C3%ADtulo+%E2%80%90+Hecho+con+Clipchamp+%285%29.mp4)
 
+https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/a6e3ad9c-19b6-46e9-8ef3-2184ad609e21/Vdeo_sin_ttulo__Hecho_con_Clipchamp_(5).mp4?table=block&id=12a2bd68-c5b6-81cc-a580-d32a8d9dbe02&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1764108000000&signature=cF6F8pUItq0BKbFpFL9XY_q_cAeRXqgTtKC6-I3s08Q&downloadName=V%C3%ADdeo+sin+t%C3%ADtulo+%E2%80%90+Hecho+con+Clipchamp+%285%29.mp4
+
 - **Momento 1: Comienza con el qué**
     
     ¿Qué es lo que haces o quieres hacer?, ¿Qué quieres compartir o ofrecerle al mundo? Eso es el “qué” de tu mensaje. Iniciar por el qué te va ayudar a vislumbrar con mayor facilidad tu por qué.

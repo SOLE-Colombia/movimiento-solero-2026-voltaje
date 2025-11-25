@@ -1,5 +1,5 @@
 ---
-title: ¿Es una solución técnica? Título
+title: ¿Es una solución técnica? Título - Plantilla de solución
 lang: es
 slug: es-una-solucion-tecnica-titulo-solutions-db
 aspectos:

@@ -160,7 +160,7 @@ Si quieres la conexión para tu hogar, quizá vale la pena ponerlo en un espacio
 
 Definir cuánto van a usar el internet y para qué lo quieren usar es importante para saber qué esperar de la antena que van a comprar.
 
-Para afinar sus expectativas, pueden leer [¿Cómo se mide el uso de Internet?](es/inspire/como-se-mide-el-uso-de-internet-inspiration-db) 
+Para afinar sus expectativas, pueden leer [¿Cómo se mide el uso de Internet?](/es/inspire/insp-internet-usage-measure) 
 
 - **¿Con cuánto dinero cuento, o contamos, para comprar una antena?**
 
@@ -214,7 +214,8 @@ No debes modificar el cable que te entregue el proveedor de ninguna manera: el e
 
 ![RG-59](assets/images/solv-need-3Gantenna/solv-need-3Gantenna-cable.webp)
 
-[**Módem / Router**](es/glossary/modem-router-o-enrutador-modem-or-router-conceptorio)
+**Módem / Router**
+
 Normalmente, los kits de antenas, vienen con un [módem y un enrutador](es/glossary/modem-router-o-enrutador-modem-or-router-conceptorio), que te permitirá conectarte y compartir la señal de la red móvil captada por la antena. 
 
 Si ya cuentas con un módem, al momento de comprar, verifica que este pueda conectarse a la antena y, en dado caso, que el proveedor te envíe los adaptadores necesarios para realizar la conexión.

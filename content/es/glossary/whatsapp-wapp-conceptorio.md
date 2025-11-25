@@ -1,7 +1,7 @@
 ---
-title: WhatsApp / wapp
+title: WhatsApp 
 lang: es
-slug: 'whatsapp-wapp-conceptorio'
+slug: 'whatsapp-conceptorio'
 aspectos:
 - señal
 fecha: '2025-07-15'

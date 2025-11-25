@@ -63,7 +63,7 @@ Por lo general, los donantes de equipos son empresas con gran capacidad económi
     
 * “¡Hola a todos y todas! Mi nombre es Amaranta y hago parte de la FUNDACIÓN XYZ ¿Alguien  conoce organizaciones que estén donando equipos de cómputo en buen estado? Estamos buscando apoyo para implementar un proyecto con adultos mayores en zonas rurales de Colombia. Cualquier información o contacto sería de gran ayuda. ¡Gracias! 
 
-Mi número de contacto es 123456789”* 
+Mi número de contacto es **123456789** 
     
 Te sugerimos realizar las dos opciones al tiempo, esto ampliará las posibilidades que tienes para encontrar una empresa donante. 
     

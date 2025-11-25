@@ -167,7 +167,7 @@ En 2023 solo tuve un trabajo y tenía oficina con internet. Ya no necesitaba via
         
         **La decisión final puede que recaiga sobre este punto:** las personas que usan planes prepago, normalmente no tienen un flujo constante de dinero que les asegure pagar una mensualidad. Mientras que el uso de pospago está asociado a personas que pueden garantizar el pago de una mensualidad de manera constante.
         
-        Actualmente, las recargas prepago, en el mercado colombiano, van desde **$2.000 COP con un día de vigencia.** Por otro lado, los planes pospago más económicos se encuentran alrededor de **$27.000 COP** al mes**.** 
+        Actualmente, las recargas prepago, en el mercado colombiano, van desde **\$2.000 COP con un día de vigencia.** Por otro lado, los planes pospago más económicos se encuentran alrededor de **\$27.000 COP** al mes**.** 
         
         Para tomar esta decisión haz un recuento de cuanto estas dispuesto a invertir en este servicio y cuál es su frecuencia de uso.
         
@@ -208,13 +208,14 @@ En 2023 solo tuve un trabajo y tenía oficina con internet. Ya no necesitaba via
         
     - **Otros beneficios, información que puede ser de utilidad**
         
-        **Ojo con el “Uso de datos ‘gratis’ en aplicaciones”**
+        > **Ojo con el “Uso de datos ‘gratis’ en aplicaciones”**
+        > <br/>**Recuerda, ¡nada es gratis!** 
         
-        **Recuerda, ¡nada es gratis!** La mayor parte de planes actualmente en Colombia tienen el uso de aplicaciones como *Facebook o* *WhatsApp* de manera “ilimitada” mientras dure la carga o durante todo el mes en caso de planes pospago. 
+        <br/>La mayor parte de planes actualmente en Colombia tienen el uso de aplicaciones como *Facebook o* *WhatsApp* de manera “ilimitada” mientras dure la carga o durante todo el mes en caso de planes pospago. 
         
         Nunca nos explican que este consumo ilimitado **solo esta relacionado con los mensajes que contienen textos**, es decir, si ves una foto o un video, por Whatsapp o Facebook, los datos asociados a este consumo se descontarán de tu plan.
         
-        **Aplicaciones ‘gratis’**
+    - **Aplicaciones ‘gratis’**
         
         Algunos planes pospago nos ofrecen licencia de aplicaciones como *Amazon Prime* (plataforma de series y películas) o *Spotify* (aplicación de reproducción de música), es decir por el pago de un plan de celular ellos te dan acceso a la versión Premium de estas plataformas. Esto puede ser beneficioso si son plataformas de las cuales ya haces uso, si no es así, ignóralo, será un consumo más.
         

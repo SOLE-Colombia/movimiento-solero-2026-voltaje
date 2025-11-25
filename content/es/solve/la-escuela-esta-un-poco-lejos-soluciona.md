@@ -9,8 +9,6 @@ aspectos:
 fecha: '2025-10-11'
 ---
 
-# La escuela está un poco lejos
-
 Soluciones para tener un lugar de encuentro para utilizar el Internet en grupo
 
 ---

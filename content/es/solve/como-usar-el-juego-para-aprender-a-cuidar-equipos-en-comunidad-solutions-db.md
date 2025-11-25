@@ -152,7 +152,7 @@ Queremos compartirte la historia de Alexander, un referente de la comunidad de l
 
 ## Soluciones recomendadas
 
-- [¿Cómo instalar mi antena 3/4G?](es/solve/como-instalar-mi-antena-3-4g-solutions-db) 
+- [¿Cómo instalar mi antena 3 - 4G?](es/solve/como-instalar-mi-antena-3-4g-solutions-db) 
 - [¿Cómo compartir los computadores disponibles?](es/solve/como-compartir-los-computadores-disponibles-solutions-db) 
 - [**Haz una colecta para pagar internet comunitario**](es/solve/haz-una-colecta-para-pagar-internet-comunitario-solutions-db)  
 

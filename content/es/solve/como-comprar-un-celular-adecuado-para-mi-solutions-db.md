@@ -15,7 +15,7 @@ Created: 25 de octubre de 2024 13:36
 Autor: Nicolás
 Solucionas: Dispositivos
 Dificultad: Fácil
-Cuesta: >$200 COP
+Cuesta: >\$200 COP
 Ayudantes: Nadie
 Tardas: Horas
 pilar/dispositivos: 1: Aporta para tener dispositivos unipersonales (Celulares)
@@ -25,7 +25,7 @@ pilar/senal: 0: No aporta señal
 pilar/electricidad: No consigues electricidad
 impacto/personas: 1
 impacto/sostenibilidad: 1: Bajo
-recursos/dinero: 3: $ 200 COP >
+recursos/dinero: 3: \$ 200 COP >
 recursos/personas: 0: Nadie
 recursos/tiempo: 1: Horas
 2025-prueba: No

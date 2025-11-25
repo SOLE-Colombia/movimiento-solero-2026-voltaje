@@ -27,13 +27,13 @@ Tardas: Horas
 Puedes escuchar esta audiolectura mientras desarrollas esta solución. 
 
 <audio controls preload="metadata">
-  <source src="assets/images/solv-build-3Gantenna/_Construye_una_antena_3G_casera.mp3" type="audio/mpeg" />
+  <source src="assets/audios/es/Audiolecturas/_Construye_una_antena_3G_casera.mp3" type="audio/mpeg" />
   Tu navegador no soporta la reproducción de audio. Puedes descargarlo
-  <a href="assets/images/solv-build-3Gantenna/_Construye_una_antena_3G_casera.mp3">aquí</a>.
+  <a href="assets/audios/es/Audiolecturas/_Construye_una_antena_3G_casera.mp3">aquí</a>.
 </audio>
 
 
-Hola soy Nicolás. Al igual que tú, he estado aprendiendo progresivamente como mejorar mi conectividad. No soy un experto en el tema, pero mediante búsquedas en internet, tutoriales y, sobre todo, prueba y error, he aprendido un montón y he montado soluciones funcionales. ****
+> Hola soy Nicolás. Al igual que tú, he estado aprendiendo progresivamente como mejorar mi conectividad. No soy un experto en el tema, pero mediante búsquedas en internet, tutoriales y, sobre todo, prueba y error, he aprendido un montón y he montado soluciones funcionales.
 
 ## ¿Qué es construir una antena 3G casera?
 

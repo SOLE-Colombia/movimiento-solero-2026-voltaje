@@ -67,7 +67,7 @@ Manos a la obra:
 
 No importa si a la primera no te sale, mira todas las veces que tuve que borrar en el video para hacer mi invitación… ¡Ya iremos afinando en el paso a paso!
 
-![Escribe invitación](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/02ceb289-fa4d-4c3e-8c95-22e69a9b3235/20240801_SOLEBOLT_Voltaje_Escribe_tu_invitacin_1.mp4?table=block&id=12a2bd68-c5b6-8163-bfb4-f2b0886d9b8c&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763841600000&signature=4abfS6uCikO9lxdvcCgx1KMKsCk1kN7nQKheNrNSEP8&downloadName=20240801_SOLE%2BBOLT_Voltaje_Escribe_tu_invitaci%C3%B3n_1.mp4)
+![Escribe invitación](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/02ceb289-fa4d-4c3e-8c95-22e69a9b3235/20240801_SOLEBOLT_Voltaje_Escribe_tu_invitacin_1.mp4?table=block&id=12a2bd68-c5b6-8163-bfb4-f2b0886d9b8c&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1764108000000&signature=3_Bi1dNIWt5JqYiuOD4yW5GgAYLwkmthJQn-MmjYx0k&downloadName=20240801_SOLE%2BBOLT_Voltaje_Escribe_tu_invitaci%C3%B3n_1.mp4)
     
 - **Momento 2: La escritura**
 ¡Bien! Ha llegado el momento de liberar toda esa creatividad en el papel, con el contenido claro va a ser mucho más sencillo hacer la invitación.
@@ -87,7 +87,7 @@ No importa si a la primera no te sale, mira todas las veces que tuve que borrar 
 
 Yo me fui por esta última opción. Mira lo que escribí:
 
-![Frase Potente](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/163ed384-f30e-4ccf-b3bb-adfdd736f1e6/20240801_SOLEBOLT_Escribe_tu_invitacin_2.mp4?table=block&id=12a2bd68-c5b6-8120-a439-ff87aa609131&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763841600000&signature=SZv7mTjLL3CIOt2x6hlge3EDOXOtUJGFlYfIhRV5Piw&downloadName=20240801_SOLE%2BBOLT_Escribe_tu_invitaci%C3%B3n_2.mp4)
+![Frase Potente](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/163ed384-f30e-4ccf-b3bb-adfdd736f1e6/20240801_SOLEBOLT_Escribe_tu_invitacin_2.mp4?table=block&id=12a2bd68-c5b6-8120-a439-ff87aa609131&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1764108000000&signature=U1D0bSJGJefxR7_9Vgsv-9hTa5QkaAXlgWHetIHuLXg&downloadName=20240801_SOLE%2BBOLT_Escribe_tu_invitaci%C3%B3n_2.mp4)
 
 - **'La pulidora', cómo afinar el mensaje**
 
@@ -98,7 +98,7 @@ Ponte manos a la obra:
 1. Subraya la respuesta a las preguntas  *cómo* y *dónde* (las que escribimos en la sección 'El contenido', un poco más arriba en esta Solución). 
 2. Ahora, escribe los datos claros del **día**, la **hora**, la **fecha**, y el **lugar** en dónde vas a convocar a tu gente (sin nada de adorno). 
 
-![Pulidora](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/757ad35f-2178-47f5-b209-6afb5e207208/20240801_SOLEBOLT_Escribe_tu_invitacin_3.mp4?table=block&id=12a2bd68-c5b6-8180-8048-ebea2341c6bd&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763841600000&signature=uDovwpIu-1LLlOQDwltRvcI3cBqHLL7LL6zIJDAzX-8&downloadName=20240801_SOLE%2BBOLT_Escribe_tu_invitaci%C3%B3n_3.mp4)
+![Pulidora](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/757ad35f-2178-47f5-b209-6afb5e207208/20240801_SOLEBOLT_Escribe_tu_invitacin_3.mp4?table=block&id=12a2bd68-c5b6-8180-8048-ebea2341c6bd&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1764108000000&signature=EZvMh7_PNoA8DuRsJc7zsaKejNAt1yKoBwx6zewAbz8&downloadName=20240801_SOLE%2BBOLT_Escribe_tu_invitaci%C3%B3n_3.mp4)
 
 Pon lo que escribiste en tu *cómo*, de la forma más resumida y clara posible. Ejemplo: Si tu *cómo* era una reunión en el salón comunal, pon: "Salón comunal de [Nombre de tu comunidad]".
 
@@ -110,7 +110,7 @@ Casi siempre, cuando leemos algo, solemos quedarnos con la última frase. Inclus
 
 Actividad: Usa un verbo en acción para iniciar la frase que cierra tu invitación.
 
-![Accion](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/65b56eb0-79ec-4f9a-bfa8-1c1b7b4e83e0/20240801_SOLEBOLT_Escribe_tu_invitacin_4.mp4?table=block&id=12a2bd68-c5b6-81bb-8620-c4ff1b4a67aa&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1763841600000&signature=S3vLTxuNK5t4lfuKCGiA7sWX2-Gnhm6e2QV-N0cRNZI&downloadName=20240801_SOLE%2BBOLT_Escribe_tu_invitaci%C3%B3n_4.mp4)
+![Accion](https://file.notion.so/f/f/d2a8cf29-6055-4dd9-8971-801014f46b2a/65b56eb0-79ec-4f9a-bfa8-1c1b7b4e83e0/20240801_SOLEBOLT_Escribe_tu_invitacin_4.mp4?table=block&id=12a2bd68-c5b6-81bb-8620-c4ff1b4a67aa&spaceId=d2a8cf29-6055-4dd9-8971-801014f46b2a&expirationTimestamp=1764108000000&signature=-hT0ZfDt2VY8t1rouMnqfi1xuJQH0qkp1N8fxtHVjqk&downloadName=20240801_SOLE%2BBOLT_Escribe_tu_invitaci%C3%B3n_4.mp4)
         
     
       

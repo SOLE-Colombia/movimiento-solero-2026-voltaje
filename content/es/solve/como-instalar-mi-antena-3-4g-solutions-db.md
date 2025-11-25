@@ -37,7 +37,7 @@ _________________
 
 Hola, soy Sanjay, y no soy un experto en temas de conectividad, pero he aprendido *cacharreando:* a punta de prueba y error, y, también, preguntándole a otras personas sobre el tema. 
 
-En esta solución, vas a poder instalar una antena 3/4G que hayas comprado. Si no las has comprado aún, puedes ir a las solución de [¿Cómo comprar una antena 3/4G?](/es/solve/como-comprar-una-antena-satelital-solutions-db.md) para hacer eso antes.
+En esta solución, vas a poder instalar una antena 3/4G que hayas comprado. Si no las has comprado aún, puedes ir a las solución de [¿Cómo comprar una antena 3-4G?](/es/solve/como-comprar-una-antena-satelital-solutions-db.md) para hacer eso antes.
 
 En esta solución puedes demorarte de **30 minutos a unas cuantas horas**, depende de la dificultad en ubicar la señal idónea para tu antena. Tiene un nivel de **dificultad medio**. Es para hacer entre **3 personas,** idealmente: una, para leer, las otras dos, para conectar y sostener los componentes de la antena.  
 
@@ -65,7 +65,7 @@ Recuerda que estas trabajando con equipos eléctricos. Ten cuidado al momento de
 
 ![Materiales](/assets/images/solv-install3Gantenna/solv-install3Gantenna-materials.webp)
 
-1. [Antena 3/4G](es/glossary/antena-3-4g-3-4g-antenna-conceptorio.md) que hayas comprado  
+1. [Antena 3-4G](es/glossary/antena-3-4g-3-4g-antenna-conceptorio.md) que hayas comprado  
 2. [Cable coaxial](es/glossary/cable-coaxial-coaxial-cable-conceptorio) de la antena
 3. [Modem](es/glossary/modem-router-o-enrutador-modem-or-router-conceptorio.md) con su respectivo cable de poder, cable de Ethernet y guía de **Inicio Rápido**
 4. [Tarjeta SIM](es/glossary/tarjeta-sim-sim-card-conceptorio) del operador celular que tenga mejor señal en la zona

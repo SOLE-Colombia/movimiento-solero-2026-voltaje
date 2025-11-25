@@ -19,7 +19,7 @@ También tienes una experiencia para saber qué es el Internet y cómo funciona 
 
 ## Nuestra ética cacharrera
 
-[SOLE Colombia, 2024](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
     src="https://www.youtube.com/embed/DFxkFHgQ9Rk" 
@@ -27,9 +27,9 @@ También tienes una experiencia para saber qué es el Internet y cómo funciona 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
-</div>?si=24JZFWWZwfVHShWp)
+</div>
 
-SOLE Colombia, 2024
+> **SOLE Colombia, 2024**
 
 ¿Te has preguntado alguna vez cómo llega el Internet a tu casa? ¿Por qué pagamos tanto por conectarnos o cómo sería vivir desconectados? Que te conectes a Internet puede parecer magia, pero en realidad es información viajando por el mundo a través de servidores -lugares físicos que hacen posible que puedas leer esto ahora mismo-.
 
