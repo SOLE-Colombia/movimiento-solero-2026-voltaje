@@ -36,23 +36,16 @@ Volamos más de 40 horas ✈️🌏 para llevar el Aprendizaje Auto Organizado (
 
 En las comunidades rurales 🏞️, donde el acceso a la educación tradicional 📚 puede ser limitado, SOLE está creando nuevas oportunidades para descubrir el mundo 🌐🔍 y desarrollar habilidades esenciales para el futuro.
 
-[<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
   <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
     src="https://www.youtube.com/embed/bNakrhUveBU" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
-</div>](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/bNakrhUveBU" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>)
+</div>
+
 
 [https://notionreactions.com/embed/ASD6GYXR0axdkYNS6551](https://notionreactions.com/embed/ASD6GYXR0axdkYNS6551)
 
