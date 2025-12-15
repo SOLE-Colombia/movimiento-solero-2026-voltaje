@@ -35,9 +35,20 @@ traducción: Yes
 
 Esta historia empieza en 2023, cuando llegamos a Calle Larga, en Buenaventura. Allí estábamos, con nuestro kit de conectividad rural. La idea era sencilla: darles una mejor conexión a Internet para que pudieran usarla en las sesiones de SOLE (Espacios de Aprendizaje Auto-Organizado).  Ahi fue cuando la conocimos a ella:
 
-[Rosa Helena Mina, Visitas de Sintonización en La Delfina, Buenaventura, (2024).](../../../How did the Internet improve in Buenaventura, Vall 25c2bd68c5b680389d77d3f1869a5e2e/20240611_SOLEWLH_Sintonizacin_LaDelfina87.3.mp4)
+<h3>Visitas de Sintonización – La Delfina, Buenaventura</h3>
 
-Rosa Helena Mina, Visitas de Sintonización en La Delfina, Buenaventura, (2024).
+<figure>
+  <video 
+    controls 
+    style="width: 100%; max-width: 900px; border-radius: 12px; margin: 1.5rem 0;">
+    <source src="/assets/videos/insp-howinternetworks-buenaventura.mp4" type="video/mp4">
+    Tu navegador no soporta la reproducción de video.
+  </video>
+  <figcaption>
+    Rosa Helena Mina, Visitas de Sintonización en La Delfina, Buenaventura, Valle del Cauca (2024).
+  </figcaption>
+</figure>
+
 
 Con el tiempo, Rosa Helena se convirtió en la “cacharrera” y Embajadora SOLE de la comunidad, siempre dispuesta a aprender y a ayudar a los demás a resolver cualquier problema de conexión que se presentara. Aquí en este video nos está contando cómo, poco a poco, fue aprendiendo y descubriendo qué tenía que hacer para tener una conexión de Internet más estable.
 
