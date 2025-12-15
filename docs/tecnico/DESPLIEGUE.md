@@ -6,12 +6,16 @@ Guía de despliegue automático para **SOLE Voltaje**.
 
 ## 📦 Entorno de Producción
 
-Este proyecto usa **GitHub Actions** para despliegue automático a **GitHub Pages**.
+Este proyecto usa **GitHub Actions** para construir el sitio con Quartz y publicar el resultado estático en un **repositorio destino** (separado) que es el que sirve el sitio (por ejemplo en GitHub Pages con dominio propio).
 
 ### Requisitos
-*   Repositorio en GitHub.
-*   GitHub Pages habilitado.
-*   Permisos de escritura para GitHub Actions.
+*   Este repositorio (fuente) en GitHub.
+*   Uno o dos repositorios “destino” (uno para prod, otro para dev si aplica) con Pages configurado.
+*   Un token con permisos de escritura al repo destino (**PAT**) guardado como secret.
+*   Secrets configurados en este repo:
+    * `PAT`: token para pushear al repo destino.
+    * `PROD_REPO`: `owner/repo` destino para producción (workflow de `main`).
+    * `PUBLIC_REPO`: `owner/repo` destino para desarrollo (workflow de `desarrollo`).
 
 ---
 
@@ -31,47 +35,26 @@ git push origin main
 ```
 
 ### 3. Deploy Automático
-GitHub Actions detecta el push a `main` y:
-1.  Construye el sitio con Quartz (`npx quartz build`).
-2.  Despliega a GitHub Pages automáticamente.
+GitHub Actions detecta el push y:
+1. Construye el sitio con Quartz (`npx quartz build`) → genera `public/` en la raíz.
+2. Hace checkout del repositorio destino (según el workflow).
+3. Copia `public/*` al repo destino, crea `.nojekyll`, commitea y pushea.
 
-*Tu sitio estará disponible en:*
-```
-https://tu-usuario.github.io/voltaje-dev/
-```
+**Ramas y entornos**
+- `main` → producción (workflow: `.github/workflows/deploy-production.yml`).
+- `desarrollo` → desarrollo/staging (workflow: `.github/workflows/test-desarrollo.yml`).
 
 ---
 
 ## ⚙️ Configuración de GitHub Actions
 
-### Archivo de Workflow
-El proyecto incluye `.github/workflows/deploy.yml` (o similar).
+### Workflows reales en este repo
+- Producción: `.github/workflows/deploy-production.yml`
+- Desarrollo: `.github/workflows/test-desarrollo.yml`
 
-Estructura básica:
-```yaml
-name: Deploy Quartz to GitHub Pages
-
-on:
-  push:
-    branches: [main]
-
-jobs:
-  build-and-deploy:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '22'
-      - run: npm install
-      - run: npx quartz build
-      - uses: actions/deploy-pages@v4
-```
-
-### Habilitar GitHub Pages
-1.  Ve a: **Settings** > **Pages**.
-2.  Source: **GitHub Actions**.
-3.  Guarda los cambios.
+### Cómo se publica realmente
+Este repo **no** usa `actions/deploy-pages@v4` para publicar desde el mismo repositorio.
+En cambio, publica empujando el build (`public/`) a un **repositorio destino** usando `actions/checkout@v4` con `repository:` y un `token:` (PAT).
 
 ---
 

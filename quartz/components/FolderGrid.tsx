@@ -1,6 +1,7 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/folderGrid.scss"
-import { resolveRelative, isAbsoluteURL, FullSlug } from "../util/path"
+import { resolveRelative, FullSlug } from "../util/path"
+import { resolveCardImage } from "./cardImage"
 
 export default (() => {
   const FolderGrid: QuartzComponent = ({ allFiles, fileData }: QuartzComponentProps) => {
@@ -38,30 +39,13 @@ export default (() => {
       return customOrder.indexOf(slugA) - customOrder.indexOf(slugB)
     })
 
-    const getImageUrl = (raw?: string) => {
-      if (!raw || raw.trim().length === 0) return undefined
-      const clean = raw.trim()
-
-      if (clean.startsWith("/")) {
-        return clean
-      }
-
-      if (isAbsoluteURL(clean)) {
-        return clean
-      }
-
-      return resolveRelative(fileData.slug!, `${file.slug}/${clean}` as FullSlug)
-    }
-
     return (
       <div class="folder-grid">
         {folders.map((file) => {
           const title = file.frontmatter?.title ?? file.slug?.split("/")[1]
           const icon = file.frontmatter?.icon ?? "📁"
           const description = file.frontmatter?.description ?? ""
-          const rawImage =
-            file.frontmatter?.cardImage ?? file.frontmatter?.cover ?? file.frontmatter?.image
-          const imageUrl = getImageUrl(rawImage)
+          const imageUrl = resolveCardImage(file, fileData.slug as FullSlug)
 
           return (
             <a href={resolveRelative(fileData.slug!, file.slug!)} class="folder-card">
