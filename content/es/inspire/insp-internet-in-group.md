@@ -1,39 +1,39 @@
 ---
-title: ¿Cuándo fue la última vez que usaste el Internet en grupo?
+title: "¿Cuándo fue la última vez que usaste el Internet en grupo?"
 lang: es
 slug: cuando-fue-la-ultima-vez-que-usaste-el-internet-en-grupo-inspiration-db
+
 categories:
-- Pregunta Provocadora
+  - Pregunta Provocadora
+
+tags:
+  - Pregunta Provocadora
+
 formato:
-- Foto
-- Texto
+  - Foto
+  - Texto
+
+autor:
+  - Sanjay
+
+revision: "R2025"
+idioma: español
+
+aspectos:
+  - señal
+  - personas
+  - espacio
+
+fecha: "2025-10-11"
+
 draft: false
 traduccion: true
-aspectos:
-- señal
-- personas
-- espacio
-fecha: '2025-10-11'
+pie: true
+reaccion: true
+widget: true
 ---
 
-# ¿Cuándo fue la última vez que usaste el Internet en grupo?
-
-Tags: Pregunta Provocadora
-Formato: Foto, Texto
-Autor(es): Sanjay
-R2025: revisado
-idioma: español
-pie: Yes
-reacción: Yes
-traducción: Yes
-
 *Descarga esta Inspiración para usarla desconectado*
-
-[Cuando_fue_la_ultima_vez_que_usaste_el_Internet_en_grupo_20250829.pdf](/downloads/cuando-fue-la-ultima-vez-que-usaste-el-internet-en-grupo-20250829.pdf)
-
-*Download this Inspiration to use it disconnected*
-
-[When_was_the_last_time_you_used_the_Internet_in_a_group_20250829.pdf](/downloads/when-was-the-last-time-you-used-the-internet-in-a-group-20250829.pdf)
 
 Entonces, volvamos al inicio: ¿cuándo fue la última vez que usaste Internet en grupo? Tal vez ese recuerdo —compartir una búsqueda, una pantalla, una pregunta— sea el comienzo de otro Internet posible. La Biblioteca del Futuro es eso: la prueba de que otros Internets son posibles, y de que ya los estamos creando.
 
