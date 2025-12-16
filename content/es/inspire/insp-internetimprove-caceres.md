@@ -37,8 +37,6 @@ reaccion: true
 widget: true
 ---
 
-# ¿Cómo mejoró el Internet en Cáceres, Antioquia?
-
 *Descarga esta Inspiración para usarla desconectado*
 
 [Cmo_mejor_el_Internet_en_Cceres_Antioquia_20250829.pdf](/downloads/cmo-mejor-el-internet-en-cceres-antioquia-20250829.pdf)

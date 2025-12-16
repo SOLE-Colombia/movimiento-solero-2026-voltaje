@@ -1,32 +1,39 @@
 ---
-title: ¿Cómo mejoró el Internet en Chalán, Montes de María?
+title: "¿Cómo mejoró el Internet en Chalán, Montes de María?"
 lang: es
 slug: como-mejoro-el-internet-en-chalan-montes-de-maria-inspiration-db
+
 categories:
-- Impacto
-- Internet
+  - Impacto
+  - Internet
+
+tags:
+  - Impacto
+  - Internet
+
 formato:
-- Foto
-- Texto
-- Video
+  - Foto
+  - Texto
+  - Video
+
+autor:
+  - Manu
+
+revision: "R2025"
+idioma: español
+
+aspectos:
+  - señal
+  - personas
+
+fecha: "2025-10-11"
+
 draft: false
 traduccion: true
-aspectos:
-- señal
-- personas
-fecha: '2025-10-11'
+pie: true
+reaccion: true
+widget: true
 ---
-
-# ¿Cómo mejoró el Internet en Chalán, Montes de María?
-
-Tags: Impacto, Internet
-Formato: Foto, Texto, Video
-Autor(es): Manu
-R2025: revisado
-idioma: español
-pie: Yes
-reacción: Yes
-traducción: Yes
 
 *Descarga esta Inspiración para usarla desconectado*
 
@@ -69,29 +76,24 @@ compartirla con otros!
 
 Yulieth, Astrid, Yuranis, Johana, Celia, Maryuris, y Yolanda. están cambiando el mundo. Gracias a su trabajo, hoy en Chalán más niños, jóvenes, adultos y ancianos tienen acceso a Internet. Desde veredas vecinas como Monte Bello y Rancho Rojo, personas llegan a la Vda. Alemania para conectarse y formar parte de esta red, que ellas mismas han creado y sostenido
 
-<img src="/assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(14)-800w.webp" alt="SOLE liderado por Embajadoras, Visitas de Sintonización, Montes de María, (2024)." srcset="/assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(14)-400w.webp 400w, /assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(14)-800w.webp 800w, /assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(14)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
+![Antena comunitaria instalada en Chalán, Montes de María](../../../assets/images/insp-internetimprove-chalan-antenna.webp)
+*Instalación de antena comunitaria en Chalán, Montes de María (2024).*
 
-SOLE liderado por Embajadoras, Visitas de Sintonización, Montes de María, (2024).
+![Comunidad reunida durante la visita de sintonización](../../../assets/images/insp-internetimprove-chalan-everybody.webp)
+*Visitas de Sintonización con la comunidad, Chalán, Montes de María (2024).*
 
-<img src="/assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20241022_SOLEWLH_Festivales_Vda.Alemania__(48)-800w.webp" alt="Festivales SOLE, Montes de María, (2024)." srcset="/assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20241022_SOLEWLH_Festivales_Vda.Alemania__(48)-400w.webp 400w, /assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20241022_SOLEWLH_Festivales_Vda.Alemania__(48)-800w.webp 800w, /assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20241022_SOLEWLH_Festivales_Vda.Alemania__(48)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
+![Adulto mayor participando en el proceso](../../../assets/images/insp-internetimprove-chalan-granny.webp)
+*Participación intergeneracional en el proceso de conectividad (2024).*
 
-Festivales SOLE, Montes de María, (2024).
+![Investigación comunitaria sobre conectividad 1](../../../assets/images/insp-internetimprove-chalan-investigation1.webp)
+*Exploración inicial de soluciones de conectividad comunitaria (2024).*
 
-<img src="/assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20241022_SOLEWLH_Festivales_Vda.Alemania__(32)-800w.webp" alt="Festivales SOLE, Montes de María, (2024)." srcset="/assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20241022_SOLEWLH_Festivales_Vda.Alemania__(32)-400w.webp 400w, /assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20241022_SOLEWLH_Festivales_Vda.Alemania__(32)-800w.webp 800w, /assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20241022_SOLEWLH_Festivales_Vda.Alemania__(32)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
+![Investigación comunitaria sobre conectividad 2](../../../assets/images/insp-internetimprove-chalan-investigation2.webp)
+*Evaluación colectiva del entorno y la señal disponible (2024).*
 
-Festivales SOLE, Montes de María, (2024).
+![Investigación comunitaria sobre conectividad 3](../../../assets/images/insp-internetimprove-chalan-investigation3.webp)
+*Trabajo colaborativo para definir la solución tecnológica (2024).*
 
-<img src="/assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(90)-800w.webp" alt="SOLE liderado por Embajadoras, Visitas de Sintonización, Montes de María, (2024)." srcset="/assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(90)-400w.webp 400w, /assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(90)-800w.webp 800w, /assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(90)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
-
-SOLE liderado por Embajadoras, Visitas de Sintonización, Montes de María, (2024).
-
-<img src="/assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(13)(2)-800w.webp" alt="SOLE liderado por Embajadoras, Visitas de Sintonización, Montes de María, (2024)." srcset="/assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(13)(2)-400w.webp 400w, /assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(13)(2)-800w.webp 800w, /assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(13)(2)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />(2).jpg)
-
-SOLE liderado por Embajadoras, Visitas de Sintonización, Montes de María, (2024).
-
-<img src="/assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(162)-800w.webp" alt="SOLE liderado por Embajadoras, Visitas de Sintonización, Montes de María, (2024)." srcset="/assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(162)-400w.webp 400w, /assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(162)-800w.webp 800w, /assets\images\How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111\20240710_SOLEWLH_Sintonizacin_MM_Chaln_(162)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
-
-SOLE liderado por Embajadoras, Visitas de Sintonización, Montes de María, (2024).
 
 [https://notionreactions.com/embed/I8KqUIjFVd9d9cS44gcy](https://notionreactions.com/embed/I8KqUIjFVd9d9cS44gcy)
 
