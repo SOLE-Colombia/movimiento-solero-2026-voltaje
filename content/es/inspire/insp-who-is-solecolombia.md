@@ -1,47 +1,46 @@
 ---
-title: 'SOLE Colombia: Lo que somos'
+title: SOLE Colombia: ¿Quiénes somos?
 lang: es
 slug: sole-colombia-lo-que-somos-inspiration-db
+
 categories:
-- Aprendizajes
+  - Aprendizajes
+
+tags:
+  - Aprendizajes
+
 formato:
-- Video
-fecha: 24 de octubre de 2024
-traduccion: false
+  - Video
+
+autor:
+  - Voltaje
+
+revision: "R2024"
+idioma: español
+
 aspectos:
-- señal
-- personas
-- espacio
+  - señal
+  - personas
+  - espacio
+
+fecha: "2024-10-24"
+
+draft: false
+traduccion: false
+pie: false
+reaccion: false
+widget: true
 ---
 
-# SOLE Colombia: Lo que somos
-
-Tags: Aprendizajes
-Formato: Video
-idioma: español
-pie: No
-reacción: No
-traducción: No
-widget ok: ok
-Created Date: 24 de octubre de 2024
-
-[<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
   <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/F50DtSwJ0cQ" 
+    src="https://www.youtube.com/embed/F50DtSwJ0cQ"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
-</div>](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/F50DtSwJ0cQ" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>)
+</div>
 
 En SOLE Colombia estamos creando un futuro equitativo y hermoso juntos, una Gran Pregunta a la vez.
 

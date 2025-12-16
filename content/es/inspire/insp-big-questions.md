@@ -23,12 +23,6 @@ widget ok: ok
 
 *Descarga esta solución para usarla desconectado*
 
-[Todo_comienza_con_una_Gran_Pregunta_20250825.zip](../../../Todo comienza con una Gran Pregunta 1122bd68c5b680e0899af4ea4e28ac1e/Todo_comienza_con_una_Gran_Pregunta_20250825.zip)
-
-*Download this solution to use it disconnected*
-
-[It_all_starts_with_a_Big_Question.zip](../../../Todo comienza con una Gran Pregunta 1122bd68c5b680e0899af4ea4e28ac1e/It_all_starts_with_a_Big_Question.zip)
-
 Esta es una experiencia para despertar la curiosidad de cualquier persona en el mundo que la lleve a utilizar el Internet en grupo para aprender. 
 
 Si te gusta, puedes descargar SOLE Voltaje Desconectado y llevarlo a lugares que tienen poca conectividad o ninguna. ¡Disfruta!

@@ -1,31 +1,40 @@
 ---
-title: 'Prueba # 03 SOLE Voltaje'
+title: "Prueba #03 SOLE Voltaje"
 lang: es
 slug: prueba-03-sole-voltaje-inspiration-db
+
 categories:
-- Metodología
-- Prueba
+  - Metodología
+  - Prueba
+
+tags:
+  - Metodología
+  - Prueba
+
 formato:
-- Texto
-fecha: 25 de octubre de 2024
-traduccion: false
+  - Texto
+
+autor:
+  - Zol
+  - SemiYa
+
+revision: "R2025"
+idioma: español
+
 aspectos:
-- electricidad
-- dispositivos
-- personas
+  - electricidad
+  - dispositivos
+  - personas
+
+fecha: "2024-10-25"
+
+draft: false
+traduccion: false
+pie: false
+reaccion: false
+widget: true
 ---
 
-# Prueba # 03 SOLE Voltaje
-
-Tags: Metodología, Prueba
-Formato: Texto
-Autor(es): zol semiYa
-idioma: español
-pie: No
-reacción: No
-traducción: No
-widget ok: ok
-Created Date: 25 de octubre de 2024
 
 ## Taller Tierra Común
 
