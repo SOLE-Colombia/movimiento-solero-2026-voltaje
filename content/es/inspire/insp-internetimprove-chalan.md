@@ -57,18 +57,18 @@ información.
 Escucha a Yulieth mientras cuenta su historia sobre los aprendizajes de
 conectar a la comunidad:
 
-[Yulieth Farasica, Vistas de Sintonización, Montes de María, (2024).](../../../How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111/20240710_SOLEWLH_Sintonizacin_MM_Chaln_(23).1.mp4)
+<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-chalan1.webm"></video>
+*Yulieth Farasica, Visitas de Sintonización, Montes de María (2024).*
 
-Yulieth Farasica, Vistas de Sintonización, Montes de María, (2024).
 
 Así es como Alemania ahora es un punto de encuentro para Monte Bello,
 Rancho Rojo y otras comunidades cercanas. Ahora, las personas se trasladan
 para usar esta conexión, que ha sido instalada y puesta en marcha con el
 esfuerzo de todos.
 
-[Gabriel, Vistas de Sintonización, Montes de María, (2024).](../../../How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111/20240710_SOLEWLH_Sintonizacin_MM_Chaln_(10).mp4)
+<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-chalan2.webm"></video>
+*Gabriel, Visitas de Sintonización, Montes de María (2024).*
 
-Gabriel, Vistas de Sintonización, Montes de María, (2024).
 
 ¡Ya son seis las embajadoras formadas en la metodología SOLE que han
 aprendido cómo funciona el Internet y cómo utilizar su Jangala para
