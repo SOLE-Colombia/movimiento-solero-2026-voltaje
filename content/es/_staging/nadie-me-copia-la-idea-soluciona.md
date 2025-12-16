@@ -13,7 +13,7 @@ Soluciones para convocar a tu comunidad
 
 ---
 
-[Sin título](Nadie me copia la idea 2602bd68c5b681eeb388e87058f94b75/Sin título 2602bd68c5b68162b87ffea9ebcc810f.csv)
+[Sin título](Nadie me copia la idea 1292bd68c5b681df8327c9ac5853c38b/Sin título 1292bd68c5b68163addacda1b8168356.csv)
 
 ---
 
