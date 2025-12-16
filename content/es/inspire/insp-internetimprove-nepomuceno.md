@@ -1,77 +1,80 @@
 ---
-title: ¿Cómo mejoró el internet en San Juan  Nepomuceno, Montes de María?
+title: "¿Cómo mejoró el Internet en San Juan Nepomuceno, Montes de María?"
 lang: es
 slug: como-mejoro-el-internet-en-san-juan-nepomuceno-montes-de-maria-inspiration-db
+
 categories:
-- Impacto
-- Internet
+  - Impacto
+  - Internet
+
+tags:
+  - Impacto
+  - Internet
+
+formato:
+  - Foto
+  - Texto
+  - Video
+
+autor:
+  - Manu
+
+revision: "R2025"
+idioma: español
+
+aspectos:
+  - señal
+  - personas
+
+fecha: "2025-10-11"
+
 draft: false
 traduccion: true
-aspectos:
-- señal
-- personas
-fecha: '2025-10-11'
+pie: true
+reaccion: true
+widget: true
 ---
 
-# ¿Cómo mejoró el internet en San Juan  Nepomuceno, Montes de María?
-
-Tags: Impacto, Internet
-Autor(es): Manu
-R2025: revisado
-idioma: español
-pie: Yes
-reacción: Yes
-traducción: Yes
 
 *Descarga esta Inspiración para usarla desconectado*
-
-[Como_mejoro_el_internet_en_San_Juan__Nepomuceno_Montes_de_Maria_20250829.pdf](/downloads/como-mejoro-el-internet-en-san-juan-nepomuceno-montes-de-maria-20250829.pdf)
-
-*Download this Inspiration to use it disconnected*
-
-[https://www.notion.so](https://www.notion.so)
 
 Los siguientes fragmentos son la recopilación de testimonios, imágenes y escenas sobre cómo el uso del Internet en grupo en el municipio de **San Juan Nepomuceno** está transformando el acceso a la red para comunidades vecinas, como San José del Peñón y La Haya.
 
 ### Primera Parada
 
-[Festivales SOLE, Montes de María, (2024).](../../../How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4/WhatsApp_Video_2024-10-31_at_10.58.46(1).mp4)
-
-Festivales SOLE, Montes de María, (2024).
+<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-nepomuceno/insp-internetimprove-nepomuceno1.webm"></video>
+*Festivales SOLE, Montes de María (2024).*
 
 Para llegar a San José del Peñón hay que cruzar siete ríos, cruzas los dedos para que la lluvia no vaya a jugarte una mala pasada y te asombras de la majestuosa belleza de este territorio. No es casualidad que, al llegar, un gran letrero dé la bienvenida con orgullo: *“San José del Peñón, tierra mágica, fértil y poderosa.”*
 
 La geografía de San José del Peñón, con sus montañas y densa vegetación, impide que las señales de antenas cercanas alcancen la vereda. Instalar una solución de conectividad comunitaria fue un desafío que requirió el esfuerzo de toda la comunidad. Con el apoyo y trabajo colectivo, logramos instalar, **contra todo pronóstico**, nuestro KIT Rural: una antena Yagi y un router que ahora hacen posible que la comunidad se reúna periódicamente a hacer SOLE.
 
-[Gabriel, Vistas de Sintonización, Montes de María, (2024).](../../../How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4/20240711_SOLEWLH_Sintonizacin_MM_SanJuandeNepomuceno_(14).mp4)
+<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-nepomuceno/insp-internetimprove-nepomuceno2.webm"></video>
+*Gabriel, Vistas de Sintonización, Montes de María (2024).*
 
-Gabriel, Vistas de Sintonización, Montes de María, (2024).
 
-[ Vistas de Sintonización, Montes de María, (2024).](../../../How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4/20240711_SOLEWLH_Sintonizacin_MM_SanJuandeNepomuceno_(11)(1).mp4)
-
- Vistas de Sintonización, Montes de María, (2024).
+<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-nepomuceno/insp-internetimprove-nepomuceno3.webm"></video>
+*Vistas de Sintonización, Montes de María, (2024).*
 
 **Rafael Antonio García, un cacharrero innato de su comunidad, nos cuenta en sus propias palabras cómo fue el proceso para lograr instalar la antena: ¡Sube el volumen para escuchar su relato!**
 
-[ Rafael Antonio en Vistas de Sintonización, Montes de María, (2024).](../../../How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4/20240711_SOLEWLH_Sintonizacin_MM_SanJuandeNepomuceno_(1).2_(1).mp4)
-
- Rafael Antonio en Vistas de Sintonización, Montes de María, (2024).
+<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-nepomuceno/insp-internetimprove-nepomuceno4.webm"></video>
+*Rafael Antonio en Vistas de Sintonización, Montes de María, (2024).*
 
 Para cacharrear no hace falta ser un experto, o tener experiencia en la construcción de redes, antenas o cables. Como don Rafael Antonio, tu también puedes animarte a colaborar con otros para crear un bien común. 
 
 Actualmente, la comunidad de San José del Peñón, junto a su comunidad, ha seguido haciendo SOLE por su propia cuenta, y usando el Internet en Grupo para investigar Grandes Preguntas como: *¿Por qué el agua moja?, ¿Por qué los humanos no usamos el 100% de nuestro cerebro? ¿ Por qué hay agua dulce y agua salada?, ¿Por qué los niños nacen sin dientes?*
 
-<img src="/assets\images\How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4\20240711_SOLEWLH_Sintonizacin_MM_SanJuandeNepomuceno_(25)-800w.webp" alt="SOLE liderado por Embajadoras en Visitas de Sintonización, Montes de María (2024)." srcset="/assets\images\How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4\20240711_SOLEWLH_Sintonizacin_MM_SanJuandeNepomuceno_(25)-400w.webp 400w, /assets\images\How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4\20240711_SOLEWLH_Sintonizacin_MM_SanJuandeNepomuceno_(25)-800w.webp 800w, /assets\images\How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4\20240711_SOLEWLH_Sintonizacin_MM_SanJuandeNepomuceno_(25)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
+![Actividades productivas y aprendizaje comunitario en San Juan Nepomuceno](../../../assets/images/insp-internetimprove-nepomuceno/insp-internetimprove-nepomuceno-harvest.webp)
+*SOLE liderado por Embajadoras en Festivales SOLE, Montes de María (2024).*
 
-SOLE liderado por Embajadoras en Visitas de Sintonización, Montes de María (2024).
+![Investigación comunitaria sobre conectividad en San Juan Nepomuceno](../../../assets/images/insp-internetimprove-nepomuceno/insp-internetimprove-nepomuceno-investigation1.webp)
+*SOLE liderado por Embajadoras en Festivales SOLE, Montes de María (2024).*
 
-<img src="/assets\images\How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4\20240711_SOLEWLH_Sintonizacin_MM_SanJuandeNepomuceno_(81)-800w.webp" alt="SOLE liderado por Embajadoras en Visitas de Sintonización, Montes de María (2024)." srcset="/assets\images\How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4\20240711_SOLEWLH_Sintonizacin_MM_SanJuandeNepomuceno_(81)-400w.webp 400w, /assets\images\How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4\20240711_SOLEWLH_Sintonizacin_MM_SanJuandeNepomuceno_(81)-800w.webp 800w, /assets\images\How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4\20240711_SOLEWLH_Sintonizacin_MM_SanJuandeNepomuceno_(81)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
 
-SOLE liderado por Embajadoras en Visitas de Sintonización, Montes de María (2024).
+![Análisis colectivo del acceso a Internet en la comunidad](../../../assets/images/insp-internetimprove-nepomuceno/insp-internetimprove-nepomuceno-investigation2.webp)
+*SOLE liderado por Embajadoras en Festivales SOLE, Montes de María (2024).*
 
-<img src="/assets\images\How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4\20241023_SOLEWLH_Festivales_SanJosdelPen__(20)-800w.webp" alt="SOLE liderado por Embajadoras en Festivales SOLE, Montes de María (2024)." srcset="/assets\images\How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4\20241023_SOLEWLH_Festivales_SanJosdelPen__(20)-400w.webp 400w, /assets\images\How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4\20241023_SOLEWLH_Festivales_SanJosdelPen__(20)-800w.webp 800w, /assets\images\How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4\20241023_SOLEWLH_Festivales_SanJosdelPen__(20)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
-
-SOLE liderado por Embajadoras en Festivales SOLE, Montes de María (2024).
 
 Eso no es todo, la comunidad de San José del Peñón también creó su propia página web, donde pueden subir sus productos y servicios, compartir sus tradiciones, juegos y todo lo que quieran mostrarle al mundo sobre su comunidad. ¡Échale un vistazo!
 
@@ -83,9 +86,9 @@ Desde 2023, hemos construido una relación súper cercana con la comunidad de La
 
 Sube el volumen para escuchar en sus propias palabras cómo fue esta experiencia, y cómo usar el internet en grupo ha transformado su territorio:
 
-[Mariana Fernández, Visitas de Sintonización, Montes de María, (2024).](../../../How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4/20240711_SOLEWLH_Sintonizacin_MM_SanJuandeNepomuceno_(15).2.mp4)
+<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-nepomuceno/insp-internetimprove-nepomuceno5.webm"></video>
+*Mariana Fernández, Visitas de Sintonización, Montes de María, (2024).*
 
-Mariana Fernández, Visitas de Sintonización, Montes de María, (2024).
 
 Gracias a la colaboración comunitaria y la implementación de soluciones como el KIT Rural, hoy San José del Peñón y La Haya cuentan con acceso comunitario a Internet, facilitando tanto el aprendizaje como el intercambio cultural en los Montes de María. 
 
