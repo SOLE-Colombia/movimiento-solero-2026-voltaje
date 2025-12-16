@@ -1,29 +1,37 @@
 ---
-title: 'Metodología: ¿Cómo la tecnología nos puede ayudar a tejer historias?'
+title: "¿Cómo la tecnología nos puede ayudar a tejer historias?"
 lang: es
 slug: metodologia-como-la-tecnologia-nos-puede-ayudar-a-tejer-historias-inspiration-db
+
 categories:
-- Memoria
+  - Memoria
+
+tags:
+  - Memoria
+
 formato:
-- Foto
-- Texto
-traduccion: false
-aspectos:
-- señal
-- personas
-- espacio
-fecha: '2025-10-11'
----
+  - Foto
+  - Texto
 
-# Metodología: ¿Cómo la tecnología nos puede ayudar a tejer historias?
+autor:
+  - Voltaje
 
-Tags: Memoria
-Formato: Foto, Texto
+revision: "R2025"
 idioma: español
-pie: No
-reacción: No
-traducción: No
-widget ok: ok
+
+aspectos:
+  - señal
+  - personas
+  - espacio
+
+fecha: "2025-10-11"
+
+draft: false
+traduccion: false
+pie: false
+reaccion: false
+widget: true
+---
 
 **Lugar de implementación:** Recarga tu SOLE LAB en Boca de Camarones
 
@@ -33,9 +41,8 @@ widget ok: ok
 
 Figura 1. Fotografía con las conexiones que realizaron los participantes sobre sus experiencias de vida en relación con la tecnología.
 
-[](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeYPsYVeRQHMpPAz9k1c1JbLwFOZ8AfdMYWVOMiimvppAAk_i_xxK7BpMqRDf3HWLzOUuH-vFW8LBQcnEj942HZ7diHvFkVSUlR7xVPD1yAPEWlx5-gFqWXbx7M0NiAhpouT03uR3jyrpHnzI-lZTbr700z?key=iUBNofTwoglOKqR_B32_PA)
-
-[](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeqnRgsk4yrim08UvY9eyCobecW38-22BA4rFHFRhy4O-sRMytxKPLMTmht1eZomUb0uAMvVcrYXjzpuyJmpm-uW4GAUZytHw-HUK8hJKH1-9IFh-tTf9kIyjkjGjyMp1lSm0YNkikj9wXiouGOJLw4RwMg?key=VU2XbAkoeEmeSv_28iRQwA)
+![Vida y tecnología](../../../assets/images/insp-life-and-technology/insp-life-and-technology1.webp)
+![Vida y tecnología](../../../assets/images/insp-life-and-technology/insp-life-and-technology2.webp)
 
 **Propósito:** Reconocernos mutuamente como parte del proyecto SOLE Lab a través de nuestras historias de vida en relación con la tecnología
 

@@ -1,29 +1,39 @@
 ---
-title: 'Metodología: ¿Cómo imaginar futuros en comunidad?'
+title: "¿Cómo imaginar futuros en comunidad?"
 lang: es
 slug: metodologia-como-imaginar-futuros-en-comunidad-inspiration-db
+
 categories:
-- Futuro
-- Metodología
+  - Futuro
+  - Metodología
+
+tags:
+  - Futuro
+  - Metodología
+
 formato:
-- Foto
-- Texto
-traduccion: false
+  - Foto
+  - Texto
+
+autor:
+  - Voltaje
+
+revision: "R2025"
+idioma: español
+
 aspectos:
-- dispositivos
-- personas
-fecha: '2025-10-11'
+  - dispositivos
+  - personas
+
+fecha: "2025-10-11"
+
+draft: false
+traduccion: false
+pie: false
+reaccion: false
+widget: true
 ---
 
-# Metodología: ¿Cómo imaginar futuros en comunidad?
-
-Tags: Futuro, Metodología
-Formato: Foto, Texto
-idioma: español
-pie: No
-reacción: No
-traducción: No
-widget ok: ok
 
 **Instrucciones:**
 
@@ -50,13 +60,13 @@ Pregunta orientadora: ¿Cómo hacemos lo que hacemos cuando vivimos y trabajamos
 
 Ejemplo:
 
-[](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe5jux3HSD82-3Ugf5MstkGi5v7ieNfgi9QIghyU1PVG9RJGRzUcQN1ZqZkxRtwD-l2yV8jkEe_clpPDFlEdelGwF3MLBPLcue76-zImAMxTzeWc8Qq10gpsLbj1gyX-C_A_Rw2JM0e2nEFF7IB1O2JvWSLTh_dajmENakNs3nDPK_4gPBmA5A?key=ofWF1UwutnoMXba6TqjxyQ)
+![Imaginar futuros colectivos](../../../assets/images/insp-imagine-collective-futures/insp-imagine-collective-futures1.webp)
 
 **Desarrollo del dispositivo**
 
 **Resultados Carta 3 – Verde: futuros deseables**
 
-[](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdkxkw7iJXmAcO7vTTpg8tTs4aqF72Yvy8pIuEiFdGig-l0lzrmzGZD_r-Vf03k60xhdZJg0bA2V9TFaaEeWMwej8eUbzdDGESuo6cOpw5KwxL6DnlHxg9aeg__7Xb2iCPUM79_x5qFdqVmUmvtHl2RKBxmhoIPibydwss8tmkwBoLFKPFCIw?key=ofWF1UwutnoMXba6TqjxyQ)
+![Imaginar futuros colectivos](../../../assets/images/insp-imagine-collective-futures/insp-imagine-collective-futures2.webp)
 
 - ***Para*** replicar el liderazgo y preservar la cultura
 - ***Para*** arreglar el Internet en comunidad
@@ -68,7 +78,7 @@ Ejemplo:
 
 **Carta 2 – Fucsia: Decisiones**
 
-[](https://lh7-rt.googleusercontent.com/docsz/AD_4nXehr1suqYjFQKUb2HBQWk4govA9ySCCF9blzCBl1qQD-sFEb1ygfRPhjcpiVMCJSQpYocZnAx8mklXptI1QRE3O0EqY30MYFg8Bcn_fuZWKRNuZANN4GCpc1KwOd9fNM9dPUNATJ85GuqcQSnNsphF0VKYV1RZhUSBjuySZHrOI9F7sdHPRICE?key=ofWF1UwutnoMXba6TqjxyQ)
+![Imaginar futuros colectivos](../../../assets/images/insp-imagine-collective-futures/insp-imagine-collective-futures3.webp)
 
 - ***Decido/decidimos* realizar de un SOLE Lab diferentes tipos de actividades y así interesarnos por asistir y compartir video juegos, gimnasio y artesanías.**
 - ***Decido/decidimos* brindar refrigerio y utilizar el Internet**
@@ -77,7 +87,7 @@ Ejemplo:
 
 **Carta 1- Azul: problemas o dificultades**
 
-[](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe4D88IByQtk5gkTX_cjsUzo08er2s9Y6fmFBGMTvthOhYOVILrXIyz4k2Gdht4udWsuqLYlbTlVbZBoUf_J_DnkZLXdyPXApRfC2SHKe4C18Cav2CiGQmQLR7HXLlauviy2bdfw49X13QaEE_nxLNGWHu-iAmCFNwVpM6h2g-IFIIZv3zfWnA?key=ofWF1UwutnoMXba6TqjxyQ)
+![Imaginar futuros colectivos](../../../assets/images/insp-imagine-collective-futures/insp-imagine-collective-futures4.webp)
 
 - ***En un futuro en el que* tengamos problemas económicos para sostener el espacio**
 - ***En un futuro en el que* los adultos no apoyen a los niños en su aprendizaje**
@@ -90,15 +100,11 @@ Ejemplo:
 - ***En un futuro en el que* las personas sientan pena de estar en el SOLE Lab**
 - ***En un futuro en el que* nos sintamos cansados de sostener el SOLE Lab**
 
-[](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdqUqpPvkKExrQHUvSwIo5SeF8yeWD_FjQU3fNBnZGXXblkpx1uQ7KW9Ii3Hn_6csZg88mZu0lEfsS8by9VUE4FQpRzUTS9QzUtP953eWg_FGXvnhTSWL9pNeEfXaWFO1SMcd23IPlwa5jd_qplKAWWgx7l4UCBSLZu3zQ9aFilDBLAnVUgXpQ?key=ofWF1UwutnoMXba6TqjxyQ)
-
-[](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf9ikImkU3EoNq6ZAYveMzVfmctaVpIHhJdgFlahmyAevFhY7GvsmnFLg0BqgSTJry1icYGZP6SP0-cnQFLo_qqmlU6lCVbgWKH96kw1Q4eTKY7Yh3YYAgXyGPFLkP5jXatC8dGd306Y0c365nz5ktrzUxHoZ1avgra5FZ9i5RhJk4J0bcNuQ?key=ofWF1UwutnoMXba6TqjxyQ)
-
-[](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdkxkw7iJXmAcO7vTTpg8tTs4aqF72Yvy8pIuEiFdGig-l0lzrmzGZD_r-Vf03k60xhdZJg0bA2V9TFaaEeWMwej8eUbzdDGESuo6cOpw5KwxL6DnlHxg9aeg__7Xb2iCPUM79_x5qFdqVmUmvtHl2RKBxmhoIPibydwss8tmkwBoLFKPFCIw?key=ofWF1UwutnoMXba6TqjxyQ)
-
-[](https://lh7-rt.googleusercontent.com/docsz/AD_4nXehr1suqYjFQKUb2HBQWk4govA9ySCCF9blzCBl1qQD-sFEb1ygfRPhjcpiVMCJSQpYocZnAx8mklXptI1QRE3O0EqY30MYFg8Bcn_fuZWKRNuZANN4GCpc1KwOd9fNM9dPUNATJ85GuqcQSnNsphF0VKYV1RZhUSBjuySZHrOI9F7sdHPRICE?key=ofWF1UwutnoMXba6TqjxyQ)
-
-[](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe4D88IByQtk5gkTX_cjsUzo08er2s9Y6fmFBGMTvthOhYOVILrXIyz4k2Gdht4udWsuqLYlbTlVbZBoUf_J_DnkZLXdyPXApRfC2SHKe4C18Cav2CiGQmQLR7HXLlauviy2bdfw49X13QaEE_nxLNGWHu-iAmCFNwVpM6h2g-IFIIZv3zfWnA?key=ofWF1UwutnoMXba6TqjxyQ)
+![Imaginar futuros colectivos](../../../assets/images/insp-imagine-collective-futures/insp-imagine-collective-futures5.webp)
+![Imaginar futuros colectivos](../../../assets/images/insp-imagine-collective-futures/insp-imagine-collective-futures6.webp)
+![Imaginar futuros colectivos](../../../assets/images/insp-imagine-collective-futures/insp-imagine-collective-futures7.webp)
+![Imaginar futuros colectivos](../../../assets/images/insp-imagine-collective-futures/insp-imagine-collective-futures8.webp)
+![Imaginar futuros colectivos](../../../assets/images/insp-imagine-collective-futures/insp-imagine-collective-futures9.webp)
 
 [https://notionreactions.com/embed/KeSxCiBEyRrHNird7q5L](https://notionreactions.com/embed/KeSxCiBEyRrHNird7q5L)
 
