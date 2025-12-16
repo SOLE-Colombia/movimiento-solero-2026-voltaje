@@ -1,33 +1,48 @@
 ---
-title: Trayectoria socio-técnica Comunidad de Cacharreras
+title: "Trayectoria socio-técnica · Comunidad de Cacharreras"
 lang: es
 slug: trayectoria-socio-tecnica-comunidad-de-cacharreras-inspiration-db
+
 categories:
-- Aprendizajes
-- Bitácora
-- Memoria
-traduccion: false
+  - Aprendizajes
+  - Bitácora
+  - Memoria
+
+tags:
+  - Aprendizajes
+  - Bitácora
+  - Memoria
+
+formato:
+  - Texto
+
+autor:
+  - Voltaje
+
+revision: "R2025"
+idioma: español
+
 aspectos:
-- señal
-- electricidad
-- personas
-- espacio
-fecha: '2025-10-11'
+  - señal
+  - electricidad
+  - personas
+  - espacio
+
+fecha: "2025-10-11"
+
+draft: false
+traduccion: false
+pie: false
+reaccion: false
+widget: true
 ---
 
-# Trayectoria socio-técnica Comunidad de Cacharreras
-
-Tags: Aprendizajes, Bitácora, Memoria
-idioma: español
-pie: No
-reacción: No
-traducción: No
 
 Nos propusimos crear este espacio divergente que estas explorando llamado **SOLE Voltaje: La Guía de soluciones para la conectividad.** En esta bitácora encontrarás el relato del desarrollo de multiplicidad de experimentos que diseñamos y ejecutamos con el fin de mejorar la experiencia de usuario y la interacción con nuestra comunidad de cacharreras. A continuación encuentras una bitácora organizada en macro-eventos y micro-eventos donde se despliega el relato de lo acontecido a la luz de la herramienta analítica de las “trayectorias socio-técnicas”.
 
 - Macro-eventos: Son unas fases que diseñamos para el desarrollo y puesta en marcha de SOLE Voltaje. Se pueden ver en el siguiente esquema:
 
-<img src="/assets\images\Trayectoria socio-técnica Comunidad de Cacharreras 8ef1e514da844382a8f32833728559b6\20240313_SOLEBOLT_DiseoExperiencia_SOLELab_(1)-800w.webp" alt="20240313_SOLE+BOLT_DiseñoExperiencia_SOLELab (1).jpg" srcset="/assets\images\Trayectoria socio-técnica Comunidad de Cacharreras 8ef1e514da844382a8f32833728559b6\20240313_SOLEBOLT_DiseoExperiencia_SOLELab_(1)-400w.webp 400w, /assets\images\Trayectoria socio-técnica Comunidad de Cacharreras 8ef1e514da844382a8f32833728559b6\20240313_SOLEBOLT_DiseoExperiencia_SOLELab_(1)-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
+![Trayectoria socio-técnica de la Comunidad de Cacharreras](../../../assets/images/insp-sociotech-cacharreras/nsp-sociotech-cacharreras-canvas.webp)
 
 - Micro-eventos: Son los acontecimientos significativos particulares que suceden en cada una de las trayectorias.
 - Trayectoria socio-técnica: Una trayectoria socio-técnica es un proceso de co-construcción de productos, procesos productivos y organizacionales, instituciones, relaciones usuario-productor, procesos de aprendizaje, relaciones problema-solución, procesos de construcción de funcionamiento/no funcionamiento de una tecnología, racionalidades, políticas y estrategias determinadas. Para entender más sobre el análisis socio-técnico puedes ir nuestro [conceptorio](https://www.notion.so/1992bd68c5b680a9a298f368c4d7d5d4?pvs=21).
@@ -38,7 +53,6 @@ Enunciando tres grandes controversias de interés de esta trayectoria tenemos:
 - La evolución de las pruebas de usuario mostraron un entendimiento más amplio de la misma que la permite configurar en si misma cómo un despliegue de Voltaje en el que la observación y el análisis son centrales. Es decir, parece que la manera más adecuada de desplegar Voltaje es mediante una prueba de usuario, porque la novedad misma de esta guía hace que nuestro entendimiento de la apropiación sea aun muy corto y particularizado. Sino seguimos en ese ejercicio de praxis y reflexión será muy difícil lograr la apropiación de la misma.
 - Se construyeron dos líneas retóricas y materiales que aún no sincronizamos, por un lado la de SOLElab como la Biblioteca del Futuro y, por el otro lado, la de Voltaje: La guías de soluciones, por las maneras en las que nos acercamos a la ejecución y por la complejidad misma de ambos procesos, solamente logramos articular puntos de unión muy concretos que no lograron una integración adecuada.  Aunque esto quedó así a la fecha de realización de esta trayectoria no es muy claro si la integración de las dos líneas sea lo más adecuado para permitir el entendimiento de la apropiación de un espacio virtual y del otro espacio físico.
 
-[Sin título](Trayectoria socio-técnica Comunidad de Cacharreras 2602bd68c5b681548513f9e295be795c/Sin título 2602bd68c5b681ed81b1c27c059f6501.csv)
 
 [https://notionreactions.com/embed/EkOiRkBMYFalz3Na52Up](https://notionreactions.com/embed/EkOiRkBMYFalz3Na52Up)
 

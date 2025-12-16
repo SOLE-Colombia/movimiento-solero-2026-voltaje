@@ -1,5 +1,5 @@
 ---
-title: SOLE Colombia: ¿Quiénes somos?
+title: "SOLE Colombia: ¿Quiénes somos?"
 lang: es
 slug: sole-colombia-lo-que-somos-inspiration-db
 

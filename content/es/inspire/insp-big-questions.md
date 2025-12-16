@@ -1,25 +1,38 @@
 ---
-title: Todo comienza con una Gran Pregunta
+title: "Todo comienza con una Gran Pregunta"
 lang: es
 slug: todo-comienza-con-una-gran-pregunta-inspiration-db
+
+categories:
+  - Aprendizajes
+
+tags:
+  - Aprendizajes
+
+formato:
+  - Texto
+
+autor:
+  - Voltaje
+
+revision: "R2025"
+idioma: español
+
+aspectos:
+  - señal
+  - electricidad
+  - personas
+  - espacio
+
+fecha: "2025-10-11"
+
 draft: false
 traduccion: true
-aspectos:
-- señal
-- electricidad
-- personas
-- espacio
-fecha: '2025-10-11'
+pie: true
+reaccion: true
+widget: true
 ---
 
-# Todo comienza con una Gran Pregunta
-
-R2025: revisado
-idioma: español
-pie: Yes
-reacción: Yes
-traducción: Yes
-widget ok: ok
 
 *Descarga esta solución para usarla desconectado*
 
@@ -27,15 +40,11 @@ Esta es una experiencia para despertar la curiosidad de cualquier persona en el 
 
 Si te gusta, puedes descargar SOLE Voltaje Desconectado y llevarlo a lugares que tienen poca conectividad o ninguna. ¡Disfruta!
 
-### Recarga la página y aquí verás tu pregunta con la de muchos otros curiosos.
-
-[New form](Todo comienza con una Gran Pregunta 2602bd68c5b681e1a489fbd772e2cd84/New form 2602bd68c5b68134bcffe60f342b826c.csv)
-
 ## Y entonces, ¿cómo puedo saber algo que no sé?
 
 Te vamos a contar una pequeña historia sobre **¿cómo aprendemos?**
 
-[Tomado de SOLE Colombia (2019) *Una conversación con [Sugata Mitra](https://es.wikipedia.org/wiki/Sugata_Mitra)*](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
     src="https://www.youtube.com/embed/AAWEB6Vr50g" 
@@ -43,9 +52,8 @@ Te vamos a contar una pequeña historia sobre **¿cómo aprendemos?**
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
-</div>)
-
-Tomado de SOLE Colombia (2019) *Una conversación con [Sugata Mitra](https://es.wikipedia.org/wiki/Sugata_Mitra)*
+</div>
+Fuente: SOLE Colombia (2019). Una conversación con Sugata Mitra https://es.wikipedia.org/wiki/Sugata_Mitra
 
 - **Lee la transcripción**
     
