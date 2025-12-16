@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "es-ES", // Español de Colombia
     baseUrl: "voltaje.solecolombia.org",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "_staging"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -100,7 +100,7 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      Plugin.CustomOgImages(),
+      ...(process.env.QUARTZ_DEV === "1" ? [] : [Plugin.CustomOgImages()]),
     ],
   },
 }

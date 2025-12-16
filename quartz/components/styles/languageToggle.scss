@@ -1,0 +1,73 @@
+@use "../../styles/variables.scss" as *;
+
+.lang-toggle {
+  position: relative;
+  display: inline-flex;
+}
+
+.lang-summary {
+  list-style: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.25rem 0.6rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--light) 85%, var(--secondary) 15%);
+  color: var(--dark);
+  cursor: pointer;
+  font-family: var(--headerFont);
+  font-weight: $semiBoldWeight;
+  font-size: 0.85rem;
+  line-height: 1.2;
+  user-select: none;
+}
+
+.lang-summary::-webkit-details-marker {
+  display: none;
+}
+
+.lang-menu {
+  display: none;
+  position: absolute;
+  top: calc(100% + 0.4rem);
+  left: 0;
+  min-width: 9rem;
+  padding: 0.35rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 12px;
+  background-color: var(--light);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.18);
+  z-index: 200;
+}
+
+.lang-toggle[open] .lang-menu {
+  display: grid;
+  gap: 0.25rem;
+}
+
+.lang-option {
+  appearance: none;
+  border: none;
+  background: transparent;
+  color: var(--dark);
+  cursor: pointer;
+  padding: 0.45rem 0.6rem;
+  border-radius: 10px;
+  text-align: left;
+  font-family: var(--headerFont);
+  font-weight: $semiBoldWeight;
+  font-size: 0.9rem;
+  line-height: 1.2;
+}
+
+.lang-option.is-active {
+  background-color: var(--highlight);
+}
+
+.lang-option:disabled {
+  opacity: 0.55;
+  cursor: default;
+}
+
+

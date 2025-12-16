@@ -41,19 +41,19 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
+        { Component: Component.LanguageToggle() },
         { Component: Component.Darkmode() },
         { Component: Component.DownloadButton() },
         { Component: Component.ReaderMode() },
       ],
     }),
+    Component.Search(),
     Component.Explorer({
       filterFn: (node) => {
         // Excluir la carpeta "tags"
         if (node.slugSegment === "tags") return false
+        // Excluir borradores / staging
+        if (node.slugSegment === "_staging") return false
         return true
       },
       mapFn: (node) => {
@@ -131,18 +131,18 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
+        { Component: Component.LanguageToggle() },
         { Component: Component.Darkmode() },
         { Component: Component.DownloadButton() },
       ],
     }),
+    Component.Search(),
     Component.Explorer({
       filterFn: (node) => {
         // Excluir la carpeta "tags"
         if (node.slugSegment === "tags") return false
+        // Excluir borradores / staging
+        if (node.slugSegment === "_staging") return false
         return true
       },
       mapFn: (node) => {
