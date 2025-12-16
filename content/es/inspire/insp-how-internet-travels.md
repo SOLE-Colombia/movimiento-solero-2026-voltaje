@@ -1,30 +1,36 @@
 ---
-title: ¿Te has preguntado cómo llega el Internet, la luz o la señal móvil a ti?
+title: "¿Te has preguntado cómo llega el Internet, la luz o la señal móvil a ti?"
 lang: es
 slug: te-has-preguntado-como-llega-el-internet-la-luz-o-la-senal-movil-a-ti-inspiration-db
+
 categories:
-- Pregunta Provocadora
+  - Pregunta Provocadora
+
+tags:
+  - Pregunta Provocadora
+
 formato:
-- Texto
-fecha: 23 de octubre de 2024
-traduccion: false
-aspectos:
-- señal
-- electricidad
-- personas
----
+  - Texto
 
-# ¿Te has preguntado cómo llega el Internet, la luz o la señal móvil a ti?
+autor:
+  - Sanjay
 
-Tags: Pregunta Provocadora
-Formato: Texto
-Autor(es): Sanjay
+revision: "R2025"
 idioma: español
-pie: No
-reacción: No
-traducción: No
-widget ok: ok
-Created Date: 23 de octubre de 2024
+
+aspectos:
+  - señal
+  - electricidad
+  - personas
+
+fecha: "2024-10-23"
+
+draft: false
+traduccion: false
+pie: false
+reaccion: false
+widget: true
+---
 
 Todos los días revisamos mensajes en nuestros celulares, prendemos una luz o recibimos una llamada telefónica. 
 
