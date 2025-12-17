@@ -73,6 +73,21 @@ esfuerzo de todos.
 
 [Gabriel, Vistas de Sintonización, Montes de María, (2024).](../../../How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111/20240710_SOLEWLH_Sintonizacin_MM_Chaln_(10).mp4)
 
+
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/1kI6AR2gMTE?si=g8-iokIz0UsSZ9gp" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+
 Gabriel, Vistas de Sintonización, Montes de María, (2024).
 
 ¡Ya son seis las embajadoras formadas en la metodología SOLE que han

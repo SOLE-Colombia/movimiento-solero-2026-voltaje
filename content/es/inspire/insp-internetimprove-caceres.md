@@ -51,17 +51,51 @@ Pero esto no los desanimó. Al contrario, se pusieron manos a la obra. Evaluaron
 
 Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).
 
-[Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).](../../../How did the Internet improved in Cáceres, Antioqui 2602bd68c5b68058aac3cb67800ab59f/20240627_SOLEWLH_Sintonizacin_Antioquia_AltosdelTigre_(25).2.mp4)
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/im4zjtecU9I?si=TWHD9I7gojUUIPu4"
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
 
 Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).
 
 Así, gracias al Jangala y al esfuerzo de los Embajadores SOLE, y de todas las personas de la comunidad que se unieron para lograr instalar esta solución, Cáceres ahora cuenta con Internet en un punto de acceso comunitario. 
 
-[Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).](../../../How did the Internet improved in Cáceres, Antioqui 2602bd68c5b68058aac3cb67800ab59f/20240627_SOLEWLH_Sintonizacin_Antioquia_AltosdelTigre_(62).mp4)
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/d83Py5QEgDs?si=fJdMHxDn--f15hR4" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
 
 Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).
 
-[Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).](../../../How did the Internet improved in Cáceres, Antioqui 2602bd68c5b68058aac3cb67800ab59f/20240627_SOLEWLH_Sintonizacin_Antioquia_AltosdelTigre_(52).mp4)
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/dgvFpUhsfjw?si=Iqltpzy60H62VX1B"
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
 
 Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).
 
@@ -70,6 +104,20 @@ Y para muchos, este logro significa mucho más que “tener conexión”: es una
 Escucha lo que tiene por decir uno de los vecinos cacharreros, que se animó a poner la antena del Jangala con todo el parche SOLEro:
 
 [Arnulfo, Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).](../../../How did the Internet improved in Cáceres, Antioqui 2602bd68c5b68058aac3cb67800ab59f/20240627_SOLEWLH_Sintonizacin_Antioquia_AltosdelTigre_(105).5.mp4)
+
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/1udzbfKgNVE?si=wNV0qIZAgcpMlj-i"
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
 
 Arnulfo, Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).
 

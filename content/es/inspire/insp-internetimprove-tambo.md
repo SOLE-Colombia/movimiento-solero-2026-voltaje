@@ -130,7 +130,6 @@ Ahora la comunidad de El Tambo puede comunicarse y crear vínculos con otras com
 
 
 
-
 Enchufa Tu SOLE Lab en el Tambo, Cauca, (2024).
 
 Mira algunas de las actividades que ha impulsado en este espacio la comunidad:
