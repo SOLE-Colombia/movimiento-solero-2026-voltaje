@@ -50,7 +50,19 @@ información.
 Escucha a Yulieth mientras cuenta su historia sobre los aprendizajes de
 conectar a la comunidad:
 
-[Yulieth Farasica, Vistas de Sintonización, Montes de María, (2024).](../../../How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111/20240710_SOLEWLH_Sintonizacin_MM_Chaln_(23).1.mp4)
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/Mze30kwUtp0?si=tX-Chw-U3VM4Fq5c" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+
 
 Yulieth Farasica, Vistas de Sintonización, Montes de María, (2024).
 

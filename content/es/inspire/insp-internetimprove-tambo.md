@@ -68,23 +68,48 @@ Así lo describe una de las vecinas del SOLE Lab en el Barrio Obrero:
 
 [Enchufa Tu SOLE Lab en el Tambo, Cauca, (2024).](../../../¿Cómo mejoró el Internet en El Tambo, Cauca 1362bd68c5b6802a8df0f2c8fd47097f/20240801_SOLEBOLT_SOLELAB_Enchufa_ElTambo__(27).5.mp4)
 
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/kuiF8EUP9fE?si=jojL3HwdndidCHrM"
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+
 Enchufa Tu SOLE Lab en el Tambo, Cauca, (2024).
 
-[Enchufa Tu SOLE Lab en el Tambo, Cauca, (2024).](../../../¿Cómo mejoró el Internet en El Tambo, Cauca 1362bd68c5b6802a8df0f2c8fd47097f/20240801_SOLEBOLT_SOLELAB_Enchufa_ElTambo__(27).3.mp4)
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/MpZokrLn9ng?si=c4n6RYWkFTCoOpTA"
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+
 
 Enchufa Tu SOLE Lab en el Tambo, Cauca, (2024).
 
 El SOLE Lab no es una biblioteca común. Es un punto de encuentro donde niños, jóvenes y adultos exploran, crean, sueñan y aprenden juntos. Con acceso a Internet comunitario y espacios de colaboración, el SOLE Lab invita a la comunidad a convertir ideas en acciones, a tomar decisiones colectivas, a disfrutar del aprendizaje autoorganizado en grupo y, por qué no, hasta ver películas.
 
-[Enchufa Tu SOLE Lab en el Tambo, Cauca, (2024).](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
     src="https://www.youtube.com/embed/h_lJyECBVug" 
+    title="Enchufa Tu SOLE Lab en el Tambo, Cauca (2024)"
     frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
     allowfullscreen>
   </iframe>
-</div>&t=1s)
 
 Enchufa Tu SOLE Lab en el Tambo, Cauca, (2024).
 
@@ -92,7 +117,19 @@ Gracias al SOLE Lab, la conexión a Internet en El Tambo mejoró significativame
 
 Ahora la comunidad de El Tambo puede comunicarse y crear vínculos con otras comunidades SOLE Laberas y personas en todo el mundo. Con cada conexión, se construyen puentes de colaboración que fortalecen el sentido de pertenencia y el aprendizaje colectivo, cada participante de la Biblioteca del futuro forma parte de una red global de aprendizaje y transformación.
 
-[Enchufa Tu SOLE Lab en el Tambo, Cauca, (2024).](../../../¿Cómo mejoró el Internet en El Tambo, Cauca 1362bd68c5b6802a8df0f2c8fd47097f/20240801_SOLEBOLT_SOLELAB_Enchufa_ElTambo__(46).mp4)
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/N2HxtuwkTLk?si=Hl3GaN1zUt4EQRdK"
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+
 
 Enchufa Tu SOLE Lab en el Tambo, Cauca, (2024).
 

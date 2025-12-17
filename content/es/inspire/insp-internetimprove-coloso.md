@@ -42,7 +42,20 @@ La Estación y el Cabildo Indígena La Esmeralda están a solo 15 minutos en mot
 
 Nadie mejor que **Mónica Vega**, una de las Embajadoras estrella de La Estación, para compartir la historia de cómo estas comunidades están transformando su acceso a la información, conexión y a la educación. ¿Estás listo para escucharla? ¡No olvides subir el volumen!
 
-[Mónica Vega, en Visitas de Sintonización, Montes de María, (2024).](../../../¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867/20240709_SOLEWLH_Sintonizacin_MM_Colos_(35).mp4)
+
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/r8OSAMx3muY?si=gjD4nHULd8z_UkJC" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
 
 Mónica Vega, en Visitas de Sintonización, Montes de María, (2024).
 
@@ -50,7 +63,20 @@ Mónica Vega, en Visitas de Sintonización, Montes de María, (2024).
 
 A pesar de que el **Jangala** no era la solución adecuada para esta comunidad. Mónica y Gabriel, como los excelentes "cacharreros" que son, se pusieron manos a la obra y nada los detuvo. Juntos exploramos otras opciones de conectividad, y finalmente instalamos una antena omnidireccional y un router, con la ayuda de Mónica. Ahora, las Embajadoras de La Esmeralda están empoderando a sus vecinos a usar el Internet en grupo.
 
-[Gabriel, en Visitas de Sintonización, Montes de María, (2024).](../../../¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867/20240709_SOLEWLH_Sintonizacin_MM_Colos_(9).mp4)
+
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/8TQMVDFO88w?si=_k1xDqT8uAMunDn6"
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
 
 Gabriel, en Visitas de Sintonización, Montes de María, (2024).
 
