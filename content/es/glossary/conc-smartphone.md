@@ -9,6 +9,7 @@ fecha: '2025-07-09'
 autor: Belen Sevilla Morillo
 tags:
   - Dispositivos
+author: Belén
 ---
 
 Un teléfono móvil, también conocido como celular, es un **dispositivo electrónico portátil que permite realizar y recibir llamadas telefónicas a través de una conexión inalámbrica, utilizando una red de comunicaciones móviles**. 

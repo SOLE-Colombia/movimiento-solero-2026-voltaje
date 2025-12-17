@@ -8,6 +8,7 @@ fecha: '2025-7-22'
 tags:
   - Funcionamiento del computador
   - Términos del mundo virtual
+author: Belén
 ---
 
 

@@ -10,6 +10,7 @@ fecha: '2025-7-22'
 tags:
   - Funcionamiento del computador
   - Redes y conexiones
+author: Belén
 ---
 
 **Hostapd** (host access point daemon) **es un demonio de espacio de usuario que permite que una tarjeta de interfaz de red (NIC) funcione como un punto de acceso inalámbrico (AP) y un servidor de autenticación**. 

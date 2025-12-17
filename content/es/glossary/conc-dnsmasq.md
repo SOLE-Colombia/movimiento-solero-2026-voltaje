@@ -9,6 +9,7 @@ autor: Belen Sevilla Morillo
 tags:
   - Redes y conexiones
   - Funcionamiento del computador
+author: Belén
 ---
 
 ## Español

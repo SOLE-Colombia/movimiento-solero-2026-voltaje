@@ -10,6 +10,7 @@ autor: Belen Sevilla Morillo
 tags:
   - Programas y aplicaciones
   - Redes y conexiones
+author: Belén
 ---
 
 El programa ping **es una herramienta de diagnóstico de redes utilizada para verificar la conectividad y la latencia entre dos dispositivos**. 

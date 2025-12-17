@@ -9,6 +9,7 @@ autor: Belen Sevilla Morillo
 tags:
   - Almacenamiento
   - Funcionamiento del computador
+author: Belén
 ---
 
 

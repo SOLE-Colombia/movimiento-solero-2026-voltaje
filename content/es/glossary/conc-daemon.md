@@ -9,6 +9,7 @@ autor: Belen Sevilla Morillo
 tags:
   - Funcionamiento del computador
   - Términos del mundo virtual
+author: Belén
 ---
 
 Un **servicio**, **programa residente** o **demonio** (en inglés, *daemon*) es un tipo especial de programa que se ejecuta en segundo plano, en vez de ser controlado directamente por el usuario. Este tipo de programas continúa en el sistema, es decir, que puede ejecutarse de forma persistente o reiniciarse si se intenta «matar» el proceso dependiendo de la configuración del demonio y de las políticas del sistema. El uso de este nombre viene del retroacrónimo *Daemon* (*Disk And Execution Monitor*).

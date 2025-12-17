@@ -8,6 +8,7 @@ fecha: '2025-07-17'
 autor: Belen Sevilla Morillo
 tags:
   - Funcionamiento del computador
+author: Belén
 ---
 
 
