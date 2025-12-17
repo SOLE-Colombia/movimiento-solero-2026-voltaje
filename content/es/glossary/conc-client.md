@@ -5,6 +5,10 @@ slug: cliente-client-conceptorio
 aspectos:
 - dispositivos
 fecha: '2025-07-22'
+tags:
+  - Funcionamiento del computador
+  - Redes y conexiones
+  - Términos del mundo virtual
 ---
 
 

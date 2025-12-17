@@ -8,6 +8,8 @@ aspectos:
 - personas
 - espacio
 fecha: '2025-02-24'
+tags:
+  - Redes y conexiones
 ---
 
 

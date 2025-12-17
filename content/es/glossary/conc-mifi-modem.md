@@ -7,6 +7,9 @@ aspectos:
 - dispositivos
 fecha: '2025-07-29'
 autor: Belen Sevilla Morillo
+tags:
+  - Dispositivos
+  - Redes y conexiones
 ---
 
 

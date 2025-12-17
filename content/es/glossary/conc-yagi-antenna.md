@@ -5,6 +5,9 @@ slug: antena-tipo-yagi-yagi-antenna-conceptorio
 aspectos:
 - señal
 fecha: '2025-9-11'
+tags:
+  - Dispositivos
+  - Redes y conexiones
 ---
 
 

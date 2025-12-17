@@ -6,6 +6,9 @@ aspectos:
 - electricidad
 - dispositivos
 fecha: '2025-02-24'
+tags:
+  - Dispositivos
+  - Funcionamiento del computador
 ---
 
 

@@ -7,6 +7,9 @@ aspectos:
 - personas
 - espacio
 fecha: '2025-70-17'
+tags:
+  - Términos del mundo virtual
+  - Seguridad e identificación
 ---
 
 

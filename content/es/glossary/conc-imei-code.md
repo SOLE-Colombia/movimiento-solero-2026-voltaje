@@ -7,6 +7,9 @@ aspectos:
 - dispositivos
 fecha: '2025-07-30'
 autor: Belen Sevilla Morillo
+tags:
+  - Seguridad e identificación
+  - Términos del mundo virtual
 ---
 
 

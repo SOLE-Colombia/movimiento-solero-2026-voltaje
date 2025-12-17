@@ -7,6 +7,8 @@ aspectos:
 - electricidad
 - dispositivos
 fecha: '2024-2-15'
+tags:
+  - Redes y conexiones
 ---
 
 

@@ -5,6 +5,9 @@ slug: 'latencia-latency-conceptorio'
 aspectos:
 - señal
 fecha: '2024-02-29'
+tags:
+  - Redes y conexiones
+  - Términos del mundo virtual
 ---
 
 La latencia es el tiempo exacto que tarda un paquete de datos en ser transmitido por una red. 

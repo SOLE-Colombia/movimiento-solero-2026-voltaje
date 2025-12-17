@@ -6,6 +6,8 @@ aspectos:
 - señal
 - dispositivos
 fecha: '2025-07-09'
+tags:
+  - Redes y conexiones
 ---
 
 

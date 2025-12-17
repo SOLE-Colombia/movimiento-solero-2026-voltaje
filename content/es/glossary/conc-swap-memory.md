@@ -6,6 +6,9 @@ aspectos:
 - espacio
 fecha: '2025-07-17'
 autor: Belen Sevilla Morillo
+tags:
+  - Almacenamiento
+  - Funcionamiento del computador
 ---
 
 

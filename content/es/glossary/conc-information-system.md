@@ -7,6 +7,8 @@ aspectos:
 - espacio
 fecha: '2025-07-22'
 autor: Belen Sevilla Morillo
+tags:
+  - Funcionamiento del computador
 ---
 
 

@@ -6,6 +6,8 @@ aspectos:
 - dispositivos
 fecha: '2025-07-15'
 autor: Belen Sevilla Morillo
+tags:
+  - Almacenamiento
 ---
 
 

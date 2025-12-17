@@ -6,6 +6,8 @@ aspectos:
 - general
 fecha: '2025-07-17'
 autor: Belen Sevilla Morillo
+tags:
+  - Seguridad e identificación
 ---
 
 

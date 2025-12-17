@@ -7,6 +7,9 @@ aspectos:
 - dispositivos
 - personas
 fecha: '2025-07-17'
+tags:
+  - Seguridad e identificación
+  - Redes y conexiones
 ---
 
 

@@ -6,6 +6,9 @@ aspectos:
 - general
 fecha: '2025-07-22'
 autor: Belen Sevilla Morillo
+tags:
+  - Redes y conexiones
+  - Funcionamiento del computador
 ---
 
 ## Español

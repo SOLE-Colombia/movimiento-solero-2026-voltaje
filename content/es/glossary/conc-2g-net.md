@@ -5,6 +5,8 @@ slug: red-2g-2g-net-conceptorio
 aspectos:
 - señal
 fecha: '2025-08-25'
+tags:
+  - Redes y conexiones
 ---
 
 

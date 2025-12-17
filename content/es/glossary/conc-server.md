@@ -6,6 +6,9 @@ aspectos:
 - dispositivos
 fecha: '2025-07-10'
 autor: Belen Sevilla Morillo
+tags:
+  - Funcionamiento del computador
+  - Redes y conexiones
 ---
 
 

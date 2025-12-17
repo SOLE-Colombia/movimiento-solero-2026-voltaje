@@ -7,6 +7,9 @@ aspectos:
 - dispositivos
 fecha: '2025-07-09'
 autor: Belen Sevilla Morillo
+tags:
+  - Dispositivos
+  - Seguridad e identificación
 ---
 
 

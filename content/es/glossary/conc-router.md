@@ -7,6 +7,9 @@ aspectos:
 - dispositivos
 - espacio
 fecha: '2025-2-24'
+tags:
+  - Dispositivos
+  - Redes y conexiones
 ---
 
 

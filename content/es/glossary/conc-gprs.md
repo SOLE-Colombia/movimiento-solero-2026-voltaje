@@ -7,6 +7,9 @@ aspectos:
 - señal
 - espacio
 fecha: '2025-8-25'
+tags:
+  - Redes y conexiones
+  - Términos del mundo virtual
 ---
 
 
