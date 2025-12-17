@@ -18,9 +18,23 @@ Etiquetas: Cacharrear, Tarjeta
 
 **Diagnóstico de señal móvil**
 
+<div style="width:100%;max-width:800px;margin:20px auto;">
+  <iframe
+    src="https://fast.com/es/"
+    width="100%"
+    height="400"
+    style="border:none;overflow:hidden;border-radius:16px;"
+    title="Prueba de velocidad en fast.com"
+    allowfullscreen
+    loading="lazy"
+  ></iframe>
+  <p style="text-align:left;font-size:0.95em;margin-top:8px;">Haz la prueba de velocidad directamente aquí para saber la velocidad de tu señal móvil.</p>
+</div>
+
+
 **Paso 1: Toma tu celular y revisa si tienes señal móvil**
 
-> *Para saber si tienes señal móvil puedes leer la tarjeta **Transformarte en ondas para viajar por el mundo***
+> *Para saber si tienes señal móvil puedes leer la tarjeta **[Transformarte en ondas para viajar por el mundo](/es/solve/solv-internet-speedtest)***
 > 
 
 **Paso 2: ¿Qué tipo de conexión móvil tienes?** 
