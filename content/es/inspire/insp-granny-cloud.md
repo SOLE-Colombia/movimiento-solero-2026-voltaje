@@ -1,38 +1,37 @@
 ---
-title: 'La Nube de Abuelitas: cómo cambiar el mundo desde tu casa'
+title: "¿Cómo cambiar el mundo desde tu casa? Conoce la Nube de Abuelitas"
 lang: es
 slug: la-nube-de-abuelitas-como-cambiar-el-mundo-desde-tu-casa-inspiration-db
+
 categories:
-- Metodología
+  - Metodología
+
+tags:
+  - Metodología
+
 formato:
-- Texto
-fecha: 25 de octubre de 2024
+  - Texto
+
+autor:
+  - Bel
+
+revision: "R2025"
+idioma: español
+
+aspectos:
+  - personas
+
+fecha: "2024-10-25"
+
 draft: false
 traduccion: true
-aspectos:
-- personas
+pie: false
+reaccion: true
+widget: true
 ---
 
-# La Nube de Abuelitas: cómo cambiar el mundo desde tu casa
-
-Tags: Metodología
-Formato: Texto
-Autor(es): Bel
-R2025: revisado
-idioma: español
-pie: No
-reacción: Yes
-traducción: Yes
-widget ok: ok
-Created Date: 25 de octubre de 2024
 
 *Descarga esta Inspiración para usarla desconectado*
-
-[La_Nube_de_Abuelitas_cmo_cambiar_el_mundo_desde_tu_casa_20250829.pdf](/downloads/la-nube-de-abuelitas-cmo-cambiar-el-mundo-desde-tu-casa-20250829.pdf)
-
-*Download this Inspiration to use it disconnected*
-
-[La_Nube_de_Abuelitas_how_to_change_the_world_from_your_home_20250829.pdf](/downloads/la-nube-de-abuelitas-how-to-change-the-world-from-your-home-20250829.pdf)
 
 ## ¿qué es La Nube de Abuelitas?
 

@@ -1,48 +1,48 @@
 ---
-title: Animamos a otros a construir su antena 3G casera
+title: La fantástica historia de cómo Nico construyó su manera de tener internet.
 lang: es
-slug: animamos-a-otros-a-construir-su-antena-3g-casera-inspiration-db
+slug: te-has-preguntado-como-mejorar-tu-conexion-a-internet-inspiration-db
+
 categories:
-- Internet
-- Soluciones
+  - Internet
+  - Soluciones
+
+tags:
+  - Internet
+  - Soluciones
+
 formato:
-- Video
-fecha: 23 de octubre de 2024
-traduccion: false
-aspectos:
-- señal
-- electricidad
-- personas
----
+  - Video
+  - Texto
 
-# Animamos a otros a construir su antena 3G casera
+autor:
+  - Manu
 
-Tags: Internet, Soluciones
-Formato: Video
+revision: "R2025"
 idioma: español
-pie: No
-reacción: No
-traducción: No
-widget ok: ok
-Created Date: 23 de octubre de 2024
 
-[<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+aspectos:
+  - señal
+  - dispositivos
+
+fecha: "2024-10-23"
+
+draft: false
+traduccion: false
+pie: false
+reaccion: false
+widget: true
+---
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
   <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
     src="https://www.youtube.com/embed/bxdVpI6nOVc" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
-</div>](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/bxdVpI6nOVc" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>)
+</div>
+
 
 ¿Te has preguntado cómo mejorar tu conexión a Internet? 🤔💻 ¿Suele dañarse tu Internet y te gustaría saber lo necesario para solucionarlo por tu cuenta?  
 

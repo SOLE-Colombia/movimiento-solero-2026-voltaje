@@ -1,35 +1,39 @@
 ---
-title: '¿Qué es el Internet?: Una cobija de solidaridad'
+title: "¿Qué es el Internet?"
 lang: es
 slug: que-es-el-internet-una-cobija-de-solidaridad-inspiration-db
+
 categories:
-- Internet
+  - Internet
+
+tags:
+  - Internet
+
 formato:
-- Texto
+  - Texto
+
+autor:
+  - Sanjay
+
+revision: "R2025"
+idioma: español
+
+aspectos:
+  - señal
+  - dispositivos
+  - espacio
+
+fecha: "2025-10-11"
+
 draft: false
 traduccion: true
-aspectos:
-- señal
-- dispositivos
-- espacio
-fecha: '2025-10-11'
+pie: true
+reaccion: true
+widget: true
 ---
 
-# ¿Qué es el Internet?: Una cobija de solidaridad
-
-Tags: Internet
-Formato: Texto
-Autor(es): Sanjay
-R2025: revisado
-idioma: español
-pie: Yes
-reacción: Yes
-traducción: Yes
-widget ok: ok
 
 *Descarga esta Inspiración para usarla desconectado*
-
-*Download this Inspiration to use it disconnected*
 
 Cuando piensas en el Internet, ¿qué es lo primero que se te viene a la cabeza? 
 

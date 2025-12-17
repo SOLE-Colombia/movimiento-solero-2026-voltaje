@@ -13,7 +13,7 @@ Soluciones cuando tu servicio de electricidad es intermitente
 
 ---
 
-[Sin título](La luz se va a cada rato 2602bd68c5b6814ea860d03162d21a2a/Sin título 2602bd68c5b6818d9b61e7cecb4b381d.csv)
+[Sin título](La luz se va a cada rato 1292bd68c5b681b2bd56eb0c9cd34037/Sin título 1292bd68c5b681b58126d47ea7e3ad0d.csv)
 
 ---
 

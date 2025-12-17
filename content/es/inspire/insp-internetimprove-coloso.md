@@ -1,42 +1,43 @@
 ---
-title: ¿Cómo mejoró el Internet en Colosó, Montes de María?
+title: "¿Cómo mejoró el Internet en Colosó, Montes de María?"
 lang: es
 slug: como-mejoro-el-internet-en-coloso-montes-de-maria-inspiration-db
+
 categories:
-- Impacto
-- Internet
+  - Impacto
+  - Internet
+
+tags:
+  - Impacto
+  - Internet
+
 formato:
-- Foto
-- Texto
-- Video
+  - Foto
+  - Texto
+  - Video
+
+autor:
+  - Manu
+
+revision: "R2025"
+idioma: español
+
+aspectos:
+  - señal
+  - personas
+  - espacio
+
+fecha: "2025-10-11"
+
 draft: false
 traduccion: true
-aspectos:
-- señal
-- personas
-- espacio
-fecha: '2025-10-11'
+pie: true
+reaccion: true
+widget: true
 ---
 
-# ¿Cómo mejoró el Internet en Colosó, Montes de María?
-
-Tags: Impacto, Internet
-Formato: Foto, Texto, Video
-Autor(es): Manu
-R2025: revisado
-idioma: español
-pie: Yes
-reacción: Yes
-traducción: Yes
-widget ok: ok
 
 *Descarga esta Inspiración para usarla desconectado*
-
-[https://www.notion.so](https://www.notion.so)
-
-*Download this Inspiration to use it disconnected*
-
-[https://www.notion.so](https://www.notion.so)
 
 La Estación y el Cabildo Indígena La Esmeralda están a solo 15 minutos en moto el uno del otro. Ambas son comunidades vecinas del municipio colombiano de Colosó, en el departamento de Sucre. Hasta hace poco, ninguna de estas comunidades contaba con un espacio público para acceder al Internet en grupo. Sin embargo, desde 2023, se han aventurado a utilizar las soluciones de conectividad que juntos instalamos en su territorio para impulsar el Aprendizaje Auto Organizado.
 
@@ -84,21 +85,18 @@ Además, la comunidad ha creado su propia página web para contarle al mundo ent
 
 [https://padlet.com/soleenlaesmeralda/sole-la-esmeralda-69evsm5b9drhbsv3](https://padlet.com/soleenlaesmeralda/sole-la-esmeralda-69evsm5b9drhbsv3)
 
-<img src="/assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(94)-800w.webp" alt="SOLE liderado por las Embajadoras en La Esmeralda, (2024)." srcset="/assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(94)-400w.webp 400w, /assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(94)-800w.webp 800w, /assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(94)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
+![Antena comunitaria en Colosó, Montes de María](../../../assets/images/insp-internetimprove-coloso/insp-internetimprove-coloso-antenna.webp)
+*Visita de Sintonización, Montes de María (2024).*
 
-SOLE liderado por las Embajadoras en La Esmeralda, (2024).
+![Participación de la comunidad en Colosó](../../../assets/images/insp-internetimprove-coloso/insp-internetimprove-coloso-granny.webp)
+*Visita de Sintonización, Montes de María (2024).*
 
-<img src="/assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(76)-800w.webp" alt="Visita de Sintonización, Montes de María, (2024)." srcset="/assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(76)-400w.webp 400w, /assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(76)-800w.webp 800w, /assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(76)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
+![Investigación comunitaria sobre conectividad](../../../assets/images/insp-internetimprove-coloso/insp-internetimprove-coloso-investigation1.webp)
+*Visita de Sintonización, Montes de María (2024).*
 
-Visita de Sintonización, Montes de María, (2024).
+![Testimonio durante la visita de sintonización](../../../assets/images/insp-internetimprove-coloso/insp-internetimprove-coloso-talk.webp)
+*Visita de Sintonización, Montes de María (2024).*
 
-<img src="/assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(49)-800w.webp" alt="Visita de Sintonización, Montes de María, (2024)." srcset="/assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(49)-400w.webp 400w, /assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(49)-800w.webp 800w, /assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(49)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
-
-Visita de Sintonización, Montes de María, (2024).
-
-<img src="/assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(13)-800w.webp" alt="Visita de Sintonización, Montes de María, (2024)." srcset="/assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(13)-400w.webp 400w, /assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(13)-800w.webp 800w, /assets\images\¿Cómo mejoró el Internet en Colosó, Montes de Marí 1302bd68c5b680259bbffb361b4d5867\20240709_SOLEWLH_Sintonizacin_MM_Colos_(13)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
-
-Visita de Sintonización, Montes de María, (2024).
 
 [https://notionreactions.com/embed/j3e1g52UnbLMFP9TVNxO](https://notionreactions.com/embed/j3e1g52UnbLMFP9TVNxO)
 

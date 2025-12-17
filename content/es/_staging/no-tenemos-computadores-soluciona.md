@@ -13,7 +13,7 @@ Soluciones para conseguir dispositivos para compartir en comundidad
 
 ---
 
-[Sin título](No tenemos computadores 2602bd68c5b6818bbcb2e142b93f3f20/Sin título 2602bd68c5b6814e8373df74fa3b2e49.csv)
+[Sin título](No tenemos computadores 1292bd68c5b681a0910ff0af0cd926f8/Sin título 1292bd68c5b681a697c9ff7f1485e6d6.csv)
 
 ---
 
