@@ -61,9 +61,7 @@ Dejamos instalado un Jangala y una antena omnidireccional en un espacio en el qu
 
 Actualmente la comunidad Nasa Kiwe Tekh Kxsaw sigue haciéndose Grandes Preguntas usando el Internet y la tecnología en grupo. 
 
-<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-nuevomexico/insp-internetimprove-nuevomexico.webm"></video>
-*Visita de Sintonización en la comunidad Nasa Kiwe Tekh Kxsaw, Nuevo México, Santander de Quilichao (2024).*
-
+[20240613_SOLE+WLH_Sintonización_Nasa Kiwe Tekh Kxsaw, Santander de Quilichao14.2.mp4](../../../How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675/20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao14.2.mp4)
 
 https://notionreactions.com/embed/TeHqSnrpW21yMBlxkBnc
 

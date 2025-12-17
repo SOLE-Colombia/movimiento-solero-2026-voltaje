@@ -36,17 +36,17 @@ widget ok: ok
 
 A orillas del río, entre piedras y riachuelos, la comunidad de La Guayana, enclavada en las montañas de Anorí, en Antioquia, vive rodeada de una naturaleza majestuosa y un territorio que los llena de orgullo. Sin embargo, esa misma geografía, que les da riqueza y belleza, también los aísla del mundo digital.
 
-<figure>
-  <video 
-    controls 
-    style="width: 100%; max-width: 800px; border-radius: 12px; margin: 1.5rem 0;">
-    <source src="/assets/videos/insp-howinternetworks-anori.mp4" type="video/mp4">
-    Tu navegador no soporta la reproducción de video.
-  </video>
-  <figcaption>
-    Visitas de sintonización en La Guayana, Anorí, Antioquia (2024).
-  </figcaption>
-</figure>
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/XG905Z5jFNs?si=aYVmFoCLgHEr29U_" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
 
 
 Según narran John y Yuli, jóvenes Embajadores SOLE de la comunidad, para poder conectarse a Internet deben caminar casi 40 minutos desde sus casas, a veces cuesta arriba, en busca de algún punto donde la señal logre llegar. En sus propias palabras, incluso en el mejor de los casos la señal es débil y limitada. ¡Sube el volumen para escucharlos!
@@ -57,33 +57,34 @@ Según narran John y Yuli, jóvenes Embajadores SOLE de la comunidad, para poder
 
   <!-- VIDEO 1 -->
 
-  <figure style="flex: 1 1 48%;">
-    <video 
-      controls 
-      style="width: 100%; border-radius: 12px;">
-      <source src="/assets/videos/insp-howinternetworks-anori2.mp4" type="video/mp4">
-      Tu navegador no soporta la reproducción de video.
-    </video>
-    <figcaption>
-      Visitas de sintonización en La Guayana, Anorí, Antioquia (2024) – Video 1.
-    </figcaption>
-  </figure>
+  <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/wlsnTeOt8B0?si=fIx7OF4G8zbo9yt6" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
 
   <!-- VIDEO 2 -->
 
-  <figure style="flex: 1 1 48%;">
-    <video 
-      controls 
-      style="width: 100%; border-radius: 12px;">
-      <source src="/assets/videos/insp-howinternetworks-anori3.mp4" type="video/mp4">
-      Tu navegador no soporta la reproducción de video.
-    </video>
-    <figcaption>
-      Visitas de sintonización en La Guayana, Anorí, Antioquia (2024) – Video 2.
-    </figcaption>
-  </figure>
+  <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/8WmDDSYYLKQ?si=cObc_-LI6LaU0ykq" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 </div>
+
+
 
 
 La situación comenzó a cambiar con las Visitas de Sintonización. Durante estos encuentros, explicamos a la comunidad cómo funciona el Internet y por qué la conectividad es un reto en su territorio. Se discutieron las dificultades técnicas propias de su terreno montañoso y los costos asociados a la infraestructura en lugares tan remotos.
@@ -96,31 +97,34 @@ Ese día, el equipo de SOLE y la comunidad enfrentaron el reto de instalar una a
 
   <!-- VIDEO 1 -->
 
-  <figure style="flex: 1 1 48%;">
-    <video 
-      controls 
-      style="width: 100%; border-radius: 12px;">
-      <source src="/assets/videos/insp-howinternetworks-anori4.mp4" type="video/mp4">
-      Tu navegador no soporta la reproducción de video.
-    </video>
-    <figcaption>
-      Visitas de sintonización en La Guayana, Anorí, Antioquia (2024) – Video 1.
-    </figcaption>
-  </figure>
+  <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/l6UVJ0TaJ1w?si=NxHGjkCvhELpfQQe" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
 
   <!-- VIDEO 2 -->
 
-  <figure style="flex: 1 1 48%;">
-    <video 
-      controls 
-      style="width: 100%; border-radius: 12px;">
-      <source src="/assets/videos/insp-howinternetworks-anori5.mp4" type="video/mp4">
-      Tu navegador no soporta la reproducción de video.
-    </video>
-    <figcaption>
-      Visitas de sintonización en La Guayana, Anorí, Antioquia (2024) – Video 2.
-    </figcaption>
-  </figure>
+  <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/TtG-umbhcrE?si=ZCNtV8gGXeD9kc3y"
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+
 
 </div>
 
@@ -128,17 +132,19 @@ Gracias a este esfuerzo cacharrero, y a que los Embajadores no se rindieron hast
 
  **¡Escuha la emoción de Yuli al declararse Cacharrera del Internet en su comunidad!**
 
-<figure>
-  <video 
-    controls 
-    style="width: 100%; max-width: 800px; border-radius: 12px; margin: 1.5rem 0;">
-    <source src="/assets/videos/insp-howinternetworks-anori6.mp4" type="video/mp4">
-    Tu navegador no soporta la reproducción de video.
-  </video>
-  <figcaption>
-    Visitas de sintonización en La Guayana, Anorí, Antioquia (2024).
-  </figcaption>
-</figure>
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/AYDMlrGHQbQ?si=LOf3qs5Wu0ouUSXj" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+
 
 La mejor parte es que la historia no termina ahí: los Embajadores han liderado sesiones de SOLE en su comunidad durante todo el año, donde responden grandes preguntas usando el Internet en grupo. Así, han acercado el uso de la tecnología y los computadores a su comunidad, y han abierto puertas para que sus vecinos puedan conectarse con el mundo. 
 
