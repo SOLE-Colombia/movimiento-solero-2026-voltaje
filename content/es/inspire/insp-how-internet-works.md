@@ -87,25 +87,3 @@ Tu celular se conecta por ondas electrogmanéticas o inalámbricas a un torre de
 Hay que tener en cuenta que los cables submarinos nos permiten transmitir datos para que existan los servicios de telecomunicaciones. La razón por la cual la información viaja tan rápido es porque los cables están hechos de fibra óptica, es decir de vidrio. Esto significa que la información, los ceros “0” y “1” se envían en forma de luz y la luz es lo que viaja más rápido de todo el universo. 
 
 ¿No es tremendo lo que nos inventamos los humanos?
-
-[https://notionreactions.com/embed/7aQSWHsLLqObLwBXtscw](https://notionreactions.com/embed/7aQSWHsLLqObLwBXtscw)
-
----
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
