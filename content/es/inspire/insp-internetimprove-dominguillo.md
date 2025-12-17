@@ -49,7 +49,17 @@ Aquí está presentando el Jangala o a “Jang”, como decidieron llamarlo, Lui
 
 Franki, Lucho y Mateo en los Talleres de Inspiración en Dominguillo, Cauca (2023).
 
-![Talleres de Inspiración, Dominguillo, Cauca (2023).](../../../¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a/20230517_SOLEWLH_Tallerdeinspiracion_Dominguillo_04.heic)
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://youtube.com/shorts/Fc_KbyQqcQE?si=_iiVzsc9pSJVcyKv"
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
 
 Talleres de Inspiración, Dominguillo, Cauca (2023).
 
@@ -57,8 +67,19 @@ El dispositivo se instaló en la biblioteca con el objetivo de facilitar sesione
 
 **Escucha a Luis Miguel Mina y Nancy Campo, hablar sobre esta experiencia:**
 
-[**Luis Miguel Mina y Nancy Campo
-Embajadores SOLE en Festivales SOLE Dominguillo, Santander de Quilichao (2023).**](../../../¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a/20230913_SOLEWLH_Festival_Dominguillo_entrevista_01(1).mp4)
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/x9xiuvhx1vw?si=rF6NQQzpRdJBFCcP" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
 
 **Luis Miguel Mina y Nancy Campo
 Embajadores SOLE en Festivales SOLE Dominguillo, Santander de Quilichao (2023).**
@@ -85,7 +106,20 @@ Enchufa tu SOLE Lab, Dominguillo,  Cauca, (2024).
 
 Gracias a este esfuerzo, Dominguillo no solo mejoró su conexión a Internet, sino que fortaleció el vínculo de la comunidad. Ahora, el SOLE Lab es un punto de encuentro en el que los habitantes siguen aprendiendo y compartiendo sus conocimientos.
 
-[Video del Enchufa Tu SOLE Lab en Dominguillo, Cauca, (2024).](../../../¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a/20241105_SOLEBOLT_SOLELab_Enchufa_Experiencia_Dominguillo(1).mp4)
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/dxaLamDlGaE?si=Qnnk4YQzGlXnofWM" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+
 
 Video del Enchufa Tu SOLE Lab en Dominguillo, Cauca, (2024).
 

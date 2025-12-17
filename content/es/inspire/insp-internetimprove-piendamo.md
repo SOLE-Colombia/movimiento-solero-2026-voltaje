@@ -61,13 +61,39 @@ La curiosidad de Alexander por entender cómo funcionan los routers, antenas y r
 
 En 2024, Alexander nos acompañó en una nueva misión: llevar Internet a una comunidad indígena vecina, en el Resguardo Misak Pisicatau. Al llegar, realizamos pruebas de velocidad y señal, y fue Alexander quien descubrió rápidamente que ninguna antena lograba una conexión estable en esa región montañosa. 
 
-[Visitas de Sintonización SOLE, Piendamó, (2024)](../../../¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91/20240612_SOLEWLH_Sintonizacin_Misak_Piscitau_Piendam32.mp4)
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/ZpUN9LbnZII?si=CmMr0DIebNjdv-8o"
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
 
 Visitas de Sintonización SOLE, Piendamó, (2024)
 
 **La buena noticia es que en el Resguardo tenían una conexión satelital estable a Internet, así que solo tuvimos que instalar un router para hacerla más precisa. ¡Escúchalo hablar sobre el momento en el que instalamos un router con propiedad!** 
 
-[Visitas de SIntonización, Piendamó, (2024).](../../../¿Cómo mejoró el Internet en Piendamó, Cauca 1372bd68c5b680198faecc5d6b596b91/20240612_SOLEWLH_Sintonizacin_Misak_Piscitau_Piendam50.4.mp4)
+
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/-pzJU_1JVjY?si=UhnUqG4DQXHI8UXG" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+
 
 Visitas de SIntonización, Piendamó, (2024).
 

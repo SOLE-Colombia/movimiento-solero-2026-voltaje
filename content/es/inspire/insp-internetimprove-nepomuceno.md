@@ -35,7 +35,19 @@ Los siguientes fragmentos son la recopilación de testimonios, imágenes y escen
 
 ### Primera Parada
 
-[Festivales SOLE, Montes de María, (2024).](../../../How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4/WhatsApp_Video_2024-10-31_at_10.58.46(1).mp4)
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://youtube.com/shorts/wFoxttYr5s0?si=W_Y3kUbHjl-sKNrw"
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
 
 Festivales SOLE, Montes de María, (2024).
 
@@ -43,17 +55,48 @@ Para llegar a San José del Peñón hay que cruzar siete ríos, cruzas los dedos
 
 La geografía de San José del Peñón, con sus montañas y densa vegetación, impide que las señales de antenas cercanas alcancen la vereda. Instalar una solución de conectividad comunitaria fue un desafío que requirió el esfuerzo de toda la comunidad. Con el apoyo y trabajo colectivo, logramos instalar, **contra todo pronóstico**, nuestro KIT Rural: una antena Yagi y un router que ahora hacen posible que la comunidad se reúna periódicamente a hacer SOLE.
 
-[Gabriel, Vistas de Sintonización, Montes de María, (2024).](../../../How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4/20240711_SOLEWLH_Sintonizacin_MM_SanJuandeNepomuceno_(14).mp4)
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/JegM5CMO_v8?si=EBQY18uLojH7sTq2" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
 
 Gabriel, Vistas de Sintonización, Montes de María, (2024).
 
-[ Vistas de Sintonización, Montes de María, (2024).](../../../How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4/20240711_SOLEWLH_Sintonizacin_MM_SanJuandeNepomuceno_(11)(1).mp4)
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/2vAQA6Ylo98?si=U4CHyHH4eEbsjD9n" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
 
  Vistas de Sintonización, Montes de María, (2024).
 
 **Rafael Antonio García, un cacharrero innato de su comunidad, nos cuenta en sus propias palabras cómo fue el proceso para lograr instalar la antena: ¡Sube el volumen para escuchar su relato!**
 
-[ Rafael Antonio en Vistas de Sintonización, Montes de María, (2024).](../../../How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4/20240711_SOLEWLH_Sintonizacin_MM_SanJuandeNepomuceno_(1).2_(1).mp4)
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/ShnTA4SuijY?si=xgObhgyU7f0r2yQu" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
 
  Rafael Antonio en Vistas de Sintonización, Montes de María, (2024).
 
@@ -83,7 +126,19 @@ Desde 2023, hemos construido una relación súper cercana con la comunidad de La
 
 Sube el volumen para escuchar en sus propias palabras cómo fue esta experiencia, y cómo usar el internet en grupo ha transformado su territorio:
 
-[Mariana Fernández, Visitas de Sintonización, Montes de María, (2024).](../../../How did the internet improve in San Juan Nepomucen 2602bd68c5b680d8be2fc8497ed318f4/20240711_SOLEWLH_Sintonizacin_MM_SanJuandeNepomuceno_(15).2.mp4)
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/oOtV6Qt_YdI?si=2O9sYK0ngOnrAAIU" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+
 
 Mariana Fernández, Visitas de Sintonización, Montes de María, (2024).
 
