@@ -1,32 +1,11 @@
 ---
 title: "Estamos contruyendo una plataforma con mucho Voltaje, ¿te nos unes?"
-lang: es
-slug: galeria-de-fotos-pruebas-voltaje-inspiration-db
-autor: Manuela
+date: 2024-10-24
 tags:
-  - De Voltaje a SOLE
-  - Historias potentes
-
-formato:
-  - Foto
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - electricidad
-  - dispositivos
-  - personas
-  - espacio
-
-fecha: 2024-10-24
-
+  - "De Voltaje a SOLE"
+  - "Historias potentes"
+autor: "Manuela"
 draft: false
-traduccion: false
-pie: false
-reaccion: false
-widget: true
 ---
 Las pruebas de Voltaje nos han servido para explorar, evaluar y llevar más allá las soluciones y dispositivos que hemos desarrollado para despertar el espíritu cacharrero y fomentar un acercamiento a la tecnología y la conectividad que nos lleve a generar espacios de aprendizaje autónomo y comunitario. 
 

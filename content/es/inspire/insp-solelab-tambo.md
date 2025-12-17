@@ -1,31 +1,11 @@
 ---
 title: "¡El segundo SOLE Lab ya está en el Cauca! ¿Te gustaría ser parte de la Biblioteca del Futuro?"
-lang: es
-slug: inauguramos-nuestro-segundo-sole-lab-en-el-tambo-cauca-inspiration-db
-autor: Voltaje
+date: 2025-10-11
 tags:
-  - De Voltaje a SOLE
-  - Historias potentes
-
-formato:
-  - Video
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - electricidad
-  - personas
-  - espacio
-
-fecha: 2025-10-11
-
+  - "De Voltaje a SOLE"
+  - "Historias potentes"
+autor: "SOLE Colombia"
 draft: false
-traduccion: false
-pie: false
-reaccion: false
-widget: true
 ---
 ¡La Segunda Biblioteca del Futuro en el barrio Obrero del Tambo ya es una realidad! ✨
 

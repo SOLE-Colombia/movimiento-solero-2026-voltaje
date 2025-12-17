@@ -1,30 +1,11 @@
 ---
 title: "SOLE Colombia somos TODOS"
-lang: es
-slug: sole-colombia-somos-todos-inspiration-db
-autor: Voltaje
+date: 2025-10-11
 tags:
-  - De Voltaje a SOLE
-  - Historias potentes
-
-formato:
-  - Video
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - personas
-  - espacio
-
-fecha: 2025-10-11
-
+  - "De Voltaje a SOLE"
+  - "Historias potentes"
+autor: "SOLE Colombia"
 draft: false
-traduccion: true
-pie: false
-reaccion: true
-widget: true
 ---
 *Descarga esta Inspiración para usarla desconectado*
 

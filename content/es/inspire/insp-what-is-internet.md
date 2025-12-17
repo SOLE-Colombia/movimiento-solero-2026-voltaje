@@ -1,29 +1,10 @@
 ---
 title: "¿Qué es el Internet?"
-lang: es
-slug: que-es-el-internet-una-cobija-de-solidaridad-inspiration-db
-autor: Sanjay
+date: 2025-10-11
 tags:
-  - Sobre el internet
-
-formato:
-  - Texto
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - dispositivos
-  - espacio
-
-fecha: 2025-10-11
-
+  - "Sobre el internet"
+autor: "Sanjay"
 draft: false
-traduccion: true
-pie: true
-reaccion: true
-widget: true
 ---
 *Descarga esta Inspiración para usarla desconectado*
 

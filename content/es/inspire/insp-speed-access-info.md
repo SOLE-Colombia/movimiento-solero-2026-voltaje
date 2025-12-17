@@ -1,30 +1,12 @@
 ---
 title: "¿Te ha pasado que un video carga más rápido en el celular de otra persona?"
-lang: es
-slug: que-tan-rapido-se-puede-acceder-a-la-informacion-en-internet-inspiration-db
-autor: Sanjay
+date: 2025-10-11
 tags:
-  - Sobre el internet
-  - Te ha pasado
-  - Preguntas incómodas
-
-formato:
-  - Texto
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - dispositivos
-
-fecha: 2025-10-11
-
+  - "Sobre el internet"
+  - "Te ha pasado"
+  - "Preguntas incómodas"
+autor: "Sanjay"
 draft: false
-traduccion: false
-pie: false
-reaccion: false
-widget: true
 ---
 Hablamos que el Internet es rápido si podemos acceder rápidamente a la información que consultamos. 
 

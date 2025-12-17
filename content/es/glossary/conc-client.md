@@ -1,15 +1,12 @@
 ---
-title: Cliente | Client
-lang: en
-slug: cliente-client-conceptorio
-aspectos:
-- dispositivos
-fecha: '2025-07-22'
+title: "Cliente | Client"
+date: 2025-07-22
 tags:
-  - Funcionamiento del computador
-  - Redes y conexiones
-  - Términos del mundo virtual
-autor: Belén
+  - "Funcionamiento del computador"
+  - "Redes y conexiones"
+  - "Términos del mundo virtual"
+autor: "Belén"
+draft: false
 ---
 En informática, un cliente es una **pieza de hardware o software que accede a un servicio o recurso proporcionado por un servidor**. 
 

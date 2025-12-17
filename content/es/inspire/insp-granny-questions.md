@@ -1,27 +1,10 @@
 ---
 title: "Preguntas y respuestas sobre la experiencia de ser una Abuelita"
-lang: es
-slug: preguntas-y-respuestas-sobre-la-experiencia-de-ser-una-abuelita-inspiration-db
-autor: Voltaje
+date: 2025-10-11
 tags:
-  - De Voltaje a SOLE
-
-formato:
-  - Texto
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - personas
-
-fecha: 2025-10-11
-
+  - "De Voltaje a SOLE"
+autor: "SOLE Colombia"
 draft: false
-traduccion: true
-pie: false
-reaccion: true
-widget: true
 ---
 *Descarga esta Inspiración para usarla desconectado*
 

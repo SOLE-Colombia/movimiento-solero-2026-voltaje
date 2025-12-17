@@ -1,29 +1,11 @@
 ---
 title: "Recursos para uno, recursos para todos"
-lang: es
-slug: aprendimos-a-jugar-para-reflexionar-sobre-el-uso-de-bienes-comunes-inspiration-db
-autor: Manuela
+date: 2025-10-11
 tags:
-  - Metodologías
-  - De Voltaje a SOLE
-
-formato:
-  - Video
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - personas
-  - señal
-
-fecha: 2025-10-11
-
+  - "Metodologías"
+  - "De Voltaje a SOLE"
+autor: "Manuela"
 draft: false
-traduccion: false
-pie: false
-reaccion: false
-widget: true
 ---
 ¿Sabías que puedes usar el juego para crear acuerdos comunitarios? 💭
 

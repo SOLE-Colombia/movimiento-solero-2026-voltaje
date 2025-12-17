@@ -1,13 +1,10 @@
 ---
-title: Canva
-lang: es
-slug: 'canva-conceptorio'
-aspectos:
-- general
-fecha: '2025-07-15'
-autor: Belén
+title: "Canva"
+date: 2025-07-15
 tags:
-  - Programas y aplicaciones
+  - "Programas y aplicaciones"
+autor: "Belén"
+draft: false
 ---
 [Canva](https://www.canva.com/) **es una plataforma de diseño gráfico en línea que permite a cualquier persona, con o sin experiencia en diseño, crear diversos tipos de diseños profesionales**. 
 

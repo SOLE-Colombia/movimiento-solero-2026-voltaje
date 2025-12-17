@@ -1,31 +1,12 @@
 ---
 title: "¿Te has preguntado cómo llega el Internet, la luz o la señal móvil a ti?"
-lang: es
-slug: te-has-preguntado-como-llega-el-internet-la-luz-o-la-senal-movil-a-ti-inspiration-db
-autor: Voltaje
+date: 2024-10-23
 tags:
-  - Curiosidades
-  - Preguntas incómodas
-  - Sobre el internet
-
-formato:
-  - Texto
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - electricidad
-  - personas
-
-fecha: 2024-10-23
-
+  - "Curiosidades"
+  - "Preguntas incómodas"
+  - "Sobre el internet"
+autor: "SOLE Colombia"
 draft: false
-traduccion: false
-pie: false
-reaccion: false
-widget: true
 ---
 Todos los días revisamos mensajes en nuestros celulares, prendemos una luz o recibimos una llamada telefónica. 
 

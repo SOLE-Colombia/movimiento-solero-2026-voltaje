@@ -1,30 +1,10 @@
 ---
 title: "¿Cómo construir memoria en un SOLE Lab?"
-lang: es
-slug: metodologia-como-construir-memoria-en-ambientes-de-aprendizaje-auto-organizado-sole-lab-inspiration-db
-autor: Voltaje
+date: 2025-10-11
 tags:
-  - Metodologías
-
-formato:
-  - Texto
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - dispositivos
-  - personas
-  - espacio
-
-fecha: 2025-10-11
-
+  - "Metodologías"
+autor: "SOLE Colombia"
 draft: false
-traduccion: false
-pie: false
-reaccion: false
-widget: true
 ---
 **Propósito:** recopilar ágilmente la historia del SOLE Lab de Boca de Camarones desde la mirada de cada grupo de colaboradores (Comunidad Boca de Camarones, SOLE Colombia e Internet Society Foundation)
 

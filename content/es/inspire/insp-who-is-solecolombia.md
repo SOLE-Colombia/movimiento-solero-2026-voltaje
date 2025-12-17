@@ -1,29 +1,10 @@
 ---
 title: "SOLE Colombia: ¿Quiénes somos?"
-lang: es
-slug: sole-colombia-lo-que-somos-inspiration-db
-autor: Manuela
+date: 2024-10-24
 tags:
-  - De Voltaje a SOLE
-
-formato:
-  - Video
-
-revision: "R2024"
-idioma: español
-
-aspectos:
-  - señal
-  - personas
-  - espacio
-
-fecha: 2024-10-24
-
+  - "De Voltaje a SOLE"
+autor: "Manuela"
 draft: false
-traduccion: false
-pie: false
-reaccion: false
-widget: true
 ---
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
   <iframe 

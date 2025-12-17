@@ -1,13 +1,10 @@
 ---
-title: Memoria SD/ MiniSD/ MicroSD | SD/ MiniSD/ MicroSD Memory
-lang: es
-slug: 'memoria-sd-minisd-microsd-sd-minisd-microsd-memory-conceptorio'
-aspectos:
-- dispositivos
-fecha: '2025-07-15'
-autor: Belén
+title: "Memoria SD/ MiniSD/ MicroSD | SD/ MiniSD/ MicroSD Memory"
+date: 2025-07-15
 tags:
-  - Almacenamiento
+  - "Almacenamiento"
+autor: "Belén"
+draft: false
 ---
 Una tarjeta **MicroSD** es un dispositivo de almacenamiento portátil de muy pequeño tamaño. 
 

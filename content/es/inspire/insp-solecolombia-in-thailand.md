@@ -1,27 +1,10 @@
 ---
 title: "¡SOLE Colombia llega a Tailandia!"
-lang: es
-slug: sole-colombia-llega-a-tailandia-inspiration-db
-autor: Voltaje
+date: 2025-10-11
 tags:
-  - Historias potentes
-
-formato:
-  - Video
-
-aspectos:
-  - señal
-  - electricidad
-  - personas
-  - espacio
-
-fecha: 2025-10-11
+  - "Historias potentes"
+autor: "SOLE Colombia"
 draft: false
-traduccion: true
-idioma: español
-widget: true
-reaccion: true
-pie: true
 ---
 *Descarga esta Inspiración para usarla desconectado*
 

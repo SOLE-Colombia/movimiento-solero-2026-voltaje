@@ -1,15 +1,12 @@
 ---
-title: Latencia | Latency
-lang: es
-slug: 'latencia-latency-conceptorio'
-aspectos:
-- señal
-fecha: '2024-02-29'
+title: "Latencia | Latency"
+date: 2024-02-29
 tags:
-  - Redes y conexiones
-  - Términos del mundo virtual
+  - "Redes y conexiones"
+  - "Términos del mundo virtual"
+autor: "SOLE Colombia"
+draft: false
 ---
-
 La latencia es el tiempo exacto que tarda un paquete de datos en ser transmitido por una red. 
 
 Es el tiempo que transcurre desde que tu navegador realiza una solicitud de información y el tiempo que demora en llegar la respuesta solicitada. 

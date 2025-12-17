@@ -1,15 +1,11 @@
 ---
-title: 'WiFi - Fidelidad Inalámbrica | WiFi - Wireless Fidelity'
-lang: es
-slug: 'wifi-fidelidad-inalambrica-wifi-wireless-fidelity-conceptorio'
-aspectos:
-- señal
-- dispositivos
-fecha: '2025-02-24'
+title: "WiFi - Fidelidad Inalámbrica | WiFi - Wireless Fidelity"
+date: 2025-02-24
 tags:
-  - Redes y conexiones
-  - Términos del mundo virtual
-autor: Belén
+  - "Redes y conexiones"
+  - "Términos del mundo virtual"
+autor: "Belén"
+draft: false
 ---
 Una conexión Wi-Fi es una **tecnología inalámbrica que permite a los dispositivos conectarse a una red, generalmente para acceder a Internet, sin necesidad de cables**. Funciona mediante ondas de radio, utilizando un router Wi-Fi para enviar y recibir datos entre dispositivos y la red.
 

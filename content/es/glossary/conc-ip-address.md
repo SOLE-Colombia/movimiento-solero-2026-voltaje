@@ -1,16 +1,12 @@
 ---
-title: Dirección IP | IP Address
-lang: en
-slug: direccion-ip-ip-address-conceptorio
-aspectos:
-- señal
-- dispositivos
-fecha: '2025-07-17'
+title: "Dirección IP | IP Address"
+date: 2025-07-17
 tags:
-  - Seguridad e identificación
-  - Redes y conexiones
-  - Términos del mundo virtual
-autor: Belén
+  - "Seguridad e identificación"
+  - "Redes y conexiones"
+  - "Términos del mundo virtual"
+autor: "Belén"
+draft: false
 ---
 Una dirección IP es un **identificador único asignado a cada dispositivo conectado a una red que utiliza el protocolo de Internet**. 
 

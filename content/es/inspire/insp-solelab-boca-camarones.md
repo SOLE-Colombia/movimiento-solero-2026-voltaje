@@ -1,31 +1,11 @@
 ---
 title: "Construimos un SOLE Lab en la Guajira para usar el Internet en grupo"
-lang: es
-slug: el-sole-lab-la-biblioteca-del-futuro-descubre-como-se-vive-en-boca-de-camarones-inspiration-db
-autor: Voltaje
+date: 2025-10-11
 tags:
-  - De Voltaje a SOLE
-  - Historias potentes
-
-formato:
-  - Video
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - electricidad
-  - personas
-  - espacio
-
-fecha: 2025-10-11
-
+  - "De Voltaje a SOLE"
+  - "Historias potentes"
+autor: "SOLE Colombia"
 draft: false
-traduccion: false
-pie: false
-reaccion: false
-widget: true
 ---
 No todo el mundo tiene un espacio público con conectividad
 para hacer SOLE; para aprender a aprender en grupo usando el

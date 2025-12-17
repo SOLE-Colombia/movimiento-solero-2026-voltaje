@@ -1,13 +1,11 @@
 ---
-title: Memoria RAM | RAM Memory
-lang: es
-slug: 'memoria-ram-ram-memory-conceptorio'
-aspectos:
-- dispositivos
-fecha: '2025-02-24'
+title: "Memoria RAM | RAM Memory"
+date: 2025-02-24
 tags:
-  - Almacenamiento
-  - Funcionamiento del computador
+  - "Almacenamiento"
+  - "Funcionamiento del computador"
+autor: "SOLE Colombia"
+draft: false
 ---
 ---
 

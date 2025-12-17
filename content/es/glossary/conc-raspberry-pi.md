@@ -1,17 +1,12 @@
 ---
-title: Raspberry Pi
-lang: es
-slug: 'raspberry-pi-conceptorio'
-aspectos:
-- electricidad
-- dispositivos
-fecha: '2025-02-24'
+title: "Raspberry Pi"
+date: 2025-02-24
 tags:
-  - Dispositivos
-  - Funcionamiento del computador
+  - "Dispositivos"
+  - "Funcionamiento del computador"
+autor: "SOLE Colombia"
+draft: false
 ---
-
-
 ### ¿Qué es?
 
 Un [Raspberry Pi](https://www.raspberrypi.com/) es un computador del tamaño de una tarjeta de crédito que puedes configurar a tus necesidades.

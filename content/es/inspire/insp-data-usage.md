@@ -1,15 +1,10 @@
 ---
-title: ¿Cuántas GB de internet crees que consumes al mes?
-lang: es
-slug: cuantas-gb-de-internet-crees-que-consumes-al-mes-inspiration-db
-autor: Voltaje
+title: "¿Cuántas GB de internet crees que consumes al mes?"
+date: 2025-10-11
 tags:
-  - Preguntas incómodas
-traduccion: false
-aspectos:
-- señal
-- personas
-fecha: 2025-10-11
+  - "Preguntas incómodas"
+autor: "SOLE Colombia"
+draft: false
 ---
 # ¿Cuántas GB de internet crees que consumes al mes?
 

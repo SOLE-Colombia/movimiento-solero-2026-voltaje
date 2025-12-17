@@ -1,31 +1,12 @@
 ---
-title: La fantástica historia de cómo Nico construyó su manera de tener internet.
-lang: es
-slug: te-has-preguntado-como-mejorar-tu-conexion-a-internet-inspiration-db
-autor: Manuela
+title: "La fantástica historia de cómo Nico construyó su manera de tener internet."
+date: 2024-10-23
 tags:
-  - Te ha pasado
-  - Vamos a romper
-  - Curiosidades
-
-formato:
-  - Video
-  - Texto
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - dispositivos
-
-fecha: 2024-10-23
-
+  - "Te ha pasado"
+  - "Vamos a romper"
+  - "Curiosidades"
+autor: "Manuela"
 draft: false
-traduccion: false
-pie: false
-reaccion: false
-widget: true
 ---
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
   <iframe 

@@ -1,15 +1,11 @@
 ---
-title: Módem MiFi | MiFi Modem
-lang: es
-slug: 'modem-mifi-mifi-modem-conceptorio'
-aspectos:
-- señal
-- dispositivos
-fecha: '2025-07-29'
-autor: Belén
+title: "Módem MiFi | MiFi Modem"
+date: 2025-07-29
 tags:
-  - Dispositivos
-  - Redes y conexiones
+  - "Dispositivos"
+  - "Redes y conexiones"
+autor: "Belén"
+draft: false
 ---
 Un modem MiFi, también conocido como [router WiFi portátil](https://www.google.com/search?sca_esv=dc1c1c43a06ff8c9&rlz=1C5CHFA_enES999ES1001&cs=0&q=router+WiFi+portátil&sa=X&ved=2ahUKEwjQopKIreOOAxXNTjABHfR9NhwQxccNegQIAhAB&mstk=AUtExfC1fO9elpN8GyQDfbuebAy9Q38q1FvxgZj2XKCw_D9k3TqLIY903fHyyH5EwbGFqHdDa1fKhIuksXsT2zsayG6Vd9W76YfnRwSXzQXy_n-xDb1w-Je_tisdKRAgeQfhBXlDGY2o-ynCLjaZhXQQV1u0G6Nz2MsdUiCq9ZcSOV7mOhs&csui=3), **es un dispositivo que permite crear una red WiFi local utilizando una conexión de datos móviles, como 4G o 5G, para que varios dispositivos puedan acceder a internet de forma inalámbrica**. Esencialmente, es un punto de acceso WiFi portátil que puedes llevar contigo. (Fuente:[Verizon](https://www.verizon.com/articles/wifi-hotspot-service-data-plans/what-is-mifi/))
 

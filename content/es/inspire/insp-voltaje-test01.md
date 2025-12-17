@@ -1,30 +1,10 @@
 ---
 title: "Prueba #01 SOLE Voltaje"
-lang: es
-slug: prueba-01-sole-voltaje-inspiration-db
-autor: Nicolás
+date: 2024-10-25
 tags:
-  - Metodologías
-
-formato:
-  - Texto
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - electricidad
-  - dispositivos
-  - personas
-
-fecha: 2024-10-25
-
+  - "Metodologías"
+autor: "Nicolás"
 draft: false
-traduccion: false
-pie: false
-reaccion: false
-widget: true
 ---
 # Presentación
 

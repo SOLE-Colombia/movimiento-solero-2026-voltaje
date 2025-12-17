@@ -1,28 +1,10 @@
 ---
 title: "Prueba #04 SOLE Voltaje"
-lang: es
-slug: prueba-04-sole-voltaje-inspiration-db
-autor: Nicolás
+date: 2024-10-25
 tags:
-  - Metodologías
-
-formato:
-  - Texto
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - electricidad
-  - personas
-
-fecha: 2024-10-25
-
+  - "Metodologías"
+autor: "Nicolás"
 draft: false
-traduccion: false
-pie: false
-reaccion: false
-widget: true
 ---
 # **PROPÓSITO**
 

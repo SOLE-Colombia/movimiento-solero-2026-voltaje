@@ -1,16 +1,11 @@
 ---
-title: ¿Has buscado información en internet para arreglar un problema de tu casa?
-lang: es
-slug: information-solve-issues-home-inspire
-autor: Voltaje
+title: "¿Has buscado información en internet para arreglar un problema de tu casa?"
+date: 2025-10-11
 tags:
-  - Vamos a romper
-  - Te ha pasado
-traduccion: false
-aspectos:
-- señal
-- personas
-fecha: 2025-10-11
+  - "Vamos a romper"
+  - "Te ha pasado"
+autor: "SOLE Colombia"
+draft: false
 ---
 ## ¿Has buscado información en internet para arreglar un problema de tu casa?
 

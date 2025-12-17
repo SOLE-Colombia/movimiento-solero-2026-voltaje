@@ -1,18 +1,11 @@
 ---
-title: Cable coaxial | Coaxial cable
-lang: en
-slug: cable-coaxial-coaxial-cable-conceptorio
-aspectos:
-- señal
-- electricidad
-- dispositivos
-fecha: '2024-2-15'
+title: "Cable coaxial | Coaxial cable"
+date: 2024-2-15
 tags:
-  - Redes y conexiones
+  - "Redes y conexiones"
+autor: "SOLE Colombia"
+draft: false
 ---
-
-
-
 El cable coaxial, es un cable utilizado para transportar señales eléctricas de alta frecuencia. 
 
 Posee **dos conductores** concéntricos: 

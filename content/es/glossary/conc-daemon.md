@@ -1,14 +1,11 @@
 ---
-title: Demonio (servicio o programa) | Daemon (service or program)
-lang: es
-slug: 'demonio-servicio-o-programa-daemon-service-or-program-conceptorio'
-aspectos:
-- general
-fecha: '2025-07-22'
-autor: Belén
+title: "Demonio (servicio o programa) | Daemon (service or program)"
+date: 2025-07-22
 tags:
-  - Funcionamiento del computador
-  - Términos del mundo virtual
+  - "Funcionamiento del computador"
+  - "Términos del mundo virtual"
+autor: "Belén"
+draft: false
 ---
 Un **servicio**, **programa residente** o **demonio** (en inglés, *daemon*) es un tipo especial de programa que se ejecuta en segundo plano, en vez de ser controlado directamente por el usuario. Este tipo de programas continúa en el sistema, es decir, que puede ejecutarse de forma persistente o reiniciarse si se intenta «matar» el proceso dependiendo de la configuración del demonio y de las políticas del sistema. El uso de este nombre viene del retroacrónimo *Daemon* (*Disk And Execution Monitor*).
 

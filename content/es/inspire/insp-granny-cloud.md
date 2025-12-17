@@ -1,27 +1,10 @@
 ---
 title: "¿Cómo cambiar el mundo desde tu casa? Conoce la Nube de Abuelitas"
-lang: es
-slug: la-nube-de-abuelitas-como-cambiar-el-mundo-desde-tu-casa-inspiration-db
-autor: Belén
+date: 2024-10-25
 tags:
-  - De Voltaje a SOLE
-
-formato:
-  - Texto
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - personas
-
-fecha: 2024-10-25
-
+  - "De Voltaje a SOLE"
+autor: "Belén"
 draft: false
-traduccion: true
-pie: false
-reaccion: true
-widget: true
 ---
 *Descarga esta Inspiración para usarla desconectado*
 

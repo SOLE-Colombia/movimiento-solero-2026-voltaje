@@ -1,27 +1,10 @@
 ---
 title: "¿Cuánto pesan los datos que viajan por Internet?"
-lang: es
-slug: como-se-mide-el-uso-de-internet-inspiration-db
-autor: Manuela
+date: 2025-10-11
 tags:
-  - Sobre el internet
-
-formato:
-  - Texto
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-
-fecha: 2025-10-11
-
+  - "Sobre el internet"
+autor: "Manuela"
 draft: false
-traduccion: true
-pie: true
-reaccion: true
-widget: true
 ---
 *Descarga esta Inspiración para usarla desconectado*
 

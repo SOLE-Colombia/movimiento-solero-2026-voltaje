@@ -1,28 +1,10 @@
 ---
 title: "¿Cómo viaja un mensaje desde tu celular hasta el de tus amigos?"
-lang: es
-slug: como-se-transmite-la-senal-de-internet-inspiration-db
-autor: Belén
+date: 2025-10-11
 tags:
-  - Sobre el internet
-
-formato:
-  - Texto
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - dispositivos
-
-fecha: 2025-10-11
-
+  - "Sobre el internet"
+autor: "Belén"
 draft: false
-traduccion: true
-pie: true
-reaccion: true
-widget: true
 ---
 *Descarga esta Inspiración para usarla desconectado*
 

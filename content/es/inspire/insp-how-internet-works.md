@@ -1,26 +1,10 @@
 ---
 title: "¿Cómo funciona el Internet?"
-lang: es
-slug: como-funciona-el-internet-inspiration-db
-autor: Sanjay
+date: 2025-10-11
 tags:
-  - Sobre el internet
-formato:
-  - Texto
+  - "Sobre el internet"
+autor: "Sanjay"
 draft: false
-traduccion: true
-aspectos:
-  - señal
-  - dispositivos
-  - personas
-fecha: 2025-10-11
-
-revision: "R2025"
-idioma: español
-pie: true
-reaccion: true
-widget: ok
-descargable: true
 ---
 *Descarga esta Inspiración para usarla desconectado*
 

@@ -1,30 +1,10 @@
 ---
 title: "¿Cuándo fue la última vez que usaste el Internet en grupo?"
-lang: es
-slug: cuando-fue-la-ultima-vez-que-usaste-el-internet-en-grupo-inspiration-db
-autor: Sanjay
+date: 2025-10-11
 tags:
-  - Preguntas incómodas
-
-formato:
-  - Foto
-  - Texto
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - personas
-  - espacio
-
-fecha: 2025-10-11
-
+  - "Preguntas incómodas"
+autor: "Sanjay"
 draft: false
-traduccion: true
-pie: true
-reaccion: true
-widget: true
 ---
 *Descarga esta Inspiración para usarla desconectado*
 

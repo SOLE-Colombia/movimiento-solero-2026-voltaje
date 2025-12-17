@@ -1,14 +1,11 @@
 ---
-title: Identificador SSID | SSID Identifier
-lang: es
-slug: 'identificador-ssid-ssid-identifier-conceptorio'
-aspectos:
-- dispositivos
-fecha: '2025-07-22'
-autor: Belén
+title: "Identificador SSID | SSID Identifier"
+date: 2025-07-22
 tags:
-  - Seguridad e identificación
-  - Redes y conexiones
+  - "Seguridad e identificación"
+  - "Redes y conexiones"
+autor: "Belén"
+draft: false
 ---
 El SSID, o Identificador de Conjunto de Servicios, **es el nombre que identifica a una red Wi-Fi**. 
 

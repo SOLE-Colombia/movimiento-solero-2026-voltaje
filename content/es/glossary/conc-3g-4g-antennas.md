@@ -1,15 +1,11 @@
 ---
-title: Antena 3/4G | 3/4G Antenna
-lang: en
-slug: antena-3-4g-3-4g-antenna-conceptorio
-aspectos:
-- señal
-- dispositivos
-fecha: '2025-9-11'
+title: "Antena 3/4G | 3/4G Antenna"
+date: 2025-9-11
 tags:
-  - Dispositivos
-  - Redes y conexiones
-autor: Belén
+  - "Dispositivos"
+  - "Redes y conexiones"
+autor: "Belén"
+draft: false
 ---
 Una antena 3/4G, también conocida como antena LTE, **es un dispositivo que facilita la conexión a internet a través de redes móviles 4G y 3G**. Estas antenas permiten la recepción y transmisión de señales de radio para conectar smartphones, tablets y módems a la red celular, mejorando la calidad y velocidad de la conexión.
 

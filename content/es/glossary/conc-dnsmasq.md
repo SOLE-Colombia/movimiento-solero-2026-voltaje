@@ -1,14 +1,11 @@
 ---
-title: Redireccionador DNS y servidor DHCP ligero | Dnsmasq
-lang: es
-slug: 'redireccionador-dns-y-servidor-dhcp-ligero-dnsmasq-conceptorio'
-aspectos:
-- general
-fecha: '2025-07-22'
-autor: Belén
+title: "Redireccionador DNS y servidor DHCP ligero | Dnsmasq"
+date: 2025-07-22
 tags:
-  - Redes y conexiones
-  - Funcionamiento del computador
+  - "Redes y conexiones"
+  - "Funcionamiento del computador"
+autor: "Belén"
+draft: false
 ---
 ## Español
 

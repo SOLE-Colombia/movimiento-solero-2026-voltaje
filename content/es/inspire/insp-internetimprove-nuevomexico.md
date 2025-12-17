@@ -1,31 +1,10 @@
 ---
 title: "¿Cómo mejoró el Internet en Nuevo México, Santander de Quilichao?"
-lang: es
-slug: como-mejoro-el-internet-en-nuevo-mexico-santander-de-quilichao-inspiration-db
-autor: Voltaje
+date: 2025-10-11
 tags:
-  - Historias potentes
-
-formato:
-  - Foto
-  - Texto
-  - Video
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - electricidad
-  - personas
-
-fecha: 2025-10-11
-
+  - "Historias potentes"
+autor: "SOLE Colombia"
 draft: false
-traduccion: true
-pie: true
-reaccion: true
-widget: true
 ---
 *Descarga esta Inspiración para usarla desconectado*
 

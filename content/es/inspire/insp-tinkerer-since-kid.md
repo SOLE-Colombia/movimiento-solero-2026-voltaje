@@ -1,14 +1,10 @@
 ---
-title: ¿Desde pequeño se te facilitaba desarmar y armar juguetes ?
-lang: es
-slug: desde-pequeno-se-te-facilitaba-desarmar-y-armar-juguetes-inspiration-db
-autor: Voltaje
+title: "¿Desde pequeño se te facilitaba desarmar y armar juguetes ?"
+date: 2025-10-11
 tags:
-  - Vamos a romper
-traduccion: false
-aspectos:
-- personas
-fecha: 2025-10-11
+  - "Vamos a romper"
+autor: "SOLE Colombia"
+draft: false
 ---
 # ¿Desde pequeño se te facilitaba desarmar y armar juguetes ?
 

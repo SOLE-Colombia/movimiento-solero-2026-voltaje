@@ -1,16 +1,11 @@
 ---
-title: Nombre de dominio | Domain name
-lang: en
-slug: nombre-de-dominio-domain-name-conceptorio
-aspectos:
-- señal
-- personas
-- espacio
-fecha: '2025-70-17'
+title: "Nombre de dominio | Domain name"
+date: 2025-70-17
 tags:
-  - Términos del mundo virtual
-  - Seguridad e identificación
-autor: Belén
+  - "Términos del mundo virtual"
+  - "Seguridad e identificación"
+autor: "Belén"
+draft: false
 ---
 Un nombre de dominio es una **dirección única y fácil de recordar que se utiliza para acceder a un sitio web o a un servicio en internet**. 
 

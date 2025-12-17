@@ -1,15 +1,10 @@
 ---
-title: ¿Crees que los más privilegiados deberían subsidiar el internet de todos?
-lang: es
-slug: crees-que-los-mas-privilegiados-deberian-subsidiar-el-internet-de-todos-inspiration-db
-autor: Voltaje
+title: "¿Crees que los más privilegiados deberían subsidiar el internet de todos?"
+date: 2025-10-11
 tags:
-  - Preguntas incómodas
-traduccion: false
-aspectos:
-- señal
-- personas
-fecha: 2025-10-11
+  - "Preguntas incómodas"
+autor: "SOLE Colombia"
+draft: false
 ---
 # ¿Crees que los más privilegiados deberían subsidiar el internet de todos?
 

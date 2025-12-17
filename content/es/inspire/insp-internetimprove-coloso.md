@@ -1,31 +1,10 @@
 ---
 title: "¿Cómo mejoró el Internet en Colosó, Montes de María?"
-lang: es
-slug: como-mejoro-el-internet-en-coloso-montes-de-maria-inspiration-db
-autor: Voltaje
+date: 2025-10-11
 tags:
-  - Historias potentes
-
-formato:
-  - Foto
-  - Texto
-  - Video
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - personas
-  - espacio
-
-fecha: 2025-10-11
-
+  - "Historias potentes"
+autor: "SOLE Colombia"
 draft: false
-traduccion: true
-pie: true
-reaccion: true
-widget: true
 ---
 *Descarga esta Inspiración para usarla desconectado*
 

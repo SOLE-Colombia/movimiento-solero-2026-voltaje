@@ -1,18 +1,12 @@
 ---
-title: DNS - Sistema de Nombres de Dominio | DNS - Domain Name System
-lang: en
-slug: dns-sistema-de-nombres-de-dominio-dns-domain-name-system-conceptorio
-aspectos:
-- dispositivos
-- espacio
-fecha: '2025-02-24'
+title: "DNS - Sistema de Nombres de Dominio | DNS - Domain Name System"
+date: 2025-02-24
 tags:
-  - Redes y conexiones
-  - Términos del mundo virtual
+  - "Redes y conexiones"
+  - "Términos del mundo virtual"
+autor: "SOLE Colombia"
+draft: false
 ---
-
-
-
 Antes que nada, recordemos que los computadores entienden mejor números que textos. 
 
 Por eso, las [***direcciones IP***](/es/glossary/direccion-ip-ip-address-conceptorio) que se usan en las redes de computadores son cadenas de números, y no nombres como *el computador de la escuela en el salón 101*. Al contrario, a nosotros los humanos, se nos facilita lidiar con textos que tengan sentido en nuestro idioma y, muchas veces, se nos dificultan los números.

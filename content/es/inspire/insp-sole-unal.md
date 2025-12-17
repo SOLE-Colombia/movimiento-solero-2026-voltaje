@@ -1,17 +1,11 @@
 ---
-title: ¿Qué significa el agua para ti y tu comunidad?
-lang: es
-slug: que-significa-el-agua-para-ti-y-tu-comunidad-inspiration-db
-autor: Voltaje
+title: "¿Qué significa el agua para ti y tu comunidad?"
+date: 2025-10-11
 tags:
-  - Historias potentes
-  - De Voltaje a SOLE
-traduccion: false
-aspectos:
-- electricidad
-- personas
-- espacio
-fecha: 2025-10-11
+  - "Historias potentes"
+  - "De Voltaje a SOLE"
+autor: "SOLE Colombia"
+draft: false
 ---
 # ¿Qué significa el agua para ti y tu comunidad?
 

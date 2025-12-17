@@ -1,14 +1,10 @@
 ---
-title: Conexión EDGE | EDGE Connection
-lang: es
-slug: 'conexion-edge-edge-connection-conceptorio'
-aspectos:
-- señal
-- dispositivos
-fecha: '2025-08-25'
-autor: Belén
+title: "Conexión EDGE | EDGE Connection"
+date: 2025-08-25
 tags:
-  - Redes y conexiones
+  - "Redes y conexiones"
+autor: "Belén"
+draft: false
 ---
 La conexión EDGE relacionada con Tecnología de telefonía móvil, se refiere a la tecnología móvil de "Enhanced Data rates for GSM of Evolution" (EDGE), una red 2G que actúa como puente a la 3G para ofrecer internet básico, o al concepto de "Edge Computing", un método de procesamiento de datos cerca de su origen para agilizar aplicaciones y servicios de alta velocidad en dispositivos conectados, como el Internet de las Cosas (IoT).
 

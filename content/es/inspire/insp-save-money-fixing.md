@@ -1,14 +1,10 @@
 ---
-title: ¿Eres de los que les gusta ahorrar dinero solucionando las cosas tú mismo?
-lang: es
-slug: eres-de-los-que-les-gusta-ahorrar-dinero-solucionando-las-cosas-tu-mismo-inspiration-db
-autor: Voltaje
+title: "¿Eres de los que les gusta ahorrar dinero solucionando las cosas tú mismo?"
+date: 2025-10-11
 tags:
-  - Vamos a romper
-traduccion: false
-aspectos:
-- personas
-fecha: 2025-10-11
+  - "Vamos a romper"
+autor: "SOLE Colombia"
+draft: false
 ---
 # ¿Eres de los que les gusta ahorrar dinero solucionando las cosas tú mismo?
 

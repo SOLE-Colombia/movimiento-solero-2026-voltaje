@@ -1,29 +1,10 @@
 ---
 title: "SOLE + Hilando Vidas y Esperanza 2022"
-lang: es
-slug: sole-hilando-vidas-y-esperanza-2022-inspiration-db
-autor: Voltaje
+date: 2025-10-11
 tags:
-  - Historias potentes
-
-formato:
-  - Video
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - electricidad
-  - personas
-
-fecha: 2025-10-11
-
+  - "Historias potentes"
+autor: "SOLE Colombia"
 draft: false
-traduccion: false
-pie: false
-reaccion: false
-widget: true
 ---
 En el 2022 SOLEamos 15 comunidades de tres Regiones  maravillosas donde:
 

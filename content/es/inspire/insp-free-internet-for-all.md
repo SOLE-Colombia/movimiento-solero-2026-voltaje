@@ -1,15 +1,10 @@
 ---
-title: ¿Crees que el acceso a internet  debería ser libre y gratuito para  todos?
-lang: es
-slug: crees-que-el-acceso-a-internet-deberia-ser-libre-y-gratuito-para-todos-inspiration-db
-autor: Voltaje
+title: "¿Crees que el acceso a internet  debería ser libre y gratuito para  todos?"
+date: 2025-10-11
 tags:
-  - Preguntas incómodas
-traduccion: false
-aspectos:
-- señal
-- personas
-fecha: 2025-10-11
+  - "Preguntas incómodas"
+autor: "SOLE Colombia"
+draft: false
 ---
 # ¿Crees que el acceso a internet  debería ser libre y gratuito para  todos?
 

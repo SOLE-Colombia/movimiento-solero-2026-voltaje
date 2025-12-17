@@ -1,18 +1,11 @@
 ---
-title: 'LAN - Red local | LAN - Local Area Network'
-lang: es
-slug: 'lan-red-local-lan-local-area-network-conceptorio'
-aspectos:
-- señal
-- dispositivos
-- personas
-- espacio
-fecha: '2025-02-24'
+title: "LAN - Red local | LAN - Local Area Network"
+date: 2025-02-24
 tags:
-  - Redes y conexiones
+  - "Redes y conexiones"
+autor: "SOLE Colombia"
+draft: false
 ---
-
-
 Una red local, o LAN (Local Area Network), es un **grupo de dispositivos (como computadoras, teléfonos, impresoras, etc.) conectados entre sí en un área geográfica limitada, como una casa, una oficina o un edificio.**
 
 Estas redes permiten que los dispositivos compartan recursos como archivos, impresoras y una conexión a Internet. (Fuente: [Cloudflare](https://www.cloudflare.com/es-es/learning/network-layer/what-is-a-lan/))

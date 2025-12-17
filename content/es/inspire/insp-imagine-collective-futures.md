@@ -1,29 +1,10 @@
 ---
 title: "¿Cómo imaginar futuros en comunidad?"
-lang: es
-slug: metodologia-como-imaginar-futuros-en-comunidad-inspiration-db
-autor: Voltaje
+date: 2025-10-11
 tags:
-  - Metodologías
-
-formato:
-  - Foto
-  - Texto
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - dispositivos
-  - personas
-
-fecha: 2025-10-11
-
+  - "Metodologías"
+autor: "SOLE Colombia"
 draft: false
-traduccion: false
-pie: false
-reaccion: false
-widget: true
 ---
 **Instrucciones:**
 

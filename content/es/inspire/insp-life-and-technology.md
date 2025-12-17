@@ -1,31 +1,11 @@
 ---
 title: "¿Cómo la tecnología nos puede ayudar a tejer historias?"
-lang: es
-slug: metodologia-como-la-tecnologia-nos-puede-ayudar-a-tejer-historias-inspiration-db
-autor: Voltaje
+date: 2025-10-11
 tags:
-  - Metodologías
-  - Historias potentes
-
-formato:
-  - Foto
-  - Texto
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - personas
-  - espacio
-
-fecha: 2025-10-11
-
+  - "Metodologías"
+  - "Historias potentes"
+autor: "SOLE Colombia"
 draft: false
-traduccion: false
-pie: false
-reaccion: false
-widget: true
 ---
 **Lugar de implementación:** Recarga tu SOLE LAB en Boca de Camarones
 

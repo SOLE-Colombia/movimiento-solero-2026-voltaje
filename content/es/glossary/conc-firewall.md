@@ -1,15 +1,11 @@
 ---
-title: Cortafuegos | Firewall
-lang: es
-slug: 'cortafuegos-firewall-conceptorio'
-aspectos:
-- señal
-- dispositivos
-fecha: '2025-07-22'
-autor: Belén
+title: "Cortafuegos | Firewall"
+date: 2025-07-22
 tags:
-  - Seguridad e identificación
-  - Funcionamiento del computador
+  - "Seguridad e identificación"
+  - "Funcionamiento del computador"
+autor: "Belén"
+draft: false
 ---
 Un firewall es un **sistema de seguridad de red diseñado para monitorear y controlar el tráfico de red entrante y saliente**, actuando como una barrera entre una red interna y redes externas, como Internet. 
 

@@ -1,29 +1,9 @@
 ---
 title: "¿Cómo mejoró el Internet en Valdivia, Antioquia?"
-lang: es
-slug: como-mejoro-el-internet-en-valdivia-antioquia-inspiration-db
-autor: Voltaje
-
-formato:
-  - Foto
-  - Texto
-  - Video
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - personas
-  - espacio
-
-fecha: 2025-10-11
-
+date: 2025-10-11
+tags:
+autor: "SOLE Colombia"
 draft: false
-traduccion: true
-pie: true
-reaccion: true
-widget: true
 ---
 *Descarga esta Inspiración para usarla desconectado*
 

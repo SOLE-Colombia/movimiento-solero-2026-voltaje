@@ -1,27 +1,10 @@
 ---
 title: "La esquina del cacharreo"
-lang: es
-slug: la-esquina-del-cacharreo-inspiration-db
-autor: Nicolás
+date: 2024-10-21
 tags:
-  - Vamos a romper
-
-formato:
-  - Texto
-
-revision: "R2024"
-idioma: español
-
-aspectos:
-  - general
-
-fecha: 2024-10-21
-
+  - "Vamos a romper"
+autor: "Nicolás"
 draft: false
-traduccion: false
-pie: false
-reaccion: false
-widget: true
 ---
 # El inventario poético
 
