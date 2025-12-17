@@ -59,13 +59,41 @@ La curiosidad de Alexander por entender cómo funcionan los routers, antenas y r
 
 En 2024, Alexander nos acompañó en una nueva misión: llevar Internet a una comunidad indígena vecina, en el Resguardo Misak Pisicatau. Al llegar, realizamos pruebas de velocidad y señal, y fue Alexander quien descubrió rápidamente que ninguna antena lograba una conexión estable en esa región montañosa. 
 
-<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-piendamo/insp-internetimprove-piendamo1.webm"></video>
-*Visitas de Sintonización SOLE, Piendamó, Cauca (2024).*
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/ZpUN9LbnZII?si=CmMr0DIebNjdv-8o"
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+
+Visitas de Sintonización SOLE, Piendamó, (2024)
 
 **La buena noticia es que en el Resguardo tenían una conexión satelital estable a Internet, así que solo tuvimos que instalar un router para hacerla más precisa. ¡Escúchalo hablar sobre el momento en el que instalamos un router con propiedad!** 
 
-<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-piendamo/insp-internetimprove-piendamo2.webm"></video>
-*Visitas de Sintonización SOLE, Piendamó, Cauca (2024).*
+
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/-pzJU_1JVjY?si=UhnUqG4DQXHI8UXG" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+
+
+Visitas de SIntonización, Piendamó, (2024).
 
 Con sus habilidades técnicas y su pasión por enseñar, Alexander fue el primero en motivar a los habitantes del resguardo a explorar las posibilidades de Internet y a sumarse al movimiento SOLE. Con su apoyo, instalamos computadores en la caseta comunal, y Alexander los impulsó a seguir usando el Aprendizaje Auto-Organizado en su comunidad . Gracias a su impulso, la comunidad Misak Pisicatau ahora ha creado su propia página web, un espacio donde comparten sus tradiciones, cultura y conocimientos con el mundo.
 

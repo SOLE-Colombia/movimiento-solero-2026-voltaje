@@ -42,24 +42,72 @@ Los siguientes fragmentos son la recopilación de testimonios, imágenes y escen
 
 ### Primera Parada
 
-<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-nepomuceno/insp-internetimprove-nepomuceno1.webm"></video>
-*Festivales SOLE, Montes de María (2024).*
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://youtube.com/shorts/wFoxttYr5s0?si=W_Y3kUbHjl-sKNrw"
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+
+Festivales SOLE, Montes de María, (2024).
 
 Para llegar a San José del Peñón hay que cruzar siete ríos, cruzas los dedos para que la lluvia no vaya a jugarte una mala pasada y te asombras de la majestuosa belleza de este territorio. No es casualidad que, al llegar, un gran letrero dé la bienvenida con orgullo: *“San José del Peñón, tierra mágica, fértil y poderosa.”*
 
 La geografía de San José del Peñón, con sus montañas y densa vegetación, impide que las señales de antenas cercanas alcancen la vereda. Instalar una solución de conectividad comunitaria fue un desafío que requirió el esfuerzo de toda la comunidad. Con el apoyo y trabajo colectivo, logramos instalar, **contra todo pronóstico**, nuestro KIT Rural: una antena Yagi y un router que ahora hacen posible que la comunidad se reúna periódicamente a hacer SOLE.
 
-<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-nepomuceno/insp-internetimprove-nepomuceno2.webm"></video>
-*Gabriel, Vistas de Sintonización, Montes de María (2024).*
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/JegM5CMO_v8?si=EBQY18uLojH7sTq2" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 
-<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-nepomuceno/insp-internetimprove-nepomuceno3.webm"></video>
-*Vistas de Sintonización, Montes de María, (2024).*
+
+Gabriel, Vistas de Sintonización, Montes de María, (2024).
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/2vAQA6Ylo98?si=U4CHyHH4eEbsjD9n" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+ Vistas de Sintonización, Montes de María, (2024).
 
 **Rafael Antonio García, un cacharrero innato de su comunidad, nos cuenta en sus propias palabras cómo fue el proceso para lograr instalar la antena: ¡Sube el volumen para escuchar su relato!**
 
 <video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-nepomuceno/insp-internetimprove-nepomuceno4.webm"></video>
 *Rafael Antonio en Vistas de Sintonización, Montes de María, (2024).*
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/ShnTA4SuijY?si=xgObhgyU7f0r2yQu" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+ Rafael Antonio en Vistas de Sintonización, Montes de María, (2024).
 
 Para cacharrear no hace falta ser un experto, o tener experiencia en la construcción de redes, antenas o cables. Como don Rafael Antonio, tu también puedes animarte a colaborar con otros para crear un bien común. 
 
@@ -86,9 +134,21 @@ Desde 2023, hemos construido una relación súper cercana con la comunidad de La
 
 Sube el volumen para escuchar en sus propias palabras cómo fue esta experiencia, y cómo usar el internet en grupo ha transformado su territorio:
 
-<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-nepomuceno/insp-internetimprove-nepomuceno5.webm"></video>
-*Mariana Fernández, Visitas de Sintonización, Montes de María, (2024).*
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/oOtV6Qt_YdI?si=2O9sYK0ngOnrAAIU" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
 
+
+
+
+Mariana Fernández, Visitas de Sintonización, Montes de María, (2024).
 
 Gracias a la colaboración comunitaria y la implementación de soluciones como el KIT Rural, hoy San José del Peñón y La Haya cuentan con acceso comunitario a Internet, facilitando tanto el aprendizaje como el intercambio cultural en los Montes de María. 
 
