@@ -16,6 +16,7 @@ export const sharedPageComponents: SharedLayout = {
         props.fileData.frontmatter?.type === "section-index" &&
         props.fileData.slug !== "index",
     }),
+    Component.Comments(),
   ],
   footer: Component.Footer({
     links: {
