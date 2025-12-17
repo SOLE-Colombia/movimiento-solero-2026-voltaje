@@ -1,39 +1,41 @@
 ---
-title: SOLE Colombia somos TODOS
+title: "SOLE Colombia somos TODOS"
 lang: es
 slug: sole-colombia-somos-todos-inspiration-db
+
 categories:
-- Futuro
-- Internet
+  - Futuro
+  - Internet
+
+tags:
+  - Futuro
+  - Internet
+
 formato:
-- Video
+  - Video
+
+autor:
+  - Voltaje
+
+revision: "R2025"
+idioma: español
+
+aspectos:
+  - señal
+  - personas
+  - espacio
+
+fecha: "2025-10-11"
+
 draft: false
 traduccion: true
-aspectos:
-- señal
-- personas
-- espacio
-fecha: '2025-10-11'
+pie: false
+reaccion: true
+widget: true
 ---
 
-# SOLE Colombia somos TODOS
-
-Tags: Futuro, Internet
-Formato: Video
-R2025: revisado
-idioma: español
-pie: No
-reacción: Yes
-traducción: Yes
-widget ok: ok
 
 *Descarga esta Inspiración para usarla desconectado*
-
-[SOLE_Colombia_is_all_of_us_20250829.pdf](/downloads/sole-colombia-is-all-of-us-20250829.pdf)
-
-*Download this Inspiration to use it disconnected*
-
-[SOLE_Colombia_is_all_of_us_20250829.pdf](/downloads/sole-colombia-is-all-of-us-20250829-1.pdf)
 
 **Estamos creando un futuro equitativo y hermoso juntos, una Gran Pregunta a la vez.**
 
@@ -41,24 +43,15 @@ widget ok: ok
 
 **Sacudimos el statu quo** mediante la creación de **redes de comunidades** que aprenden más allá de las fronteras y las diferencias, **tendiendo puentes** entre las personas y las ideas hacia un mundo compartido más vibrante.
 
-[<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
   <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/JfFdzgHIWqk" 
+    src="https://www.youtube.com/embed/JfFdzgHIWqk"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
-</div>](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/JfFdzgHIWqk" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>)
-
+</div>
 ## Contenido relacionado
 
 - [SOLE Colombia: Lo que somos](/sole-colombia-lo-que-somos-inspiration-db)

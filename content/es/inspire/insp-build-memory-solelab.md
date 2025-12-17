@@ -1,31 +1,42 @@
 ---
-title: 'Metodología: ¿Cómo construir memoria en Ambientes de Aprendizaje Auto-organizado
-  SOLE LAB?'
+title: "¿Cómo construir memoria en un SOLE Lab?"
 lang: es
 slug: metodologia-como-construir-memoria-en-ambientes-de-aprendizaje-auto-organizado-sole-lab-inspiration-db
+
 categories:
-- Futuro
-- Memoria
-- Metodología
+  - Futuro
+  - Memoria
+  - Metodología
+
+tags:
+  - Futuro
+  - Memoria
+  - Metodología
+
 formato:
-- Texto
-traduccion: false
+  - Texto
+
+autor:
+  - Voltaje
+
+revision: "R2025"
+idioma: español
+
 aspectos:
-- señal
-- dispositivos
-- personas
-- espacio
-fecha: '2025-10-11'
+  - señal
+  - dispositivos
+  - personas
+  - espacio
+
+fecha: "2025-10-11"
+
+draft: false
+traduccion: false
+pie: false
+reaccion: false
+widget: true
 ---
 
-# Metodología: ¿Cómo construir memoria en Ambientes de Aprendizaje Auto-organizado SOLE LAB?
-
-Tags: Futuro, Memoria, Metodología
-Formato: Texto
-idioma: español
-pie: No
-reacción: No
-traducción: No
 
 **Propósito:** recopilar ágilmente la historia del SOLE Lab de Boca de Camarones desde la mirada de cada grupo de colaboradores (Comunidad Boca de Camarones, SOLE Colombia e Internet Society Foundation)
 
@@ -37,9 +48,9 @@ En grupos, cuenten la historia de vida del SOLE Lab. En viñetas de colores, dib
 - Última viñeta: ¿Qué es el SOLE Lab hoy y cómo se siente tenerlo?
 - Viñetas intermedias: hitos o momentos relevantes en la historia del SOLE Lab.
 
-2. ¿Cómo se conectan nuestras historias del SOLE Lab? Sobre un lienzo vamos a organizar los dibujos conectando las historias con lana
+1. ¿Cómo se conectan nuestras historias del SOLE Lab? Sobre un lienzo vamos a organizar los dibujos conectando las historias con lana
 
-3. ¿Cómo se conecta mi historia de vida con la historia del SOLE Lab?
+2. ¿Cómo se conecta mi historia de vida con la historia del SOLE Lab?
 
 **Desarrollo del dispositivo**
 

@@ -1,5 +1,5 @@
 ---
-title: Excelente
+title: Excelente - Parámetros de señal 3-4G
 lang: es
 slug: excelente-parametros-de-senal-3-4g
 aspectos:
@@ -7,9 +7,7 @@ aspectos:
 fecha: '2025-10-11'
 ---
 
-# Excelente
-
-RSRP: > -80 dBm
-RSRQ: > -10 dB
-RSSI: > -65 dBm
+RSRP: > -80 dBm <br>
+RSRQ: > -10 dB <br>
+RSSI: > -65 dBm <br>
 SINR: > 20 dB

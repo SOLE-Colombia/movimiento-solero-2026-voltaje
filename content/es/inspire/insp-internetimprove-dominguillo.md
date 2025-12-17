@@ -1,51 +1,52 @@
 ---
-title: ¿Cómo mejoró el Internet en Dominguillo, Cauca?
+title: "¿Cómo mejoró el Internet en Dominguillo, Cauca?"
 lang: es
 slug: como-mejoro-el-internet-en-dominguillo-cauca-inspiration-db
+
 categories:
-- Impacto
-- Internet
+  - Impacto
+  - Internet
+
+tags:
+  - Impacto
+  - Internet
+
 formato:
-- Foto
-- Texto
-- Video
+  - Foto
+  - Texto
+  - Video
+
+autor:
+  - Manu
+
+revision: "R2025"
+idioma: español
+
+aspectos:
+  - señal
+  - electricidad
+  - dispositivos
+  - personas
+  - espacio
+
+fecha: "2025-10-11"
+
 draft: false
 traduccion: true
-aspectos:
-- señal
-- electricidad
-- dispositivos
-- personas
-- espacio
-fecha: '2025-10-11'
+pie: true
+reaccion: true
+widget: true
 ---
 
-# ¿Cómo mejoró el Internet en Dominguillo, Cauca?
-
-Tags: Impacto, Internet
-Formato: Foto, Texto, Video
-Autor(es): Manu
-R2025: revisado
-idioma: español
-pie: Yes
-reacción: Yes
-traducción: Yes
-señal voltaje: 2025-02
-widget ok: ok
 
 *Descarga esta Inspiración para usarla desconectado*
-
-[https://www.notion.so](https://www.notion.so)
-
-*Download this Inspiration to use it disconnected*
-
-[https://www.notion.so](https://www.notion.so)
 
 En el año 2023, la comunidad de Dominguillo comenzó a vivir una transformación inesperada, gracias a una nueva oportunidad de conexión. Todo comenzó cuando, a través del programa *Hilando Vidas y Esperanza* de USAID, implementado por la OIM, llegó un dispositivo llamado *Jangala* a la biblioteca del colegio público de la comunidad. Este equipo permitía, por primera vez, ofrecer acceso a Internet estable, lo cual rápidamente se convirtió en un recurso invaluable para todos.
 
 Aquí está presentando el Jangala o a “Jang”, como decidieron llamarlo, Luis Miguel Mina -o Lucho, como lo conocemos todos- es uno de los Embajadores SOLE que formamos en el 2023: 
 
-[Franki, Lucho y Mateo en los Talleres de Inspiración en Dominguillo, Cauca (2023).](../../../¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a/20230517_SOLEWLH_Tallerdeinspiracion_Dominguillo_01(2).mov)
+<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-dominguillo/insp-internetimprove-dominguillo1.webm"></video>
+*Franki, Lucho y Mateo en los Talleres de Inspiración en Dominguillo, Cauca (2023).*
 
 Franki, Lucho y Mateo en los Talleres de Inspiración en Dominguillo, Cauca (2023).
 
@@ -67,6 +68,9 @@ El dispositivo se instaló en la biblioteca con el objetivo de facilitar sesione
 
 **Escucha a Luis Miguel Mina y Nancy Campo, hablar sobre esta experiencia:**
 
+<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-dominguillo/insp-internetimprove-dominguillo2.webm"></video>
+*Luis Miguel Mina y Nancy Campo
+Embajadores SOLE en Festivales SOLE Dominguillo, Santander de Quilichao (2023).*
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
@@ -88,23 +92,24 @@ Sin embargo, con el paso del tiempo la comunidad ya no pudo seguir utilizando la
 
 Y… ¿Adivinen qué? Juntos, trabajamos en el desarrollo del SOLE Lab, un espacio público en el que se instalaron sillas, mesas y computadoras y se restableció el acceso a Internet. Con el SOLE Lab, los habitantes de Dominguillo recuperaron la oportunidad de conectarse al mundo, continuar sus sesiones de SOLE y explorar nuevas formas de aprendizaje.
 
-<img src="/assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(317)-800w.webp" alt="Enchufa tu SOLE Lab, Dominguillo,  Cauca, (2024)." srcset="/assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(317)-400w.webp 400w, /assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(317)-800w.webp 800w, /assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(317)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
+![Espacio comunitario del SOLE Lab en Dominguillo, Cauca](../../../assets/images/insp-internetimprove-dominguillo/insp-internetimprove-dominguillo-beauty.webp)
+*SOLE Lab de Dominguillo, Cauca (2024).*
 
-Enchufa tu SOLE Lab, Dominguillo,  Cauca, (2024).
+![Actividades productivas y aprendizaje comunitario](../../../assets/images/insp-internetimprove-dominguillo/insp-internetimprove-dominguillo-harvest.webp)
+*Aprendizaje y trabajo comunitario en el SOLE Lab, Dominguillo (2024).*
 
-<img src="/assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(430)-800w.webp" alt="Enchufa tu SOLE Lab, Dominguillo,  Cauca, (2024)." srcset="/assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(430)-400w.webp 400w, /assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(430)-800w.webp 800w, /assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(430)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
+![Niños participando en sesiones SOLE](../../../assets/images/insp-internetimprove-dominguillo/insp-internetimprove-dominguillo-kids.webp)
+*Niños y jóvenes participando en sesiones SOLE, Dominguillo (2024).*
 
-Enchufa tu SOLE Lab, Dominguillo,  Cauca, (2024).
+![Videollamadas y conexión con el mundo](../../../assets/images/insp-internetimprove-dominguillo/insp-internetimprove-dominguillo-videocall.webp)
+*Conectividad y comunicación global desde Dominguillo, Cauca (2024).*
 
-<img src="/assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(92)-800w.webp" alt="Enchufa tu SOLE Lab, Dominguillo,  Cauca, (2024)." srcset="/assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(92)-400w.webp 400w, /assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(92)-800w.webp 800w, /assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(92)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
-
-Enchufa tu SOLE Lab, Dominguillo,  Cauca, (2024).
-
-<img src="/assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(492)-800w.webp" alt="Enchufa tu SOLE Lab, Dominguillo,  Cauca, (2024)." srcset="/assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(492)-400w.webp 400w, /assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(492)-800w.webp 800w, /assets\images\¿Cómo mejoró el Internet en Dominguillo, Cauca 1362bd68c5b6803d96d4ca2135943c9a\20241020_SOLEBOLT_Enchufa_Dominguillo_(492)-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />.jpg)
-
-Enchufa tu SOLE Lab, Dominguillo,  Cauca, (2024).
 
 Gracias a este esfuerzo, Dominguillo no solo mejoró su conexión a Internet, sino que fortaleció el vínculo de la comunidad. Ahora, el SOLE Lab es un punto de encuentro en el que los habitantes siguen aprendiendo y compartiendo sus conocimientos.
+<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-dominguillo/insp-internetimprove-dominguillo3.webm"></video>
+*Video del Enchufa Tu SOLE Lab en Dominguillo, Cauca, (2024).*
+
+https://notionreactions.com/embed/k85xN4ZHTsztwYX9QmCe
 
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">

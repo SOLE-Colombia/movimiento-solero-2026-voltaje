@@ -1,59 +1,57 @@
 ---
-title: ¿Cuándo fue la última vez que usaste el Internet en grupo?
+title: "¿Cuándo fue la última vez que usaste el Internet en grupo?"
 lang: es
 slug: cuando-fue-la-ultima-vez-que-usaste-el-internet-en-grupo-inspiration-db
+
 categories:
-- Pregunta Provocadora
+  - Pregunta Provocadora
+
+tags:
+  - Pregunta Provocadora
+
 formato:
-- Foto
-- Texto
+  - Foto
+  - Texto
+
+autor:
+  - Sanjay
+
+revision: "R2025"
+idioma: español
+
+aspectos:
+  - señal
+  - personas
+  - espacio
+
+fecha: "2025-10-11"
+
 draft: false
 traduccion: true
-aspectos:
-- señal
-- personas
-- espacio
-fecha: '2025-10-11'
+pie: true
+reaccion: true
+widget: true
 ---
-
-# ¿Cuándo fue la última vez que usaste el Internet en grupo?
-
-Tags: Pregunta Provocadora
-Formato: Foto, Texto
-Autor(es): Sanjay
-R2025: revisado
-idioma: español
-pie: Yes
-reacción: Yes
-traducción: Yes
 
 *Descarga esta Inspiración para usarla desconectado*
 
-[Cuando_fue_la_ultima_vez_que_usaste_el_Internet_en_grupo_20250829.pdf](/downloads/cuando-fue-la-ultima-vez-que-usaste-el-internet-en-grupo-20250829.pdf)
-
-*Download this Inspiration to use it disconnected*
-
-[When_was_the_last_time_you_used_the_Internet_in_a_group_20250829.pdf](/downloads/when-was-the-last-time-you-used-the-internet-in-a-group-20250829.pdf)
-
 Entonces, volvamos al inicio: ¿cuándo fue la última vez que usaste Internet en grupo? Tal vez ese recuerdo —compartir una búsqueda, una pantalla, una pregunta— sea el comienzo de otro Internet posible. La Biblioteca del Futuro es eso: la prueba de que otros Internets son posibles, y de que ya los estamos creando.
 
-![Recarga Tu SOLE Lab, El Tambo, Cauca.](https://cdn.prod.website-files.com/60ecebdfd98c8137563c01c1/68a3c61cd753633846d1d9c4_20240801_SOLE+BOLT_SOLELAB_Enchufa_ElTambo_  (235).jpeg)
-
-Recarga Tu SOLE Lab, El Tambo, Cauca.
+![Recarga Tu SOLE Lab, El Tambo, Cauca.](../../../assets/images/insp-internet-in-group/insp-internet-in-group-explanation.webp)
+*Recarga Tu SOLE Lab, El Tambo, Cauca.*
 
 Eso es lo que estamos creando con La Biblioteca del Futuro: un ecosistema donde el acceso no es el final, sino el punto de partida. Un espacio donde la red no sólo conecta dispositivos, sino también historias, dudas e intuiciones, un espacio para conectarnos a preguntar sin miedo.
 
 En los SOLE Labs hemos visto cómo, cuando una comunidad se reúne alrededor de una pantalla, algo cambia. Niñas, jóvenes y mayores preguntando juntos. El Internet deja de ser un flujo de información que consumimos a solas y se convierte en un territorio compartido. En grupo, surgen preguntas que no aparecen cuando estamos solos. Se mezclan memorias, se despierta la curiosidad, nacen proyectos colectivos. Usar Internet en grupo es, en sí mismo, un acto radical porque desafía la velocidad, el ruido y la instrucción de aceptar sin cuestionar.
 
-![Enchufa tu SOLE Lab en Dominguillo, Cauca.](https://cdn.prod.website-files.com/60ecebdfd98c8137563c01c1/687d8c39e4870485f4ee9ff6_20241020_SOLE+BOLT_Enchufa_Dominguillo (157).jpg)
-
-Enchufa tu SOLE Lab en Dominguillo, Cauca.
+![Enchufa tu SOLE Lab en Dominguillo, Cauca.](../../../assets/images/insp-internet-in-group/insp-internet-in-group-conversation.webp)
+*Enchufa tu SOLE Lab en Dominguillo, Cauca.*
 
 El Internet se ha convertido en un espacio personal de consumo, "estar conectados" no significa realmente estar conectado a otros o conectarnos con otros. Y eso es lo que cambia cuando usamos el internet en grupo.
 
-![Festival SOLE en Boca de Camarones, la Guajira.](https://cdn.prod.website-files.com/60ecebdfd98c8137563c01c1/68a3c5ac0b48461f60decf79_20240419_SOLE+BOLT_BocaDeCamarones_(88).jpg)
+![Festival SOLE en Boca de Camarones, la Guajira.](../../../assets/images/insp-internet-in-group/insp-internet-in-group-meeting.webp)
+*Festival SOLE en Boca de Camarones, la Guajira.*
 
-Festival SOLE en Boca de Camarones, la Guajira.
 
 Hoy, casi tres mil millones de personas en el mundo siguen desconectadas. Y esa exclusión digital atraviesa cuerpos, lenguas, paisajes. No es solo un problema técnico: es una manera silenciosa de decir quién cuenta y quién no. Pero eso no es todo, quienes tenemos acceso a Internet solemos usarlo, no para conectarnos, sino para aislarnos más de quienes nos rodean. Lo usamos para pedir comida, para enterarnos de la vida de los demás, para comprar cosas, para leer sobre lo que nos interesa. Rara vez lo usamos para cocinar con otros, para vernos con otros, para intercambiar saberes, para crear juntos.
 

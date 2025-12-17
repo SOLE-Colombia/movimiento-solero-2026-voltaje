@@ -1,29 +1,40 @@
 ---
-title: Aprendimos a jugar para reflexionar sobre el uso de bienes comunes
+title: "Recursos para uno, recursos para todos"
 lang: es
 slug: aprendimos-a-jugar-para-reflexionar-sobre-el-uso-de-bienes-comunes-inspiration-db
+
 categories:
-- Internet
-- Metodología
-- Soluciones
+  - Internet
+  - Metodología
+  - Soluciones
+
+tags:
+  - Internet
+  - Metodología
+  - Soluciones
+
 formato:
-- Video
-traduccion: false
+  - Video
+
+autor:
+  - Sanjay
+
+revision: "R2025"
+idioma: español
+
 aspectos:
-- señal
-- personas
-fecha: '2025-10-11'
+  - personas
+  - señal
+
+fecha: "2025-10-11"
+
+draft: false
+traduccion: false
+pie: false
+reaccion: false
+widget: true
 ---
 
-# Aprendimos a jugar para reflexionar sobre el uso de bienes comunes
-
-Tags: Internet, Metodología, Soluciones
-Formato: Video
-idioma: español
-pie: No
-reacción: No
-traducción: No
-widget ok: ok
 
 ¿Sabías que puedes usar el juego para crear acuerdos comunitarios? 💭
 
@@ -33,23 +44,16 @@ Este juego es una metáfora de la vida real. Los peces no solo son peces. 🌱 R
 
 Piénsalo de esta manera: imagina compartir un plan de internet con tus vecinos. Si todos lo usamos de manera consciente, podemos hacer que rinda más y beneficie a toda la comunidad. Pero si solo pensamos en nuestros propios intereses, el recurso se agota rápido y perjudica a todos¿Estás listo para hacer acuerdos con tu comunidad?
 
-[<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
   <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
     src="https://www.youtube.com/embed/-Rg8bLTbS1Y" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
-</div>](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/-Rg8bLTbS1Y" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>)
+</div>
+
 
 [https://notionreactions.com/embed/9j6OVQ7kDWIJg3zGxBrM](https://notionreactions.com/embed/9j6OVQ7kDWIJg3zGxBrM)
 
