@@ -37,17 +37,17 @@ Esta historia empieza en 2023, cuando llegamos a Calle Larga, en Buenaventura. A
 
 <h3>Visitas de Sintonización – La Delfina, Buenaventura</h3>
 
-<figure>
-  <video 
-    controls 
-    style="width: 100%; max-width: 900px; border-radius: 12px; margin: 1.5rem 0;">
-    <source src="/assets/videos/insp-howinternetworks-buenaventura.mp4" type="video/mp4">
-    Tu navegador no soporta la reproducción de video.
-  </video>
-  <figcaption>
-    Rosa Helena Mina, Visitas de Sintonización en La Delfina, Buenaventura, Valle del Cauca (2024).
-  </figcaption>
-</figure>
+<<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/b4IErNkjqT8?si=c_iHcTLQy6PCp4Sm" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
 
 
 Con el tiempo, Rosa Helena se convirtió en la “cacharrera” y Embajadora SOLE de la comunidad, siempre dispuesta a aprender y a ayudar a los demás a resolver cualquier problema de conexión que se presentara. Aquí en este video nos está contando cómo, poco a poco, fue aprendiendo y descubriendo qué tenía que hacer para tener una conexión de Internet más estable.
@@ -68,11 +68,32 @@ Jefferson es uno de esos jóvenes que no le tiene miedo a meterse con cables, ro
 
 Para que veas a Jefferson en acción, sube el volumen y escucha todo lo que tiene que decir sobre el cacharreo y lo que ha aprendido:
 
-[Jefferson Balcazar, Visitas de Sintonización en La Delfina, Buenaventura, (2024).](../../../How did the Internet improve in Buenaventura, Vall 25c2bd68c5b680389d77d3f1869a5e2e/20240611_SOLEWLH_Sintonizacin_LaDelfina66.1.mp4)
+<<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/5al7er98le0?si=QuHzLGi-VlM5pNM1" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
 
 Jefferson Balcazar, Visitas de Sintonización en La Delfina, Buenaventura, (2024).
 
-[Jefferson Balcazar, Visitas de Sintonización en La Delfina, Buenaventura, (2024).](../../../How did the Internet improve in Buenaventura, Vall 25c2bd68c5b680389d77d3f1869a5e2e/20240611_SOLEWLH_Sintonizacin_LaDelfina66.2.mp4)
+<<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/kQgeYdDjdw4?si=Ppchykln2FS0_sPs" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
 
 Jefferson Balcazar, Visitas de Sintonización en La Delfina, Buenaventura, (2024).
 
