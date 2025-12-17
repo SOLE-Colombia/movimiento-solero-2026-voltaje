@@ -2,21 +2,12 @@
 title: "Prueba #01 SOLE Voltaje"
 lang: es
 slug: prueba-01-sole-voltaje-inspiration-db
-
-categories:
-  - Metodología
-  - Prueba
-
+autor: Nicolás
 tags:
-  - Metodología
-  - Prueba
+  - Metodologías
 
 formato:
   - Texto
-
-autor:
-  - Zol
-  - SemiYa
 
 revision: "R2025"
 idioma: español
@@ -27,7 +18,7 @@ aspectos:
   - dispositivos
   - personas
 
-fecha: "2024-10-25"
+fecha: 2024-10-25
 
 draft: false
 traduccion: false
@@ -35,8 +26,6 @@ pie: false
 reaccion: false
 widget: true
 ---
-
-
 # Presentación
 
 Hola soy nicolás, el cacharerro en Voltaje, hoy les queremos compartir el diseño de esta **Prueba de usuario** que diseñamos y ejecutamos a principios de 2024. Aprendimos un montón en este proceso y nos gustaría que ustedes, pueden apropiarlos y usarlos para interacturar con sus comunidades.

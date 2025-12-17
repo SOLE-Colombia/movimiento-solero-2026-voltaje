@@ -2,18 +2,14 @@
 title: "¿Te has preguntado cómo llega el Internet, la luz o la señal móvil a ti?"
 lang: es
 slug: te-has-preguntado-como-llega-el-internet-la-luz-o-la-senal-movil-a-ti-inspiration-db
-
-categories:
-  - Pregunta Provocadora
-
+autor: Voltaje
 tags:
-  - Pregunta Provocadora
+  - Curiosidades
+  - Preguntas incómodas
+  - Sobre el internet
 
 formato:
   - Texto
-
-autor:
-  - Sanjay
 
 revision: "R2025"
 idioma: español
@@ -23,7 +19,7 @@ aspectos:
   - electricidad
   - personas
 
-fecha: "2024-10-23"
+fecha: 2024-10-23
 
 draft: false
 traduccion: false
@@ -31,7 +27,6 @@ pie: false
 reaccion: false
 widget: true
 ---
-
 Todos los días revisamos mensajes en nuestros celulares, prendemos una luz o recibimos una llamada telefónica. 
 
 Todo parece muy cotidiano, pero hace 150 años era magia cuando las ciudades como Bogotá - en Colombia - veían el milagro de la luz eléctrica por primera vez. 

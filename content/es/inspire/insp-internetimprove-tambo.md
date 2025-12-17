@@ -2,22 +2,14 @@
 title: "¿Cómo mejoró el Internet en El Tambo, Cauca?"
 lang: es
 slug: como-mejoro-el-internet-en-el-tambo-cauca-inspiration-db
-
-categories:
-  - Impacto
-  - Internet
-
+autor: Voltaje
 tags:
-  - Impacto
-  - Internet
+  - Historias potentes
 
 formato:
   - Foto
   - Texto
   - Video
-
-autor:
-  - Manu
 
 revision: "R2025"
 idioma: español
@@ -28,7 +20,7 @@ aspectos:
   - personas
   - espacio
 
-fecha: "2025-10-11"
+fecha: 2025-10-11
 
 draft: false
 traduccion: true
@@ -36,7 +28,6 @@ pie: true
 reaccion: true
 widget: true
 ---
-
 *Descarga esta Inspiración para usarla desconectado*
 
 **¿Alguna vez has imaginado un lugar donde toda una comunidad pueda conectarse a Internet, aprender y crear juntos?** En El Tambo, Cauca, ese sueño era una necesidad compartida.

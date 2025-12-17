@@ -2,22 +2,14 @@
 title: "¿Cómo mejoró el Internet en Dominguillo, Cauca?"
 lang: es
 slug: como-mejoro-el-internet-en-dominguillo-cauca-inspiration-db
-
-categories:
-  - Impacto
-  - Internet
-
+autor: Voltaje
 tags:
-  - Impacto
-  - Internet
+  - Historias potentes
 
 formato:
   - Foto
   - Texto
   - Video
-
-autor:
-  - Manu
 
 revision: "R2025"
 idioma: español
@@ -29,7 +21,7 @@ aspectos:
   - personas
   - espacio
 
-fecha: "2025-10-11"
+fecha: 2025-10-11
 
 draft: false
 traduccion: true
@@ -37,8 +29,6 @@ pie: true
 reaccion: true
 widget: true
 ---
-
-
 *Descarga esta Inspiración para usarla desconectado*
 
 En el año 2023, la comunidad de Dominguillo comenzó a vivir una transformación inesperada, gracias a una nueva oportunidad de conexión. Todo comenzó cuando, a través del programa *Hilando Vidas y Esperanza* de USAID, implementado por la OIM, llegó un dispositivo llamado *Jangala* a la biblioteca del colegio público de la comunidad. Este equipo permitía, por primera vez, ofrecer acceso a Internet estable, lo cual rápidamente se convirtió en un recurso invaluable para todos.

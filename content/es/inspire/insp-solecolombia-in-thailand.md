@@ -2,14 +2,9 @@
 title: "¡SOLE Colombia llega a Tailandia!"
 lang: es
 slug: sole-colombia-llega-a-tailandia-inspiration-db
-
-categories:
-  - Impacto
-  - Internet
-
+autor: Voltaje
 tags:
-  - Impacto
-  - Internet
+  - Historias potentes
 
 formato:
   - Video
@@ -20,7 +15,7 @@ aspectos:
   - personas
   - espacio
 
-fecha: "2025-10-11"
+fecha: 2025-10-11
 draft: false
 traduccion: true
 idioma: español
@@ -28,8 +23,6 @@ widget: true
 reaccion: true
 pie: true
 ---
-
-
 *Descarga esta Inspiración para usarla desconectado*
 
 Volamos más de 40 horas ✈️🌏 para llevar el Aprendizaje Auto Organizado (SOLE) a más lugares del mundo. 🌎💡 En Myanmar, la educación está tomando otro rumbo con esta metodología que empodera a niños, jóvenes y adultos👧👦 a aprender siguiendo su curiosidad. 💭

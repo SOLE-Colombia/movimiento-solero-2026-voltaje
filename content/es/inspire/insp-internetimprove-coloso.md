@@ -2,22 +2,14 @@
 title: "¿Cómo mejoró el Internet en Colosó, Montes de María?"
 lang: es
 slug: como-mejoro-el-internet-en-coloso-montes-de-maria-inspiration-db
-
-categories:
-  - Impacto
-  - Internet
-
+autor: Voltaje
 tags:
-  - Impacto
-  - Internet
+  - Historias potentes
 
 formato:
   - Foto
   - Texto
   - Video
-
-autor:
-  - Manu
 
 revision: "R2025"
 idioma: español
@@ -27,7 +19,7 @@ aspectos:
   - personas
   - espacio
 
-fecha: "2025-10-11"
+fecha: 2025-10-11
 
 draft: false
 traduccion: true
@@ -35,8 +27,6 @@ pie: true
 reaccion: true
 widget: true
 ---
-
-
 *Descarga esta Inspiración para usarla desconectado*
 
 La Estación y el Cabildo Indígena La Esmeralda están a solo 15 minutos en moto el uno del otro. Ambas son comunidades vecinas del municipio colombiano de Colosó, en el departamento de Sucre. Hasta hace poco, ninguna de estas comunidades contaba con un espacio público para acceder al Internet en grupo. Sin embargo, desde 2023, se han aventurado a utilizar las soluciones de conectividad que juntos instalamos en su territorio para impulsar el Aprendizaje Auto Organizado.

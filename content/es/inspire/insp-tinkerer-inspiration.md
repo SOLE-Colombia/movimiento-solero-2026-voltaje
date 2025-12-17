@@ -2,18 +2,13 @@
 title: "En grupo, solucionamos mejor"
 lang: es
 slug: inspiracion-cacharrera-inspiration-db
-
-categories:
-  - Aprendizajes
-
+autor: Mateo
 tags:
-  - Aprendizajes
+  - Historias potentes
+  - Sobre el internet
 
 formato:
   - Texto
-
-autor:
-  - Voltaje
 
 revision: "R2025"
 idioma: español
@@ -23,7 +18,7 @@ aspectos:
   - personas
   - espacio
 
-fecha: "2025-10-11"
+fecha: 2025-10-11
 
 draft: false
 traduccion: false
@@ -31,8 +26,6 @@ pie: false
 reaccion: false
 widget: true
 ---
-
-
 ¿Tener internet es para ti es un problema? En un mundo en el que no todos tenemos internet y en el que cada vez nos sentimos más solos,  hay comunidades que se han unido para responder a Grandes Preguntas de la vida mientras construyen redes de conectividad que les han permitido mejorar su internet y fortelecer su tejido comunitario a través de Ambientes de Aprendizaje Auto-organizado SOLE. Estas comunidades utilizan antenas comunitarias, tecnologías de bajo costo y un espíritu cacharrero y de colaboración para superar barreras y solucionar problemas de conectividad que antes parecían insuperables. 
 
 ¿Y si es allí, en esta voluntad para solucionar problemas de conectividad el lugar en el que nace el futuro del internet? ¿Y si cada conexión a internet fuera una conexión vital entre historias de vida que se unen para cambiar el mundo juntos? Ya no queremos ser espectadores, sino protagonistas de nuestra propia historia. 

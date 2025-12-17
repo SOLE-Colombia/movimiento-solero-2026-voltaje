@@ -2,15 +2,16 @@
 title: ¿Has buscado información en internet para arreglar un problema de tu casa?
 lang: es
 slug: information-solve-issues-home-inspire
-categories:
-- Pregunta Provocadora
+autor: Voltaje
+tags:
+  - Vamos a romper
+  - Te ha pasado
 traduccion: false
 aspectos:
 - señal
 - personas
-fecha: '2025-10-11'
+fecha: 2025-10-11
 ---
-
 ## ¿Has buscado información en internet para arreglar un problema de tu casa?
 
 Tags: Pregunta Provocadora

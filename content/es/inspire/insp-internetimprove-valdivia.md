@@ -2,22 +2,12 @@
 title: "¿Cómo mejoró el Internet en Valdivia, Antioquia?"
 lang: es
 slug: como-mejoro-el-internet-en-valdivia-antioquia-inspiration-db
-
-categories:
-  - Impacto
-  - Internet
-
-tags:
-  - Impacto
-  - Internet
+autor: Voltaje
 
 formato:
   - Foto
   - Texto
   - Video
-
-autor:
-  - Manu
 
 revision: "R2025"
 idioma: español
@@ -27,7 +17,7 @@ aspectos:
   - personas
   - espacio
 
-fecha: "2025-10-11"
+fecha: 2025-10-11
 
 draft: false
 traduccion: true
@@ -35,7 +25,6 @@ pie: true
 reaccion: true
 widget: true
 ---
-
 *Descarga esta Inspiración para usarla desconectado*
 
 KM15 es el punto geográfico en la vía que conduce al Corregimiento de Puerto Valdivia desde la cabecera municipal. También es el el nombre de la comunidad asentada en este lugar. La vida en *Km15 -*kilómetro 15, como suena en español- discurre junto a la carretera que la conecta con el resto del mundo… o no. Si situación geográfica es una metáfora de su situación digital: el muchos lugares el Internet es algo cotidiano, allí se siente lejano.

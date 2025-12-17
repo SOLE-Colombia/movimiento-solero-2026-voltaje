@@ -2,18 +2,12 @@
 title: "SOLE Colombia: ¿Quiénes somos?"
 lang: es
 slug: sole-colombia-lo-que-somos-inspiration-db
-
-categories:
-  - Aprendizajes
-
+autor: Manuela
 tags:
-  - Aprendizajes
+  - De Voltaje a SOLE
 
 formato:
   - Video
-
-autor:
-  - Voltaje
 
 revision: "R2024"
 idioma: español
@@ -23,7 +17,7 @@ aspectos:
   - personas
   - espacio
 
-fecha: "2024-10-24"
+fecha: 2024-10-24
 
 draft: false
 traduccion: false
@@ -31,7 +25,6 @@ pie: false
 reaccion: false
 widget: true
 ---
-
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
   <iframe 
     src="https://www.youtube.com/embed/F50DtSwJ0cQ"

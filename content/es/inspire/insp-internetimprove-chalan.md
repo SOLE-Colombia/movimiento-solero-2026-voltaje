@@ -2,22 +2,14 @@
 title: "¿Cómo mejoró el Internet en Chalán, Montes de María?"
 lang: es
 slug: como-mejoro-el-internet-en-chalan-montes-de-maria-inspiration-db
-
-categories:
-  - Impacto
-  - Internet
-
+autor: Voltaje
 tags:
-  - Impacto
-  - Internet
+  - Historias potentes
 
 formato:
   - Foto
   - Texto
   - Video
-
-autor:
-  - Manu
 
 revision: "R2025"
 idioma: español
@@ -26,7 +18,7 @@ aspectos:
   - señal
   - personas
 
-fecha: "2025-10-11"
+fecha: 2025-10-11
 
 draft: false
 traduccion: true
@@ -34,7 +26,6 @@ pie: true
 reaccion: true
 widget: true
 ---
-
 *Descarga esta Inspiración para usarla desconectado*
 
 Chalán es un municipio en el departamento de Sucre, Colombia. En esta región,

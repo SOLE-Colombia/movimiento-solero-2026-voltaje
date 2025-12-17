@@ -2,18 +2,12 @@
 title: "La Nube de Abuelitas: qué pasa cuando no hay conexión"
 lang: es
 slug: la-nube-de-abuelitas-que-pasa-cuando-no-hay-conexion-inspiration-db
-
-categories:
-  - Aprendizajes
-
+autor: Belén
 tags:
-  - Aprendizajes
+  - De Voltaje a SOLE
 
 formato:
   - Texto
-
-autor:
-  - Bel
 
 revision: "R2025"
 idioma: español
@@ -22,7 +16,7 @@ aspectos:
   - señal
   - personas
 
-fecha: "2024-10-25"
+fecha: 2024-10-25
 
 draft: false
 traduccion: true
@@ -30,8 +24,6 @@ pie: false
 reaccion: true
 widget: true
 ---
-
-
 *Descarga esta Inspiración para usarla desconectado*
 
 

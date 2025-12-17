@@ -2,21 +2,15 @@
 title: La fantástica historia de cómo Nico construyó su manera de tener internet.
 lang: es
 slug: te-has-preguntado-como-mejorar-tu-conexion-a-internet-inspiration-db
-
-categories:
-  - Internet
-  - Soluciones
-
+autor: Manuela
 tags:
-  - Internet
-  - Soluciones
+  - Te ha pasado
+  - Vamos a romper
+  - Curiosidades
 
 formato:
   - Video
   - Texto
-
-autor:
-  - Manu
 
 revision: "R2025"
 idioma: español
@@ -25,7 +19,7 @@ aspectos:
   - señal
   - dispositivos
 
-fecha: "2024-10-23"
+fecha: 2024-10-23
 
 draft: false
 traduccion: false

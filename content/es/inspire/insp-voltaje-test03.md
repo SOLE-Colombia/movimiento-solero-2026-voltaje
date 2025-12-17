@@ -2,21 +2,12 @@
 title: "Prueba #03 SOLE Voltaje"
 lang: es
 slug: prueba-03-sole-voltaje-inspiration-db
-
-categories:
-  - Metodología
-  - Prueba
-
+autor: Nicolás
 tags:
-  - Metodología
-  - Prueba
+  - Metodologías
 
 formato:
   - Texto
-
-autor:
-  - Zol
-  - SemiYa
 
 revision: "R2025"
 idioma: español
@@ -26,7 +17,7 @@ aspectos:
   - dispositivos
   - personas
 
-fecha: "2024-10-25"
+fecha: 2024-10-25
 
 draft: false
 traduccion: false
@@ -34,8 +25,6 @@ pie: false
 reaccion: false
 widget: true
 ---
-
-
 ## Taller Tierra Común
 
 **Título:** Creación de dispositivos para reflexionar sobre nuestra autonomía tecnológica

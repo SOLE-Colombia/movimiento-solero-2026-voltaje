@@ -2,22 +2,12 @@
 title: "Trayectoria socio-técnica · Comunidad de Cacharreras"
 lang: es
 slug: trayectoria-socio-tecnica-comunidad-de-cacharreras-inspiration-db
-
-categories:
-  - Aprendizajes
-  - Bitácora
-  - Memoria
-
+autor: Voltaje
 tags:
-  - Aprendizajes
-  - Bitácora
-  - Memoria
+  - Metodologías
 
 formato:
   - Texto
-
-autor:
-  - Voltaje
 
 revision: "R2025"
 idioma: español
@@ -28,7 +18,7 @@ aspectos:
   - personas
   - espacio
 
-fecha: "2025-10-11"
+fecha: 2025-10-11
 
 draft: false
 traduccion: false
@@ -36,8 +26,6 @@ pie: false
 reaccion: false
 widget: true
 ---
-
-
 Nos propusimos crear este espacio divergente que estas explorando llamado **SOLE Voltaje: La Guía de soluciones para la conectividad.** En esta bitácora encontrarás el relato del desarrollo de multiplicidad de experimentos que diseñamos y ejecutamos con el fin de mejorar la experiencia de usuario y la interacción con nuestra comunidad de cacharreras. A continuación encuentras una bitácora organizada en macro-eventos y micro-eventos donde se despliega el relato de lo acontecido a la luz de la herramienta analítica de las “trayectorias socio-técnicas”.
 
 - Macro-eventos: Son unas fases que diseñamos para el desarrollo y puesta en marcha de SOLE Voltaje. Se pueden ver en el siguiente esquema:

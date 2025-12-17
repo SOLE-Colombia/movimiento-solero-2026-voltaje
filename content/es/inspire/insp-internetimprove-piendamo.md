@@ -2,22 +2,14 @@
 title: "¿Cómo mejoró el Internet en Piendamó, Cauca?"
 lang: es
 slug: como-mejoro-el-internet-en-piendamo-cauca-inspiration-db
-
-categories:
-  - Impacto
-  - Internet
-
+autor: Voltaje
 tags:
-  - Impacto
-  - Internet
+  - Historias potentes
 
 formato:
   - Foto
   - Texto
   - Video
-
-autor:
-  - Manu
 
 revision: "R2025"
 idioma: español
@@ -26,7 +18,7 @@ aspectos:
   - señal
   - personas
 
-fecha: "2025-10-11"
+fecha: 2025-10-11
 
 draft: false
 traduccion: true
@@ -34,7 +26,6 @@ pie: true
 reaccion: true
 widget: true
 ---
-
 *Descarga esta Inspiración para usarla desconectado*
 
 El programa *Hilando Vidas y Esperanza* de USAID y OIM llevó a SOLE Colombia a El Agrado. Juntos, hemos trabajado por reducir la brecha digital, llevando acceso a Internet a comunidades aisladas, dándole un propósito a la conexión: usar Internet juntos para aprender de forma auto-organizada y autónoma. Desde 2023, Piendamó, Cauca, protagoniza esta historia de cambio. 

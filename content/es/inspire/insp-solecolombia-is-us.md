@@ -2,20 +2,13 @@
 title: "SOLE Colombia somos TODOS"
 lang: es
 slug: sole-colombia-somos-todos-inspiration-db
-
-categories:
-  - Futuro
-  - Internet
-
+autor: Voltaje
 tags:
-  - Futuro
-  - Internet
+  - De Voltaje a SOLE
+  - Historias potentes
 
 formato:
   - Video
-
-autor:
-  - Voltaje
 
 revision: "R2025"
 idioma: español
@@ -25,7 +18,7 @@ aspectos:
   - personas
   - espacio
 
-fecha: "2025-10-11"
+fecha: 2025-10-11
 
 draft: false
 traduccion: true
@@ -33,8 +26,6 @@ pie: false
 reaccion: true
 widget: true
 ---
-
-
 *Descarga esta Inspiración para usarla desconectado*
 
 **Estamos creando un futuro equitativo y hermoso juntos, una Gran Pregunta a la vez.**

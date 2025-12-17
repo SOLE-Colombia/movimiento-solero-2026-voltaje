@@ -2,18 +2,12 @@
 title: "Todo comienza con una Gran Pregunta"
 lang: es
 slug: todo-comienza-con-una-gran-pregunta-inspiration-db
-
-categories:
-  - Aprendizajes
-
+autor: Voltaje
 tags:
-  - Aprendizajes
+  - De Voltaje a SOLE
 
 formato:
   - Texto
-
-autor:
-  - Voltaje
 
 revision: "R2025"
 idioma: español
@@ -24,7 +18,7 @@ aspectos:
   - personas
   - espacio
 
-fecha: "2025-10-11"
+fecha: 2025-10-11
 
 draft: false
 traduccion: true
@@ -32,8 +26,6 @@ pie: true
 reaccion: true
 widget: true
 ---
-
-
 *Descarga esta solución para usarla desconectado*
 
 Esta es una experiencia para despertar la curiosidad de cualquier persona en el mundo que la lleve a utilizar el Internet en grupo para aprender. 

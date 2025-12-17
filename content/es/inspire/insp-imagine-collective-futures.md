@@ -2,21 +2,13 @@
 title: "¿Cómo imaginar futuros en comunidad?"
 lang: es
 slug: metodologia-como-imaginar-futuros-en-comunidad-inspiration-db
-
-categories:
-  - Futuro
-  - Metodología
-
+autor: Voltaje
 tags:
-  - Futuro
-  - Metodología
+  - Metodologías
 
 formato:
   - Foto
   - Texto
-
-autor:
-  - Voltaje
 
 revision: "R2025"
 idioma: español
@@ -25,7 +17,7 @@ aspectos:
   - dispositivos
   - personas
 
-fecha: "2025-10-11"
+fecha: 2025-10-11
 
 draft: false
 traduccion: false
@@ -33,8 +25,6 @@ pie: false
 reaccion: false
 widget: true
 ---
-
-
 **Instrucciones:**
 
 1. Se organizan por parejas conformadas por 1 persona del Equipo SOLE y 1 persona de Boca de Camarones:

@@ -2,21 +2,12 @@
 title: "Prueba #02 SOLE Voltaje"
 lang: es
 slug: prueba-02-sole-voltaje-inspiration-db
-
-categories:
-  - Metodología
-  - Prueba
-
+autor: Nicolás
 tags:
-  - Metodología
-  - Prueba
+  - Metodologías
 
 formato:
   - Texto
-
-autor:
-  - Zol
-  - SemiYa
 
 revision: "R2025"
 idioma: español
@@ -25,7 +16,7 @@ aspectos:
   - electricidad
   - personas
 
-fecha: "2024-10-25"
+fecha: 2024-10-25
 
 draft: false
 traduccion: false
@@ -33,7 +24,6 @@ pie: false
 reaccion: false
 widget: true
 ---
-
 **Protocolo para la prueba 02 de la Guía de Soluciones**
 
 *Fecha: 2024.20.02*

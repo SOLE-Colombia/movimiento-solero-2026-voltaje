@@ -2,18 +2,12 @@
 title: "La esquina del cacharreo"
 lang: es
 slug: la-esquina-del-cacharreo-inspiration-db
-
-categories:
-  - Aprendizajes
-
+autor: Nicolás
 tags:
-  - Aprendizajes
+  - Vamos a romper
 
 formato:
   - Texto
-
-autor:
-  - Voltaje
 
 revision: "R2024"
 idioma: español
@@ -21,7 +15,7 @@ idioma: español
 aspectos:
   - general
 
-fecha: "2024-10-21"
+fecha: 2024-10-21
 
 draft: false
 traduccion: false
@@ -29,8 +23,6 @@ pie: false
 reaccion: false
 widget: true
 ---
-
-
 # El inventario poético
 
 Zer, niño, ser otr_.

@@ -2,22 +2,14 @@
 title: "¿Cómo mejoró el Internet en Nuevo México, Santander de Quilichao?"
 lang: es
 slug: como-mejoro-el-internet-en-nuevo-mexico-santander-de-quilichao-inspiration-db
-
-categories:
-  - Impacto
-  - Internet
-
+autor: Voltaje
 tags:
-  - Impacto
-  - Internet
+  - Historias potentes
 
 formato:
   - Foto
   - Texto
   - Video
-
-autor:
-  - Manu
 
 revision: "R2025"
 idioma: español
@@ -27,7 +19,7 @@ aspectos:
   - electricidad
   - personas
 
-fecha: "2025-10-11"
+fecha: 2025-10-11
 
 draft: false
 traduccion: true
@@ -35,7 +27,6 @@ pie: true
 reaccion: true
 widget: true
 ---
-
 *Descarga esta Inspiración para usarla desconectado*
 
 ¿Cariño, voluntad de cambio y reconciliación? Se vive en la vereda Nuevo México, la comunidad Nasa Kiwe Tekh Kxsaw ubicada en Santander de Quilichao. 

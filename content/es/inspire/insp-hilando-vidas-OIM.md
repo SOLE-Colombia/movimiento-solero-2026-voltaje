@@ -2,22 +2,12 @@
 title: "SOLE + Hilando Vidas y Esperanza 2022"
 lang: es
 slug: sole-hilando-vidas-y-esperanza-2022-inspiration-db
-
-categories:
-  - Futuro
-  - Impacto
-  - Internet
-
+autor: Voltaje
 tags:
-  - Futuro
-  - Impacto
-  - Internet
+  - Historias potentes
 
 formato:
   - Video
-
-autor:
-  - Voltaje
 
 revision: "R2025"
 idioma: español
@@ -27,7 +17,7 @@ aspectos:
   - electricidad
   - personas
 
-fecha: "2025-10-11"
+fecha: 2025-10-11
 
 draft: false
 traduccion: false
@@ -35,8 +25,6 @@ pie: false
 reaccion: false
 widget: true
 ---
-
-
 En el 2022 SOLEamos 15 comunidades de tres Regiones  maravillosas donde:
 
 - Formamos Exploradores que identificaron a las personas más increíbles dentro de sus Comunidades para ser Embajadores SOLE.

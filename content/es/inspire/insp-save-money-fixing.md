@@ -2,14 +2,14 @@
 title: ¿Eres de los que les gusta ahorrar dinero solucionando las cosas tú mismo?
 lang: es
 slug: eres-de-los-que-les-gusta-ahorrar-dinero-solucionando-las-cosas-tu-mismo-inspiration-db
-categories:
-- Pregunta Provocadora
+autor: Voltaje
+tags:
+  - Vamos a romper
 traduccion: false
 aspectos:
 - personas
-fecha: '2025-10-11'
+fecha: 2025-10-11
 ---
-
 # ¿Eres de los que les gusta ahorrar dinero solucionando las cosas tú mismo?
 
 Tags: Pregunta Provocadora

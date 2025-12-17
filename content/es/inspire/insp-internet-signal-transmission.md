@@ -2,20 +2,12 @@
 title: "¿Cómo viaja un mensaje desde tu celular hasta el de tus amigos?"
 lang: es
 slug: como-se-transmite-la-senal-de-internet-inspiration-db
-
-categories:
-  - Internet
-  - Soluciones
-
+autor: Belén
 tags:
-  - Internet
-  - Soluciones
+  - Sobre el internet
 
 formato:
   - Texto
-
-autor:
-  - Bel
 
 revision: "R2025"
 idioma: español
@@ -24,7 +16,7 @@ aspectos:
   - señal
   - dispositivos
 
-fecha: "2025-10-11"
+fecha: 2025-10-11
 
 draft: false
 traduccion: true
@@ -32,7 +24,6 @@ pie: true
 reaccion: true
 widget: true
 ---
-
 *Descarga esta Inspiración para usarla desconectado*
 
 La señal de Internet se transmite **a través de infraestructura física como cables de fibra óptica y cobre, así como por ondas de radio (Wi-Fi) y, en menor medida, vía satélite o redes móviles (4G/5G)**. Los datos se convierten en pulsos eléctricos o luminosos (bits) que viajan por estos medios hasta su destino, utilizando routers y otros equipos para enviar y recibir la información.

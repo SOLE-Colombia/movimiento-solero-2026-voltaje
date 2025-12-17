@@ -2,22 +2,14 @@
 title: "¿Cómo mejoró el Internet en Cáceres, Antioquia?"
 lang: es
 slug: como-mejoro-el-internet-en-caceres-antioquia-inspiration-db
-
-categories:
-  - Impacto
-  - Internet
-
+autor: Voltaje
 tags:
-  - Impacto
-  - Internet
+  - Historias potentes
 
 formato:
   - Foto
   - Texto
   - Video
-
-autor:
-  - Manu
 
 revision: "R2025"
 idioma: español
@@ -27,7 +19,7 @@ aspectos:
   - electricidad
   - personas
 
-fecha: "2025-10-11"
+fecha: 2025-10-11
 senal_voltaje: "2025-02"
 
 draft: false
@@ -36,7 +28,6 @@ pie: true
 reaccion: true
 widget: true
 ---
-
 *Descarga esta Inspiración para usarla desconectado*
 
 [Cmo_mejor_el_Internet_en_Cceres_Antioquia_20250829.pdf](/downloads/cmo-mejor-el-internet-en-cceres-antioquia-20250829.pdf)

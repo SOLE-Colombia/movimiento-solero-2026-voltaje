@@ -2,20 +2,14 @@
 title: "Nos conectamos a Internet con una caja"
 lang: es
 slug: amplificamos-nuestro-internet-y-el-de-muchas-comunidades-a-traves-de-una-caja-inspiration-db
-
-categories:
-  - Internet
-  - Soluciones
-
+autor: Manuela
 tags:
-  - Internet
-  - Soluciones
+  - Historias potentes
+  - De Voltaje a SOLE
+  - Curiosidades
 
 formato:
   - Video
-
-autor:
-  - Manu
 
 revision: "R2025"
 idioma: español
@@ -26,7 +20,7 @@ aspectos:
   - dispositivos
   - personas
 
-fecha: "2025-10-11"
+fecha: 2025-10-11
 
 draft: false
 traduccion: false
@@ -34,8 +28,6 @@ pie: false
 reaccion: false
 widget: true
 ---
-
-
 📶 ¿Una Cajota? ¿El regalo del Niño Dios? 🎁 ¿Una caja misteriosa? No, ¡es Jangala! Una de las soluciones de conectividad de SOLE Voltaje: un solo aparato, fácil de instalar, compacto y práctico.
 
 Con uno de estos, ya tienes una red de internet que toda la comunidad puede compartir. 😍 ¿Te imaginas?

@@ -2,18 +2,12 @@
 title: "Preguntas y respuestas sobre la experiencia de ser una Abuelita"
 lang: es
 slug: preguntas-y-respuestas-sobre-la-experiencia-de-ser-una-abuelita-inspiration-db
-
-categories:
-  - Aprendizajes
-
+autor: Voltaje
 tags:
-  - Aprendizajes
+  - De Voltaje a SOLE
 
 formato:
   - Texto
-
-autor:
-  - Bel
 
 revision: "R2025"
 idioma: español
@@ -21,7 +15,7 @@ idioma: español
 aspectos:
   - personas
 
-fecha: "2025-10-11"
+fecha: 2025-10-11
 
 draft: false
 traduccion: true
@@ -29,7 +23,6 @@ pie: false
 reaccion: true
 widget: true
 ---
-
 *Descarga esta Inspiración para usarla desconectado*
 
 ## **¿Cuánto tiempo es el mínimo que debo comprometerme con las sesiones?**

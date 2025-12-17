@@ -2,22 +2,13 @@
 title: "Recursos para uno, recursos para todos"
 lang: es
 slug: aprendimos-a-jugar-para-reflexionar-sobre-el-uso-de-bienes-comunes-inspiration-db
-
-categories:
-  - Internet
-  - Metodología
-  - Soluciones
-
+autor: Manuela
 tags:
-  - Internet
-  - Metodología
-  - Soluciones
+  - Metodologías
+  - De Voltaje a SOLE
 
 formato:
   - Video
-
-autor:
-  - Sanjay
 
 revision: "R2025"
 idioma: español
@@ -26,7 +17,7 @@ aspectos:
   - personas
   - señal
 
-fecha: "2025-10-11"
+fecha: 2025-10-11
 
 draft: false
 traduccion: false
@@ -34,8 +25,6 @@ pie: false
 reaccion: false
 widget: true
 ---
-
-
 ¿Sabías que puedes usar el juego para crear acuerdos comunitarios? 💭
 
 En el Juego de los Peces, aprendemos a través de una experiencia sencilla pero poderosa: mientras más pescamos para nosotros, menos peces quedan para los demás. Pero cuando trabajamos juntos, logramos que haya suficiente para todos.

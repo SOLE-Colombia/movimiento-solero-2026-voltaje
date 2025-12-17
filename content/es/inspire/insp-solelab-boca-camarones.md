@@ -2,24 +2,13 @@
 title: "Construimos un SOLE Lab en la Guajira para usar el Internet en grupo"
 lang: es
 slug: el-sole-lab-la-biblioteca-del-futuro-descubre-como-se-vive-en-boca-de-camarones-inspiration-db
-
-categories:
-  - Futuro
-  - Impacto
-  - Internet
-  - SOLE Lab
-
+autor: Voltaje
 tags:
-  - Futuro
-  - Impacto
-  - Internet
-  - SOLE Lab
+  - De Voltaje a SOLE
+  - Historias potentes
 
 formato:
   - Video
-
-autor:
-  - Manu
 
 revision: "R2025"
 idioma: español
@@ -30,7 +19,7 @@ aspectos:
   - personas
   - espacio
 
-fecha: "2025-10-11"
+fecha: 2025-10-11
 
 draft: false
 traduccion: false
@@ -38,8 +27,6 @@ pie: false
 reaccion: false
 widget: true
 ---
-
-
 No todo el mundo tiene un espacio público con conectividad
 para hacer SOLE; para aprender a aprender en grupo usando el
 internet; ni para ¡hacer parche alrededor del internet!  Sin embargo, con alegría les contamos que logramos construir este espacio soñado. Vean de qué se trata la Biblioteca del Futuro, y cómo se vive en la comunidad de Boca de Camarones, donde juntos construimos nuestro primer SOLELab.

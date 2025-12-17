@@ -2,18 +2,12 @@
 title: "¿Qué es el Internet?"
 lang: es
 slug: que-es-el-internet-una-cobija-de-solidaridad-inspiration-db
-
-categories:
-  - Internet
-
+autor: Sanjay
 tags:
-  - Internet
+  - Sobre el internet
 
 formato:
   - Texto
-
-autor:
-  - Sanjay
 
 revision: "R2025"
 idioma: español
@@ -23,7 +17,7 @@ aspectos:
   - dispositivos
   - espacio
 
-fecha: "2025-10-11"
+fecha: 2025-10-11
 
 draft: false
 traduccion: true
@@ -31,8 +25,6 @@ pie: true
 reaccion: true
 widget: true
 ---
-
-
 *Descarga esta Inspiración para usarla desconectado*
 
 Cuando piensas en el Internet, ¿qué es lo primero que se te viene a la cabeza? 
