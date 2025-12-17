@@ -1,0 +1,47 @@
+nombre git	nombre	name	tipo	estado	autor	tags	notas de forma	notas de contenido
+conc-antenna	Antena	Antenna	Concepto	Publicado		Dispositivos, Redes y conexiones		
+conc-3g-4g-antennas	Antena 3/4G	3/4G Antenna	Concepto	Publicado	Belén	Dispositivos, Redes y conexiones		
+conc-yagi-antenna	Antena tipo Yagi	Yagi antenna	Concepto	Publicado	Belén	Dispositivos, Redes y conexiones		
+conc-coaxial-cable	Cable coaxial	Coaxial cable	Concepto	Publicado		Redes y conexiones		
+conc-rg6-cable	Cable RG6	RG6 Cable	Concepto	Publicado	Belén	Redes y conexiones		
+conc-canva	Canva	Canva	Concepto	Publicado	Belén	Programas y aplicaciones		
+conc-client	Cliente informático	Computer Client	Concepto	Publicado	Belén	Funcionamiento del computador, Redes y conexiones, Términos del mundo virtual		
+conc-imei-code	Código IMEI	IMEI Code	Concepto	Publicado	Belén	Seguridad e identificación, Términos del mundo virtual		
+conc-lte-4g-connection	Conexión 4G o LTE	LTE or 4G Connection	Concepto	Publicado	Belén	Redes y conexiones		
+conc-edge-connection	Conexión EDGE	EDGE Connection	Concepto	Publicado	Belén	Redes y conexiones		
+conc-usb-connection	Conexión USB	USD Connection	Concepto	Publicado	Belén	Redes y conexiones		
+conc-ethernet	Conexión/ cable Ethernet	Ethernet cable/ connection	Concepto	Publicado	Belén	Redes y conexiones		
+conc-firewall	Cortafuegos (firewall)	Firewall	Concepto	Publicado	Belén	Seguridad e identificación, Funcionamiento del computador		
+conc-daemon	Demonio (servicio o programa)	Daemon (service or program)	Concepto	Publicado	Belén	Funcionamiento del computador, Términos del mundo virtual		
+conc-hostapd-daemon	Demonio Hostapd	Hostapd Daemon	Concepto	Publicado	Belén	Funcionamiento del computador, Redes y conexiones		
+conc-ip-address	Dirección IP	IP Address	Concepto	Publicado	Belén	Seguridad e identificación, Redes y conexiones, Términos del mundo virtual		
+conc-dns	DNS - Sistema de Nombres de Dominio	DNS - Domain Name System	Concepto	Publicado		Redes y conexiones, Términos del mundo virtual		
+conc-gprs	GPRS (Servicio General de Paquetes Vía Radio)	GPRS (General Packet Radio Services)	Concepto	Publicado	Belén	Redes y conexiones, Términos del mundo virtual		
+conc-ssid-identifier	Identificador SSID	SSID Identifier	Concepto	Publicado	Belén	Seguridad e identificación, Redes y conexiones		
+conc-interface	Interfaz	Interface	Concepto	Publicado	Belén	Funcionamiento del computador, Términos del mundo virtual		
+conc-local-network	LAN - Red local	LAN - Local Area Network	Concepto	Publicado		Redes y conexiones		
+conc-latency	Latencia	Latency	Concepto	Publicado		Redes y conexiones, Términos del mundo virtual		
+conc-ram-memory	Memoria RAM	RAM Memory	Concepto	Publicado		Almacenamiento, Funcionamiento del computador		
+conc-sdmemory	Memoria SD/ MiniSD/ MicroSD	SD/ MiniSD/ MicroSD Memory	Concepto	Publicado	Belén	Almacenamiento		
+conc-swap-memory	Memoria SWAP	SWAP Memory	Concepto	Publicado	Belén	Almacenamiento, Funcionamiento del computador		
+conc-mifi-modem	Módem MiFi	MiFi Modem	Concepto	Publicado	Belén	Dispositivos, Redes y conexiones		
+conc-router	Módem, router o enrutador	Modem or router	Concepto	Publicado		Dispositivos, Redes y conexiones		
+conc-domain-name	Nombre de dominio	Domain name	Concepto	Publicado	Belén	Términos del mundo virtual, Seguridad e identificación		
+conc-username	Nombre de usuario	Username	Concepto	Publicado	Belén	Seguridad e identificación		
+conc-ping-program	Programa ping	Ping program	Concepto	Publicado	Belén	Programas y aplicaciones, Redes y conexiones		
+conc-dhcp-protocol	Protocolo DHCP	DHCP Protocol	Concepto	Publicado	Belén	Redes y conexiones		
+conc-ssh-protocol	Protocolo SSH	SSH Protocol	Concepto	Publicado	Belén	Seguridad e identificación, Redes y conexiones		
+conc-raspberry-pi	Raspberry Pi	Raspberry Pi	Concepto	Publicado		Dispositivos, Funcionamiento del computador		
+conc-2g-net	Red 2G	2G Net	Concepto	Publicado	Belén	Redes y conexiones		
+conc-dnsmasq	Redireccionador DNS y servidor DHCP ligero	Dnsmasq	Concepto	Publicado	Belén	Redes y conexiones, Funcionamiento del computador		
+conc-server	Servidor	Server	Concepto	Publicado	Belén	Funcionamiento del computador, Redes y conexiones		
+conc-command-prompt	Símbolo de sistema CMD	Command Prompt CMD	Concepto	Publicado	Belén	Funcionamiento del computador		
+conc-information-system	Sistema informático (SI)	Information system (IS)	Concepto	Publicado	Belén	Funcionamiento del computador		
+conc-operating-system	Sistema operativo (SO)	Operating system (OS)	Concepto	Publicado	Belén	Funcionamiento del computador		
+conc-simcard	Tarjeta SIM	SIM Card	Concepto	Publicado	Belén	Dispositivos, Seguridad e identificación		
+conc-hspa-technology	Tecnología HSPA (Acceso de Paquetes de Alta Velocidad)	HSPA Technology	Concepto	Publicado	Belén	Redes y conexiones		
+conc-smartphone	Teléfono móvil inteligente	Smartphone	Concepto	Publicado	Belén	Dispositivos		
+conc-terminal	Terminal o consola	Terminal or console	Concepto	Publicado	Belén	Funcionamiento del computador		
+conc-umts	UMTS (Sistema Universal de Telecomuniaciones Móviles	UMTS (Universal Mobile Telecommunications System)	Concepto	Publicado	Belén	Redes y conexiones		
+conc-whatsapp	WhatsApp	WhatsApp	Concepto	Publicado	Belén	Programas y aplicaciones, Términos del mundo virtual		
+conc-wireless-fidelity	WiFi - Fidelidad Inalámbrica	WiFi - Wireless Fidelity	Concepto	Publicado	Belén	Redes y conexiones, Términos del mundo virtual		.
