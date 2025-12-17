@@ -1,30 +1,40 @@
 ---
-title: Amplificamos nuestro Internet y el de muchas comunidades a través de una caja
+title: "Nos conectamos a Internet con una caja"
 lang: es
 slug: amplificamos-nuestro-internet-y-el-de-muchas-comunidades-a-traves-de-una-caja-inspiration-db
+
 categories:
-- Internet
-- Soluciones
+  - Internet
+  - Soluciones
+
+tags:
+  - Internet
+  - Soluciones
+
 formato:
-- Video
-traduccion: false
+  - Video
+
+autor:
+  - Manu
+
+revision: "R2025"
+idioma: español
+
 aspectos:
-- señal
-- electricidad
-- dispositivos
-- personas
-fecha: '2025-10-11'
+  - señal
+  - electricidad
+  - dispositivos
+  - personas
+
+fecha: "2025-10-11"
+
+draft: false
+traduccion: false
+pie: false
+reaccion: false
+widget: true
 ---
 
-# Amplificamos nuestro Internet y el de muchas comunidades a través de una caja
-
-Tags: Internet, Soluciones
-Formato: Video
-idioma: español
-pie: No
-reacción: No
-traducción: No
-widget ok: ok
 
 📶 ¿Una Cajota? ¿El regalo del Niño Dios? 🎁 ¿Una caja misteriosa? No, ¡es Jangala! Una de las soluciones de conectividad de SOLE Voltaje: un solo aparato, fácil de instalar, compacto y práctico.
 
@@ -34,23 +44,15 @@ Pero espera... ¿y si esa red la usas para aprender juntos, usando computadores 
 
 Esto es lo que puedes lograr con el Big Box de Jangala y SOLE. ¡Pura sabrosura tecnológica! 🙌🔥
 
-[<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
   <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
     src="https://www.youtube.com/embed/Fox3N4QHVN4" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
-</div>](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/Fox3N4QHVN4" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>)
+</div>
 
 [https://notionreactions.com/embed/MjQAmFPDih5VhYSFoEAL](https://notionreactions.com/embed/MjQAmFPDih5VhYSFoEAL)
 

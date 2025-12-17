@@ -9,13 +9,11 @@ aspectos:
 fecha: '2025-10-11'
 ---
 
-# La escuela está un poco lejos
-
 Soluciones para tener un lugar de encuentro para utilizar el Internet en grupo
 
 ---
 
-[Sin título](La escuela está un poco lejos 2602bd68c5b68167b62dff26cc7bbd78/Sin título 2602bd68c5b681f4b6e3cdf9d48a048e.csv)
+[Sin título](La escuela está un poco lejos 1292bd68c5b6816c9d67c938fa8b4262/Sin título 1292bd68c5b6818f9542f82b0cfe491e.csv)
 
 ---
 

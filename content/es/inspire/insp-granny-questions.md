@@ -1,36 +1,36 @@
 ---
-title: Preguntas y respuestas sobre la experiencia de ser una Abuelita
+title: "Preguntas y respuestas sobre la experiencia de ser una Abuelita"
 lang: es
 slug: preguntas-y-respuestas-sobre-la-experiencia-de-ser-una-abuelita-inspiration-db
+
 categories:
-- Aprendizajes
+  - Aprendizajes
+
+tags:
+  - Aprendizajes
+
 formato:
-- Texto
+  - Texto
+
+autor:
+  - Bel
+
+revision: "R2025"
+idioma: español
+
+aspectos:
+  - personas
+
+fecha: "2025-10-11"
+
 draft: false
 traduccion: true
-aspectos:
-- personas
-fecha: '2025-10-11'
+pie: false
+reaccion: true
+widget: true
 ---
 
-# Preguntas y respuestas sobre la experiencia de ser una Abuelita
-
-Tags: Aprendizajes
-Formato: Texto
-R2025: revisado
-idioma: español
-pie: No
-reacción: Yes
-traducción: Yes
-widget ok: ok
-
 *Descarga esta Inspiración para usarla desconectado*
-
-[Preguntas_y_respuestas_sobre_la_experiencia_de_ser_una_Abuelita_20250829.pdf](/downloads/preguntas-y-respuestas-sobre-la-experiencia-de-ser-una-abuelita-20250829.pdf)
-
-*Download this Inspiration to use it disconnected*
-
-[https://www.notion.so](https://www.notion.so)
 
 ## **¿Cuánto tiempo es el mínimo que debo comprometerme con las sesiones?**
 

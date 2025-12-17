@@ -1,39 +1,39 @@
 ---
-title: 'La Nube de Abuelitas: qué pasa cuando no hay conexión'
+title: "La Nube de Abuelitas: qué pasa cuando no hay conexión"
 lang: es
 slug: la-nube-de-abuelitas-que-pasa-cuando-no-hay-conexion-inspiration-db
+
 categories:
-- Aprendizajes
+  - Aprendizajes
+
+tags:
+  - Aprendizajes
+
 formato:
-- Texto
-fecha: 25 de octubre de 2024
+  - Texto
+
+autor:
+  - Bel
+
+revision: "R2025"
+idioma: español
+
+aspectos:
+  - señal
+  - personas
+
+fecha: "2024-10-25"
+
 draft: false
 traduccion: true
-aspectos:
-- señal
-- personas
+pie: false
+reaccion: true
+widget: true
 ---
 
-# La Nube de Abuelitas: qué pasa cuando no hay conexión
-
-Tags: Aprendizajes
-Formato: Texto
-Autor(es): Bel
-R2025: revisado
-idioma: español
-pie: No
-reacción: Yes
-traducción: Yes
-widget ok: ok
-Created Date: 25 de octubre de 2024
 
 *Descarga esta Inspiración para usarla desconectado*
 
-[La_Nube_de_Abuelitas_qu_pasa_cuando_no_hay_conexin_20250829.pdf](/downloads/la-nube-de-abuelitas-qu-pasa-cuando-no-hay-conexin-20250829.pdf)
-
-*Download this Inspiration to use it disconnected*
-
-[La_Nube_de_Abuelitas_what_happens_when_there_is_no_Internet_connection_20250829.pdf](/downloads/la-nube-de-abuelitas-what-happens-when-there-is-no-internet-connection-20250829.pdf)
 
 Hay una pregunta que me hacen mucho cuando cuento qué hace una Abuelita en un SOLE: *¿qué pasa si no hay conexión?* La respuesta es fácil de contar, pero no es fácil de comprender. Siempre digo: ¡uno resuelve! y las personas me miran preguntándose “pero si es una videollamada y no hay conexión, *¿qué sentido tiene ser la Abuelita del SOLE?”*
 

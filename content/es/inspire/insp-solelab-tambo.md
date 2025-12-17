@@ -1,30 +1,39 @@
 ---
-title: Inauguramos nuestro segundo SOLE Lab en El Tambo, Cauca
+title: "¡El segundo SOLE Lab ya está en el Cauca! ¿Te gustaría ser parte de la Biblioteca del Futuro?"
 lang: es
 slug: inauguramos-nuestro-segundo-sole-lab-en-el-tambo-cauca-inspiration-db
+
 categories:
-- Evento
-- Impacto
+  - Evento
+  - Impacto
+
+tags:
+  - Evento
+  - Impacto
+
 formato:
-- Video
-traduccion: false
-aspectos:
-- señal
-- electricidad
-- personas
-- espacio
-fecha: '2025-10-11'
----
+  - Video
 
-# Inauguramos nuestro segundo SOLE Lab en El Tambo, Cauca
+autor:
+  - Manu
 
-Tags: Evento, Impacto
-Formato: Video
+revision: "R2025"
 idioma: español
-pie: No
-reacción: No
-traducción: No
-widget ok: ok
+
+aspectos:
+  - señal
+  - electricidad
+  - personas
+  - espacio
+
+fecha: "2025-10-11"
+
+draft: false
+traduccion: false
+pie: false
+reaccion: false
+widget: true
+---
 
 ¡La Segunda Biblioteca del Futuro en el barrio Obrero del Tambo ya es una realidad! ✨
 
@@ -32,7 +41,7 @@ Hoy, niños, jóvenes y adultos tienen un lugar público con conexión a Interne
 
 🧠💻 Un espacio donde las ideas se transforman en acción, donde soñar es manifestar. ¡Felicitaciones, comunidad del Tambo! 🎊 ¡Aquí está su SOLE Lab esperándoles con las puertas abiertas! 🔓
 
-[20240801_SOLE+BOLT_SOLELAB_Enchufa_ElTambo.mp4](../../../We inaugurated our second SOLE Lab in El Tambo, Ca 2632bd68c5b6802380cfd83464bbc5b6/20240801_SOLEBOLT_SOLELAB_Enchufa_ElTambo.mp4)
+**Youtube video**
 
 ---
 

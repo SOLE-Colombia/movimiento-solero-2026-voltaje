@@ -1,67 +1,115 @@
 ---
-title: ¿Cómo mejoró el Internet en Cáceres, Antioquia?
+title: "¿Cómo mejoró el Internet en Cáceres, Antioquia?"
 lang: es
 slug: como-mejoro-el-internet-en-caceres-antioquia-inspiration-db
+
 categories:
-- Impacto
-- Internet
+  - Impacto
+  - Internet
+
+tags:
+  - Impacto
+  - Internet
+
 formato:
-- Foto
-- Texto
-- Video
+  - Foto
+  - Texto
+  - Video
+
+autor:
+  - Manu
+
+revision: "R2025"
+idioma: español
+
+aspectos:
+  - señal
+  - electricidad
+  - personas
+
+fecha: "2025-10-11"
+senal_voltaje: "2025-02"
+
 draft: false
 traduccion: true
-aspectos:
-- señal
-- electricidad
-- personas
-fecha: '2025-10-11'
+pie: true
+reaccion: true
+widget: true
 ---
-
-# ¿Cómo mejoró el Internet en Cáceres, Antioquia?
-
-Tags: Impacto, Internet
-Formato: Foto, Texto, Video
-Autor(es): Manu
-R2025: revisado
-idioma: español
-pie: Yes
-reacción: Yes
-traducción: Yes
-señal voltaje: 2025-02
-widget ok: ok
 
 *Descarga esta Inspiración para usarla desconectado*
 
 [Cmo_mejor_el_Internet_en_Cceres_Antioquia_20250829.pdf](/downloads/cmo-mejor-el-internet-en-cceres-antioquia-20250829.pdf)
 
-*Download this Inspiration to use it disconnected*
-
-[How_did_the_Internet_improve_in_Cceres_Antioquia_20250829.pdf](/downloads/how-did-the-internet-improve-in-cceres-antioquia-20250829.pdf)
-
-En la comunidad de Altos del Tigre, en el municipio de Cáceres, cinco líderes comunitarios están convirtiendo en realidad algo casi imposible: mejorar el acceso a Internet en su comunidad. 
+En la comunidad de Altos del Tigre, en el municipio de Cáceres, cinco líderes comunitarios están convirtiendo en realidad algo casi imposible: mejorar el acceso a Internet en su comunidad.
 
 Yadiris Vaquero, Luz Cenith Acevedo, Kenia Yepes, Blanca Ofir Moreno y David Ojeda, Embajadores SOLE de su comunidad, llevan tiempo trabajando para que tener Internet deje de ser un tesoro escondido en su territorio. Porque sí, en Cáceres como en muchos lugares alrededor de Colombia, la conexión siempre ha sido un lujo.
 
-Este año, sin embargo, algo cambió. A partir de la Visita de Sintonización, por allá en el mes de mayo, Los Embajadores y otros miembros de la comunidad aprovecharon para aprender juntos cómo funciona eso del Internet y por qué, precisamente en Cáceres, tener señal era todo un desafío. ¿La respuesta? Básicamente, porque en kilómetros a la redonda no hay antenas y la infraestructura de telecomunicaciones es mínima.
+Este año, sin embargo, algo cambió. A partir de la Visita de Sintonización, por allá en el mes de mayo, los Embajadores y otros miembros de la comunidad aprovecharon para aprender juntos cómo funciona eso del Internet y por qué, precisamente en Cáceres, tener señal era todo un desafío. ¿La respuesta? Básicamente, porque en kilómetros a la redonda no hay antenas y la infraestructura de telecomunicaciones es mínima.
 
 Pero esto no los desanimó. Al contrario, se pusieron manos a la obra. Evaluaron la situación, buscaron soluciones y, con el apoyo del programa, lograron dar con la opción ideal para ellos: un dispositivo *Jangala*. Este pequeño pero poderoso aparato hace posible conectar comunidades en zonas de difícil acceso, y para los habitantes de Cáceres fue como una puerta hacia un nuevo mundo.
 
-[Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).](../../../How did the Internet improved in Cáceres, Antioqui 2602bd68c5b68058aac3cb67800ab59f/20240627_SOLEWLH_Sintonizacin_Antioquia_AltosdelTigre_(24).mp4)
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/-RRzZSddDeg?si=23QI-C7PEm7_ttml"
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
 
 Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).
 
-[Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).](../../../How did the Internet improved in Cáceres, Antioqui 2602bd68c5b68058aac3cb67800ab59f/20240627_SOLEWLH_Sintonizacin_Antioquia_AltosdelTigre_(25).2.mp4)
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/im4zjtecU9I?si=TWHD9I7gojUUIPu4"
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
 
 Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).
 
-Así, gracias al Jangala y al esfuerzo de los Embajadores SOLE, y de todas las personas de la comunidad que se unieron para lograr instalar esta solución, Cáceres ahora cuenta con Internet en un punto de acceso comunitario. 
+Así, gracias al Jangala y al esfuerzo de los Embajadores SOLE, y de todas las personas de la comunidad que se unieron para lograr instalar esta solución, Cáceres ahora cuenta con Internet en un punto de acceso comunitario.
 
-[Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).](../../../How did the Internet improved in Cáceres, Antioqui 2602bd68c5b68058aac3cb67800ab59f/20240627_SOLEWLH_Sintonizacin_Antioquia_AltosdelTigre_(62).mp4)
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/d83Py5QEgDs?si=fJdMHxDn--f15hR4" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
 
 Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).
 
-[Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).](../../../How did the Internet improved in Cáceres, Antioqui 2602bd68c5b68058aac3cb67800ab59f/20240627_SOLEWLH_Sintonizacin_Antioquia_AltosdelTigre_(52).mp4)
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/dgvFpUhsfjw?si=Iqltpzy60H62VX1B"
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
 
 Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).
 
@@ -71,9 +119,24 @@ Escucha lo que tiene por decir uno de los vecinos cacharreros, que se animó a p
 
 [Arnulfo, Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).](../../../How did the Internet improved in Cáceres, Antioqui 2602bd68c5b68058aac3cb67800ab59f/20240627_SOLEWLH_Sintonizacin_Antioquia_AltosdelTigre_(105).5.mp4)
 
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/1udzbfKgNVE?si=wNV0qIZAgcpMlj-i"
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+
 Arnulfo, Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).
 
 El trabajo de Yadiris, Luz Cenith, Kenia, Blanca Ofir y David Ojeda ha marcado un antes y un después en Cáceres. Hoy, gracias a su dedicación y al Jangala, la comunidad no solo tiene Internet, sino que está transformando cómo lo usa, descubriendo, compartiendo y creando muchas posibilidades para su comunidad.
+
 
 [https://notionreactions.com/embed/O9WkVwpNvvWvKfV7fX4t](https://notionreactions.com/embed/O9WkVwpNvvWvKfV7fX4t)
 
