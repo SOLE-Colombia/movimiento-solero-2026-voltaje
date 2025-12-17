@@ -11,24 +11,6 @@ fecha: '2025-10-11'
 
 # ¿Quieres compartir tu internet sin cables? Configura tu Raspberry Pi
 
-Created: 24 de febrero de 2025 8:02
-Autor: Gabriel
-Solucionas: Señal
-Dificultad: Promedio
-Cuesta: >$ 100 COP
-Ayudantes: Nadie
-Tardas: Minutos
-pilar/senal: 2: Aporta señal intermitente (Antena casera)
-pilar/electricidad: No consigues electricidad
-impacto/personas: 1
-impacto/sostenibilidad: 0: Se mantiene solo
-recursos/dinero: 0: Sin dinero
-recursos/personas: 2: Entre 2 y 3 personas
-recursos/tiempo: 0: Minutos
-2025-prueba: No
-
-
-
 ## Comparte tu internet de bolsillo
 
 

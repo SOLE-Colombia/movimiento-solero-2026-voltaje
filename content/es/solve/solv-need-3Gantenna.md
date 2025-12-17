@@ -11,27 +11,6 @@ aspectos:
 fecha: '2025-07-30'
 ---
 
-
-Created: 30 de julio de 2025 15:18
-Autor: Sanjay
-Solucionas: Personas, Señal
-Dificultad: Tranqui
-Cuesta: Gasto mensual
-Ayudantes: Nadie
-Tardas: Horas
-pilar/dispositivos: 0: No aporta a equipos
-pilar/espacio: 3: Aporta a que haya un espacio permanente dedicado (SOLE Lab Aula digital)
-pilar/personas: 3: Aporta a que haya una comunidad organizada con varios líderes
-pilar/senal: 3: Aporta señal permanente (Antena comercial instalada)
-pilar/electricidad: No consigues electricidad
-impacto/sostenibilidad: 2: Medio
-recursos/dinero: 4: Gasto mensual
-recursos/personas: 3: Más de 3 personas
-recursos/tiempo: 2: Días
-2025-prueba: No
-
-
-
 ## **Comprar una antena para tener mejor calidad de señal de Internet móvil**
 
 ## Bienvenida

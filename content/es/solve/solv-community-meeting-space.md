@@ -8,17 +8,6 @@ aspectos:
 fecha: '2024-10-25'
 ---
 
-
-Created: 25 de octubre de 2024 13:36
-Autor: Manuela
-Solucionas: Espacio
-Dificultad: Fácil
-Cuesta: Gratis
-Ayudantes: 2-3 personas
-Tardas: Días
-2025-prueba: No
-
-
 ## Los espacios públicos también son tuyos
 
 

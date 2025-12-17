@@ -8,19 +8,6 @@ aspectos:
 fecha: '2025-7-10'
 ---
 
-
-
-Created: 10 de julio de 2025 16:09
-Autor: Belén
-Solucionas: Dispositivos, Señal
-Dificultad: Fácil
-Cuesta: Gratis
-Ayudantes: Nadie
-Tardas: Minutos
-2025-prueba: No
-
-
-
 # Verifica la calidad real de tu conexión
 
 

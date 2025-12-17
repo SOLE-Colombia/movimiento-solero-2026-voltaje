@@ -9,18 +9,6 @@ aspectos:
 fecha: '2025-7-29'
 ---
 
-
-
-Created: 29 de julio de 2025 17:33
-Autor: Belén, Nicolás
-Solucionas: Dispositivos, Personas, Señal
-Dificultad: Tranqui
-Cuesta: $100-200 COP
-Ayudantes: 2-3 personas
-Tardas: Días
-2025-prueba: No
-
-
 ## **Reiniciar y compartir el internet de su teléfono con otros**
 
 

@@ -8,24 +8,6 @@ aspectos:
 fecha: '2024-10-25'
 ---
 
-
-Created: 25 de octubre de 2024 13:36
-Autor: Sanjay
-Solucionas: Señal
-Dificultad: Promedio
-Cuesta: Gasto mensual
-Ayudantes: 2-3 personas
-Tardas: Horas
-pilar/espacio: 0: No aporta a tener un espacio público
-pilar/senal: 3: Aporta señal permanente (Antena comercial instalada)
-impacto/personas: 20
-impacto/sostenibilidad: 2: Medio
-recursos/dinero: 4: Gasto mensual
-recursos/dificultad: 2: Necesita estar inmerso en un lenguaje nuevo y seguir pocas instrucciones sencillas (Instalar una app y aprender a usarla)
-2025-prueba: No
-
-
-
 ## Instalar una antena, para tener Internet en un espacio fijo
 
 ![Bienvenida](/assets/images/solv-need-3Gantenna/solve-need-3Gantenna-welcome.webp)

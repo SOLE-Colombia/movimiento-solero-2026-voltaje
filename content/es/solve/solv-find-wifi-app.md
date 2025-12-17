@@ -10,28 +10,6 @@ aspectos:
 fecha: '2025-02-24'
 ---
 
-
-Created: 24 de febrero de 2025 5:18
-Autor: Belén
-Solucionas: Señal
-Dificultad: Promedio
-Cuesta: Gratis
-Ayudantes: Nadie
-Tardas: Minutos
-pilar/dispositivos: 0: No aporta a equipos
-pilar/espacio: 0: No aporta a tener un espacio público
-pilar/personas: 0: No aporta a reunir personas
-pilar/senal: 2: Aporta señal intermitente (Antena casera)
-pilar/electricidad: No consigues electricidad
-impacto/personas: 1
-impacto/sostenibilidad: 0: Se mantiene solo
-recursos/dinero: 0: Sin dinero
-recursos/personas: 0: Nadie
-recursos/tiempo: 0: Minutos
-2025-prueba: No
-
-
-
 ## Encuentra las redes disponibles a tu alrededor
 
 

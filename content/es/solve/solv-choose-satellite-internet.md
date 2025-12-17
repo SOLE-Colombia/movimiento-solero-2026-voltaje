@@ -7,18 +7,6 @@ aspectos:
 fecha: '2025-10-25'
 ---
 
-
-Created: 25 de octubre de 2024 13:36
-Autor: Nicolás
-Solucionas: Señal
-Dificultad: Promedio
-Cuesta: Gratis
-Ayudantes: Nadie
-Tardas: Horas
-2025-prueba: No
-
-
-
 ## Invierte bien tu dinero para instalar Internet
 
 ![Antena 3 4G](assets/images/solv-chooseinternet/solv-chooseinternet-tower.webp)

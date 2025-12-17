@@ -10,26 +10,6 @@ aspectos:
 fecha: '2024-09-26'
 ---
 
-
-Created: 26 de septiembre de 2024 15:08
-Autor: Manuela
-Solucionas: Señal
-Dificultad: Promedio
-Cuesta: Gratis
-Ayudantes: 2-3 personas
-Tardas: Horas
-pilar/dispositivos: 0: No aporta a equipos
-pilar/espacio: 0: No aporta a tener un espacio público
-pilar/personas: 0: No aporta a reunir personas
-pilar/senal: 3: Aporta señal permanente (Antena comercial instalada)
-pilar/electricidad: No consigues electricidad
-impacto/personas: 30
-impacto/sostenibilidad: 0: Se mantiene solo
-recursos/dinero: 0: Sin dinero
-recursos/personas: 2: Entre 2 y 3 personas
-recursos/tiempo: 1: Horas
-2025-prueba: No
-
 ## **Algunos consejos para sacarle el mayor provecho al router**
 
 

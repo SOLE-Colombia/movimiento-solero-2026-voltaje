@@ -9,18 +9,6 @@ aspectos:
 fecha: '2025-10-11'
 ---
 
-
-Created: 10 de julio de 2025 16:51
-Autor: Nicolás
-Solucionas: Dispositivos, Personas, Señal
-Dificultad: Tranqui
-Cuesta: $100-200 COP
-Ayudantes: 2-3 personas
-Tardas: Días
-2025-prueba: No
-
-
-
 ## Algunas organizaciones que apoyan el internet a bajo coste
 
 

@@ -10,28 +10,6 @@ aspectos:
 fecha: '2024-10-25'
 ---
 
-
-Created: 25 de octubre de 2024 13:36
-Autor: Nicolás
-Solucionas: Dispositivos
-Dificultad: Fácil
-Cuesta: >\$200 COP
-Ayudantes: Nadie
-Tardas: Horas
-pilar/dispositivos: 1: Aporta para tener dispositivos unipersonales (Celulares)
-pilar/espacio: 0: No aporta a tener un espacio público
-pilar/personas: 0: No aporta a reunir personas
-pilar/senal: 0: No aporta señal
-pilar/electricidad: No consigues electricidad
-impacto/personas: 1
-impacto/sostenibilidad: 1: Bajo
-recursos/dinero: 3: \$ 200 COP >
-recursos/personas: 0: Nadie
-recursos/tiempo: 1: Horas
-2025-prueba: No
-
-
-
 ## Comprar un celular que se ajuste a tus capacidades y necesidades
 
 ![Cellmodels](assets/images/solv-buy-cellphone/solv-buy-cellphone-cellmodels.webp)

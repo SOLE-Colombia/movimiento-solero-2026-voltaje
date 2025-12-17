@@ -10,27 +10,6 @@ aspectos:
 fecha: '2024-10-25'
 ---
 
-
-Created: 25 de octubre de 2024 13:36
-Autor: Nicolás
-Solucionas: Señal
-Dificultad: Tranqui
-Cuesta: >$200 COP
-Ayudantes: Nadie
-Tardas: Minutos
-pilar/dispositivos: 1: Aporta para tener dispositivos unipersonales (Celulares)
-pilar/espacio: 0: No aporta a tener un espacio público
-pilar/personas: 0: No aporta a reunir personas
-pilar/senal: 3: Aporta señal permanente (Antena comercial instalada)
-pilar/electricidad: No consigues electricidad
-impacto/sostenibilidad: 0: Se mantiene solo
-recursos/dinero: 0: Sin dinero
-recursos/personas: 1: Una persona
-recursos/tiempo: 0: Minutos
-2025-prueba: No
-
-
-
 ## Comprar un plan de celular que se ajuste a tus capacidades y necesidades
 
 ![Particularneeds](assets/images/solv-buy-cellplan/solv-buy-cellplan-particularneeds.webp)

@@ -7,16 +7,6 @@ aspectos:
 fecha: '2024-10-25'
 ---
 
-Created: 25 de octubre de 2024 13:36
-Autor: Manuela
-Solucionas: Personas
-Dificultad: Fácil
-Cuesta: >$ 100 COP
-Ayudantes: Una persona
-Tardas: Horas
-2025-prueba: Yes
-
-
 ## Un mensaje potente puede cambiar el mundo, conecta con tu propósito
 
 

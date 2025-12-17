@@ -6,19 +6,6 @@ aspectos:
 - general
 fecha: '2024-10-25'
 ---
-
-
-
-Created: 25 de octubre de 2024 13:36
-Autor: Manuela
-Solucionas: Personas
-Dificultad: Fácil
-Cuesta: Gratis
-Ayudantes: Una persona
-Tardas: Horas
-impacto/personas: 100
-2025-prueba: No
-
 ---
 
 ## La forma, es importante

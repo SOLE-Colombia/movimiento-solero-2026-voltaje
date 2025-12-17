@@ -9,25 +9,6 @@ aspectos:
 fecha: '2024-10-25'
 ---
 
-
-Created: 25 de octubre de 2024 13:36
-Autor: Sanjay
-Solucionas: Señal
-Dificultad: Fácil
-Cuesta: $100-200 COP
-Ayudantes: Nadie
-Tardas: Horas
-pilar/dispositivos: 0: No aporta a equipos
-pilar/espacio: 0: No aporta a tener un espacio público
-pilar/personas: 0: No aporta a reunir personas
-pilar/senal: 3: Aporta señal permanente (Antena comercial instalada)
-impacto/personas: 3
-recursos/dinero: 2: $ 100-200  COP
-recursos/dificultad: 0: No necesita habilidades nuevas solo seguir instrucciones (reiniciar un módem)
-2025-prueba: No
-
----
-
 ## Amplifica tu señal móvil
 
 

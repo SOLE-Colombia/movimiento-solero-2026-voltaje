@@ -10,28 +10,6 @@ aspectos:
 fecha: '2024-10-24'
 ---
 
-
-Created: 24 de febrero de 2025 7:21
-Autor: Sanjay
-Solucionas: Personas, Señal
-Dificultad: Difícil
-Cuesta: Gasto mensual
-Ayudantes: Más de 3 personas
-Tardas: Minutos
-pilar/dispositivos: 0: No aporta a equipos
-pilar/espacio: 0: No aporta a tener un espacio público
-pilar/personas: 0: No aporta a reunir personas
-pilar/senal: 3: Aporta señal permanente (Antena comercial instalada)
-pilar/electricidad: No consigues electricidad
-impacto/personas: 1
-impacto/sostenibilidad: 0: Se mantiene solo, 2: Medio
-recursos/dinero: 4: Gasto mensual
-recursos/personas: 3: Más de 3 personas
-recursos/tiempo: 3: Semanas
-2025-prueba: No
-
-
-
 Hola, soy Sanjay y una de mis grandes empresas es darle uso comunitario a los recursos que tenemos disponibles. Me gusta cacharrear, sí, pero también me interesan las maneras en las que los humanos nos coordinamos para vivir mejor juntos. 
 
 ## ¿Qué es hacer una colecta para pagar el internet comunitario?

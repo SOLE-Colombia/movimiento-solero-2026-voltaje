@@ -7,19 +7,6 @@ aspectos:
 fecha: '2024-10-25'
 ---
 
-
-
-Created: 25 de octubre de 2024 13:36
-Autor: Sanjay
-Solucionas: Dispositivos
-Dificultad: Promedio
-Cuesta: Gratis
-Ayudantes: Nadie
-Tardas: Horas
-2025-prueba: No
-
-
-
 ## Darle un segundo uso a equipos que, de otra manera serían descartados
 
 Hola, ¿estás ahí? Mi nombre es Mateo y te acompañaré en el desarrollo de esta solución. Si estás leyendo, escuchando o viendo esto es porque estás interesado/a o tienes curiosidad en saber cómo conseguir equipos donados. Si es así, estás en el lugar indicado.

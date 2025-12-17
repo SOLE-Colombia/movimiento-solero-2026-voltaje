@@ -9,18 +9,6 @@ aspectos:
 fecha: '2025-07-15'
 ---
 
-
-Created: 15 de julio de 2025 17:49
-Autor: Gabriel
-Solucionas: Dispositivos
-Dificultad: Difícil
-Cuesta: >$200 COP
-Ayudantes: 2-3 personas
-Tardas: Horas
-2025-prueba: No
-
-
-
 # **Instala un servidor web en un computador de bolsillo**
 
 

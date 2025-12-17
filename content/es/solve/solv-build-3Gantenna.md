@@ -7,17 +7,6 @@ aspectos:
 fecha: '2024-10-25'
 ---
 
-
-Created: 25 de octubre de 2024 13:36
-Autor: Nicolás
-Solucionas: Señal
-Dificultad: Promedio
-Cuesta: >$ 100 COP
-Ayudantes: Una persona
-Tardas: Horas
-2025-prueba: No
-
-
 ## **Mejora tu conexión a la red móvil**
 
 ![Antena 3G casera](assets/images/solv-build-3Gantenna/solv-build-3Gantenna-antenna.webp)

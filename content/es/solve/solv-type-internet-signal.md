@@ -10,27 +10,6 @@ aspectos:
 fecha: '2025-11-6'
 ---
 
-
-Created: 6 de noviembre de 2024 10:23
-Autor: Belén
-Solucionas: Señal
-Dificultad: Tranqui
-Cuesta: Gratis
-Ayudantes: Nadie
-Tardas: Minutos
-pilar/dispositivos: 3: Aporta a que haya suficientes dispositivos para compartir con restricción mínima  (3 computadores min)
-pilar/espacio: 0: No aporta a tener un espacio público
-pilar/personas: 0: No aporta a reunir personas
-pilar/senal: 3: Aporta señal permanente (Antena comercial instalada)
-pilar/electricidad: No consigues electricidad
-impacto/sostenibilidad: 0: Se mantiene solo
-recursos/dinero: 0: Sin dinero
-recursos/personas: 1: Una persona
-recursos/tiempo: 0: Minutos
-2025-prueba: No
-
-
-
 ## Descubre cómo llega el internet a tu dispositivo
 
 

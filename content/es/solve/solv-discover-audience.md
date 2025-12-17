@@ -9,25 +9,6 @@ aspectos:
 fecha: '2024-10-25'
 ---
 
-
-Created: 25 de octubre de 2024 13:36
-Autor: Manuela
-Solucionas: Personas
-Dificultad: Tranqui
-Cuesta: Gratis
-Ayudantes: Nadie
-Tardas: Horas
-pilar/personas: 3: Aporta a que haya una comunidad organizada con varios líderes
-pilar/senal: 1: Aporta solución de contenidos más no conectividad
-pilar/electricidad: No consigues electricidad
-impacto/sostenibilidad: 0: Se mantiene solo
-recursos/dinero: 0: Sin dinero
-recursos/personas: 1: Una persona
-recursos/tiempo: 1: Horas
-2025-prueba: No
-
-
-
 ## En comunicación, la audiencia manda
 
 

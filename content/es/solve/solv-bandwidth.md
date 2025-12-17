@@ -10,28 +10,6 @@ aspectos:
 fecha: '2024-11-7'
 ---
 
-
-Created: 7 de noviembre de 2024 11:31
-Autor: Manuela
-Solucionas: Señal
-Dificultad: Tranqui
-Cuesta: Gratis
-Ayudantes: 2-3 personas
-Tardas: Horas
-pilar/dispositivos: 0: No aporta a equipos
-pilar/espacio: 0: No aporta a tener un espacio público
-pilar/personas: 0: No aporta a reunir personas
-pilar/senal: 3: Aporta señal permanente (Antena comercial instalada)
-pilar/electricidad: No consigues electricidad
-impacto/personas: 4
-impacto/sostenibilidad: 0: Se mantiene solo
-recursos/dinero: 0: Sin dinero
-recursos/personas: 1: Una persona
-recursos/tiempo: 1: Horas
-2025-prueba: No
-
-
-
 ## Aprovecha las opciones de tu servicio de Internet
 
 

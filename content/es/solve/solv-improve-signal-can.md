@@ -9,16 +9,6 @@ fecha: '2024-10-25'
 ---
 
 
-Created: 25 de octubre de 2024 13:36
-Autor: Mateo
-Solucionas: Dispositivos, Señal
-Dificultad: Promedio
-Cuesta: Gratis
-Ayudantes: Nadie
-Tardas: Horas
-2025-prueba: No
-
-
 ## Hacer una pequeña antena para mi celular
 
 ### **Audiolectura de la solución**

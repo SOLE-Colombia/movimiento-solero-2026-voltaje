@@ -8,18 +8,6 @@ aspectos:
 fecha: '2025-2-24'
 ---
 
-
-Created: 24 de febrero de 2025 7:43
-Autor: Belén
-Solucionas: Espacio, Personas
-Dificultad: Tranqui
-Cuesta: >$ 100 COP
-Ayudantes: Nadie
-Tardas: Días
-2025-prueba: No
-
-
-
 ## Asociarnos con otros más visibles
 
 
