@@ -7,13 +7,10 @@ aspectos:
 - electricidad
 - dispositivos
 fecha: '2025-07-15'
-autor: Belen Sevilla Morillo
+autor: Belén
 tags:
   - Redes y conexiones
-author: Belén
 ---
-
-
 USB, que significa Bus Universal en Serie (Universal Serial Bus), **es una tecnología estandarizada que permite la conexión, comunicación y suministro de energía entre computadoras y dispositivos electrónicos**. 
 
 Es ampliamente utilizado para conectar periféricos como teclados, ratones, impresoras, discos duros externos, memorias USB, teléfonos móviles y muchos otros dispositivos electrónicos.

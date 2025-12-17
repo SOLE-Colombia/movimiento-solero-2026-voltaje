@@ -10,11 +10,8 @@ tags:
   - Seguridad e identificación
   - Redes y conexiones
   - Términos del mundo virtual
-author: Belén
+autor: Belén
 ---
-
-
-
 Una dirección IP es un **identificador único asignado a cada dispositivo conectado a una red que utiliza el protocolo de Internet**. 
 
 En esencia, es como una dirección postal para tu dispositivo en el mundo digital, permitiendo que otros dispositivos te encuentren y se comuniquen contigo a través de Internet o una red local (Fuente: [Fortinet](https://www.fortinet.com/lat/resources/cyberglossary/what-is-ip-address#:~:text=Definición))

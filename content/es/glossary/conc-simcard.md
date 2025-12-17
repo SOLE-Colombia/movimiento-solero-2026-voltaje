@@ -6,14 +6,11 @@ aspectos:
 - señal
 - dispositivos
 fecha: '2025-07-09'
-autor: Belen Sevilla Morillo
+autor: Belén
 tags:
   - Dispositivos
   - Seguridad e identificación
-author: Belén
 ---
-
-
 Una tarjeta SIM, o Módulo de Identificación del Abonado, **es una pequeña tarjeta extraíble que se inserta en teléfonos móviles y otros dispositivos para identificarlos en una red celular y permitirles acceder a servicios como llamadas, mensajes y datos**. 
 
 Funciona como una llave digital que permite a tu dispositivo conectarse a la red de tu proveedor de telefonía y autenticarte como usuario. 

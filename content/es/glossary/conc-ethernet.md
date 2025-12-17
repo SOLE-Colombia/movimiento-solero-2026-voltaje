@@ -8,10 +8,8 @@ aspectos:
 fecha: '2025-07-09'
 tags:
   - Redes y conexiones
-author: Belén
+autor: Belén
 ---
-
-
 Una conexión Ethernet es una **tecnología que permite conectar dispositivos electrónicos a una red local (LAN) o a una red de área amplia (WAN) mediante un cable.** Su función principal es la transmisión de datos entre dispositivos, ya sea para compartir información o para conectarse a internet.
 
 **Más detalladamente:**

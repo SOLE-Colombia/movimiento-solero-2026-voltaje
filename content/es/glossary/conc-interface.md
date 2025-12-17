@@ -8,11 +8,8 @@ fecha: '2025-7-22'
 tags:
   - Funcionamiento del computador
   - Términos del mundo virtual
-author: Belén
+autor: Belén
 ---
-
-
-
 En términos generales, una interfaz es un **punto de contacto o conexión entre dos sistemas, componentes o entidades que permite la interacción y el intercambio de información entre ellos**. 
 
 Puede ser física, como la conexión entre un teclado y una computadora, o lógica, como la forma en que un programa se comunica con el sistema operativo.

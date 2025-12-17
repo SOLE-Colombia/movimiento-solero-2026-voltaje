@@ -2,17 +2,14 @@
 title: Cable RG6 | RG6 Cable
 lang: es
 slug: cable-rg6-rg6-cable-conceptorio
-autor: Belen Sevilla Morillo
+autor: Belén
 aspectos:
 - señal
 - dispositivos
 fecha: '2025-07-09'
 tags:
   - Redes y conexiones
-author: Belén
 ---
-
-
 Un cable RG6 **es un tipo de cable coaxial utilizado principalmente para la transmisión de señales de televisión por cable, satélite e internet, así como para algunas aplicaciones de video de alta definición**. 
 
 Es conocido por su capacidad para manejar frecuencias más altas y reducir la pérdida de señal, lo que lo convierte en una opción popular para instalaciones tanto en interiores como exteriores.

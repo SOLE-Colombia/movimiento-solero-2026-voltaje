@@ -10,11 +10,8 @@ fecha: '2025-8-25'
 tags:
   - Redes y conexiones
   - Términos del mundo virtual
-author: Belén
+autor: Belén
 ---
-
-
-
 GPRS fue una tecnología clave que introdujo el concepto de transferencia de datos por paquetes en las redes móviles, sentando las bases para los servicios de datos móviles que hoy damos por sentados, y sigue siendo útil en aplicaciones donde la transferencia de datos no requiere alta velocidad.
 
 - **Servicio de Paquetes Vía Radio:** Significa que la información se divide en pequeños "paquetes" de datos, que se envían de forma independiente a través de la red.

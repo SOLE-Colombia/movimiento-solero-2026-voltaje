@@ -6,14 +6,10 @@ aspectos:
 - dispositivos
 - espacio
 fecha: '2025-07-17'
-autor: Belen Sevilla Morillo
+autor: Belén
 tags:
   - Funcionamiento del computador
-author: Belén
 ---
-
-
-
 Un sistema operativo (SO) **es un software fundamental que actúa como intermediario entre el hardware de un dispositivo (como una computadora o teléfono) y las aplicaciones que utilizas**. 
 
 Gestiona los recursos del sistema, como la memoria, el procesador y los dispositivos de entrada/salida, y permite que las aplicaciones se ejecuten y funcionen correctamente. Sin un SO, sería muy difícil o imposible usar un dispositivo informático.

@@ -6,14 +6,11 @@ aspectos:
 - señal
 - dispositivos
 fecha: '2025-07-22'
-autor: Belen Sevilla Morillo
+autor: Belén
 tags:
   - Seguridad e identificación
   - Funcionamiento del computador
-author: Belén
 ---
-
-
 Un firewall es un **sistema de seguridad de red diseñado para monitorear y controlar el tráfico de red entrante y saliente**, actuando como una barrera entre una red interna y redes externas, como Internet. 
 
 Su función principal es permitir o bloquear el tráfico basándose en un conjunto predefinido de reglas de seguridad, protegiendo así la red de accesos no autorizados y amenazas cibernéticas. (Fuente: [Fortinet](https://www.fortinet.com/lat/resources/cyberglossary/firewall#:~:text=Un))

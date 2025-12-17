@@ -7,10 +7,8 @@ aspectos:
 fecha: '2025-08-25'
 tags:
   - Redes y conexiones
-author: Belén
+autor: Belén
 ---
-
-
 La red 2G (Segunda Generación) **es la tecnología móvil que marcó la transición de lo analógico a lo digital, haciendo posible las llamadas de voz encriptadas y los mensajes de texto (SMS)**. Sirve para comunicaciones básicas de voz y texto, además de dar soporte a algunos servicios de datos limitados como el correo electrónico y acceso a internet a baja velocidad. Fue fundamental para la expansión global de la telefonía móvil y la base para tecnologías posteriores, aunque su velocidad de datos es baja.
 
 **¿Qué es la red 2G?**

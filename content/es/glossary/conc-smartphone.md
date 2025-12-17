@@ -6,12 +6,10 @@ aspectos:
 - señal
 - dispositivos
 fecha: '2025-07-09'
-autor: Belen Sevilla Morillo
+autor: Belén
 tags:
   - Dispositivos
-author: Belén
 ---
-
 Un teléfono móvil, también conocido como celular, es un **dispositivo electrónico portátil que permite realizar y recibir llamadas telefónicas a través de una conexión inalámbrica, utilizando una red de comunicaciones móviles**. 
 
 Además de las funciones básicas de llamada y mensajería, los teléfonos móviles modernos, especialmente los **smartphones**, ofrecen una amplia gama de funcionalidades como acceso a Internet, aplicaciones, cámara, reproductor multimedia, y más.

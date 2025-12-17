@@ -6,13 +6,10 @@ aspectos:
 - dispositivos
 - espacio
 fecha: '2025-07-22'
-autor: Belen Sevilla Morillo
+autor: Belén
 tags:
   - Funcionamiento del computador
-author: Belén
 ---
-
-
 Entendemos por **sistema informático** el **conjunto de elementos físicos y lógicos que se encargan de recibir, guardar y procesar datos para luego entregarlos en forma de resultados**. El esquema de un sistema informático engloba todo aquello que contiene una parte tangible (hardware) y otra lógica (software).
 
 En la **actualidad**, los SI **ocupan un lugar clave para la organización humana**, ya que resulta ser una herramienta poderosa para el intercambio de información y la elaboración de redes informáticas que superan la barrera de las distancias.

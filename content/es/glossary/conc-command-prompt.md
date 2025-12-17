@@ -5,13 +5,10 @@ slug: 'simbolo-de-sistema-cmd-command-prompt-cmd-conceptorio'
 aspectos:
 - general
 fecha: '2025-07-17'
-autor: Belen Sevilla Morillo
+autor: Belén
 tags:
   - Funcionamiento del computador
-author: Belén
 ---
-
-
 En el contexto de Windows, CMD, o Símbolo del sistema, **es una interfaz de línea de comandos que permite interactuar con el sistema operativo mediante comandos de texto**. 
 
 Es una herramienta útil para ejecutar comandos, administrar archivos, solucionar problemas y automatizar tareas.

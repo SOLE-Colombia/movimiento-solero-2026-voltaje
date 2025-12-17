@@ -9,10 +9,8 @@ fecha: '2025-02-24'
 tags:
   - Redes y conexiones
   - Términos del mundo virtual
-author: Belén
+autor: Belén
 ---
-
-
 Una conexión Wi-Fi es una **tecnología inalámbrica que permite a los dispositivos conectarse a una red, generalmente para acceder a Internet, sin necesidad de cables**. Funciona mediante ondas de radio, utilizando un router Wi-Fi para enviar y recibir datos entre dispositivos y la red.
 
 **Más detalladamente:**

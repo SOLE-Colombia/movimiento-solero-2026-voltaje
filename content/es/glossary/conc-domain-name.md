@@ -10,10 +10,8 @@ fecha: '2025-70-17'
 tags:
   - Términos del mundo virtual
   - Seguridad e identificación
-author: Belén
+autor: Belén
 ---
-
-
 Un nombre de dominio es una **dirección única y fácil de recordar que se utiliza para acceder a un sitio web o a un servicio en internet**. 
 
 Es como la dirección postal de un sitio web, pero en lugar de números, utiliza texto. Por ejemplo, "solecolombia.org" es un nombre de dominio. Permite que los usuarios accedan a sitios web y servicios sin tener que recordar complejas direcciones IP numéricas. (Fuente:[Google Help](https://support.google.com/a/answer/2573637?hl=es#:~:text=Un))
