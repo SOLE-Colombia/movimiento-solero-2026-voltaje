@@ -202,3 +202,5 @@ Esto es la base para “diseño interactivo” en un sitio estático: UI en TSX 
 - **CI/CD**:
   - `.github/workflows/deploy-production.yml`
   - `.github/workflows/test-desarrollo.yml`
+
+

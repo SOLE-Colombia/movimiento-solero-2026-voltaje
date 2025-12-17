@@ -41,7 +41,9 @@ Si te gusta, puedes descargar SOLE Voltaje Desconectado y llevarlo a lugares que
 
 Te vamos a contar una pequeña historia sobre **¿cómo aprendemos?**
 
-[Tomado de SOLE Colombia (2019) *Una conversación con [Sugata Mitra](https://es.wikipedia.org/wiki/Sugata_Mitra)*](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+[Tomado de SOLE Colombia (2019) *Una conversación con [Sugata Mitra](https://es.wikipedia.org/wiki/Sugata_Mitra)*] 
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
     src="https://www.youtube.com/embed/AAWEB6Vr50g" 
@@ -49,7 +51,7 @@ Te vamos a contar una pequeña historia sobre **¿cómo aprendemos?**
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
-</div>)
+</div>
 
 Tomado de SOLE Colombia (2019) *Una conversación con [Sugata Mitra](https://es.wikipedia.org/wiki/Sugata_Mitra)*
 
