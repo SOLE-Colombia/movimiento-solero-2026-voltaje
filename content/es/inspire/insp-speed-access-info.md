@@ -19,10 +19,3 @@ Los megabytes descarga (MB) son una medida de la rapidez con la que se transmite
 - **Menos de 1 MB:** puedes hacer búsquedas en internet y puedes enviar mensajes de texto.
 
 *Entre más dispositivos estén conectados a internet, tendrás menos MB de descarga. Esto ocurre porque la velocidad se distribuye entre la cantidad de dispositivos conectados.*
-
----
-
-[https://notionreactions.com/embed/SevGVMTc1yX9Z2BM9EZU](https://notionreactions.com/embed/SevGVMTc1yX9Z2BM9EZU)
-
----
-

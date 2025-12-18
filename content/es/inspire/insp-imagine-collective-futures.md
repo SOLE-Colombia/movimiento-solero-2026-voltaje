@@ -76,5 +76,3 @@ Ejemplo:
 ![Imaginar futuros colectivos](../../../assets/images/insp-imagine-collective-futures/insp-imagine-collective-futures7.webp)
 ![Imaginar futuros colectivos](../../../assets/images/insp-imagine-collective-futures/insp-imagine-collective-futures8.webp)
 ![Imaginar futuros colectivos](../../../assets/images/insp-imagine-collective-futures/insp-imagine-collective-futures9.webp)
-
-[https://notionreactions.com/embed/KeSxCiBEyRrHNird7q5L](https://notionreactions.com/embed/KeSxCiBEyRrHNird7q5L)

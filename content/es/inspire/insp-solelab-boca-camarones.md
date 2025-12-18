@@ -20,8 +20,3 @@ internet; ni para ¡hacer parche alrededor del internet!  Sin embargo, con alegr
     allowfullscreen>
   </iframe>
 </div>
-
-
-[https://notionreactions.com/embed/OiX6zYUh5pT26of8JgfR](https://notionreactions.com/embed/OiX6zYUh5pT26of8JgfR)
-
-

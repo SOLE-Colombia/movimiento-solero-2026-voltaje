@@ -6,11 +6,4 @@ tags:
 autor: "SOLE Colombia"
 draft: false
 ---
-# ¿Estarías dispuesto a quitarle la clave a tu wiFi?
-
-Tags: Pregunta Provocadora
-R2025: no creada
-idioma: español
-pie: No
-reacción: No
-traducción: No
+# ¿Estarías dispuesto a quitarle la clave a tu WiFi?

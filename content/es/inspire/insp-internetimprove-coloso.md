@@ -37,10 +37,3 @@ Además, la comunidad ha creado su propia página web para contarle al mundo ent
 
 ![Testimonio durante la visita de sintonización](../../../assets/images/insp-internetimprove-coloso/insp-internetimprove-coloso-talk.webp)
 *Visita de Sintonización, Montes de María (2024).*
-
-
-[https://notionreactions.com/embed/j3e1g52UnbLMFP9TVNxO](https://notionreactions.com/embed/j3e1g52UnbLMFP9TVNxO)
-
-
-
-

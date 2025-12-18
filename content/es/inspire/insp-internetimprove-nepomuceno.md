@@ -61,7 +61,3 @@ Sube el volumen para escuchar en sus propias palabras cómo fue esta experiencia
 
 
 Gracias a la colaboración comunitaria y la implementación de soluciones como el KIT Rural, hoy San José del Peñón y La Haya cuentan con acceso comunitario a Internet, facilitando tanto el aprendizaje como el intercambio cultural en los Montes de María. 
-
-[https://notionreactions.com/embed/UvflVrhEoqqCBw3ez36Q](https://notionreactions.com/embed/UvflVrhEoqqCBw3ez36Q)
-
-

@@ -47,8 +47,3 @@ Y… ¿Adivinen qué? Juntos, trabajamos en el desarrollo del SOLE Lab, un espac
 Gracias a este esfuerzo, Dominguillo no solo mejoró su conexión a Internet, sino que fortaleció el vínculo de la comunidad. Ahora, el SOLE Lab es un punto de encuentro en el que los habitantes siguen aprendiendo y compartiendo sus conocimientos.
 <video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-dominguillo/insp-internetimprove-dominguillo3.webm"></video>
 *Video del Enchufa Tu SOLE Lab en Dominguillo, Cauca, (2024).*
-
-https://notionreactions.com/embed/k85xN4ZHTsztwYX9QmCe
-
-
-

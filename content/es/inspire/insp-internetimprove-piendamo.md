@@ -53,10 +53,3 @@ Con sus habilidades técnicas y su pasión por enseñar, Alexander fue el primer
 Esta es solo una de las muchas historias que demuestran el poder de la conectividad para abrir puertas y conectar mundos. Te invitamos a conocer más sobre las actividades que esta comunidad ha realizado y los proyectos que han creado en su página web.
 
 [SOLE: Resguardo Piscitau](https://padlet.com/piscitaucomunidad/sole-resguardo-piscitau-tbhlpzwftafxafmi)
-
----
-
-[https://notionreactions.com/embed/vK8gaZBETcjkNye42aZ0](https://notionreactions.com/embed/vK8gaZBETcjkNye42aZ0)
-
----
-

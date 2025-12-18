@@ -247,6 +247,3 @@ Si una ficha de lego representa 20 canciones ¿Cuántas canciones escuchas al me
 ¿Cuántas GB consumes para tu celular al mes?
 
 ¿Cuántas GB necesitas para tu plan de datos móviles?
-
-[https://notionreactions.com/embed/iRGshw9x6PbHd6lYmFH9](https://notionreactions.com/embed/iRGshw9x6PbHd6lYmFH9)
-

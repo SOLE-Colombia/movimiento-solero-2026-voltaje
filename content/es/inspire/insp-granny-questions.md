@@ -43,7 +43,4 @@ Siempre hay oportunidades para unirse a este movimiento global para transformar 
 - [¿Qué es un Costurero de Abuelitas, en SOLE Colombia?](/que-es-un-costurero-de-abuelitas-en-sole-colombia-inspiration-db) |
 - [¿Cómo hacer SOLE? - Tutorial](/como-hacer-sole-tutorial-inspiration-db) | [How to make SOLE? - Tutorial](/how-to-make-sole-tutorial-inspiration-db)
 
-[https://notionreactions.com/embed/b76KVpACwsj3tsgkdMjE](https://notionreactions.com/embed/b76KVpACwsj3tsgkdMjE)
-
-
 

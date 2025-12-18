@@ -14,9 +14,3 @@ Hoy, niños, jóvenes y adultos tienen un lugar público con conexión a Interne
 🧠💻 Un espacio donde las ideas se transforman en acción, donde soñar es manifestar. ¡Felicitaciones, comunidad del Tambo! 🎊 ¡Aquí está su SOLE Lab esperándoles con las puertas abiertas! 🔓
 
 **Youtube video**
-
----
-
-[https://notionreactions.com/embed/PIYFrvdLfTS270Vgfvj5](https://notionreactions.com/embed/PIYFrvdLfTS270Vgfvj5)
-
----

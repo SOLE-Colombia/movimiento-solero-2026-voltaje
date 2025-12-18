@@ -33,8 +33,3 @@ Actualmente la comunidad Nasa Kiwe Tekh Kxsaw sigue haciéndose Grandes Pregunta
 
 <video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-nuevomexico/insp-internetimprove-nuevomexico.webm"></video>
 *Visita de Sintonización en la comunidad Nasa Kiwe Tekh Kxsaw, Nuevo México, Santander de Quilichao (2024).*
-
-
-https://notionreactions.com/embed/TeHqSnrpW21yMBlxkBnc
-
-

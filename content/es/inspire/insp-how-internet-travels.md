@@ -16,5 +16,3 @@ Todo parece muy cotidiano, pero hace 150 años era magia cuando las ciudades com
 
 O por ejemplo, en Myanmar - en Asia - conocieron el Internet por primera vez en 2012. 
 
-[https://notionreactions.com/embed/E7lvke42U1TIxU2tdoEQ](https://notionreactions.com/embed/E7lvke42U1TIxU2tdoEQ)
-

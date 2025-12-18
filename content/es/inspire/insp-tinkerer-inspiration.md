@@ -26,8 +26,3 @@ Cuando alguien enfrenta un problema de conectividad, SOLE Voltaje se asoma con s
 En un rincón del futuro, existe una Biblioteca que no depende de los libros, sino de las relaciones entre las personas. Este es un espacio donde el conocimiento no está en un lugar específico, sino  sino en la vasta red del internet y las conexiones que permite entre personas y comunidades. Aquí las Grandes Preguntas de la vida esperan ser exploradas. Esta Biblioteca del Futuro nos invita a reunirnos, a compartir ideas y a aprender juntos. En cada rincón se percibe la energía de la colaboración: grupos de personas se sumergen en discusiones profundas, utilizando la tecnología no como una barrera, sino como un puente hacia el entendimiento. La Biblioteca del Futuro nos enseña que, a través de la conexión y el diálogo, podemos descubrir respuestas que no contemplábamos.
 
 En un mundo donde la curiosidad y la tecnología convergen, la Biblioteca del Futuro ha encontrado una amiga inigualable: SOLE Voltaje, una Guía de soluciones diseñada para iluminar el camino hacia el conocimiento. Juntos, crean un espacio vibrante donde el internet no es solo una herramienta, sino un aliado en la búsqueda de las Grandes Preguntas de la vida. 
-
-[https://notionreactions.com/embed/EwJ4d4EhqeSDFZvNrbCZ](https://notionreactions.com/embed/EwJ4d4EhqeSDFZvNrbCZ)
-
-
-

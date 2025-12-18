@@ -292,7 +292,3 @@ Las escaleras se suben de frente, pues hacia atrás o de costado resultan partic
 Llegado en esta forma al segundo peldaño, basta repetir alternadamente los movimientos hasta encontrarse con el final de la escalera. Se sale de ella fácilmente, con un ligero golpe de talón que la fija en su sitio, del que no se moverá hasta el momento del descenso.
 
 - FIN*
-
-[https://notionreactions.com/embed/3hKhHwqyFs0y4vPfEX0n](https://notionreactions.com/embed/3hKhHwqyFs0y4vPfEX0n)
-
-

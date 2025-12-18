@@ -113,5 +113,3 @@ Paola [producción audiovisual]:
 - Es interesante cómo las historias de vida en relación con la tecnología dicen mucho de lo que somos y hemos dejado de ser actualmente. Muchas historias conectan con pasiones, gustos o rasgos de carácter de las personas.
 - Los hitos están relacionados con historias alegres, placenteras, pero también que generan vergüenza, dolor o nostalgia.
 - Lo importante de estos dispositivos no está en la historia en sí misma, sino en la forma en la que las personas conectan sus historias entre sí.
-
-[https://notionreactions.com/embed/GQJrRXpEuCRDoxukCpgQ](https://notionreactions.com/embed/GQJrRXpEuCRDoxukCpgQ)

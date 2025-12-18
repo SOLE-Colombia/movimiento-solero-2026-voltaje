@@ -32,9 +32,3 @@ Gracias a todas las personas que han participado con nosotros en estas pruebas, 
 ![Voltaje Test](../../../assets/images/insp-voltajetests/insp-voltajetests-tierracomun-5.webp)
 ![Voltaje Test](../../../assets/images/insp-voltajetests/insp-voltajetests-tierracomun-6.webp)
 ![Voltaje Test](../../../assets/images/insp-voltajetests/insp-voltajetests-tierracomun-7.webp)
-
-
-[https://notionreactions.com/embed/bYI38yVNJQCEAutUNXm3](https://notionreactions.com/embed/bYI38yVNJQCEAutUNXm3)
-
-
-

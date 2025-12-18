@@ -26,7 +26,4 @@ Piénsalo de esta manera: imagina compartir un plan de internet con tus vecinos.
 </div>
 
 
-[https://notionreactions.com/embed/9j6OVQ7kDWIJg3zGxBrM](https://notionreactions.com/embed/9j6OVQ7kDWIJg3zGxBrM)
-
-
 

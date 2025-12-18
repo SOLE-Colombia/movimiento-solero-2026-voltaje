@@ -22,9 +22,3 @@ draft: false
 ¿Te has preguntado cómo mejorar tu conexión a Internet? 🤔💻 ¿Suele dañarse tu Internet y te gustaría saber lo necesario para solucionarlo por tu cuenta?  
 
 Anímate a cacharrear y construir tu propia antena 3G casera🔧📡 
-
-[https://notionreactions.com/embed/59UXrxAdReydu8pwcSye](https://notionreactions.com/embed/59UXrxAdReydu8pwcSye)
-
-
-
-

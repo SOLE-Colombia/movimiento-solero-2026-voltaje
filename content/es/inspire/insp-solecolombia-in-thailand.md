@@ -21,8 +21,3 @@ En las comunidades rurales 🏞️, donde el acceso a la educación tradicional 
     allowfullscreen>
   </iframe>
 </div>
-
-
-[https://notionreactions.com/embed/ASD6GYXR0axdkYNS6551](https://notionreactions.com/embed/ASD6GYXR0axdkYNS6551)
-
-

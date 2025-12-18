@@ -148,7 +148,3 @@ content/assets/images/insp-tinkerer-corner/insp-tinkerer-corner-usb.webp
 - La virtualidad
 
 ## Vacío
-
-[https://notionreactions.com/embed/lloK5bws113QL4W123hZ](https://notionreactions.com/embed/lloK5bws113QL4W123hZ)
-
-

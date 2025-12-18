@@ -169,4 +169,3 @@ Además:
 - Grabar paisajes, cuerpos de agua, sonidos del entorno, actividades cotidianas (lavar, navegar, recolectar).
 
 > Recomendación: usar planos cerrados de manos dibujando, rostros al hablar, el trazo que crece. Eso da mucho valor visual y emocional.
->

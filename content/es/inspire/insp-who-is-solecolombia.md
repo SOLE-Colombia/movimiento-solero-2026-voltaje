@@ -23,6 +23,3 @@ Encendemos la curiosidad de grupos de personas, transformando espacios habilitad
 Sacudimos el status quo mediante la creación de comunidades que aprenden más allá de las fronteras y las diferencias, tendiendo puentes entre las personas y las ideas, hacia un mundo compartido más vibrante.
 
 ¡Cambiamos el mundo juntos!
-
-[https://notionreactions.com/embed/Pee9gHgT9KrVEpIswsrV](https://notionreactions.com/embed/Pee9gHgT9KrVEpIswsrV)
-

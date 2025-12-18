@@ -8,10 +8,3 @@ autor: "SOLE Colombia"
 draft: false
 ---
 ## ¿Has buscado información en internet para arreglar un problema de tu casa?
-
-Tags: Pregunta Provocadora
-R2025: no creada
-idioma: español
-pie: No
-reacción: No
-traducción: No

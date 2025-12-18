@@ -7,10 +7,3 @@ autor: "SOLE Colombia"
 draft: false
 ---
 # ¿Crees que el acceso a internet  debería ser libre y gratuito para  todos?
-
-Tags: Pregunta Provocadora
-R2025: no creada
-idioma: español
-pie: No
-reacción: No
-traducción: No

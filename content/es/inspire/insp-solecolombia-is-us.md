@@ -28,7 +28,3 @@ draft: false
 
 - [SOLE Colombia: Lo que somos](/sole-colombia-lo-que-somos-inspiration-db)
 - [¿Cómo hacer SOLE? - Tutorial](/como-hacer-sole-tutorial-inspiration-db) | [How to make SOLE? - Tutorial](/how-to-make-sole-tutorial-inspiration-db)
-
-[https://notionreactions.com/embed/EGNFMJlgjdf0Ccr12r2t](https://notionreactions.com/embed/EGNFMJlgjdf0Ccr12r2t)
-
-

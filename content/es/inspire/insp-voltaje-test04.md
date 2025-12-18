@@ -284,7 +284,3 @@ En un cartel, las personas podrán marcar en una casilla, cuál o cuáles video(
 | 12:00 | DESPEDIDA | 6. A. Contributing Content B. Sharing Content | 1. Llamado a la acción: Permitanos alimentar nuestra guía con sus soluciones - estamos en el chat-cacharreros 2. ¿Qué se llevan? lo que comenzaron a armar y la invitación para que traigan a otros al grupo de Whatsapp | SAN |  |  |  |
 
 # as
-
-[https://notionreactions.com/embed/iRGshw9x6PbHd6lYmFH9](https://notionreactions.com/embed/iRGshw9x6PbHd6lYmFH9)
-
-

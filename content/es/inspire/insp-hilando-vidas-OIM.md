@@ -22,6 +22,4 @@ En el 2022 SOLEamos 15 comunidades de tres Regiones  maravillosas donde:
   </iframe>
 </div>
 
-[https://notionreactions.com/embed/4nS3RrKHuP9dYXKKOeec](https://notionreactions.com/embed/4nS3RrKHuP9dYXKKOeec)
-
 

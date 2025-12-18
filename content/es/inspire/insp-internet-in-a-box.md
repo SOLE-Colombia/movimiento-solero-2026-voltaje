@@ -25,6 +25,3 @@ Esto es lo que puedes lograr con el Big Box de Jangala y SOLE. ¡Pura sabrosura 
     allowfullscreen>
   </iframe>
 </div>
-
-[https://notionreactions.com/embed/MjQAmFPDih5VhYSFoEAL](https://notionreactions.com/embed/MjQAmFPDih5VhYSFoEAL)
-

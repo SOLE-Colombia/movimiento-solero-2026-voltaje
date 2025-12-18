@@ -8,10 +8,3 @@ autor: "SOLE Colombia"
 draft: false
 ---
 # ¿Has solucionado algún problema tecnológico por tu cuenta?
-
-Tags: Pregunta Provocadora
-R2025: no creada
-idioma: español
-pie: No
-reacción: No
-traducción: No

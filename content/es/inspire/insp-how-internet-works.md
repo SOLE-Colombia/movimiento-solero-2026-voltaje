@@ -67,8 +67,6 @@ Hay que tener en cuenta que los cables submarinos nos permiten transmitir datos 
 
 ¿No es tremendo lo que nos inventamos los humanos?
 
-[https://notionreactions.com/embed/7aQSWHsLLqObLwBXtscw](https://notionreactions.com/embed/7aQSWHsLLqObLwBXtscw)
-
 
 
 

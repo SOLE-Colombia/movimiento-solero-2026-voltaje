@@ -126,6 +126,4 @@ En SOLE Voltaje tenemos la idea que usar el Internet en grupo para aprender es u
 
 ¿Quieres que trabajemos juntos?
 
-[https://notionreactions.com/embed/e08soi0Df1mJHfdxQJZK](https://notionreactions.com/embed/e08soi0Df1mJHfdxQJZK)
-
 

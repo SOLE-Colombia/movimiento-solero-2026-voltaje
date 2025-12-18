@@ -58,7 +58,3 @@ Yulieth, Astrid, Yuranis, Johana, Celia, Maryuris, y Yolanda. están cambiando e
 
 ![Investigación comunitaria sobre conectividad 3](../../../assets/images/insp-internetimprove-chalan/insp-internetimprove-chalan-investigation3.webp)
 *Trabajo colaborativo para definir la solución tecnológica (2024).*
-
-
-[https://notionreactions.com/embed/I8KqUIjFVd9d9cS44gcy](https://notionreactions.com/embed/I8KqUIjFVd9d9cS44gcy)
-

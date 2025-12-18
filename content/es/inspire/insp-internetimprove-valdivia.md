@@ -47,7 +47,3 @@ La historia no termina ahí. Las Embajadoras ahora comprenden cómo funciona el 
 
 
 Las mujeres se están apropiando del uso del Internet en Valdivia. Y tú, ¿te has preguntado alguna vez por qué pagas lo que pagas por tu plan de celular o Internet en casa?
-
-[https://notionreactions.com/embed/z2OM5u2XPURxrsPzH34c](https://notionreactions.com/embed/z2OM5u2XPURxrsPzH34c)
-
-

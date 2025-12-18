@@ -65,7 +65,3 @@ Mira algunas de las actividades que ha impulsado en este espacio la comunidad:
 
 
 **¡Hoy el SOLE Lab nos espera con las puertas abiertas para seguir construyendo el futuro del Internet juntos!**
-
-[https://notionreactions.com/embed/zxHo2hB8bjYGjQsF3OsS](https://notionreactions.com/embed/zxHo2hB8bjYGjQsF3OsS)
-
-
