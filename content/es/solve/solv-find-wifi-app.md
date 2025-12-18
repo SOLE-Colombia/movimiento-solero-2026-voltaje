@@ -1,15 +1,15 @@
 ---
-title: Buscar señales de WiFi a tu alrededor con una aplicación móvil
-lang: es
-slug: buscar-senales-de-wifi-a-tu-alrededor-con-una-aplicacion-movil-solutions-db
-aspectos:
-- señal
-- electricidad
-- dispositivos
-- espacio
-fecha: '2025-02-24'
+title: "Buscar señales de WiFi a tu alrededor con una aplicación móvil"
+date: 2025-12-17
+tags:
+  - "Señal"
+dificultad: "Medio"
+costo: "Gratis"
+ayudantes: "Sin ayudantes"
+tarda: "Minutos"
+autor: "SOLE Colombia"
+draft: false
 ---
-
 ## Encuentra las redes disponibles a tu alrededor
 
 

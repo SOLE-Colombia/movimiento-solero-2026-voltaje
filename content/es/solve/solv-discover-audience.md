@@ -1,14 +1,15 @@
 ---
-title: Descubre a tu audiencia
-lang: es
-slug: descubre-a-tu-audiencia-solutions-db
-aspectos:
-- señal
-- electricidad
-- personas
-fecha: '2024-10-25'
+title: "Descubre a tu audiencia"
+date: 2025-12-17
+tags:
+  - "Personas"
+dificultad: "Medio"
+costo: "Gratis"
+ayudantes: "Sin ayudantes"
+tarda: "Horas"
+autor: "SOLE Colombia"
+draft: false
 ---
-
 ## En comunicación, la audiencia manda
 
 

@@ -1,16 +1,15 @@
 ---
-title: Bicigenerador
-lang: es
-slug: bicigenerador-solutions-db
-aspectos:
-- señal
-- electricidad
-- dispositivos
-- personas
-- espacio
-fecha: '2025-02-24'
+title: "Bicigenerador"
+date: 2025-12-17
+tags:
+  - "Electricidad"
+dificultad: "Complejo"
+costo: "> USD 50"
+ayudantes: "2-3 personas"
+tarda: "Días"
+autor: "SOLE Colombia"
+draft: false
 ---
-
 # Comprar y montar un sistema de generación eléctrica con una bicicleta
 
 

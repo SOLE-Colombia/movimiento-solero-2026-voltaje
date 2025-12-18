@@ -1,16 +1,15 @@
 ---
-title: Difunde tu mensaje
-lang: es
-slug: difunde-tu-mensaje-solutions-db
-aspectos:
-- señal
-- electricidad
-- dispositivos
-- personas
-- espacio
-fecha: '2024-10-25'
+title: "Difunde tu mensaje"
+date: 2025-12-17
+tags:
+  - "Personas"
+dificultad: "Medio"
+costo: "< USD 25"
+ayudantes: "2-3 personas"
+tarda: "Días"
+autor: "SOLE Colombia"
+draft: false
 ---
-
 ## Llega al corazón de las personas a las que mueve tu mensaje
 
 

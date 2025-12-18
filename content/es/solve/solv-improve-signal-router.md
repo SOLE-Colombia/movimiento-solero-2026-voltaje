@@ -1,15 +1,15 @@
 ---
-title: ¿Cómo mejorar la señal de tu router?
-lang: es
-slug: como-mejorar-la-senal-de-tu-router-solutions-db
-aspectos:
-- señal
-- electricidad
-- dispositivos
-- espacio
-fecha: '2024-09-26'
+title: "¿Cómo mejorar la señal de tu router?"
+date: 2025-12-17
+tags:
+  - "Señal"
+dificultad: "Medio"
+costo: "Gratis"
+ayudantes: "2-3 personas"
+tarda: "Horas"
+autor: "SOLE Colombia"
+draft: false
 ---
-
 ## **Algunos consejos para sacarle el mayor provecho al router**
 
 

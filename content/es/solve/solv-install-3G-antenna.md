@@ -1,13 +1,15 @@
 ---
-title: ¿Cómo instalar mi antena 3/4G?
-lang: es
-slug: como-instalar-mi-antena-3-4g-solutions-db
-aspectos:
-- señal
-- espacio
-fecha: '2024-10-25'
+title: "¿Cómo instalar mi antena 3/4G?"
+date: 2025-12-17
+tags:
+  - "Señal"
+dificultad: "Medio"
+costo: "Gasto mensual"
+ayudantes: "2-3 personas"
+tarda: "Horas"
+autor: "SOLE Colombia"
+draft: false
 ---
-
 ## Instalar una antena, para tener Internet en un espacio fijo
 
 ![Bienvenida](/assets/images/solv-need-3Gantenna/solve-need-3Gantenna-welcome.webp)

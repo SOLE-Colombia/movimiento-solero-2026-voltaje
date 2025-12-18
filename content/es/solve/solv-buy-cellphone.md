@@ -1,15 +1,15 @@
 ---
-title: ¿Cómo comprar un celular adecuado para mí?
-lang: es
-slug: como-comprar-un-celular-adecuado-para-mi-solutions-db
-aspectos:
-- señal
-- electricidad
-- dispositivos
-- espacio
-fecha: '2024-10-25'
+title: "¿Cómo comprar un celular adecuado para mí?"
+date: 2025-12-17
+tags:
+  - "Dispositivos"
+dificultad: "Fácil"
+costo: "> USD 50"
+ayudantes: "Sin ayudantes"
+tarda: "Horas"
+autor: "SOLE Colombia"
+draft: false
 ---
-
 ## Comprar un celular que se ajuste a tus capacidades y necesidades
 
 ![Cellmodels](assets/images/solv-buy-cellphone/solv-buy-cellphone-cellmodels.webp)

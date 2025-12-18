@@ -1,16 +1,16 @@
 ---
-title: 'Big Box de Jangala: Gestiona un potente router de internet inalámbrico para
-  comunidades en exclusión digital'
-lang: es
-slug: big-box-de-jangala-gestiona-un-potente-router-de-internet-inalambrico-para-comunidades-en-exclusion
-aspectos:
-- señal
-- dispositivos
-- personas
-- espacio
-fecha: '2024-10-25'
+title: "Big Box de Jangala: Gestiona un potente router de internet inalámbrico para comunidades en exclusión digital"
+date: 2025-12-17
+tags:
+  - "Dispositivos"
+  - "Señal"
+dificultad: "Medio"
+costo: "Gratis"
+ayudantes: "Más de 3 personas"
+tarda: "Horas"
+autor: "SOLE Colombia"
+draft: false
 ---
-
 ## La conexión a Internet en un maletín
 
 ![Youtube](https://www.youtube.com/embed/Fox3N4QHVN4) 

@@ -1,15 +1,16 @@
 ---
-title: ¿Cómo compartir los computadores disponibles?
-lang: es
-slug: como-compartir-los-computadores-disponibles-solutions-db
-aspectos:
-- señal
-- electricidad
-- dispositivos
-- espacio
-fecha: '2025-7-30'
+title: "¿Cómo compartir los computadores disponibles?"
+date: 2025-12-17
+tags:
+  - "Dispositivos"
+  - "Personas"
+dificultad: "Fácil"
+costo: "Gratis"
+ayudantes: "2-3 personas"
+tarda: "Horas"
+autor: "SOLE Colombia"
+draft: false
 ---
-
 ---
 
 ![Investigación](/assets/images/solv-sharecomputers/share-computers-investigation3.webp)

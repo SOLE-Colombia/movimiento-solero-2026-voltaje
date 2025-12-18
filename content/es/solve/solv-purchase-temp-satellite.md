@@ -1,15 +1,15 @@
 ---
-title: Cómo comprar una conexión temporal a internet satelital
-lang: es
-slug: como-comprar-una-conexion-temporal-a-internet-satelital-solutions-db
-aspectos:
-- señal
-- electricidad
-- dispositivos
-- espacio
-fecha: '2024-02-24'
+title: "Cómo comprar una conexión temporal a internet satelital"
+date: 2025-12-17
+tags:
+  - "Señal"
+dificultad: "Fácil"
+costo: "Gratis"
+ayudantes: "Sin ayudantes"
+tarda: "Minutos"
+autor: "SOLE Colombia"
+draft: false
 ---
-
 ## **Un código o PIN para acceder a internet satelital**
 
 

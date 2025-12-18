@@ -1,16 +1,15 @@
 ---
-title: ¿Necesito comprar una antena 3G/4G? Cómo tomar la decisión
-lang: es
-slug: necesito-comprar-una-antena-3g-4g-como-tomar-la-decision-solutions-db
-aspectos:
-- señal
-- electricidad
-- dispositivos
-- personas
-- espacio
-fecha: '2025-07-30'
+title: "¿Necesito comprar una antena 3G/4G? Cómo tomar la decisión"
+date: 2025-12-17
+tags:
+  - "Señal"
+dificultad: "Medio"
+costo: "Gasto mensual"
+ayudantes: "Sin ayudantes"
+tarda: "Horas"
+autor: "SOLE Colombia"
+draft: false
 ---
-
 ## **Comprar una antena para tener mejor calidad de señal de Internet móvil**
 
 ## Bienvenida

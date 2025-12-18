@@ -1,14 +1,15 @@
 ---
-title: ¿Cómo comprar un computador para ti?
-lang: es
-slug: como-comprar-un-computador-para-ti-solutions-db
-aspectos:
-- señal
-- dispositivos
-- espacio
-fecha: '2024-3-21'
+title: "¿Cómo comprar un computador para ti?"
+date: 2025-12-17
+tags:
+  - "Dispositivos"
+dificultad: "Fácil"
+costo: "Gratis"
+ayudantes: "Sin ayudantes"
+tarda: "Horas"
+autor: "SOLE Colombia"
+draft: false
 ---
-
 ## Comprar el mejor computador para mi caso
 
 

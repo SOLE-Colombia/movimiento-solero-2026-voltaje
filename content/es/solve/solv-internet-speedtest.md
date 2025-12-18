@@ -1,13 +1,15 @@
 ---
-title: ¿Cómo probar la velocidad de tu conexión a Internet?
-lang: es
-slug: como-probar-la-velocidad-de-tu-conexion-a-internet-solutions-db
-aspectos:
-- señal
-- dispositivos
-fecha: '2025-7-10'
+title: "¿Cómo probar la velocidad de tu conexión a Internet?"
+date: 2025-12-17
+tags:
+  - "Señal"
+dificultad: "Fácil"
+costo: "Gratis"
+ayudantes: "Sin ayudantes"
+tarda: "Minutos"
+autor: "SOLE Colombia"
+draft: false
 ---
-
 # Verifica la calidad real de tu conexión
 
 

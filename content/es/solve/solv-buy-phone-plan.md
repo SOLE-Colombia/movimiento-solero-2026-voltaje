@@ -1,15 +1,15 @@
 ---
-title: ¿Cómo comprar un plan celular adecuado para mi?
-lang: es
-slug: como-comprar-un-plan-celular-adecuado-para-mi-solutions-db
-aspectos:
-- señal
-- electricidad
-- dispositivos
-- espacio
-fecha: '2024-10-25'
+title: "¿Cómo comprar un plan celular adecuado para mi?"
+date: 2025-12-17
+tags:
+  - "Dispositivos"
+dificultad: "Medio"
+costo: "> USD 50"
+ayudantes: "Sin ayudantes"
+tarda: "Minutos"
+autor: "SOLE Colombia"
+draft: false
 ---
-
 ## Comprar un plan de celular que se ajuste a tus capacidades y necesidades
 
 ![Particularneeds](assets/images/solv-buy-cellplan/solv-buy-cellplan-particularneeds.webp)

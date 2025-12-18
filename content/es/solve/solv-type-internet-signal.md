@@ -1,15 +1,15 @@
 ---
-title: ¿Cómo saber qué tipo de señal de Internet tienes?
-lang: es
-slug: como-saber-que-tipo-de-senal-de-internet-tienes-solutions-db
-aspectos:
-- señal
-- electricidad
-- dispositivos
-- espacio
-fecha: '2025-11-6'
+title: "¿Cómo saber qué tipo de señal de Internet tienes?"
+date: 2025-12-17
+tags:
+  - "Señal"
+dificultad: "Medio"
+costo: "Gratis"
+ayudantes: "Sin ayudantes"
+tarda: "Minutos"
+autor: "SOLE Colombia"
+draft: false
 ---
-
 ## Descubre cómo llega el internet a tu dispositivo
 
 

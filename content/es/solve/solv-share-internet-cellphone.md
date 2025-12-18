@@ -1,14 +1,17 @@
 ---
-title: ¿Cómo compartir Internet desde mi celular?
-lang: es
-slug: como-compartir-internet-desde-mi-celular-solutions-db
-aspectos:
-- señal
-- dispositivos
-- personas
-fecha: '2025-7-29'
+title: "¿Cómo compartir Internet desde mi celular?"
+date: 2025-12-17
+tags:
+  - "Dispositivos"
+  - "Personas"
+  - "Señal"
+dificultad: "Medio"
+costo: "USD 25 - 50"
+ayudantes: "2-3 personas"
+tarda: "Días"
+autor: "SOLE Colombia"
+draft: false
 ---
-
 ## **Reiniciar y compartir el internet de su teléfono con otros**
 
 

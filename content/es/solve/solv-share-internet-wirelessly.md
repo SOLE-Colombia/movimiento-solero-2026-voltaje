@@ -1,14 +1,16 @@
 ---
-title: ¿Quieres compartir tu internet sin cables? Configura tu Raspberry Pi
-lang: es
-slug: quieres-compartir-tu-internet-sin-cables-configura-tu-raspberry-pi-solutions-db
-aspectos:
-- señal
-- electricidad
-- dispositivos
-fecha: '2025-10-11'
+title: "¿Quieres compartir tu internet sin cables? Configura tu Raspberry Pi"
+date: 2025-12-17
+tags:
+  - "Dispositivos"
+  - "Señal"
+dificultad: "Medio"
+costo: "< USD 25"
+ayudantes: "Sin ayudantes"
+tarda: "Minutos"
+autor: "SOLE Colombia"
+draft: false
 ---
-
 # ¿Quieres compartir tu internet sin cables? Configura tu Raspberry Pi
 
 ## Comparte tu internet de bolsillo

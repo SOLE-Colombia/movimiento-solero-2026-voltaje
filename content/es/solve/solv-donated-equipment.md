@@ -1,12 +1,16 @@
 ---
-title: ¿Cómo conseguir equipos donados?
-lang: es
-slug: como-conseguir-equipos-donados-solutions-db
-aspectos:
-- dispositivos
-fecha: '2024-10-25'
+title: "¿Cómo conseguir equipos donados?"
+date: 2025-12-17
+tags:
+  - "Dispositivos"
+  - "Personas"
+dificultad: "Medio"
+costo: "Gratis"
+ayudantes: "Sin ayudantes"
+tarda: "Horas"
+autor: "SOLE Colombia"
+draft: false
 ---
-
 ## Darle un segundo uso a equipos que, de otra manera serían descartados
 
 Hola, ¿estás ahí? Mi nombre es Mateo y te acompañaré en el desarrollo de esta solución. Si estás leyendo, escuchando o viendo esto es porque estás interesado/a o tienes curiosidad en saber cómo conseguir equipos donados. Si es así, estás en el lugar indicado.

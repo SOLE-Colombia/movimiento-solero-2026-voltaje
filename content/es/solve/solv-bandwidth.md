@@ -1,15 +1,15 @@
 ---
-title: ¿Cómo aprovechar mi ancho de banda?
-lang: es
-slug: como-aprovechar-mi-ancho-de-banda-solutions-db
-aspectos:
-- señal
-- electricidad
-- dispositivos
-- espacio
-fecha: '2024-11-7'
+title: "¿Cómo aprovechar mi ancho de banda?"
+date: 2025-12-17
+tags:
+  - "Señal"
+dificultad: "Medio"
+costo: "Gratis"
+ayudantes: "2-3 personas"
+tarda: "Horas"
+autor: "SOLE Colombia"
+draft: false
 ---
-
 ## Aprovecha las opciones de tu servicio de Internet
 
 

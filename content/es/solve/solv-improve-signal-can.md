@@ -1,14 +1,16 @@
 ---
-title: ¿Cómo mejorar mi señal con una lata?
-lang: es
-slug: como-mejorar-mi-senal-con-una-lata-solutions-db
-aspectos:
-- señal
-- dispositivos
-fecha: '2024-10-25'
+title: "¿Cómo mejorar mi señal con una lata?"
+date: 2025-12-17
+tags:
+  - "Dispositivos"
+  - "Señal"
+dificultad: "Medio"
+costo: "Gratis"
+ayudantes: "Sin ayudantes"
+tarda: "Horas"
+autor: "SOLE Colombia"
+draft: false
 ---
-
-
 ## Hacer una pequeña antena para mi celular
 
 ### **Audiolectura de la solución**

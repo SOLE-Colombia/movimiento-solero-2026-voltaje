@@ -1,15 +1,15 @@
 ---
-title: ¿Cómo comprar una antena satelital?
-lang: es
-slug: como-comprar-una-antena-satelital-solutions-db
-aspectos:
-- señal
-- dispositivos
-- espacio
-fecha: '2024-02-29'
+title: "¿Cómo comprar una antena satelital?"
+date: 2025-12-17
+tags:
+  - "Señal"
+dificultad: "Medio"
+costo: "Gratis"
+ayudantes: "Más de 3 personas"
+tarda: "Horas"
+autor: "SOLE Colombia"
+draft: false
 ---
-
-
 ## ¿Cómo escoger un servicio de internet para lugares no interconectados?
 
 ![Antena satelital](https://images.pexels.com/photos/5790645/pexels-photo-5790645.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)

@@ -1,15 +1,16 @@
 ---
-title: Haz una colecta para pagar internet comunitario
-lang: es
-slug: haz-una-colecta-para-pagar-internet-comunitario-solutions-db
-aspectos:
-- señal
-- electricidad
-- dispositivos
-- espacio
-fecha: '2024-10-24'
+title: "Haz una colecta para pagar internet comunitario"
+date: 2025-12-17
+tags:
+  - "Personas"
+  - "Señal"
+dificultad: "Complejo"
+costo: "Gasto mensual"
+ayudantes: "Más de 3 personas"
+tarda: "Horas"
+autor: "SOLE Colombia"
+draft: false
 ---
-
 Hola, soy Sanjay y una de mis grandes empresas es darle uso comunitario a los recursos que tenemos disponibles. Me gusta cacharrear, sí, pero también me interesan las maneras en las que los humanos nos coordinamos para vivir mejor juntos. 
 
 ## ¿Qué es hacer una colecta para pagar el internet comunitario?

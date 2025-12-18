@@ -1,14 +1,15 @@
 ---
-title: ¿Cómo amplificar tu señal móvil dentro de un espacio?
-lang: es
-slug: como-amplificar-tu-senal-movil-dentro-de-un-espacio-solutions-db
-aspectos:
-- señal
-- dispositivos
-- espacio
-fecha: '2024-10-25'
+title: "¿Cómo amplificar tu señal móvil dentro de un espacio?"
+date: 2025-12-17
+tags:
+  - "Señal"
+dificultad: "Fácil"
+costo: "USD 25 - 50"
+ayudantes: "Sin ayudantes"
+tarda: "Horas"
+autor: "SOLE Colombia"
+draft: false
 ---
-
 ## Amplifica tu señal móvil
 
 

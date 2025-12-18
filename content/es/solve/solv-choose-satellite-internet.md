@@ -1,12 +1,15 @@
 ---
-title: ¿Qué Internet satelital elegir, según mis necesidades?
-lang: es
-slug: que-internet-satelital-elegir-segun-mis-necesidades-solutions-db
-aspectos:
-- señal
-fecha: '2025-10-25'
+title: "¿Qué Internet satelital elegir, según mis necesidades?"
+date: 2025-12-17
+tags:
+  - "Señal"
+dificultad: "Medio"
+costo: "Gratis"
+ayudantes: "Sin ayudantes"
+tarda: "Horas"
+autor: "SOLE Colombia"
+draft: false
 ---
-
 ## Invierte bien tu dinero para instalar Internet
 
 ![Antena 3 4G](assets/images/solv-chooseinternet/solv-chooseinternet-tower.webp)
