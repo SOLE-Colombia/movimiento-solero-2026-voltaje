@@ -117,7 +117,6 @@ Y para muchos, este logro significa mucho más que “tener conexión”: es una
 
 Escucha lo que tiene por decir uno de los vecinos cacharreros, que se animó a poner la antena del Jangala con todo el parche SOLEro:
 
-[Arnulfo, Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).](../../../How did the Internet improved in Cáceres, Antioqui 2602bd68c5b68058aac3cb67800ab59f/20240627_SOLEWLH_Sintonizacin_Antioquia_AltosdelTigre_(105).5.mp4)
 
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">

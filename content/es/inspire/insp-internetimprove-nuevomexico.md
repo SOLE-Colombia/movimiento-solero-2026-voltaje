@@ -61,7 +61,23 @@ Dejamos instalado un Jangala y una antena omnidireccional en un espacio en el qu
 
 Actualmente la comunidad Nasa Kiwe Tekh Kxsaw sigue haciéndose Grandes Preguntas usando el Internet y la tecnología en grupo. 
 
-[20240613_SOLE+WLH_Sintonización_Nasa Kiwe Tekh Kxsaw, Santander de Quilichao14.2.mp4](../../../How did the internet improved in New Mexico, Santa 2602bd68c5b680b198eefa5101764675/20240613_SOLEWLH_Sintonizacin_Nasa_Kiwe_Tekh_Kxsaw_Santander_de_Quilichao14.2.mp4)
+
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/uapZNmZ3RQU?si=Jb4vCjApeQKHD9zP" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+
+
+
 
 https://notionreactions.com/embed/TeHqSnrpW21yMBlxkBnc
 

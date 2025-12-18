@@ -62,7 +62,7 @@ Durante 2024, los Embajadores de El Tambo se formaron en la metodología SOLE y,
 
 Así lo describe una de las vecinas del SOLE Lab en el Barrio Obrero:
 
-[Enchufa Tu SOLE Lab en el Tambo, Cauca, (2024).](../../../¿Cómo mejoró el Internet en El Tambo, Cauca 1362bd68c5b6802a8df0f2c8fd47097f/20240801_SOLEBOLT_SOLELAB_Enchufa_ElTambo__(27).5.mp4)
+
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 

@@ -71,8 +71,6 @@ Rancho Rojo y otras comunidades cercanas. Ahora, las personas se trasladan
 para usar esta conexión, que ha sido instalada y puesta en marcha con el
 esfuerzo de todos.
 
-[Gabriel, Vistas de Sintonización, Montes de María, (2024).](../../../How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111/20240710_SOLEWLH_Sintonizacin_MM_Chaln_(10).mp4)
-
 
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
