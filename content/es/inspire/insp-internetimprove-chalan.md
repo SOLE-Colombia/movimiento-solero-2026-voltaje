@@ -22,8 +22,19 @@ información.
 Escucha a Yulieth mientras cuenta su historia sobre los aprendizajes de
 conectar a la comunidad:
 
-<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-chalan/insp-internetimprove-chalan1.webm"></video>
-*Yulieth Farasica, Visitas de Sintonización, Montes de María (2024).*
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/Mze30kwUtp0?si=tX-Chw-U3VM4Fq5c" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+
 
 
 Así es como Alemania ahora es un punto de encuentro para Monte Bello,
@@ -31,8 +42,20 @@ Rancho Rojo y otras comunidades cercanas. Ahora, las personas se trasladan
 para usar esta conexión, que ha sido instalada y puesta en marcha con el
 esfuerzo de todos.
 
-<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-chalan/insp-internetimprove-chalan2.webm"></video>
-*Gabriel, Visitas de Sintonización, Montes de María (2024).*
+
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/1kI6AR2gMTE?si=g8-iokIz0UsSZ9gp" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
 
 
 ¡Ya son seis las embajadoras formadas en la metodología SOLE que han

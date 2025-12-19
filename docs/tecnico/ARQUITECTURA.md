@@ -62,6 +62,14 @@ El `package.json` en la raíz orquesta todo:
 *   `npm run dev`: Inicia `quartz build --serve`. Levanta un servidor local y vigila cambios (Hot Reload).
 *   `npx quartz sync`: Ayuda a sincronizar cambios con Git.
 
+---
+
+## 🧭 Visión global (lectura recomendada)
+
+Si necesitas una lógica global del sistema (contenido → build → deploy), además de una guía sobre **rastreo de actividad** e **interactividad en un sitio estático**, consulta:
+
+- `docs/tecnico/MAPA_DEL_PROYECTO.md`
+
 ## ⚠️ Notas de Migración
 
 Si vienes de la versión anterior del proyecto:

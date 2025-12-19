@@ -31,23 +31,50 @@ Durante 2024, los Embajadores de El Tambo se formaron en la metodología SOLE y,
 
 Así lo describe una de las vecinas del SOLE Lab en el Barrio Obrero:
 
-<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-tambo/insp-internetimprove-tambo1.webm"></video>
-*Enchufa tu SOLE Lab en El Tambo, Cauca (2024).*
 
-<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-tambo/insp-internetimprove-tambo2.webm"></video>
-*Enchufa tu SOLE Lab en El Tambo, Cauca (2024).*
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/kuiF8EUP9fE?si=jojL3HwdndidCHrM"
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+
+Enchufa Tu SOLE Lab en el Tambo, Cauca, (2024).
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/MpZokrLn9ng?si=c4n6RYWkFTCoOpTA"
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+
+
+Enchufa Tu SOLE Lab en el Tambo, Cauca, (2024).
 
 El SOLE Lab no es una biblioteca común. Es un punto de encuentro donde niños, jóvenes y adultos exploran, crean, sueñan y aprenden juntos. Con acceso a Internet comunitario y espacios de colaboración, el SOLE Lab invita a la comunidad a convertir ideas en acciones, a tomar decisiones colectivas, a disfrutar del aprendizaje autoorganizado en grupo y, por qué no, hasta ver películas.
 
-[Enchufa Tu SOLE Lab en el Tambo, Cauca, (2024).](<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
     src="https://www.youtube.com/embed/h_lJyECBVug" 
+    title="Enchufa Tu SOLE Lab en el Tambo, Cauca (2024)"
     frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
     allowfullscreen>
   </iframe>
-</div>&t=1s)
 
 Enchufa Tu SOLE Lab en el Tambo, Cauca, (2024).
 
@@ -55,8 +82,20 @@ Gracias al SOLE Lab, la conexión a Internet en El Tambo mejoró significativame
 
 Ahora la comunidad de El Tambo puede comunicarse y crear vínculos con otras comunidades SOLE Laberas y personas en todo el mundo. Con cada conexión, se construyen puentes de colaboración que fortalecen el sentido de pertenencia y el aprendizaje colectivo, cada participante de la Biblioteca del futuro forma parte de una red global de aprendizaje y transformación.
 
-<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-tambo/insp-internetimprove-tambo3.webm"></video>
-*Enchufa tu SOLE Lab en El Tambo, Cauca (2024).*
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/N2HxtuwkTLk?si=Hl3GaN1zUt4EQRdK"
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+
+Enchufa Tu SOLE Lab en el Tambo, Cauca, (2024).
 
 Mira algunas de las actividades que ha impulsado en este espacio la comunidad:
 

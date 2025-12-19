@@ -26,6 +26,7 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import FolderGrid from "./FolderGrid"
 import RandomCardGrid from "./RandomCardGrid"
+import LanguageToggle from "./LanguageToggle"
 
 export {
   ArticleTitle,
@@ -56,4 +57,5 @@ export {
   ConditionalRender,
   FolderGrid,
   RandomCardGrid,
+  LanguageToggle,
 }

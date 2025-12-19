@@ -18,25 +18,89 @@ Este año, sin embargo, algo cambió. A partir de la Visita de Sintonización, p
 
 Pero esto no los desanimó. Al contrario, se pusieron manos a la obra. Evaluaron la situación, buscaron soluciones y, con el apoyo del programa, lograron dar con la opción ideal para ellos: un dispositivo *Jangala*. Este pequeño pero poderoso aparato hace posible conectar comunidades en zonas de difícil acceso, y para los habitantes de Cáceres fue como una puerta hacia un nuevo mundo.
 
-<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-caceres/insp-internetimprove-caceres1.webm"></video>
-*Visitas de Sintonización en Altos del Tigre, Antioquia (2024).*
 
-<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-caceres/insp-internetimprove-caceres2.webm"></video>
-*Visitas de Sintonización en Altos del Tigre, Antioquia (2024).*
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/-RRzZSddDeg?si=23QI-C7PEm7_ttml"
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+
+Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).
+
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/im4zjtecU9I?si=TWHD9I7gojUUIPu4"
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).
 
 Así, gracias al Jangala y al esfuerzo de los Embajadores SOLE, y de todas las personas de la comunidad que se unieron para lograr instalar esta solución, Cáceres ahora cuenta con Internet en un punto de acceso comunitario.
 
-<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-caceres/insp-internetimprove-caceres3.webm"></video>
-*Visitas de Sintonización en Altos del Tigre, Antioquia (2024).*
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/d83Py5QEgDs?si=fJdMHxDn--f15hR4" 
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
 
-<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-caceres/insp-internetimprove-caceres4.webm"></video>
-*Visitas de Sintonización en Altos del Tigre, Antioquia (2024).*
+
+
+Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).
+
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/dgvFpUhsfjw?si=Iqltpzy60H62VX1B"
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+
+Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).
 
 Y para muchos, este logro significa mucho más que “tener conexión”: es una oportunidad de aprender, de informarse, de estar al día. Niños, jóvenes y adultos ahora pueden acceder a información, participar en sesiones de SOLE y, como dicen ellos, “resolver esas grandes preguntas que antes parecían cosa de otro mundo”.
 
 Escucha lo que tiene por decir uno de los vecinos cacharreros, que se animó a poner la antena del Jangala con todo el parche SOLEro:
 
-<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-caceres/insp-internetimprove-caceres5.webm"></video>
-*Arnulfo, Visitas de Sintonización en Altos del Tigre, Antioquia (2024).*
+
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/1udzbfKgNVE?si=wNV0qIZAgcpMlj-i"
+    title="Video Colosó" 
+    frameborder="0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+
+Arnulfo, Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).
 
 El trabajo de Yadiris, Luz Cenith, Kenia, Blanca Ofir y David Ojeda ha marcado un antes y un después en Cáceres. Hoy, gracias a su dedicación y al Jangala, la comunidad no solo tiene Internet, sino que está transformando cómo lo usa, descubriendo, compartiendo y creando muchas posibilidades para su comunidad.

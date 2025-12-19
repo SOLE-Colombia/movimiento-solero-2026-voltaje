@@ -2,6 +2,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 
 import style from "../styles/listPage.scss"
 import { PageList, SortFn } from "../PageList"
+import { PageCardGrid } from "../PageCardGrid"
 import { Root } from "hast"
 import { htmlToJsx } from "../../util/jsx"
 import { i18n } from "../../i18n"
@@ -29,6 +30,15 @@ export default ((opts?: Partial<FolderContentOptions>) => {
 
   const FolderContent: QuartzComponent = (props: QuartzComponentProps) => {
     const { tree, fileData, allFiles, cfg } = props
+
+    const mainSectionSlugs = new Set([
+      "es/inspire/index",
+      "es/solve/index",
+      "es/disconnected/index",
+      "es/glossary/index",
+      "es/answers-comments/index",
+    ])
+    const renderAsCards = typeof fileData.slug === "string" && mainSectionSlugs.has(fileData.slug)
 
     const trie = (props.ctx.trie ??= trieFromAllFiles(allFiles))
     const folder = trie.findNode(fileData.slug!.split("/"))
@@ -114,13 +124,13 @@ export default ((opts?: Partial<FolderContentOptions>) => {
             </p>
           )}
           <div>
-            <PageList {...listProps} />
+            {renderAsCards ? <PageCardGrid {...listProps} /> : <PageList {...listProps} />}
           </div>
         </div>
       </div>
     )
   }
 
-  FolderContent.css = concatenateResources(style, PageList.css)
+  FolderContent.css = concatenateResources(style, PageList.css, PageCardGrid.css)
   return FolderContent
 }) satisfies QuartzComponentConstructor

@@ -1,5 +1,6 @@
 import { QuartzPluginData } from "../plugins/vfile"
-import { FullSlug, isAbsoluteURL, isFolderPath, resolveRelative } from "../util/path"
+import { FullSlug, isFolderPath, resolveRelative } from "../util/path"
+import { resolveCardImage } from "./cardImage"
 
 export type CardItem = {
   title: string
@@ -41,18 +42,6 @@ const buildSummary = (page: QuartzPluginData): string => {
   const fmDescription = page.frontmatter?.description ?? page.frontmatter?.summary
   const base = fmDescription ?? page.description ?? ""
   return truncate(base, 220)
-}
-
-const resolveCardImage = (page: QuartzPluginData, currentSlug: FullSlug): string | undefined => {
-  const raw =
-    page.frontmatter?.cardImage ?? page.frontmatter?.cover ?? page.frontmatter?.image
-  if (!raw || raw.trim().length === 0) return undefined
-  const clean = raw.trim()
-
-  if (clean.startsWith("/")) return clean
-  if (isAbsoluteURL(clean)) return clean
-
-  return resolveRelative(currentSlug, `${page.slug}/${clean}` as FullSlug)
 }
 
 export const collectCardPool = ({

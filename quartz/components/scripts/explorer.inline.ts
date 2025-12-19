@@ -20,6 +20,31 @@ type FolderState = {
 }
 
 let currentExplorerState: Array<FolderState>
+let lastSlug: FullSlug | undefined = undefined
+
+const LANG_STORAGE_KEY = "contentLang"
+const SUPPORTED_LANGS = new Set(["es", "en", "pt"])
+
+function getAvailableLangs(entries: [FullSlug, ContentDetails][]): string[] {
+  const langs = new Set<string>()
+  for (const [slug] of entries) {
+    const first = slug.split("/")[0]
+    if (SUPPORTED_LANGS.has(first)) langs.add(first)
+  }
+  return Array.from(langs)
+}
+
+function pickActiveLang(explorer: HTMLElement, availableLangs: string[]): string | undefined {
+  const stored = localStorage.getItem(LANG_STORAGE_KEY)
+  if (stored && availableLangs.includes(stored)) return stored
+
+  const defaultFromData = explorer.dataset.langDefault
+  if (defaultFromData && availableLangs.includes(defaultFromData)) return defaultFromData
+
+  // fallback to es if present, otherwise first available
+  if (availableLangs.includes("es")) return "es"
+  return availableLangs[0]
+}
 function toggleExplorer(this: HTMLElement) {
   const nearestExplorer = this.closest(".explorer") as HTMLElement
   if (!nearestExplorer) return
@@ -174,7 +199,20 @@ async function setupExplorer(currentSlug: FullSlug) {
 
     const data = await fetchData
     const entries = [...Object.entries(data)] as [FullSlug, ContentDetails][]
-    const trie = FileTrieNode.fromEntries(entries)
+    const availableLangs = getAvailableLangs(entries)
+    const activeLang = pickActiveLang(explorer, availableLangs)
+
+    const filteredEntries =
+      activeLang && availableLangs.length > 0
+        ? entries.filter(([slug]) => {
+            const first = slug.split("/")[0]
+            // Keep non-language slugs (e.g., root index) visible
+            if (SUPPORTED_LANGS.has(first) && first !== activeLang) return false
+            return true
+          })
+        : entries
+
+    const trie = FileTrieNode.fromEntries(filteredEntries)
 
     // Apply functions in order
     for (const fn of opts.order) {
@@ -204,6 +242,15 @@ async function setupExplorer(currentSlug: FullSlug) {
 
     const explorerUl = explorer.querySelector(".explorer-ul")
     if (!explorerUl) continue
+
+    // Clear existing content (important when rebuilding the explorer, e.g. language switch)
+    const children = Array.from(explorerUl.children)
+    for (const child of children) {
+      const el = child as HTMLElement
+      if (!el.classList.contains("overflow-end")) {
+        explorerUl.removeChild(child)
+      }
+    }
 
     // Create and insert new content
     const fragment = document.createDocumentFragment()
@@ -267,6 +314,7 @@ document.addEventListener("prenav", async () => {
 
 document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   const currentSlug = e.detail.url
+  lastSlug = currentSlug
   await setupExplorer(currentSlug)
 
   // if mobile hamburger is visible, collapse by default
@@ -280,10 +328,20 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
 
       // Allow <html> to be scrollable when mobile explorer is collapsed
       document.documentElement.classList.remove("mobile-no-scroll")
+    } else {
+      // On desktop, keep the explorer open by default (no collapse toggle)
+      explorer.classList.remove("collapsed")
+      explorer.setAttribute("aria-expanded", "true")
     }
 
     mobileExplorer.classList.remove("hide-until-loaded")
   }
+})
+
+document.addEventListener("voltaje:lang-change", () => {
+  const slug = lastSlug
+  if (!slug) return
+  void setupExplorer(slug)
 })
 
 window.addEventListener("resize", function () {
