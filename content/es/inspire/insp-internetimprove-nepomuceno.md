@@ -42,16 +42,16 @@ Los siguientes fragmentos son la recopilación de testimonios, imágenes y escen
 
 ### Primera Parada
 
-
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    src="https://youtube.com/shorts/wFoxttYr5s0?si=W_Y3kUbHjl-sKNrw"
-    title="Video Colosó" 
+<iframe 
+    width="315" 
+    height="560" 
+    src="https://www.youtube.com/embed/wFoxttYr5s0?si=W_Y3kUbHjl-sKNrw"" 
+    title="YouTube video player" 
     frameborder="0" 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
-  </iframe>
+</iframe>
 </div>
 
 
@@ -93,7 +93,7 @@ Gabriel, Vistas de Sintonización, Montes de María, (2024).
 
 **Rafael Antonio García, un cacharrero innato de su comunidad, nos cuenta en sus propias palabras cómo fue el proceso para lograr instalar la antena: ¡Sube el volumen para escuchar su relato!**
 
-<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-nepomuceno/insp-internetimprove-nepomuceno4.webm"></video>
+
 *Rafael Antonio en Vistas de Sintonización, Montes de María, (2024).*
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 

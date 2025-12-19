@@ -48,18 +48,7 @@ Aquí está presentando el Jangala o a “Jang”, como decidieron llamarlo, Lui
 <video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-dominguillo/insp-internetimprove-dominguillo1.webm"></video>
 *Franki, Lucho y Mateo en los Talleres de Inspiración en Dominguillo, Cauca (2023).*
 
-Franki, Lucho y Mateo en los Talleres de Inspiración en Dominguillo, Cauca (2023).
 
-<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    src="https://youtube.com/shorts/Fc_KbyQqcQE?si=_iiVzsc9pSJVcyKv"
-    title="Video Colosó" 
-    frameborder="0" 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    allowfullscreen>
-  </iframe>
-</div>
 
 
 Talleres de Inspiración, Dominguillo, Cauca (2023).
@@ -68,9 +57,6 @@ El dispositivo se instaló en la biblioteca con el objetivo de facilitar sesione
 
 **Escucha a Luis Miguel Mina y Nancy Campo, hablar sobre esta experiencia:**
 
-<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-dominguillo/insp-internetimprove-dominguillo2.webm"></video>
-*Luis Miguel Mina y Nancy Campo
-Embajadores SOLE en Festivales SOLE Dominguillo, Santander de Quilichao (2023).*
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
@@ -106,10 +92,6 @@ Y… ¿Adivinen qué? Juntos, trabajamos en el desarrollo del SOLE Lab, un espac
 
 
 Gracias a este esfuerzo, Dominguillo no solo mejoró su conexión a Internet, sino que fortaleció el vínculo de la comunidad. Ahora, el SOLE Lab es un punto de encuentro en el que los habitantes siguen aprendiendo y compartiendo sus conocimientos.
-<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-dominguillo/insp-internetimprove-dominguillo3.webm"></video>
-*Video del Enchufa Tu SOLE Lab en Dominguillo, Cauca, (2024).*
-
-https://notionreactions.com/embed/k85xN4ZHTsztwYX9QmCe
 
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
