@@ -1,26 +1,16 @@
 ---
-title: ¿Cómo usar el juego para aprender a cuidar equipos en comunidad?
-lang: es
-slug: como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-solutions-db
-aspectos:
-- dispositivos
-- personas
-fecha: '2025-10-25'
+title: "¿Cómo usar el juego para aprender a cuidar equipos en comunidad?"
+date: 2025-12-17
+tags:
+  - "Dispositivos"
+  - "Personas"
+dificultad: "Medio"
+costo: "Gratis"
+ayudantes: "Más de 3 personas"
+tarda: "Horas"
+autor: "SOLE Colombia"
+draft: false
 ---
-
-
-
-Created: 25 de octubre de 2024 13:36
-Autor: Mateo
-Solucionas: Dispositivos, Personas
-Dificultad: Tranqui
-Cuesta: Gratis
-Ayudantes: Más de 3 personas
-Tardas: Horas
-2025-prueba: No
-
-
-
 ## Una solución de gobernanza para los recursos comunes
 
 ## **Video de la solución**

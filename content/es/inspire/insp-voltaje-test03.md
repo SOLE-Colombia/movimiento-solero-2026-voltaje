@@ -1,41 +1,11 @@
 ---
 title: "Prueba #03 SOLE Voltaje"
-lang: es
-slug: prueba-03-sole-voltaje-inspiration-db
-
-categories:
-  - Metodología
-  - Prueba
-
+date: 2024-10-25
 tags:
-  - Metodología
-  - Prueba
-
-formato:
-  - Texto
-
-autor:
-  - Zol
-  - SemiYa
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - electricidad
-  - dispositivos
-  - personas
-
-fecha: "2024-10-25"
-
+  - "Metodologías"
+autor: "Nicolás"
 draft: false
-traduccion: false
-pie: false
-reaccion: false
-widget: true
 ---
-
-
 ## Taller Tierra Común
 
 **Título:** Creación de dispositivos para reflexionar sobre nuestra autonomía tecnológica
@@ -277,23 +247,3 @@ Si una ficha de lego representa 20 canciones ¿Cuántas canciones escuchas al me
 ¿Cuántas GB consumes para tu celular al mes?
 
 ¿Cuántas GB necesitas para tu plan de datos móviles?
-
-[https://notionreactions.com/embed/iRGshw9x6PbHd6lYmFH9](https://notionreactions.com/embed/iRGshw9x6PbHd6lYmFH9)
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)

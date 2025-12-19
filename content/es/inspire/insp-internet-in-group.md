@@ -1,38 +1,11 @@
 ---
 title: "¿Cuándo fue la última vez que usaste el Internet en grupo?"
-lang: es
-slug: cuando-fue-la-ultima-vez-que-usaste-el-internet-en-grupo-inspiration-db
-
-categories:
-  - Pregunta Provocadora
-
+date: 2025-10-11
 tags:
-  - Pregunta Provocadora
-
-formato:
-  - Foto
-  - Texto
-
-autor:
-  - Sanjay
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - personas
-  - espacio
-
-fecha: "2025-10-11"
-
+  - "Preguntas incómodas"
+autor: "Sanjay"
 draft: false
-traduccion: true
-pie: true
-reaccion: true
-widget: true
 ---
-
 *Descarga esta Inspiración para usarla desconectado*
 
 Entonces, volvamos al inicio: ¿cuándo fue la última vez que usaste Internet en grupo? Tal vez ese recuerdo —compartir una búsqueda, una pantalla, una pregunta— sea el comienzo de otro Internet posible. La Biblioteca del Futuro es eso: la prueba de que otros Internets son posibles, y de que ya los estamos creando.
@@ -61,20 +34,4 @@ Tal vez no lo recuerdas. Porque la mayoría de veces nos conectamos solos: frent
 
 ## **Mientras millones siguen sin Internet, quienes tenemos acceso lo usamos cada uno por su lado. ¿Y si el futuro del Internet fuera usarlo en grupo?**
 
----
 
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)

@@ -1,43 +1,11 @@
 ---
 title: "¿Cómo construir memoria en un SOLE Lab?"
-lang: es
-slug: metodologia-como-construir-memoria-en-ambientes-de-aprendizaje-auto-organizado-sole-lab-inspiration-db
-
-categories:
-  - Futuro
-  - Memoria
-  - Metodología
-
+date: 2025-10-11
 tags:
-  - Futuro
-  - Memoria
-  - Metodología
-
-formato:
-  - Texto
-
-autor:
-  - Voltaje
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - dispositivos
-  - personas
-  - espacio
-
-fecha: "2025-10-11"
-
+  - "Metodologías"
+autor: "SOLE Colombia"
 draft: false
-traduccion: false
-pie: false
-reaccion: false
-widget: true
 ---
-
-
 **Propósito:** recopilar ágilmente la historia del SOLE Lab de Boca de Camarones desde la mirada de cada grupo de colaboradores (Comunidad Boca de Camarones, SOLE Colombia e Internet Society Foundation)
 
 **Instrucciones**
@@ -116,24 +84,5 @@ Hito 6 [2023]: “Ahora el primer SOLE LAB de Boca de camarones es una realidad.
 - Las historias exceden al SOLE LAB; en otras palabras, este espacio se convierte en un pretexto para vivir y convivir de otras formas.
 - Haber hecho parte del proyecto genera orgullo y dignidad.
 
-[https://notionreactions.com/embed/OcEFXKsDsNifrRzU7icq](https://notionreactions.com/embed/OcEFXKsDsNifrRzU7icq)
 
----
 
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)

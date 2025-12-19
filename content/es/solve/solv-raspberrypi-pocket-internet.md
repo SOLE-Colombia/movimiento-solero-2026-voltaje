@@ -1,26 +1,15 @@
 ---
-title: 'Raspberry Pi: Una pequeña Internet de bolsillo'
-lang: es
-slug: raspberry-pi-una-pequena-internet-de-bolsillo-solutions-db
-aspectos:
-- señal
-- dispositivos
-- personas
-fecha: '2025-07-15'
+title: "Raspberry Pi: Una pequeña Internet de bolsillo"
+date: 2025-12-17
+tags:
+  - "Dispositivos"
+dificultad: "Complejo"
+costo: "> USD 50"
+ayudantes: "2-3 personas"
+tarda: "Horas"
+autor: "SOLE Colombia"
+draft: false
 ---
-
-
-Created: 15 de julio de 2025 17:49
-Autor: Gabriel
-Solucionas: Dispositivos
-Dificultad: Difícil
-Cuesta: >$200 COP
-Ayudantes: 2-3 personas
-Tardas: Horas
-2025-prueba: No
-
-
-
 # **Instala un servidor web en un computador de bolsillo**
 
 

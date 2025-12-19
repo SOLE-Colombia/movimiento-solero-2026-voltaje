@@ -1,42 +1,11 @@
 ---
 title: "Prueba #01 SOLE Voltaje"
-lang: es
-slug: prueba-01-sole-voltaje-inspiration-db
-
-categories:
-  - Metodología
-  - Prueba
-
+date: 2024-10-25
 tags:
-  - Metodología
-  - Prueba
-
-formato:
-  - Texto
-
-autor:
-  - Zol
-  - SemiYa
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - electricidad
-  - dispositivos
-  - personas
-
-fecha: "2024-10-25"
-
+  - "Metodologías"
+autor: "Nicolás"
 draft: false
-traduccion: false
-pie: false
-reaccion: false
-widget: true
 ---
-
-
 # Presentación
 
 Hola soy nicolás, el cacharerro en Voltaje, hoy les queremos compartir el diseño de esta **Prueba de usuario** que diseñamos y ejecutamos a principios de 2024. Aprendimos un montón en este proceso y nos gustaría que ustedes, pueden apropiarlos y usarlos para interacturar con sus comunidades.
@@ -323,25 +292,3 @@ Las escaleras se suben de frente, pues hacia atrás o de costado resultan partic
 Llegado en esta forma al segundo peldaño, basta repetir alternadamente los movimientos hasta encontrarse con el final de la escalera. Se sale de ella fácilmente, con un ligero golpe de talón que la fija en su sitio, del que no se moverá hasta el momento del descenso.
 
 - FIN*
-
-[https://notionreactions.com/embed/3hKhHwqyFs0y4vPfEX0n](https://notionreactions.com/embed/3hKhHwqyFs0y4vPfEX0n)
-
----
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)

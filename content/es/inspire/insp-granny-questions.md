@@ -1,35 +1,11 @@
 ---
 title: "Preguntas y respuestas sobre la experiencia de ser una Abuelita"
-lang: es
-slug: preguntas-y-respuestas-sobre-la-experiencia-de-ser-una-abuelita-inspiration-db
-
-categories:
-  - Aprendizajes
-
+date: 2025-10-11
 tags:
-  - Aprendizajes
-
-formato:
-  - Texto
-
-autor:
-  - Bel
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - personas
-
-fecha: "2025-10-11"
-
+  - "De Voltaje a SOLE"
+autor: "SOLE Colombia"
 draft: false
-traduccion: true
-pie: false
-reaccion: true
-widget: true
 ---
-
 *Descarga esta Inspiración para usarla desconectado*
 
 ## **¿Cuánto tiempo es el mínimo que debo comprometerme con las sesiones?**
@@ -67,26 +43,4 @@ Siempre hay oportunidades para unirse a este movimiento global para transformar 
 - [¿Qué es un Costurero de Abuelitas, en SOLE Colombia?](/que-es-un-costurero-de-abuelitas-en-sole-colombia-inspiration-db) |
 - [¿Cómo hacer SOLE? - Tutorial](/como-hacer-sole-tutorial-inspiration-db) | [How to make SOLE? - Tutorial](/how-to-make-sole-tutorial-inspiration-db)
 
-[https://notionreactions.com/embed/b76KVpACwsj3tsgkdMjE](https://notionreactions.com/embed/b76KVpACwsj3tsgkdMjE)
 
----
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
-
-**‍**

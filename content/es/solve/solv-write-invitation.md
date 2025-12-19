@@ -1,25 +1,15 @@
 ---
-title: ¿Cómo escribir una buena invitación?
-lang: es
-slug: como-escribir-una-buena-invitacion-solutions-db
-aspectos:
-- personas
-fecha: '2024-10-25'
+title: "¿Cómo escribir una buena invitación?"
+date: 2025-12-17
+tags:
+  - "Personas"
+dificultad: "Fácil"
+costo: "< USD 25"
+ayudantes: "2-3 personas"
+tarda: "Horas"
+autor: "SOLE Colombia"
+draft: false
 ---
-
-
-
-Created: 25 de octubre de 2024 13:36
-Autor: Manuela
-Solucionas: Personas
-Dificultad: Fácil
-Cuesta: >$ 100 COP
-Ayudantes: 2-3 personas
-Tardas: Horas
-2025-prueba: No
-
-
-
 ## Crea tu propia invitación
 
 

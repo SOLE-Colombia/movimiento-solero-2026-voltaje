@@ -1,15 +1,12 @@
 ---
-title: WhatsApp 
-lang: es
-slug: 'whatsapp-conceptorio'
-aspectos:
-- señal
-fecha: '2025-07-15'
-autor: Belen Sevilla Morillo
+title: "WhatsApp"
+date: 2025-07-15
+tags:
+  - "Programas y aplicaciones"
+  - "Términos del mundo virtual"
+autor: "Belén"
+draft: false
 ---
-
-
-
 [WhatsApp](https://www.whatsapp.com/?lang=es_LA) es una **aplicación de mensajería instantánea y llamadas,** propiedad de Meta, que permite a los usuarios enviar mensajes, hacer llamadas de voz y video, y compartir archivos a través de internet. 
 
 Es ampliamente utilizada tanto para comunicaciones personales como para negocios.

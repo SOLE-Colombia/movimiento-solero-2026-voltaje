@@ -1,36 +1,16 @@
 ---
-title: ¿Cómo compartir los computadores disponibles?
-lang: es
-slug: como-compartir-los-computadores-disponibles-solutions-db
-aspectos:
-- señal
-- electricidad
-- dispositivos
-- espacio
-fecha: '2025-7-30'
+title: "¿Cómo compartir los computadores disponibles?"
+date: 2025-12-17
+tags:
+  - "Dispositivos"
+  - "Personas"
+dificultad: "Fácil"
+costo: "Gratis"
+ayudantes: "2-3 personas"
+tarda: "Horas"
+autor: "SOLE Colombia"
+draft: false
 ---
-
-
-Created: 30 de julio de 2025 0:17
-Autor: Sanjay
-Solucionas: Dispositivos
-Dificultad: Fácil
-Cuesta: Gratis
-Ayudantes: 2-3 personas
-Tardas: Horas
-pilar/dispositivos: 3: Aporta a que haya suficientes dispositivos para compartir con restricción mínima  (3 computadores min)
-pilar/espacio: 0: No aporta a tener un espacio público
-pilar/personas: 0: No aporta a reunir personas
-pilar/senal: 0: No aporta señal
-pilar/electricidad: No consigues electricidad
-impacto/personas: 10
-impacto/sostenibilidad: 2: Medio
-recursos/dinero: 0: Sin dinero
-recursos/personas: 2: Entre 2 y 3 personas
-recursos/tiempo: 2: Días
-2025-prueba: No
-
-
 ---
 
 ![Investigación](/assets/images/solv-sharecomputers/share-computers-investigation3.webp)

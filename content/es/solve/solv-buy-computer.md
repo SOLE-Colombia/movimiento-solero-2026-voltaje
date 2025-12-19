@@ -1,34 +1,15 @@
 ---
-title: ¿Cómo comprar un computador para ti?
-lang: es
-slug: como-comprar-un-computador-para-ti-solutions-db
-aspectos:
-- señal
-- dispositivos
-- espacio
-fecha: '2024-3-21'
+title: "¿Cómo comprar un computador para ti?"
+date: 2025-12-17
+tags:
+  - "Dispositivos"
+dificultad: "Fácil"
+costo: "Gratis"
+ayudantes: "Sin ayudantes"
+tarda: "Horas"
+autor: "SOLE Colombia"
+draft: false
 ---
-
-
-Created: 21 de marzo de 2024 10:55
-Autor: Nicolás
-Solucionas: Dispositivos
-Dificultad: Fácil
-Cuesta: Gratis
-Ayudantes: Nadie
-Tardas: Horas
-pilar/dispositivos: 2: Aporta a que haya algunos dispositivos para compartir con ciertas restricciones (Uso con restricción de tiempo o de uso)
-pilar/espacio: 0: No aporta a tener un espacio público
-pilar/personas: 0: No aporta a reunir personas
-pilar/senal: 0: No aporta señal
-impacto/personas: 3
-impacto/sostenibilidad: 1: Bajo
-recursos/dinero: 3: $ 200 COP >
-recursos/dificultad: 1: Necesitas habilidades nuevas en un lenguaje que ya maneja (comprar un plan de internet)
-recursos/tiempo: 0: Minutos
-2025-prueba: No
-
-
 ## Comprar el mejor computador para mi caso
 
 

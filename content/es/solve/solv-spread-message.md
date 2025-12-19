@@ -1,36 +1,15 @@
 ---
-title: Difunde tu mensaje
-lang: es
-slug: difunde-tu-mensaje-solutions-db
-aspectos:
-- señal
-- electricidad
-- dispositivos
-- personas
-- espacio
-fecha: '2024-10-25'
+title: "Difunde tu mensaje"
+date: 2025-12-17
+tags:
+  - "Personas"
+dificultad: "Medio"
+costo: "< USD 25"
+ayudantes: "2-3 personas"
+tarda: "Días"
+autor: "SOLE Colombia"
+draft: false
 ---
-
-
-Created: 25 de octubre de 2024 13:36
-Autor: Manuela
-Solucionas: Personas
-Dificultad: Tranqui
-Cuesta: >$ 100 COP
-Ayudantes: 2-3 personas
-Tardas: Días
-pilar/dispositivos: 0: No aporta a equipos
-pilar/espacio: 0: No aporta a tener un espacio público
-pilar/personas: 3: Aporta a que haya una comunidad organizada con varios líderes
-pilar/senal: 1: Aporta solución de contenidos más no conectividad
-pilar/electricidad: No consigues electricidad
-impacto/sostenibilidad: 0: Se mantiene solo
-recursos/dinero: 0: Sin dinero
-recursos/personas: 1: Una persona
-recursos/tiempo: 2: Días
-2025-prueba: No
-
-
 ## Llega al corazón de las personas a las que mueve tu mensaje
 
 

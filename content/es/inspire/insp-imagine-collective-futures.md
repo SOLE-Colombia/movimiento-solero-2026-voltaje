@@ -1,40 +1,11 @@
 ---
 title: "¿Cómo imaginar futuros en comunidad?"
-lang: es
-slug: metodologia-como-imaginar-futuros-en-comunidad-inspiration-db
-
-categories:
-  - Futuro
-  - Metodología
-
+date: 2025-10-11
 tags:
-  - Futuro
-  - Metodología
-
-formato:
-  - Foto
-  - Texto
-
-autor:
-  - Voltaje
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - dispositivos
-  - personas
-
-fecha: "2025-10-11"
-
+  - "Metodologías"
+autor: "SOLE Colombia"
 draft: false
-traduccion: false
-pie: false
-reaccion: false
-widget: true
 ---
-
-
 **Instrucciones:**
 
 1. Se organizan por parejas conformadas por 1 persona del Equipo SOLE y 1 persona de Boca de Camarones:
@@ -105,25 +76,3 @@ Ejemplo:
 ![Imaginar futuros colectivos](../../../assets/images/insp-imagine-collective-futures/insp-imagine-collective-futures7.webp)
 ![Imaginar futuros colectivos](../../../assets/images/insp-imagine-collective-futures/insp-imagine-collective-futures8.webp)
 ![Imaginar futuros colectivos](../../../assets/images/insp-imagine-collective-futures/insp-imagine-collective-futures9.webp)
-
-[https://notionreactions.com/embed/KeSxCiBEyRrHNird7q5L](https://notionreactions.com/embed/KeSxCiBEyRrHNird7q5L)
-
----
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)

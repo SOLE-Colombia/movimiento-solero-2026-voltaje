@@ -1,38 +1,11 @@
 ---
 title: "¿Cómo viaja un mensaje desde tu celular hasta el de tus amigos?"
-lang: es
-slug: como-se-transmite-la-senal-de-internet-inspiration-db
-
-categories:
-  - Internet
-  - Soluciones
-
+date: 2025-10-11
 tags:
-  - Internet
-  - Soluciones
-
-formato:
-  - Texto
-
-autor:
-  - Bel
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - dispositivos
-
-fecha: "2025-10-11"
-
+  - "Sobre el internet"
+autor: "Belén"
 draft: false
-traduccion: true
-pie: true
-reaccion: true
-widget: true
 ---
-
 *Descarga esta Inspiración para usarla desconectado*
 
 La señal de Internet se transmite **a través de infraestructura física como cables de fibra óptica y cobre, así como por ondas de radio (Wi-Fi) y, en menor medida, vía satélite o redes móviles (4G/5G)**. Los datos se convierten en pulsos eléctricos o luminosos (bits) que viajan por estos medios hasta su destino, utilizando routers y otros equipos para enviar y recibir la información.
@@ -59,25 +32,3 @@ La señal de Internet se transmite **a través de infraestructura física como c
     
 
 (Fuente: https://es.wikipedia.org/wiki/Medio_de_transmisi%C3%B3n)
-
----
-
-[https://notionreactions.com/embed/Y8trii17g0vU4qcuk2Yt](https://notionreactions.com/embed/Y8trii17g0vU4qcuk2Yt)
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)

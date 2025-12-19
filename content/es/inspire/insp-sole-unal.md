@@ -1,18 +1,12 @@
 ---
-title: ¿Qué significa el agua para ti y tu comunidad?
-lang: es
-slug: que-significa-el-agua-para-ti-y-tu-comunidad-inspiration-db
-categories:
-- Impacto
-- Pregunta Provocadora
-traduccion: false
-aspectos:
-- electricidad
-- personas
-- espacio
-fecha: '2025-10-11'
+title: "¿Qué significa el agua para ti y tu comunidad?"
+date: 2025-10-11
+tags:
+  - "Historias potentes"
+  - "De Voltaje a SOLE"
+autor: "SOLE Colombia"
+draft: false
 ---
-
 # ¿Qué significa el agua para ti y tu comunidad?
 
 Tags: Impacto, Pregunta Provocadora
@@ -175,4 +169,3 @@ Además:
 - Grabar paisajes, cuerpos de agua, sonidos del entorno, actividades cotidianas (lavar, navegar, recolectar).
 
 > Recomendación: usar planos cerrados de manos dibujando, rostros al hablar, el trazo que crece. Eso da mucho valor visual y emocional.
->

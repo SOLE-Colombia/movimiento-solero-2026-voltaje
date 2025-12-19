@@ -1,39 +1,11 @@
 ---
 title: "Todo comienza con una Gran Pregunta"
-lang: es
-slug: todo-comienza-con-una-gran-pregunta-inspiration-db
-
-categories:
-  - Aprendizajes
-
+date: 2025-10-11
 tags:
-  - Aprendizajes
-
-formato:
-  - Texto
-
-autor:
-  - Voltaje
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - electricidad
-  - personas
-  - espacio
-
-fecha: "2025-10-11"
-
+  - "De Voltaje a SOLE"
+autor: "SOLE Colombia"
 draft: false
-traduccion: true
-pie: true
-reaccion: true
-widget: true
 ---
-
-
 *Descarga esta solución para usarla desconectado*
 
 Esta es una experiencia para despertar la curiosidad de cualquier persona en el mundo que la lleve a utilizar el Internet en grupo para aprender. 
@@ -157,24 +129,4 @@ En SOLE Voltaje tenemos la idea que usar el Internet en grupo para aprender es u
 
 ¿Quieres que trabajemos juntos?
 
-[https://notionreactions.com/embed/e08soi0Df1mJHfdxQJZK](https://notionreactions.com/embed/e08soi0Df1mJHfdxQJZK)
 
----
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)

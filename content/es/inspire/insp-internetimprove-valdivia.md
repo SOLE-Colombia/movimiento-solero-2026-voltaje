@@ -1,41 +1,10 @@
 ---
 title: "¿Cómo mejoró el Internet en Valdivia, Antioquia?"
-lang: es
-slug: como-mejoro-el-internet-en-valdivia-antioquia-inspiration-db
-
-categories:
-  - Impacto
-  - Internet
-
+date: 2025-10-11
 tags:
-  - Impacto
-  - Internet
-
-formato:
-  - Foto
-  - Texto
-  - Video
-
-autor:
-  - Manu
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - personas
-  - espacio
-
-fecha: "2025-10-11"
-
+autor: "SOLE Colombia"
 draft: false
-traduccion: true
-pie: true
-reaccion: true
-widget: true
 ---
-
 *Descarga esta Inspiración para usarla desconectado*
 
 KM15 es el punto geográfico en la vía que conduce al Corregimiento de Puerto Valdivia desde la cabecera municipal. También es el el nombre de la comunidad asentada en este lugar. La vida en *Km15 -*kilómetro 15, como suena en español- discurre junto a la carretera que la conecta con el resto del mundo… o no. Si situación geográfica es una metáfora de su situación digital: el muchos lugares el Internet es algo cotidiano, allí se siente lejano.
@@ -135,23 +104,3 @@ Visitas de Sintonización, KM 15 en Valdivia, Antioquia, (2024).
 
 
 Las mujeres se están apropiando del uso del Internet en Valdivia. Y tú, ¿te has preguntado alguna vez por qué pagas lo que pagas por tu plan de celular o Internet en casa?
-
-[https://notionreactions.com/embed/z2OM5u2XPURxrsPzH34c](https://notionreactions.com/embed/z2OM5u2XPURxrsPzH34c)
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)

@@ -1,22 +1,16 @@
 ---
-title: Crea un mensaje potente
-lang: es
-slug: crea-un-mensaje-potente-solutions-db
-aspectos:
-- personas
-fecha: '2024-10-25'
+title: "Crea un mensaje potente"
+date: 2025-12-17
+tags:
+  - "Personas"
+  - "Espacio"
+dificultad: "Fácil"
+costo: "< USD 25"
+ayudantes: "1 persona"
+tarda: "Horas"
+autor: "SOLE Colombia"
+draft: false
 ---
-
-Created: 25 de octubre de 2024 13:36
-Autor: Manuela
-Solucionas: Personas
-Dificultad: Fácil
-Cuesta: >$ 100 COP
-Ayudantes: Una persona
-Tardas: Horas
-2025-prueba: Yes
-
-
 ## Un mensaje potente puede cambiar el mundo, conecta con tu propósito
 
 

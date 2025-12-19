@@ -1,13 +1,12 @@
 ---
-title: Antena tipo Yagi | Yagi antenna
-lang: en
-slug: antena-tipo-yagi-yagi-antenna-conceptorio
-aspectos:
-- señal
-fecha: '2025-9-11'
+title: "Antena tipo Yagi | Yagi antenna"
+date: 2025-9-11
+tags:
+  - "Dispositivos"
+  - "Redes y conexiones"
+autor: "Belén"
+draft: false
 ---
-
-
 Una antena Yagi **es un tipo de antena direccional, conocida por su alta ganancia y capacidad para enfocar la señal en una dirección específica**. 
 
 Se compone de un elemento principal llamado **brazo** (o elemento activo) y varios elementos más cortos, llamados **directores** y **reflectores**, dispuestos a lo largo del brazo.

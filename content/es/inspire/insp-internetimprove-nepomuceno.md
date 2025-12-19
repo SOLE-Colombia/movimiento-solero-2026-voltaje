@@ -1,57 +1,27 @@
 ---
 title: "¿Cómo mejoró el Internet en San Juan Nepomuceno, Montes de María?"
-lang: es
-slug: como-mejoro-el-internet-en-san-juan-nepomuceno-montes-de-maria-inspiration-db
-
-categories:
-  - Impacto
-  - Internet
-
+date: 2025-10-11
 tags:
-  - Impacto
-  - Internet
-
-formato:
-  - Foto
-  - Texto
-  - Video
-
-autor:
-  - Manu
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - personas
-
-fecha: "2025-10-11"
-
+  - "Historias potentes"
+autor: "SOLE Colombia"
 draft: false
-traduccion: true
-pie: true
-reaccion: true
-widget: true
 ---
-
-
 *Descarga esta Inspiración para usarla desconectado*
 
 Los siguientes fragmentos son la recopilación de testimonios, imágenes y escenas sobre cómo el uso del Internet en grupo en el municipio de **San Juan Nepomuceno** está transformando el acceso a la red para comunidades vecinas, como San José del Peñón y La Haya.
 
 ### Primera Parada
 
-
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    src="https://youtube.com/shorts/wFoxttYr5s0?si=W_Y3kUbHjl-sKNrw"
-    title="Video Colosó" 
+<iframe 
+    width="315" 
+    height="560" 
+    src="https://www.youtube.com/embed/wFoxttYr5s0?si=W_Y3kUbHjl-sKNrw"" 
+    title="YouTube video player" 
     frameborder="0" 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
-  </iframe>
+</iframe>
 </div>
 
 
@@ -93,7 +63,7 @@ Gabriel, Vistas de Sintonización, Montes de María, (2024).
 
 **Rafael Antonio García, un cacharrero innato de su comunidad, nos cuenta en sus propias palabras cómo fue el proceso para lograr instalar la antena: ¡Sube el volumen para escuchar su relato!**
 
-<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-nepomuceno/insp-internetimprove-nepomuceno4.webm"></video>
+
 *Rafael Antonio en Vistas de Sintonización, Montes de María, (2024).*
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
@@ -151,23 +121,3 @@ Sube el volumen para escuchar en sus propias palabras cómo fue esta experiencia
 Mariana Fernández, Visitas de Sintonización, Montes de María, (2024).
 
 Gracias a la colaboración comunitaria y la implementación de soluciones como el KIT Rural, hoy San José del Peñón y La Haya cuentan con acceso comunitario a Internet, facilitando tanto el aprendizaje como el intercambio cultural en los Montes de María. 
-
-[https://notionreactions.com/embed/UvflVrhEoqqCBw3ez36Q](https://notionreactions.com/embed/UvflVrhEoqqCBw3ez36Q)
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)

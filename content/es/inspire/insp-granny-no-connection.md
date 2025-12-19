@@ -1,37 +1,11 @@
 ---
 title: "La Nube de Abuelitas: qué pasa cuando no hay conexión"
-lang: es
-slug: la-nube-de-abuelitas-que-pasa-cuando-no-hay-conexion-inspiration-db
-
-categories:
-  - Aprendizajes
-
+date: 2024-10-25
 tags:
-  - Aprendizajes
-
-formato:
-  - Texto
-
-autor:
-  - Bel
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - personas
-
-fecha: "2024-10-25"
-
+  - "De Voltaje a SOLE"
+autor: "Belén"
 draft: false
-traduccion: true
-pie: false
-reaccion: true
-widget: true
 ---
-
-
 *Descarga esta Inspiración para usarla desconectado*
 
 
@@ -55,24 +29,4 @@ Desde aquí agradecemos a todas las que no desfallecieron, a las que enviaron un
 - [La Nube de Abuelitas: cómo cambiar el mundo desde tu casa](/la-nube-de-abuelitas-como-cambiar-el-mundo-desde-tu-casa-inspiration-db) | [La Nube de Abuelitas: how to change the world from your home](/la-nube-de-abuelitas-how-to-change-the-world-from-your-home-inspiration-db)
 - [¿Cómo hacer SOLE? - Tutorial](/como-hacer-sole-tutorial-inspiration-db) | [How to make SOLE? - Tutorial](/how-to-make-sole-tutorial-inspiration-db)
 
-[https://notionreactions.com/embed/xqCiCpi68u8JwB1DMi7t](https://notionreactions.com/embed/xqCiCpi68u8JwB1DMi7t)
 
----
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)

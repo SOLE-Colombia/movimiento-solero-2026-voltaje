@@ -1,41 +1,12 @@
 ---
 title: "Recursos para uno, recursos para todos"
-lang: es
-slug: aprendimos-a-jugar-para-reflexionar-sobre-el-uso-de-bienes-comunes-inspiration-db
-
-categories:
-  - Internet
-  - Metodología
-  - Soluciones
-
+date: 2025-10-11
 tags:
-  - Internet
-  - Metodología
-  - Soluciones
-
-formato:
-  - Video
-
-autor:
-  - Sanjay
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - personas
-  - señal
-
-fecha: "2025-10-11"
-
+  - "Metodologías"
+  - "De Voltaje a SOLE"
+autor: "Manuela"
 draft: false
-traduccion: false
-pie: false
-reaccion: false
-widget: true
 ---
-
-
 ¿Sabías que puedes usar el juego para crear acuerdos comunitarios? 💭
 
 En el Juego de los Peces, aprendemos a través de una experiencia sencilla pero poderosa: mientras más pescamos para nosotros, menos peces quedan para los demás. Pero cuando trabajamos juntos, logramos que haya suficiente para todos.
@@ -55,24 +26,4 @@ Piénsalo de esta manera: imagina compartir un plan de internet con tus vecinos.
 </div>
 
 
-[https://notionreactions.com/embed/9j6OVQ7kDWIJg3zGxBrM](https://notionreactions.com/embed/9j6OVQ7kDWIJg3zGxBrM)
 
----
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)

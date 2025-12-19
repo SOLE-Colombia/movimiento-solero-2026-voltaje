@@ -1,15 +1,13 @@
 ---
-title: Dirección IP | IP Address
-lang: en
-slug: direccion-ip-ip-address-conceptorio
-aspectos:
-- señal
-- dispositivos
-fecha: '2025-07-17'
+title: "Dirección IP | IP Address"
+date: 2025-07-17
+tags:
+  - "Seguridad e identificación"
+  - "Redes y conexiones"
+  - "Términos del mundo virtual"
+autor: "Belén"
+draft: false
 ---
-
-
-
 Una dirección IP es un **identificador único asignado a cada dispositivo conectado a una red que utiliza el protocolo de Internet**. 
 
 En esencia, es como una dirección postal para tu dispositivo en el mundo digital, permitiendo que otros dispositivos te encuentren y se comuniquen contigo a través de Internet o una red local (Fuente: [Fortinet](https://www.fortinet.com/lat/resources/cyberglossary/what-is-ip-address#:~:text=Definición))

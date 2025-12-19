@@ -1,15 +1,12 @@
 ---
-title: Tarjeta SIM | SIM Card
-lang: es
-slug: 'tarjeta-sim-sim-card-conceptorio'
-aspectos:
-- señal
-- dispositivos
-fecha: '2025-07-09'
-autor: Belen Sevilla Morillo
+title: "Tarjeta SIM | SIM Card"
+date: 2025-07-09
+tags:
+  - "Dispositivos"
+  - "Seguridad e identificación"
+autor: "Belén"
+draft: false
 ---
-
-
 Una tarjeta SIM, o Módulo de Identificación del Abonado, **es una pequeña tarjeta extraíble que se inserta en teléfonos móviles y otros dispositivos para identificarlos en una red celular y permitirles acceder a servicios como llamadas, mensajes y datos**. 
 
 Funciona como una llave digital que permite a tu dispositivo conectarse a la red de tu proveedor de telefonía y autenticarte como usuario. 

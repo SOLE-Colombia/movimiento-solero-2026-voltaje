@@ -1,40 +1,12 @@
 ---
 title: "SOLE Colombia somos TODOS"
-lang: es
-slug: sole-colombia-somos-todos-inspiration-db
-
-categories:
-  - Futuro
-  - Internet
-
+date: 2025-10-11
 tags:
-  - Futuro
-  - Internet
-
-formato:
-  - Video
-
-autor:
-  - Voltaje
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - personas
-  - espacio
-
-fecha: "2025-10-11"
-
+  - "De Voltaje a SOLE"
+  - "Historias potentes"
+autor: "SOLE Colombia"
 draft: false
-traduccion: true
-pie: false
-reaccion: true
-widget: true
 ---
-
-
 *Descarga esta Inspiración para usarla desconectado*
 
 **Estamos creando un futuro equitativo y hermoso juntos, una Gran Pregunta a la vez.**
@@ -56,23 +28,3 @@ widget: true
 
 - [SOLE Colombia: Lo que somos](/sole-colombia-lo-que-somos-inspiration-db)
 - [¿Cómo hacer SOLE? - Tutorial](/como-hacer-sole-tutorial-inspiration-db) | [How to make SOLE? - Tutorial](/how-to-make-sole-tutorial-inspiration-db)
-
-[https://notionreactions.com/embed/EGNFMJlgjdf0Ccr12r2t](https://notionreactions.com/embed/EGNFMJlgjdf0Ccr12r2t)
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)

@@ -1,36 +1,15 @@
 ---
-title: ¿Cómo saber qué tipo de señal de Internet tienes?
-lang: es
-slug: como-saber-que-tipo-de-senal-de-internet-tienes-solutions-db
-aspectos:
-- señal
-- electricidad
-- dispositivos
-- espacio
-fecha: '2025-11-6'
+title: "¿Cómo saber qué tipo de señal de Internet tienes?"
+date: 2025-12-17
+tags:
+  - "Señal"
+dificultad: "Medio"
+costo: "Gratis"
+ayudantes: "Sin ayudantes"
+tarda: "Minutos"
+autor: "SOLE Colombia"
+draft: false
 ---
-
-
-Created: 6 de noviembre de 2024 10:23
-Autor: Belén
-Solucionas: Señal
-Dificultad: Tranqui
-Cuesta: Gratis
-Ayudantes: Nadie
-Tardas: Minutos
-pilar/dispositivos: 3: Aporta a que haya suficientes dispositivos para compartir con restricción mínima  (3 computadores min)
-pilar/espacio: 0: No aporta a tener un espacio público
-pilar/personas: 0: No aporta a reunir personas
-pilar/senal: 3: Aporta señal permanente (Antena comercial instalada)
-pilar/electricidad: No consigues electricidad
-impacto/sostenibilidad: 0: Se mantiene solo
-recursos/dinero: 0: Sin dinero
-recursos/personas: 1: Una persona
-recursos/tiempo: 0: Minutos
-2025-prueba: No
-
-
-
 ## Descubre cómo llega el internet a tu dispositivo
 
 

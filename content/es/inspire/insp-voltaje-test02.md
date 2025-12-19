@@ -1,45 +1,11 @@
 ---
 title: "Prueba #02 SOLE Voltaje"
-lang: es
-slug: prueba-02-sole-voltaje-inspiration-db
-
-categories:
-  - Metodología
-  - Prueba
-
+date: 2024-10-25
 tags:
-  - Metodología
-  - Prueba
-
-formato:
-  - Texto
-
-autor:
-  - Zol
-  - SemiYa
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - electricidad
-  - personas
-
-fecha: "2024-10-25"
-
+  - "Metodologías"
+autor: "Nicolás"
 draft: false
-traduccion: false
-pie: false
-reaccion: false
-widget: true
 ---
-
-**Protocolo para la prueba 02 de la Guía de Soluciones**
-
-*Fecha: 2024.20.02*
-
-*Modificado:2024.29.02*
-
 Este documento tiene el objetivo de plantear el protocolo para la realización de la prueba 02 de la Guía de Soluciones con base en los aprendizajes y hallazgos de la prueba 01 realizada el 3.02.2024.
 
 1. **¿Qué aprendimos de la prueba 01?**
@@ -422,24 +388,5 @@ Internet para lugares no interconectados.
 
 [https://notionreactions.com/embed/bfs0rKs3EE7TBf6LkS0z](https://notionreactions.com/embed/bfs0rKs3EE7TBf6LkS0z)
 
----
 
----
 
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
-
----

@@ -1,30 +1,15 @@
 ---
-title: ¿Cómo saber qué tan buena es tu conexión a Internet?
-lang: es
-slug: como-saber-que-tan-buena-es-tu-conexion-a-internet-solutions-db
-aspectos:
-- señal
-- electricidad
-- personas
-fecha: '2025-11-6'
+title: "¿Cómo saber qué tan buena es tu conexión a Internet?"
+date: 2025-12-17
+tags:
+  - "Señal"
+dificultad: "Fácil"
+costo: "Gratis"
+ayudantes: "1 persona"
+tarda: "Minutos"
+autor: "SOLE Colombia"
+draft: false
 ---
-
-
-Created: 6 de noviembre de 2024 17:44
-Autor: Manuela
-Solucionas: Señal
-Dificultad: Fácil
-Cuesta: Gratis
-Ayudantes: Una persona
-Tardas: Minutos
-pilar/electricidad: No consigues electricidad
-impacto/sostenibilidad: 1: Bajo
-recursos/personas: 3: Más de 3 personas
-recursos/tiempo: 1: Horas
-2025-prueba: No
-
-
-
 Hola, soy Manuela. Soy la cuentera de SOLE Colombia y, aunque no sé mucho de tecnología, he empezado a cogerle el gusto a cacharrear y aprendo muchas cosas que me sacan continuamente de apuros.
 
 ## ¿Qué es?

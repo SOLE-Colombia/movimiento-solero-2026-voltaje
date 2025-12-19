@@ -1,37 +1,15 @@
 ---
-title: Bicigenerador
-lang: es
-slug: bicigenerador-solutions-db
-aspectos:
-- señal
-- electricidad
-- dispositivos
-- personas
-- espacio
-fecha: '2025-02-24'
+title: "Bicigenerador"
+date: 2025-12-17
+tags:
+  - "Electricidad"
+dificultad: "Complejo"
+costo: "> USD 50"
+ayudantes: "2-3 personas"
+tarda: "Días"
+autor: "SOLE Colombia"
+draft: false
 ---
-
-Created: 24 de febrero de 2025 7:27
-Autor: Nicolás
-Solucionas: Electricidad
-Dificultad: Difícil
-Cuesta: >$200 COP
-Ayudantes: 2-3 personas
-Tardas: Días
-pilar/dispositivos: 0: No aporta a equipos
-pilar/espacio: 0: No aporta a tener un espacio público
-pilar/personas: 1: Aporta a que haya una comunidad esporádica que se reune periódicamente (Entre 6  a 12 personas)
-pilar/senal: 0: No aporta señal
-pilar/electricidad: Electricidad intermitente (Panel solar pelton)
-impacto/personas: 10
-impacto/sostenibilidad: 3: Alto
-recursos/dinero: 4: Gasto mensual
-recursos/personas: 2: Entre 2 y 3 personas
-recursos/tiempo: 3: Semanas
-2025-prueba: No
-
-
-
 # Comprar y montar un sistema de generación eléctrica con una bicicleta
 
 

@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "es-ES", // Español de Colombia
     baseUrl: "voltaje.solecolombia.org",
-    ignorePatterns: ["private", "templates", ".obsidian", "_staging"],
+    ignorePatterns: ["private", "templates", ".obsidian", "_staging", "**/_staging/**"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -76,7 +76,8 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+      // Permitimos HTML embebido (por ejemplo iframes de video)
+      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: true }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),

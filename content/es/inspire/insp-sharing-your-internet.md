@@ -1,21 +1,9 @@
 ---
-title: ¿Estarías dispuesto a quitarle la clave a tu wiFi?
-lang: es
-slug: estarias-dispuesto-a-quitarle-la-clave-a-tu-wifi-inspiration-db
-categories:
-- Pregunta Provocadora
-traduccion: false
-aspectos:
-- señal
-- personas
-fecha: '2025-10-11'
+title: "¿Estarías dispuesto a quitarle la clave a tu wiFi?"
+date: 2025-10-11
+tags:
+  - "Preguntas incómodas"
+autor: "SOLE Colombia"
+draft: false
 ---
-
-# ¿Estarías dispuesto a quitarle la clave a tu wiFi?
-
-Tags: Pregunta Provocadora
-R2025: no creada
-idioma: español
-pie: No
-reacción: No
-traducción: No
+# ¿Estarías dispuesto a quitarle la clave a tu WiFi?

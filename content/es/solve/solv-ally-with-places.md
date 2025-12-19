@@ -1,25 +1,15 @@
 ---
-title: ¿Cómo aliarse con lugares que convocan?
-lang: es
-slug: como-aliarse-con-lugares-que-convocan-solutions-db
-aspectos:
-- personas
-- espacio
-fecha: '2025-2-24'
+title: "¿Cómo aliarse con lugares que convocan?"
+date: 2025-12-17
+tags:
+  - "Personas"
+dificultad: "Medio"
+costo: "< USD 25"
+ayudantes: "Sin ayudantes"
+tarda: "Días"
+autor: "SOLE Colombia"
+draft: false
 ---
-
-
-Created: 24 de febrero de 2025 7:43
-Autor: Belén
-Solucionas: Espacio, Personas
-Dificultad: Tranqui
-Cuesta: >$ 100 COP
-Ayudantes: Nadie
-Tardas: Días
-2025-prueba: No
-
-
-
 ## Asociarnos con otros más visibles
 
 

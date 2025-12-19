@@ -1,38 +1,12 @@
 ---
 title: "¿Cómo la tecnología nos puede ayudar a tejer historias?"
-lang: es
-slug: metodologia-como-la-tecnologia-nos-puede-ayudar-a-tejer-historias-inspiration-db
-
-categories:
-  - Memoria
-
+date: 2025-10-11
 tags:
-  - Memoria
-
-formato:
-  - Foto
-  - Texto
-
-autor:
-  - Voltaje
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - personas
-  - espacio
-
-fecha: "2025-10-11"
-
+  - "Metodologías"
+  - "Historias potentes"
+autor: "SOLE Colombia"
 draft: false
-traduccion: false
-pie: false
-reaccion: false
-widget: true
 ---
-
 **Lugar de implementación:** Recarga tu SOLE LAB en Boca de Camarones
 
 **Fecha de implementación:**
@@ -139,5 +113,3 @@ Paola [producción audiovisual]:
 - Es interesante cómo las historias de vida en relación con la tecnología dicen mucho de lo que somos y hemos dejado de ser actualmente. Muchas historias conectan con pasiones, gustos o rasgos de carácter de las personas.
 - Los hitos están relacionados con historias alegres, placenteras, pero también que generan vergüenza, dolor o nostalgia.
 - Lo importante de estos dispositivos no está en la historia en sí misma, sino en la forma en la que las personas conectan sus historias entre sí.
-
-[https://notionreactions.com/embed/GQJrRXpEuCRDoxukCpgQ](https://notionreactions.com/embed/GQJrRXpEuCRDoxukCpgQ)

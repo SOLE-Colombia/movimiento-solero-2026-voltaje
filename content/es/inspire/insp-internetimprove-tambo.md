@@ -1,42 +1,11 @@
 ---
 title: "¿Cómo mejoró el Internet en El Tambo, Cauca?"
-lang: es
-slug: como-mejoro-el-internet-en-el-tambo-cauca-inspiration-db
-
-categories:
-  - Impacto
-  - Internet
-
+date: 2025-10-11
 tags:
-  - Impacto
-  - Internet
-
-formato:
-  - Foto
-  - Texto
-  - Video
-
-autor:
-  - Manu
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - electricidad
-  - personas
-  - espacio
-
-fecha: "2025-10-11"
-
+  - "Historias potentes"
+autor: "SOLE Colombia"
 draft: false
-traduccion: true
-pie: true
-reaccion: true
-widget: true
 ---
-
 *Descarga esta Inspiración para usarla desconectado*
 
 **¿Alguna vez has imaginado un lugar donde toda una comunidad pueda conectarse a Internet, aprender y crear juntos?** En El Tambo, Cauca, ese sueño era una necesidad compartida.
@@ -62,7 +31,7 @@ Durante 2024, los Embajadores de El Tambo se formaron en la metodología SOLE y,
 
 Así lo describe una de las vecinas del SOLE Lab en el Barrio Obrero:
 
-[Enchufa Tu SOLE Lab en el Tambo, Cauca, (2024).](../../../¿Cómo mejoró el Internet en El Tambo, Cauca 1362bd68c5b6802a8df0f2c8fd47097f/20240801_SOLEBOLT_SOLELAB_Enchufa_ElTambo__(27).5.mp4)
+
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
@@ -135,23 +104,3 @@ Mira algunas de las actividades que ha impulsado en este espacio la comunidad:
 
 
 **¡Hoy el SOLE Lab nos espera con las puertas abiertas para seguir construyendo el futuro del Internet juntos!**
-
-[https://notionreactions.com/embed/zxHo2hB8bjYGjQsF3OsS](https://notionreactions.com/embed/zxHo2hB8bjYGjQsF3OsS)
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)

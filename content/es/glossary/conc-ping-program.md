@@ -1,14 +1,12 @@
 ---
-title: Programa ping | Ping program
-lang: es
-slug: 'programa-ping-ping-program-conceptorio'
-aspectos:
-- señal
-- dispositivos
-fecha: '2025-07-17'
-autor: Belen Sevilla Morillo
+title: "Programa ping | Ping program"
+date: 2025-07-17
+tags:
+  - "Programas y aplicaciones"
+  - "Redes y conexiones"
+autor: "Belén"
+draft: false
 ---
-
 El programa ping **es una herramienta de diagnóstico de redes utilizada para verificar la conectividad y la latencia entre dos dispositivos**. 
 
 En esencia, ping envía un paquete de datos a un dispositivo de destino y mide el tiempo que tarda en recibir la respuesta. Este tiempo, medido en milisegundos, se conoce como latencia o ping, y sirve para evaluar la calidad de la conexión.

@@ -1,14 +1,11 @@
 ---
-title: Nombre de usuario | Username
-lang: es
-slug: 'nombre-de-usuario-username-conceptorio'
-aspectos:
-- general
-fecha: '2025-07-17'
-autor: Belen Sevilla Morillo
+title: "Nombre de usuario | Username"
+date: 2025-07-17
+tags:
+  - "Seguridad e identificación"
+autor: "Belén"
+draft: false
 ---
-
-
 Un nombre de usuario es una **cadena única de caracteres que identifica a un usuario en un sistema informático, como una red social, un sitio web o una aplicación**. 
 
 Sirve para iniciar sesión y acceder a tu cuenta, y generalmente se usa junto con una contraseña para verificar tu identidad. (Fuente: [Dashlane](https://www.dashlane.com/es/blog/6-cosas-que-siempre-debe-tener-un-nombre-de-usuario-seguro))

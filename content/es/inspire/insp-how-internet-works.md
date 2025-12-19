@@ -1,31 +1,11 @@
 ---
 title: "¿Cómo funciona el Internet?"
-lang: es
-slug: como-funciona-el-internet-inspiration-db
-categories:
-  - Internet
-formato:
-  - Texto
-draft: false
-traduccion: true
-aspectos:
-  - señal
-  - dispositivos
-  - personas
-fecha: "2025-10-11"
-
+date: 2025-10-11
 tags:
-  - Internet
-autor:
-  - Sanjay
-revision: "R2025"
-idioma: español
-pie: true
-reaccion: true
-widget: ok
-descargable: true
+  - "Sobre el internet"
+autor: "Sanjay"
+draft: false
 ---
-
 *Descarga esta Inspiración para usarla desconectado*
 
 
@@ -86,3 +66,7 @@ Tu celular se conecta por ondas electrogmanéticas o inalámbricas a un torre de
 Hay que tener en cuenta que los cables submarinos nos permiten transmitir datos para que existan los servicios de telecomunicaciones. La razón por la cual la información viaja tan rápido es porque los cables están hechos de fibra óptica, es decir de vidrio. Esto significa que la información, los ceros “0” y “1” se envían en forma de luz y la luz es lo que viaja más rápido de todo el universo. 
 
 ¿No es tremendo lo que nos inventamos los humanos?
+
+
+
+

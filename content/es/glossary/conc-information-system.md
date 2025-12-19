@@ -1,15 +1,11 @@
 ---
-title: Sistema informático (SI) | Information system (IS)
-lang: es
-slug: 'sistema-informatico-si-information-system-is-conceptorio'
-aspectos:
-- dispositivos
-- espacio
-fecha: '2025-07-22'
-autor: Belen Sevilla Morillo
+title: "Sistema informático (SI) | Information system (IS)"
+date: 2025-07-22
+tags:
+  - "Funcionamiento del computador"
+autor: "Belén"
+draft: false
 ---
-
-
 Entendemos por **sistema informático** el **conjunto de elementos físicos y lógicos que se encargan de recibir, guardar y procesar datos para luego entregarlos en forma de resultados**. El esquema de un sistema informático engloba todo aquello que contiene una parte tangible (hardware) y otra lógica (software).
 
 En la **actualidad**, los SI **ocupan un lugar clave para la organización humana**, ya que resulta ser una herramienta poderosa para el intercambio de información y la elaboración de redes informáticas que superan la barrera de las distancias.

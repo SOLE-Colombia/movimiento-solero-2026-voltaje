@@ -1,36 +1,11 @@
 ---
 title: "¿Cómo cambiar el mundo desde tu casa? Conoce la Nube de Abuelitas"
-lang: es
-slug: la-nube-de-abuelitas-como-cambiar-el-mundo-desde-tu-casa-inspiration-db
-
-categories:
-  - Metodología
-
+date: 2024-10-25
 tags:
-  - Metodología
-
-formato:
-  - Texto
-
-autor:
-  - Bel
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - personas
-
-fecha: "2024-10-25"
-
+  - "De Voltaje a SOLE"
+autor: "Belén"
 draft: false
-traduccion: true
-pie: false
-reaccion: true
-widget: true
 ---
-
-
 *Descarga esta Inspiración para usarla desconectado*
 
 ## ¿qué es La Nube de Abuelitas?
@@ -60,22 +35,3 @@ Quédate pendiente en nuestras redes sociales y demás plataformas (echa un vist
 - [¿Qué es un Costurero de Abuelitas, en SOLE Colombia?](/que-es-un-costurero-de-abuelitas-en-sole-colombia-inspiration-db) |
 - [¿Cómo hacer SOLE? - Tutorial](/como-hacer-sole-tutorial-inspiration-db) | [How to make SOLE? - Tutorial](/how-to-make-sole-tutorial-inspiration-db)
 
-[https://notionreactions.com/embed/6dBOs6UgcOsRrqWDz2gP](https://notionreactions.com/embed/6dBOs6UgcOsRrqWDz2gP)
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)

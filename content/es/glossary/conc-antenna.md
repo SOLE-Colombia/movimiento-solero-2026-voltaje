@@ -1,16 +1,12 @@
 ---
-title: Antena | Antenna
-lang: en
-slug: antena-antenna-conceptorio
-aspectos:
-- señal
-- electricidad
-- dispositivos
-- espacio
-fecha: '2025-02-24'
+title: "Antena | Antenna"
+date: 2025-02-24
+tags:
+  - "Dispositivos"
+  - "Redes y conexiones"
+autor: "SOLE Colombia"
+draft: false
 ---
-
-
 **Una Antena es un dispositivo diseñado para transmitir y/o recibir ondas electromagnéticas**
 
 [Nasa](https://www-nasa-gov.translate.goog/general/what-is-an-antenna/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=sge#:~:text=An)

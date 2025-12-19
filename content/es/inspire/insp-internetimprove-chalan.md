@@ -1,40 +1,11 @@
 ---
 title: "¿Cómo mejoró el Internet en Chalán, Montes de María?"
-lang: es
-slug: como-mejoro-el-internet-en-chalan-montes-de-maria-inspiration-db
-
-categories:
-  - Impacto
-  - Internet
-
+date: 2025-10-11
 tags:
-  - Impacto
-  - Internet
-
-formato:
-  - Foto
-  - Texto
-  - Video
-
-autor:
-  - Manu
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - personas
-
-fecha: "2025-10-11"
-
+  - "Historias potentes"
+autor: "SOLE Colombia"
 draft: false
-traduccion: true
-pie: true
-reaccion: true
-widget: true
 ---
-
 *Descarga esta Inspiración para usarla desconectado*
 
 Chalán es un municipio en el departamento de Sucre, Colombia. En esta región,
@@ -70,8 +41,6 @@ Así es como Alemania ahora es un punto de encuentro para Monte Bello,
 Rancho Rojo y otras comunidades cercanas. Ahora, las personas se trasladan
 para usar esta conexión, que ha sido instalada y puesta en marcha con el
 esfuerzo de todos.
-
-[Gabriel, Vistas de Sintonización, Montes de María, (2024).](../../../How did the internet improve in Chalán, Montes de  1f408291a419462989817363aac27111/20240710_SOLEWLH_Sintonizacin_MM_Chaln_(10).mp4)
 
 
 
@@ -112,24 +81,3 @@ Yulieth, Astrid, Yuranis, Johana, Celia, Maryuris, y Yolanda. están cambiando e
 
 ![Investigación comunitaria sobre conectividad 3](../../../assets/images/insp-internetimprove-chalan/insp-internetimprove-chalan-investigation3.webp)
 *Trabajo colaborativo para definir la solución tecnológica (2024).*
-
-
-[https://notionreactions.com/embed/I8KqUIjFVd9d9cS44gcy](https://notionreactions.com/embed/I8KqUIjFVd9d9cS44gcy)
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)

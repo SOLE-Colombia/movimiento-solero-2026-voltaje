@@ -1,15 +1,12 @@
 ---
-title: Identificador SSID | SSID Identifier
-lang: es
-slug: 'identificador-ssid-ssid-identifier-conceptorio'
-aspectos:
-- dispositivos
-fecha: '2025-07-22'
-autor: Belen Sevilla Morillo
+title: "Identificador SSID | SSID Identifier"
+date: 2025-07-22
+tags:
+  - "Seguridad e identificación"
+  - "Redes y conexiones"
+autor: "Belén"
+draft: false
 ---
-
-
-
 El SSID, o Identificador de Conjunto de Servicios, **es el nombre que identifica a una red Wi-Fi**. 
 
 Es el nombre que ves cuando buscas redes inalámbricas disponibles en tu dispositivo, como un teléfono o computadora. Permite a los usuarios distinguir entre diferentes redes Wi-Fi en un área determinada y conectarse a la red deseada. (Fuente: [Lenovo](https://www.lenovo.com/mx/es/glosario/ssid/))

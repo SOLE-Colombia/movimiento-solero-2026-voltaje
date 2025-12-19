@@ -1,15 +1,11 @@
 ---
-title: Conexión 4G o LTE | LTE or 4G Connection
-lang: en
-slug: conexion-4g-o-lte-lte-or-4g-connection-conceptorio
-aspectos:
-- señal
-- dispositivos
-fecha: '2025-08-25'
+title: "Conexión 4G o LTE | LTE or 4G Connection"
+date: 2025-08-25
+tags:
+  - "Redes y conexiones"
+autor: "Belén"
+draft: false
 ---
-
-
-
 LTE, siglas de Long Term Evolution, **es un estándar mundial de comunicación inalámbrica que proporciona la tecnología de red móvil de cuarta generación (4G), ofreciendo velocidades de transferencia de datos mucho más rápidas y una latencia reducida en comparación con la generación anterior (3G)**. Su principal función es permitir el acceso a internet de alta velocidad en dispositivos móviles, habilitando servicios como el streaming de video, la descarga rápida de contenido, y aplicaciones de IoT (Internet de las Cosas - Internet of Things)
 
 **¿Para qué sirve LTE?**

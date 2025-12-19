@@ -1,15 +1,12 @@
 ---
-title: Protocolo SSH | SSH Protocol
-lang: en
-slug: protocolo-ssh-ssh-protocol-conceptorio
-aspectos:
-- señal
-- dispositivos
-- personas
-fecha: '2025-07-17'
+title: "Protocolo SSH | SSH Protocol"
+date: 2025-07-17
+tags:
+  - "Seguridad e identificación"
+  - "Redes y conexiones"
+autor: "Belén"
+draft: false
 ---
-
-
 SSH, o Secure Shell, **es un protocolo de red que permite la conexión segura y remota a otro ordenador a través de una red no segura, como internet**. 
 
 

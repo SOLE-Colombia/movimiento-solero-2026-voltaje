@@ -1,14 +1,12 @@
 ---
-title: Demonio Hostapd | Hostapd Daemon
-lang: en
-slug: demonio-hostapd-hostapd-daemon-conceptorio
-aspectos:
-- señal
-- dispositivos
-- espacio
-fecha: '2025-7-22'
+title: "Demonio Hostapd | Hostapd Daemon"
+date: 2025-7-22
+tags:
+  - "Funcionamiento del computador"
+  - "Redes y conexiones"
+autor: "Belén"
+draft: false
 ---
-
 **Hostapd** (host access point daemon) **es un demonio de espacio de usuario que permite que una tarjeta de interfaz de red (NIC) funcione como un punto de acceso inalámbrico (AP) y un servidor de autenticación**. 
 
 En esencia, convierte tu computadora en un router Wi-Fi, permitiendo que otros dispositivos se conecten a internet a través de ella.

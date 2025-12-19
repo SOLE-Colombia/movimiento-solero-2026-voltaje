@@ -1,14 +1,12 @@
 ---
-title: Servidor | Server
-lang: es
-slug: 'servidor-server-conceptorio'
-aspectos:
-- dispositivos
-fecha: '2025-07-10'
-autor: Belen Sevilla Morillo
+title: "Servidor | Server"
+date: 2025-07-10
+tags:
+  - "Funcionamiento del computador"
+  - "Redes y conexiones"
+autor: "Belén"
+draft: false
 ---
-
-
 Un servidor **es un tipo de ordenador o sistema informático diseñado para proporcionar servicios, recursos o información a otros dispositivos o usuarios a través de una red**. 
 
 Funciona como un intermediario que procesa solicitudes y las envía a otros equipos, o a usuarios individuales. Estos servicios pueden incluir el almacenamiento de archivos, la gestión de bases de datos, el alojamiento de sitios web, entre otros.

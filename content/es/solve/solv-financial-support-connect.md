@@ -1,26 +1,17 @@
 ---
-title: ¿Tu comunidad necesita apoyo económico para conectarse a Internet?
-lang: es
-slug: tu-comunidad-necesita-apoyo-economico-para-conectarse-a-internet-solutions-db
-aspectos:
-- señal
-- dispositivos
-- personas
-fecha: '2025-10-11'
+title: "¿Tu comunidad necesita apoyo económico para conectarse a Internet?"
+date: 2025-12-17
+tags:
+  - "Dispositivos"
+  - "Personas"
+  - "Señal"
+dificultad: "Medio"
+costo: "USD 25 - 50"
+ayudantes: "2-3 personas"
+tarda: "Días"
+autor: "SOLE Colombia"
+draft: false
 ---
-
-
-Created: 10 de julio de 2025 16:51
-Autor: Nicolás
-Solucionas: Dispositivos, Personas, Señal
-Dificultad: Tranqui
-Cuesta: $100-200 COP
-Ayudantes: 2-3 personas
-Tardas: Días
-2025-prueba: No
-
-
-
 ## Algunas organizaciones que apoyan el internet a bajo coste
 
 

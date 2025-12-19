@@ -1,37 +1,13 @@
 ---
 title: "¿Te has preguntado cómo llega el Internet, la luz o la señal móvil a ti?"
-lang: es
-slug: te-has-preguntado-como-llega-el-internet-la-luz-o-la-senal-movil-a-ti-inspiration-db
-
-categories:
-  - Pregunta Provocadora
-
+date: 2024-10-23
 tags:
-  - Pregunta Provocadora
-
-formato:
-  - Texto
-
-autor:
-  - Sanjay
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - electricidad
-  - personas
-
-fecha: "2024-10-23"
-
+  - "Curiosidades"
+  - "Preguntas incómodas"
+  - "Sobre el internet"
+autor: "SOLE Colombia"
 draft: false
-traduccion: false
-pie: false
-reaccion: false
-widget: true
 ---
-
 Todos los días revisamos mensajes en nuestros celulares, prendemos una luz o recibimos una llamada telefónica. 
 
 Todo parece muy cotidiano, pero hace 150 años era magia cuando las ciudades como Bogotá - en Colombia - veían el milagro de la luz eléctrica por primera vez. 
@@ -40,24 +16,3 @@ Todo parece muy cotidiano, pero hace 150 años era magia cuando las ciudades com
 
 O por ejemplo, en Myanmar - en Asia - conocieron el Internet por primera vez en 2012. 
 
-[https://notionreactions.com/embed/E7lvke42U1TIxU2tdoEQ](https://notionreactions.com/embed/E7lvke42U1TIxU2tdoEQ)
-
----
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)

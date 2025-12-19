@@ -1,13 +1,12 @@
 ---
-title: Redireccionador DNS y servidor DHCP ligero | Dnsmasq
-lang: es
-slug: 'redireccionador-dns-y-servidor-dhcp-ligero-dnsmasq-conceptorio'
-aspectos:
-- general
-fecha: '2025-07-22'
-autor: Belen Sevilla Morillo
+title: "Redireccionador DNS y servidor DHCP ligero | Dnsmasq"
+date: 2025-07-22
+tags:
+  - "Redes y conexiones"
+  - "Funcionamiento del computador"
+autor: "Belén"
+draft: false
 ---
-
 ## Español
 
 **Dnsmasq** es un software que proporciona almacenamiento en caché para el sistema de nombres de dominio ([DNS](/es/glossary/dns-sistema-de-nombres-de-dominio-dns-domain-name-system-conceptorio)), servidor de protocolo de configuración dinámica de host ([DHCP](https://es.wikipedia.org/wiki/DHCP)), enrutador de publicidad y funciones de arranque de red para pequeñas redes informáticas, creado como [software libre](https://es.wikipedia.org/wiki/Software_libre).

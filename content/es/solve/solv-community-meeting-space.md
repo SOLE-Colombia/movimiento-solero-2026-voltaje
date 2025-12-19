@@ -1,24 +1,15 @@
 ---
-title: Pide un Salón Comunal, o cualquier espacio comunitario
-lang: es
-slug: pide-un-salon-comunal-o-cualquier-espacio-comunitario-solutions-db
-aspectos:
-- personas
-- espacio
-fecha: '2024-10-25'
+title: "Pide un Salón Comunal, o cualquier espacio comunitario"
+date: 2025-12-17
+tags:
+  - "Espacio"
+dificultad: "Fácil"
+costo: "Gratis"
+ayudantes: "2-3 personas"
+tarda: "Días"
+autor: "SOLE Colombia"
+draft: false
 ---
-
-
-Created: 25 de octubre de 2024 13:36
-Autor: Manuela
-Solucionas: Espacio
-Dificultad: Fácil
-Cuesta: Gratis
-Ayudantes: 2-3 personas
-Tardas: Días
-2025-prueba: No
-
-
 ## Los espacios públicos también son tuyos
 
 

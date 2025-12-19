@@ -1,24 +1,15 @@
 ---
-title: ¡Aprende a diseñar tu invitación exprés sin ser un experto!
-lang: es
-slug: aprende-a-disenar-tu-invitacion-expres-sin-ser-un-experto-solutions-db
-aspectos:
-- general
-fecha: '2024-10-25'
+title: "¡Aprende a diseñar tu invitación exprés sin ser un experto!"
+date: 2025-12-17
+tags:
+  - "Personas"
+dificultad: "Fácil"
+costo: "Gratis"
+ayudantes: "1 persona"
+tarda: "Horas"
+autor: "SOLE Colombia"
+draft: false
 ---
-
-
-
-Created: 25 de octubre de 2024 13:36
-Autor: Manuela
-Solucionas: Personas
-Dificultad: Fácil
-Cuesta: Gratis
-Ayudantes: Una persona
-Tardas: Horas
-impacto/personas: 100
-2025-prueba: No
-
 ---
 
 ## La forma, es importante

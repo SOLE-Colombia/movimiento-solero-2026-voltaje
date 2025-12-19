@@ -1,38 +1,12 @@
 ---
 title: "En grupo, solucionamos mejor"
-lang: es
-slug: inspiracion-cacharrera-inspiration-db
-
-categories:
-  - Aprendizajes
-
+date: 2025-10-11
 tags:
-  - Aprendizajes
-
-formato:
-  - Texto
-
-autor:
-  - Voltaje
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - personas
-  - espacio
-
-fecha: "2025-10-11"
-
+  - "Historias potentes"
+  - "Sobre el internet"
+autor: "Mateo"
 draft: false
-traduccion: false
-pie: false
-reaccion: false
-widget: true
 ---
-
-
 ¿Tener internet es para ti es un problema? En un mundo en el que no todos tenemos internet y en el que cada vez nos sentimos más solos,  hay comunidades que se han unido para responder a Grandes Preguntas de la vida mientras construyen redes de conectividad que les han permitido mejorar su internet y fortelecer su tejido comunitario a través de Ambientes de Aprendizaje Auto-organizado SOLE. Estas comunidades utilizan antenas comunitarias, tecnologías de bajo costo y un espíritu cacharrero y de colaboración para superar barreras y solucionar problemas de conectividad que antes parecían insuperables. 
 
 ¿Y si es allí, en esta voluntad para solucionar problemas de conectividad el lugar en el que nace el futuro del internet? ¿Y si cada conexión a internet fuera una conexión vital entre historias de vida que se unen para cambiar el mundo juntos? Ya no queremos ser espectadores, sino protagonistas de nuestra propia historia. 
@@ -52,25 +26,3 @@ Cuando alguien enfrenta un problema de conectividad, SOLE Voltaje se asoma con s
 En un rincón del futuro, existe una Biblioteca que no depende de los libros, sino de las relaciones entre las personas. Este es un espacio donde el conocimiento no está en un lugar específico, sino  sino en la vasta red del internet y las conexiones que permite entre personas y comunidades. Aquí las Grandes Preguntas de la vida esperan ser exploradas. Esta Biblioteca del Futuro nos invita a reunirnos, a compartir ideas y a aprender juntos. En cada rincón se percibe la energía de la colaboración: grupos de personas se sumergen en discusiones profundas, utilizando la tecnología no como una barrera, sino como un puente hacia el entendimiento. La Biblioteca del Futuro nos enseña que, a través de la conexión y el diálogo, podemos descubrir respuestas que no contemplábamos.
 
 En un mundo donde la curiosidad y la tecnología convergen, la Biblioteca del Futuro ha encontrado una amiga inigualable: SOLE Voltaje, una Guía de soluciones diseñada para iluminar el camino hacia el conocimiento. Juntos, crean un espacio vibrante donde el internet no es solo una herramienta, sino un aliado en la búsqueda de las Grandes Preguntas de la vida. 
-
-[https://notionreactions.com/embed/EwJ4d4EhqeSDFZvNrbCZ](https://notionreactions.com/embed/EwJ4d4EhqeSDFZvNrbCZ)
-
----
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)

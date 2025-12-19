@@ -1,16 +1,11 @@
 ---
-title: Protocolo DHCP | DHCP Protocol
-lang: es
-slug: 'protocolo-dhcp-dhcp-protocol-conceptorio'
-aspectos:
-- dispositivos
-- espacio
-fecha: '2025-07-22'
-autor: Belen Sevilla Morillo
+title: "Protocolo DHCP | DHCP Protocol"
+date: 2025-07-22
+tags:
+  - "Redes y conexiones"
+autor: "Belén"
+draft: false
 ---
-
-
-
 DHCP, o Protocolo de Configuración Dinámica de Host, **es un protocolo de red que permite a los dispositivos obtener automáticamente información de configuración de red, como direcciones IP, sin intervención manual del usuario o administrador de red**. 
 
 Este protocolo, facilita la gestión de redes al asignar direcciones IP de forma dinámica y eficiente, permitiendo que los dispositivos se conecten y comuniquen en la red sin problemas. (Fuente: [Akamai](https://www.akamai.com/glossary/what-is-dhcp#:~:text=El))

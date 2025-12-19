@@ -1,15 +1,12 @@
 ---
-title: Memoria SWAP | SWAP Memory
-lang: es
-slug: 'memoria-swap-swap-memory-conceptorio'
-aspectos:
-- espacio
-fecha: '2025-07-17'
-autor: Belen Sevilla Morillo
+title: "Memoria SWAP | SWAP Memory"
+date: 2025-07-17
+tags:
+  - "Almacenamiento"
+  - "Funcionamiento del computador"
+autor: "Belén"
+draft: false
 ---
-
-
-
 La Memoria SWAP, también conocida como espacio de intercambio o memoria virtual, **es una sección del disco duro que un sistema operativo utiliza como si fuera [memoria RAM](es/glossary/memoria-ram-ram-memory-conceptorio) cuando la RAM física se está agotando**. 
 
 Actúa como una extensión de la memoria RAM, permitiendo que el sistema mueva datos menos utilizados del RAM al disco duro para liberar espacio en la RAM para procesos más activos. (Fuente: [Aprendo Linux](https://aprendolinux.com/la-memoria-swap-en-linux/#:~:text=%C2%BFQu%C3%A9))

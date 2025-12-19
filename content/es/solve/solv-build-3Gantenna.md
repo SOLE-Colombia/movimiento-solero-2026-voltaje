@@ -1,23 +1,15 @@
 ---
-title: Construye una antena 3G casera
-lang: es
-slug: construye-una-antena-3g-casera-solutions-db
-aspectos:
-- señal
-fecha: '2024-10-25'
+title: "Construye una antena 3G casera"
+date: 2025-12-17
+tags:
+  - "Señal"
+dificultad: "Medio"
+costo: "< USD 25"
+ayudantes: "1 persona"
+tarda: "Horas"
+autor: "SOLE Colombia"
+draft: false
 ---
-
-
-Created: 25 de octubre de 2024 13:36
-Autor: Nicolás
-Solucionas: Señal
-Dificultad: Promedio
-Cuesta: >$ 100 COP
-Ayudantes: Una persona
-Tardas: Horas
-2025-prueba: No
-
-
 ## **Mejora tu conexión a la red móvil**
 
 ![Antena 3G casera](assets/images/solv-build-3Gantenna/solv-build-3Gantenna-antenna.webp)

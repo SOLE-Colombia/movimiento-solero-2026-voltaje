@@ -1,45 +1,12 @@
 ---
 title: "Construimos un SOLE Lab en la Guajira para usar el Internet en grupo"
-lang: es
-slug: el-sole-lab-la-biblioteca-del-futuro-descubre-como-se-vive-en-boca-de-camarones-inspiration-db
-
-categories:
-  - Futuro
-  - Impacto
-  - Internet
-  - SOLE Lab
-
+date: 2025-10-11
 tags:
-  - Futuro
-  - Impacto
-  - Internet
-  - SOLE Lab
-
-formato:
-  - Video
-
-autor:
-  - Manu
-
-revision: "R2025"
-idioma: español
-
-aspectos:
-  - señal
-  - electricidad
-  - personas
-  - espacio
-
-fecha: "2025-10-11"
-
+  - "De Voltaje a SOLE"
+  - "Historias potentes"
+autor: "SOLE Colombia"
 draft: false
-traduccion: false
-pie: false
-reaccion: false
-widget: true
 ---
-
-
 No todo el mundo tiene un espacio público con conectividad
 para hacer SOLE; para aprender a aprender en grupo usando el
 internet; ni para ¡hacer parche alrededor del internet!  Sin embargo, con alegría les contamos que logramos construir este espacio soñado. Vean de qué se trata la Biblioteca del Futuro, y cómo se vive en la comunidad de Boca de Camarones, donde juntos construimos nuestro primer SOLELab.
@@ -53,28 +20,3 @@ internet; ni para ¡hacer parche alrededor del internet!  Sin embargo, con alegr
     allowfullscreen>
   </iframe>
 </div>
-
-
-[https://notionreactions.com/embed/OiX6zYUh5pT26of8JgfR](https://notionreactions.com/embed/OiX6zYUh5pT26of8JgfR)
-
----
-
----
-
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
-
-[Inspírate](/inspirate-sole-voltaje)
-
-[Soluciona](/soluciona-sole-voltaje)
-
-[Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
-
-[¿Desconectado?](/desconectado-sole-voltaje)
-
-[Conceptorio](/conceptorio-sole-voltaje)
-
-*SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
-
-[SOLE Voltaje](http://voltaje.solecolombia.org/)  2024 by [Fundación SOLE Colombia](http://www.solecolombia.org/) is licensed by [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
-
----
