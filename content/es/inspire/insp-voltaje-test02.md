@@ -385,8 +385,3 @@ Internet para lugares no interconectados.
 > 
 > Analista: persona encargada de analizar los datos de la prueba, tanto de los formularios como del método de documentación propia.
 > 
-
-[https://notionreactions.com/embed/bfs0rKs3EE7TBf6LkS0z](https://notionreactions.com/embed/bfs0rKs3EE7TBf6LkS0z)
-
-
-
