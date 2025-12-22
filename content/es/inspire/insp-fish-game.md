@@ -7,7 +7,7 @@ tags:
 autor: "Manuela"
 draft: false
 ---
-¿Sabías que puedes usar el juego para crear acuerdos comunitarios? 💭
+## ¿Sabías que puedes usar el juego para crear acuerdos comunitarios? 💭
 
 En el Juego de los Peces, aprendemos a través de una experiencia sencilla pero poderosa: mientras más pescamos para nosotros, menos peces quedan para los demás. Pero cuando trabajamos juntos, logramos que haya suficiente para todos.
 

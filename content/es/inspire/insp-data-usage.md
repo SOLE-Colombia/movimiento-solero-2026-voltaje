@@ -6,4 +6,4 @@ tags:
 autor: "SOLE Colombia"
 draft: false
 ---
-# ¿Cuántas GB de internet crees que consumes al mes?
+

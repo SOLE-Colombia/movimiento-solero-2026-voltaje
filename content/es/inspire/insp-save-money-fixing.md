@@ -6,4 +6,3 @@ tags:
 autor: "SOLE Colombia"
 draft: false
 ---
-# ¿Eres de los que les gusta ahorrar dinero solucionando las cosas tú mismo?

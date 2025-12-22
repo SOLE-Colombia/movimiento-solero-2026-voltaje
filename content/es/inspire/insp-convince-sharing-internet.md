@@ -6,5 +6,5 @@ tags:
 autor: "SOLE Colombia"
 draft: false
 ---
-# ¿Crees que podrías convencer a tus vecinos de quitar su contraseña?
+
 

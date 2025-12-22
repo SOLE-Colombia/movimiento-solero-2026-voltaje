@@ -6,4 +6,3 @@ tags:
 autor: "SOLE Colombia"
 draft: false
 ---
-# ¿Estarías dispuesto a quitarle la clave a tu WiFi?

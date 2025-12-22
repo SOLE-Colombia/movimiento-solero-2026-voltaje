@@ -6,4 +6,3 @@ tags:
 autor: "SOLE Colombia"
 draft: false
 ---
-# ¿Desde pequeño se te facilitaba desarmar y armar juguetes ?

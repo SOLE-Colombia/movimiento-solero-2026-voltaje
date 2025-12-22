@@ -7,4 +7,3 @@ tags:
 autor: "SOLE Colombia"
 draft: false
 ---
-# ¿Has solucionado algún problema tecnológico por tu cuenta?
