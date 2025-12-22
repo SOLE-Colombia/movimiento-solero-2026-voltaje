@@ -9,11 +9,6 @@ aspectos:
 fecha: '2024-12-17'
 ---
 
-## ¿Cómo cacharrear tu señal WiFi?
-
-Creado: 17 de diciembre de 2024 22:14
-Etiquetas: Cacharrear, Tarjeta
-
 ![Comocacharrear tu señal WiFi](assets/images/desconectado-tinkerwifisignal/desconectado-tinkerwifisignal-card.png)
 
 **Diagnóstico de señal WiFi**

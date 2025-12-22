@@ -10,9 +10,6 @@ fecha: '2024-12-17'
 ---
 
 
-Creado: 17 de diciembre de 2024 21:19
-Etiquetas: Conocimiento, Tarjeta
-
 ![Ser un científico del internet](assets/images/desconectado-cientist/desconectado-cientist-card.png)
 
 **¿Cómo saber qué tan rápido es el internet? Haz una prueba de velocidad**

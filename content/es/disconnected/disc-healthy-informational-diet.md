@@ -10,9 +10,6 @@ fecha: '2024-12-17'
 ---
 
 
-Creado: 17 de diciembre de 2024 21:10
-Etiquetas: Conocimiento, Tarjeta
-
 ![Inventar una alimentación informática saludable](assets/images/desconectado-digitalhealth/desconectado-digitalhealth-card.png)
 
 # **¿Cómo se mide el uso del internet?**

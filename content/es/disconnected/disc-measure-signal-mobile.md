@@ -9,10 +9,6 @@ aspectos:
 fecha: '2025-11-17'
 ---
 
-## ¿Cómo cacharrear tu señal móvil?
-
-Creado: 17 de diciembre de 2024 22:22
-Etiquetas: Cacharrear, Tarjeta
 
 ![WelcomeImage.png](assets/images/desconectado-tinkermobilesignal/desconectado-tinkermobilesignal-card.png)
 

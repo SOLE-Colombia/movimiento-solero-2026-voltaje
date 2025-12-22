@@ -10,11 +10,6 @@ aspectos:
 fecha: '2024-12-17'
 ---
 
-
-
-Creado: 17 de diciembre de 2024 21:55
-Etiquetas: Conocimiento, Tarjeta
-
 ![Transformarte en una tecnología inalámbrica para conectar historias de vida](assets/images/desconectado-wireless/desconectado-wireless-card.png)
 
 # **¿Cómo saber que tienes señal WiFi?**

@@ -10,9 +10,6 @@ fecha: '2024-12-17'
 ---
 
 
-Creado: 17 de diciembre de 2024 20:22
-Etiquetas: Conocimiento, Tarjeta
-
 ![Descubrir dónde está el internet](assets/images/desconectado-findinternet/desconectado-findinternet.png)
 
 # Cuando piensas en el **internet**, **¿qué es lo primero que se te viene a la cabeza?**

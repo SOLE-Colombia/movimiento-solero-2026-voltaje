@@ -11,9 +11,6 @@ fecha: '2025-10-11'
 ---
 
 
-Creado: 17 de diciembre de 2024 21:17
-Etiquetas: Conocimiento, Tarjeta
-
 ![Viajar a la velocidad de la luz](assets/images/desconectado-lightspeed/desconectado-lightspeed-card.png)
 
 # **¿Qué tan rápido puedes acceder a la información en internet?**

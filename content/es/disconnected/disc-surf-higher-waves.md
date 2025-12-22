@@ -10,9 +10,6 @@ fecha: '2025-10-11'
 ---
 
 
-Creado: 17 de diciembre de 2024 21:54
-Etiquetas: Conocimiento, Tarjeta
-
 ![Surfear cada vez en olas más altas](assets/images/desconectado-surf/desconectado-surf-card.png)
 
 # **¿Cómo saber qué tipo de señal móvil tienes y para qué te sirve?**

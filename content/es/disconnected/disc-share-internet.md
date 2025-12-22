@@ -9,11 +9,6 @@ aspectos:
 fecha: '2024-12-17'
 ---
 
-## ¿Cómo compartir internet?
-
-Creado: 17 de diciembre de 2024 23:11
-Etiquetas: Compartir, Internet, Soluciones, Tarjeta
-
 ![Como compartir internet](assets/images/desconectado-bigbox/desconectado-bigbox_card.png)
 
 **Paso 1:** Para saber si necesitas esta solución revisa las tarjetas [Big Box de Jangala](es/disconnected/big-box-de-jangala-voltaje-desconectado) o [Internet satelital compartido.](es/disconnected/internet-satelital-compartido-voltaje-desconectado) 

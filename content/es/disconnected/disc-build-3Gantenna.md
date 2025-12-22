@@ -9,13 +9,6 @@ aspectos:
 fecha: '2024-12-17'
 ---
 
-## Construye una antena 3G casera
-
-Creado: 17 de diciembre de 2024 22:28
-Etiquetas: Conseguir, Internet, Soluciones, Tarjeta
-
-**Construye una antena 3G casera**
-
 ![Como acordar con un vecino](assets/images/desconectado-buy3Gantenna-how/desconectado-buy3Gantenna-how-card.png)
 
 [**Paso 1:** Para saber si necesitas esta solución revisa la tarjeta ¿Cómo cacharrear tu señal móvil?](es/disconnected/como-cacharrear-tu-senal-movil-voltaje-desconectado.md)

@@ -11,10 +11,6 @@ aspectos:
 fecha: '2024-12-17'
 ---
 
-
-Creado: 17 de diciembre de 2024 21:07
-Etiquetas: Conocimiento, Tarjeta
-
 ![Jugar a ser electricidad y ondas](assets/images/desconectado-electricity/desconectado-electricity-card.png)
 
 # **¿Cómo se transmite la señal de internet?**

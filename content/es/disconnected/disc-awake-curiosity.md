@@ -9,10 +9,6 @@ aspectos:
 fecha: '2024-12-17'
 ---
 
-
-Creado: 17 de diciembre de 2024 19:59
-Etiquetas: Conocimiento, Tarjeta
-
 ![Despertar tu curiosidad](assets/images/desconectado-curiosity/desconectado-curiosity-card.png)
 
 ## **Piensa en una Gran Pregunta que siempre has tenido y no hayas podido responder**

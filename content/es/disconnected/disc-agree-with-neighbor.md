@@ -9,11 +9,6 @@ aspectos:
 fecha: '2024-12-17'
 ---
 
-## Acordar con un vecino
-
-Creado: 17 de diciembre de 2024 22:39
-Etiquetas: Conseguir, Internet, Soluciones, Tarjeta
-
 ![Como acordar con un vecino](assets/images/desconectado-buy3Gantenna-how/desconectado-buy3Gantenna-how-card.png)
 
 [**Paso 1:** Para saber si necesitas esta solución revisa la tarjeta ¿Cómo cacharrear tu señal WiFi?](es/disconnected/como-cacharrear-tu-senal-wifi-voltaje-desconectado)

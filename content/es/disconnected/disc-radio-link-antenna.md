@@ -9,11 +9,6 @@ aspectos:
 fecha: '2025-10-11'
 ---
 
-# Antenas de radioenlace
-
-Creado: 17 de diciembre de 2024 22:52
-Etiquetas: Conseguir, Internet, Soluciones, Tarjeta
-
 ![Antena de4 ](assets/images/desconectado-buy3Gantenna-how/desconectado-buy3Gantenna-how-card.png)
 
 [**Paso 1:** Para saber si necesitas esta solución revisa la tarjeta ¿Cómo cacharrear tu señal WiFi?](es/disconnected/como-cacharrear-tu-senal-wifi-voltaje-desconectado)

@@ -10,10 +10,6 @@ aspectos:
 fecha: '2024-12-17'
 ---
 
-## Mejora el alcance de tu router
-
-Creado: 17 de diciembre de 2024 23:18
-Etiquetas: Internet, Mejorar, Soluciones, Tarjeta
 
 ![Mejora el alcance de tu router](assets/images/desconectado-router/desconectado-router-card.png)
 

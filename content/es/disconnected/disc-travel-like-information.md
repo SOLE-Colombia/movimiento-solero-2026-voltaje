@@ -11,10 +11,6 @@ fecha: '2024-12-17'
 ---
 
 
-
-Creado: 17 de diciembre de 2024 21:04
-Etiquetas: Conocimiento, Tarjeta
-
 ![Convertirte en información que viaja por el internet](assets/images/desconectado-information/desconectado-information-card.png)
 
 # **¿Cómo funciona el internet?**

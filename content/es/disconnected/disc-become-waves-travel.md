@@ -11,10 +11,6 @@ fecha: '2024-12-17'
 ---
 
 
-
-Creado: 17 de diciembre de 2024 21:37
-Etiquetas: Conocimiento, Tarjeta
-
 ![Transformarte en ondas para viajar por el mundo](assets/images/desconectado-waves-card/desconectado-waves-card.png)
 
 # **¿Cómo saber que tienes señal móvil?**

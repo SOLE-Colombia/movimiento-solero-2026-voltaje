@@ -10,10 +10,6 @@ aspectos:
 fecha: '2024-12-17'
 ---
 
-## Big Box de Jangala
-
-Creado: 17 de diciembre de 2024 22:59
-Etiquetas: Compartir, Internet, Soluciones, Tarjeta
 
 ![Big box de Jangala](assets/images/desconectado-bigbox/desconectado-bigbox_card.png)
 

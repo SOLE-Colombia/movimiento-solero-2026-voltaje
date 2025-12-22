@@ -9,11 +9,6 @@ aspectos:
 fecha: '2025-10-11'
 ---
 
-## Internet satelital compartido
-
-Creado: 17 de diciembre de 2024 23:03
-Etiquetas: Compartir, Internet, Soluciones, Tarjeta
-
 ![Internet satelital compartido](assets/images/desconectado-bigbox/desconectado-bigbox_card.png)
 
 [**Paso 1:** Para saber si necesitas esta solución revisa la tarjeta ¿Cómo cacharrear tu señal WiFi?](es/disconnected/como-cacharrear-tu-senal-wifi-voltaje-desconectado.md) y [¿Cómo cacharrear tu señal móvil?](es/disconnected/como-cacharrear-tu-senal-movil-voltaje-desconectado.md)

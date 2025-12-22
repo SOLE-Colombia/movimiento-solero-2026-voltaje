@@ -10,11 +10,6 @@ aspectos:
 fecha: '2024-12-17'
 ---
 
-
-
-Creado: 17 de diciembre de 2024 21:19
-Etiquetas: Conocimiento, Tarjeta
-
 ![Saltar de arriba a abajo en el internet](assets/images/desconectado-jump/desconectado-jump-card.png)
 
 # **¿Qué significan los términos "velocidad de carga y de descarga"?**
