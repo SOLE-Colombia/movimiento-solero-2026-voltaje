@@ -11,7 +11,6 @@ tarda: "Minutos"
 autor: "SOLE Colombia"
 draft: false
 ---
-# ¿Quieres compartir tu internet sin cables? Configura tu Raspberry Pi
 
 ## Comparte tu internet de bolsillo
 
