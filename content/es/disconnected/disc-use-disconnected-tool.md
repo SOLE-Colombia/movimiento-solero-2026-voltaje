@@ -9,14 +9,6 @@ aspectos:
 fecha: '2025-10-11'
 ---
 
-
-
-## Cómo mejorar el Internet sin Internet
-
-Descarga las Instrucciones en PDF
-
-[Instrucciones_para_jugar_SOLE_Voltaje_Desconectado.pdf](assets/images/desconectado-directions/Instrucciones_para_jugar_SOLE_Voltaje_Desconectado.pdf)
-
 **Propósito:** que cualquier persona, en cualquier parte del mundo y sin importar los conocimientos previos, pueda entender, de manera práctica y divertida, cómo funciona el internet sin internet.
 
 **Duración: 1.5 horas**
