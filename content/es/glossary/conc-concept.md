@@ -9,4 +9,3 @@ fecha: '2024-01-26'
 
 ### Español
 
-### English

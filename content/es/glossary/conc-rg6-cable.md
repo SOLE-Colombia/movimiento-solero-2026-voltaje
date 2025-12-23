@@ -21,22 +21,3 @@ Es conocido por su capacidad para manejar frecuencias más altas y reducir la p�
 - **Ventajas:** Ofrece mejor calidad de señal y menor pérdida de señal que otros cables coaxiales como el RG59, especialmente en aplicaciones de alta frecuencia y larga distancia.
 
 En resumen, el cable RG6 es un cable coaxial versátil y de alto rendimiento, ideal para transmitir señales de video y datos a través de diferentes medios y distancias.
-
-## English
-
-An RG6 cable **is a type of coaxial cable used primarily for the transmission of cable television, satellite and internet signals, as well as for some high-definition video applications**. 
-
-It is known for its ability to handle higher frequencies and reduce signal loss, making it a popular choice for both indoor and outdoor installations.
-
-**Key features:**
-
-- **Center conductor:** Generally, an RG6 cable has a copper, sometimes steel-clad, center conductor.
-- **Dielectric insulation:** An insulating material that separates the center conductor from the shielding mesh.
-- **Shielding:** RG6 cable has a shielding layer to protect the signal from electromagnetic interference (EMI) and noise. It can be single, double (foil and braid) or quadruple.
-- **Impedance:** Typically 75 ohms, which is the standard impedance for most video and television applications.
-- **Applications:** Used to connect antennas, cable set-top boxes, satellite dishes, and to carry internet and television signals.
-- **Advantages:** It offers better signal quality and lower signal loss than other coaxial cables such as RG59, especially in high frequency and long distance applications.
-
-In summary, RG6 cable is a versatile, high performance coaxial cable, ideal for transmitting video and data signals over different media and distances.
-
-![Cable RG6](/assets/images/conc-rg6cable/conc-rg6cable-cable.webp)

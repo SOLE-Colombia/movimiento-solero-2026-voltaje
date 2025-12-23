@@ -18,18 +18,3 @@ Una conexión Ethernet es una **tecnología que permite conectar dispositivos el
 En resumen, la conexión Ethernet es una tecnología fundamental para las redes de datos por cable, que proporciona una forma confiable y eficiente de conectar dispositivos y compartir información.
 
 ![cable ethernet](assets/images/conc-ethernet/conc-ethernet-bluecable.webp)
-
-## English
-
-An Ethernet connection is a **technology that allows electronic devices to be connected to a local area network (LAN) or wide area network (WAN) via a cable.** Its main function is to transmit data between devices, either to share information or to connect to the Internet.
-
-**In more detail:**
-
-- **Connects by cable:** Ethernet uses cables, usually RJ45 cables, to establish communication between devices. There are different types of Ethernet cables, categorized by their transfer speed and network frequency. Ethernet offers faster speeds and a more stable connection than wireless connections, such as Wi-Fi, as well as being more secure and cost-effective.
-- **Connects devices:** Ethernet is used to connect a wide variety of devices, including computers, routers, video game consoles, smart TVs and more. It is the most common technology for connecting devices within the same area, such as an office or home.
-- **Transmits data:** Through Ethernet cables, devices can send and receive data packets, enabling communication and information exchange.
-- **Comparison with Wi-Fi:** Although Wi-Fi is more convenient, Ethernet offers a better experience in terms of speed, stability and security.
-
-In summary, the Ethernet connection is a fundamental technology for wired data networks, providing a reliable and efficient way to connect devices and share information.
-
-![conexion cable ethernet](assets/images/conc-ethernet/conc-ethernet-connection.webp)

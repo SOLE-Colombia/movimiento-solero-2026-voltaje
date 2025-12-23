@@ -19,22 +19,3 @@ LTE, siglas de Long Term Evolution, **es un estándar mundial de comunicación i
     
     LTE es un estándar de largo plazo que sigue siendo la base para las redes móviles de 5G y continuará evolucionando con variantes como LTE-Advanced (LTE-A) para ofrecer aún mayores velocidades y rendimiento
     
-
-### English
-
-LTE, which stands for Long Term Evolution, **is a global wireless communication standard that provides fourth-generation (4G) mobile network technology, offering much faster data transfer speeds and reduced latency compared to the previous generation (3G)**. Its main function is to enable high-speed internet access on mobile devices, enabling services such as video streaming, rapid content downloading, and IoT (Internet of Things) applications.
-
-**What is LTE used for?**
-
-- **Web browsing and content streaming:** Allows downloading websites, videos, and music more quickly and smoothly.
-- **High-quality calls:** Voice over LTE (VoLTE) technology enables voice calls through the LTE data network, improving sound quality and reducing call setup time.
-- **Improved communication on mobile devices:** Facilitates sending instant messages and video communication more efficiently.
-- **Expansion of IoT applications:** LTE is fundamental for connecting a large number of devices, such as smartwatches, sensors, and automation systems, to the internet network.
-- **Teleworking and remote work:** Allows video conferencing and access to cloud platforms with greater stability and speed, making it possible to work from anywhere.
-- **Standardization and evolution:** LTE is a long-term standard that continues to be the foundation for 5G mobile networks and will continue to evolve with variants such as LTE-Advanced (LTE-A) to offer even higher speeds and performance.
-
-### Referencias | References
-
-- https://www.unir.net/revista/ingenieria/lte-que-es/
-- https://softwarelab.org/es/blog/que-es-lte/
-- https://es.digi.com/blog/post/what-is-lte

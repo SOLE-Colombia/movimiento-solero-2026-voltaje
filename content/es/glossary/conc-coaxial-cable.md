@@ -19,19 +19,6 @@ Entre los dos, se existe **una capa aislante** **dieléctrica**, de cuyas caract
 
 Todo el conjunto suele estar **protegido por una cubierta aislante** (también denominada camisa exterior).
 
-## English
-
-Coaxial cable is a cable used to carry high frequency electrical signals. 
-
-It has **two** concentric **conductors**: 
-
-- the central one, called core: in charge of carrying information
-- the outer one, of tubular aspect, called shield, shielding or braid: it serves as ground reference and return of the currents.
-
-Between the two, there is **a** **dielectric** **insulating layer**, the characteristics of which mainly determine the quality of the cable. 
-
-The whole assembly is usually **protected by an insulating jacket** (also called outer jacket).
-
 
 ![cable coaxial](assets/images/conc-coaxcable/conc-coaxcable.webp)
 
@@ -41,8 +28,6 @@ B: malla de cobre (conductor blindado de trenza de aluminio recubierto de cobre)
 C: aislante (dieléctrico de espuma)
 D: conductor central o núcleo de cobre (acero recubierto de cobre).
 
-💡 Parts of the RG-59 coaxial cable (for signals): A: plastic protective jacket (thermoplastic elastomer) B: copper shield (shielded aluminum braid conductor coated with copper) C: insulator (foam dielectric) D: central conductor or copper core (copper coated steel).
-
-## References:
+## Referencias:
 
  Un cable coaxial consta de señales electrónicas que constituyen la información [Wikipedia.gov](https://es.wikipedia.org/wiki/Cable_coaxial#:~:text=Un)

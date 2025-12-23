@@ -26,23 +26,3 @@ En esencia, ping envía un paquete de datos a un dispositivo de destino y mide e
 
 En resumen, ping es una herramienta esencial para diagnosticar y evaluar la calidad de la conexión de red entre dos dispositivos.
 
-## English
-
-The ping program **is a network diagnostic tool used to verify connectivity and latency between two devices**. 
-
-In essence, ping sends a data packet to a target device and measures the time it takes to receive the response. This time, measured in milliseconds, is known as latency or ping, and is used to assess the quality of the connection.
-
-### **How does it work?**
-
-1. The ping command sends an ICMP (Internet Control Message Protocol) packet to the destination device.
-2. The target device, if it is online, responds with an ICMP echo packet.
-3. The ping tool measures the time it takes for the response to arrive and displays it as "round-trip time" (RTT) in milliseconds.
-4. In addition, ping can indicate if there is packet loss, which means that some packets did not reach their destination.
-
-### **What is it used for?**
-
-- **Verify connectivity:** Ensure that a device is connected and responding on the network.
-- **Measure latency:** Determine the quality of the connection, especially in online gaming and video conferencing.
-- **Diagnose network problems:** Identify connectivity problems, packet loss or high latency.
-
-In short, ping is an essential tool to diagnose and evaluate the quality of the network connection between two devices.

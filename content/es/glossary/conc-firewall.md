@@ -27,24 +27,3 @@ Su función principal es permitir o bloquear el tráfico basándose en un conjun
 
 En resumen, un firewall es una herramienta esencial para proteger redes y dispositivos de las amenazas cibernéticas, asegurando que solo el tráfico autorizado pueda acceder a la red.
 
-## English
-
-A firewall is a **network security system designed to monitor and control incoming and outgoing network traffic**, acting as a barrier between an internal network and external networks, such as the Internet. 
-
-Its main function is to allow or block traffic based on a predefined set of security rules, thus protecting the network from unauthorized access and cyber threats. (Source: [Fortinet](https://www.fortinet.com/lat/resources/cyberglossary/firewall#:~:text=Un firewall es un dispositivo,y redes externas no confiables.))
-
-**How does a firewall work?**
-
-- **Traffic inspection:** Firewalls examine network traffic, analyzing information such as IP addresses, ports, protocols and packet content. (Source: https://www.fortinet.com/lat/resources/cyberglossary/firewall
-- **Rule enforcement:** They rely on predefined rules to determine whether traffic should be allowed, blocked or restricted. (Source: https://www.fortinet.com/lat/resources/cyberglossary/firewall
-- **Threat protection:** They help prevent cyber attacks, such as malware, viruses, hacking attempts and unauthorized access to the network. (Source: https://www.hpe.com/lamerica/es/what-is/network-firewall.html
-- **Types of firewalls:** They can be hardware or software, and some state-of-the-art firewalls incorporate additional functions such as intrusion detection and prevention systems, VPN, and deep content analysis. (Source: https://www.fortinet.com/lat/resources/cyberglossary/hardware-firewalls-better-than-software
-
-**Why is a firewall important?**
-
-- **Network security:** Protects sensitive and confidential network information, preventing unauthorized access and potential data leakage (Source: https://www.redestelecom.es/seguridad/que-es-un-firewall-o-cortafuegos-como-funciona-tipos-y-usos/
-- **Access control:** Allows network administrators to define access policies and restrict access to certain resources or websites. (Source: https://www.redestelecom.es/seguridad/que-es-un-firewall-o-cortafuegos-como-funciona-tipos-y-usos/
-- **Attack prevention:** Acts as a first line of defense against various cyber threats, such as malware, viruses and phishing attacks. (Source: https://www.davantis.com/es/blog/tecnologia/ciberseguridad/
-- **Regulatory compliance:** In many industries, the use of firewalls is a requirement to comply with security and privacy regulations. (Source: https://www.techtarget.com/searchsecurity/definition/firewall
-
-In summary, a firewall is an essential tool for protecting networks and devices from cyber threats, ensuring that only authorized traffic can access the network.

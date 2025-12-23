@@ -22,21 +22,3 @@ Está disponible para diferentes sistemas operativos, incluyendo Android e iOS, 
 La aplicación asegura que las conversaciones personales, llamadas y contenido multimedia están protegidos con cifrado de extremo a extremo, lo que significa que solo el emisor y el receptor pueden acceder a ellos.
 
 La interfaz de WhatsApp es sencilla e intuitiva, facilitando la comunicación entre usuarios, especialmente con aquellos que ya forman parte de la lista de contactos.
-
-## English
-
-[WhatsApp](https://www.whatsapp.com/?lang=es_LA) is an **instant messaging and calling application,** owned by Meta, that allows users to send messages, make voice and video calls, and share files over the internet. 
-
-It is widely used for both personal and business communications.
-
-It allows sending text, voice, video, voice and video messages, making voice and video calls, and sharing files such as photos, documents, locations and contacts.
-
-Although it is mainly known for personal use to communicate with friends and family, it has a business version called [**WhatsApp Business](https://business.whatsapp.com/whatsapp-vs-whatsapp-business?lang=es_LA),** which allows you to interact with customers, manage sales and provide customer service.
-
-**Beware!** WhatsApp is normally included in the data plan of most mobile operators in Colombia, although it may result in additional charges for data and downloads not specified in your plan. 
-
-It is available for different operating systems, including Android and iOS, as well as a web version.
-
-The application ensures that personal conversations, calls and multimedia content are protected with end-to-end encryption, which means that only the sender and receiver can access them.
-
-The WhatsApp interface is simple and intuitive, facilitating communication between users, especially with those who are already part of the contact list.

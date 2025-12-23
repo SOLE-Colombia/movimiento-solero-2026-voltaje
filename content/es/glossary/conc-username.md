@@ -19,17 +19,3 @@ Sirve para iniciar sesión y acceder a tu cuenta, y generalmente se usa junto co
 - **Puede ser alfanumérico:** Generalmente consiste en una combinación de letras y números, aunque algunos sistemas permiten caracteres especiales como guiones bajos o puntos.
 - **Es diferente de la contraseña:** La contraseña es un factor de autenticación que protege el acceso a tu cuenta, mientras que el nombre de usuario es simplemente un identificador.
 
-## English
-
-A username is a **unique string of characters that identifies a user on a computer system, such as a social network, website or application**. 
-
-It is used to log in and access your account, and is generally used in conjunction with a password to verify your identity (Source [Dashlane](https://www.dashlane.com/es/blog/6-cosas-que-siempre-debe-tener-un-nombre-de-usuario-seguro)).
-
-**In detail, a username:**
-
-- **Uniquely identifies the user:** It allows you to distinguish each user within the system, avoiding conflicts and ensuring that the correct permissions are granted.
-- **It is used to log in:** It is the way you identify yourself to access your account and the resources associated with it.
-- **It can be public or private:** In some systems, the username is visible to other users, while in others it can be private.
-- **It must be unique within the system:** No two users can have the same username to avoid confusion.
-- **It can be alphanumeric:** It usually consists of a combination of letters and numbers, although some systems allow special characters such as underscores or periods.
-- **It is different from the password:** The password is an authentication factor that protects access to your account, while the username is simply an identifier.

@@ -21,20 +21,3 @@ En términos más técnicos, un nombre de dominio es una forma de traducir una d
 - **Componentes de un dominio:** Un nombre de dominio típicamente consta de dos partes principales: el nombre (ej: "solecolombia") y la extensión o dominio de nivel superior (ej: ".org").
 
 Un nombre de dominio es una herramienta esencial para la navegación en internet, permitiendo a los usuarios acceder a sitios web y servicios de manera fácil y eficiente, y también sirve como la identidad de un sitio web en la web
-
-## English
-
-A domain name is a **unique, easy-to-remember address used to access a website or service on the Internet**. 
-
-It is like the postal address of a web site, but instead of numbers, it uses text. For example, "solecolombia.org" is a domain name. It allows users to access websites and services without having to remember complex numeric IP addresses (source [Google Help](https://support.google.com/a/answer/2573637?hl=es#:~:text=Un nombre de dominio (a,artículo Añadir y gestionar dominios.)).
-
-In more technical terms, a domain name is a way of translating a numeric IP address (such as 192.0.2.1) into a text string that is easy to remember and easy to type, such as "example.com". This translation process is performed by the Domain Name System (DNS), which is a directory that associates domain names with their corresponding IP addresses.
-
-**Here are some key points about domain names:**
-
-- **Ease of use:** domain names make it much easier for people to find and access websites, as they are easier to remember and type than IP addresses.
-- **Online identity:** A domain name is essentially the identity of a website or service on the Internet. It is what users will type into their browser to visit your site.
-- **Ownership and registration:** Domain names are registered with authorized registrars and are paid annually to maintain ownership.
-- **Components of a domain:** A domain name typically consists of two main parts: the name (e.g., "solecolombia") and the extension or top-level domain (e.g., ".org").
-
-A domain name is an essential tool for internet navigation, allowing users to access websites and services easily and efficiently, and also serves as the identity of a website on the web.

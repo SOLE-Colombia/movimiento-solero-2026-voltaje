@@ -16,13 +16,3 @@ dnsmasq tiene bajos requerimientos de recursos del sistema, puede ejecutarse en�
 En consecuencia, "está presente en muchos [routers](https://es.wikipedia.org/wiki/Routers) domésticos y en ciertos [gadgets](https://es.wikipedia.org/wiki/Gadgets) del [Internet de las cosas](https://es.wikipedia.org/wiki/Internet_de_las_cosas)", también está incluido en Android.
 
 Si quieres saber más detalles, puedes consultar [Wikipedia](https://es.wikipedia.org/wiki/Dnsmasq)
-
-## English
-
-**dnsmasq** is a software that provides domain name system[(DNS](/dns-sistema-de-nombres-de-dominio-dns-domain-name-system-conceptorio)) caching, dynamic host configuration protocol[(DHCP](https://es.wikipedia.org/wiki/DHCP)) server, advertisement router and network boot functions for small computer networks, created as [free software](https://es.wikipedia.org/wiki/Software_libre).
-
-dnsmasq has low system resource requirements, can run on [Linux](https://es.wikipedia.org/wiki/Linux), [BSD](https://es.wikipedia.org/wiki/BSD), [Android](https://es.wikipedia.org/wiki/Android) and [macOS](https://es.wikipedia.org/wiki/MacOS), and is included in most Linux distributions. 
-
-Consequently, "it is present in many home [routers](https://es.wikipedia.org/wiki/Routers) and certain [Internet of Things](https://es.wikipedia.org/wiki/Internet_de_las_cosas) [gadgets](https://es.wikipedia.org/wiki/Gadgets) ", it is also included in Android.
-
-For more details, see https://es.wikipedia.org/wiki/Dnsmasq.

@@ -19,17 +19,3 @@ Es una herramienta útil para ejecutar comandos, administrar archivos, soluciona
 
 En resumen, CMD es una herramienta esencial para la gestión y administración de sistemas Windows, ofreciendo una forma poderosa y flexible de interactuar con el sistema operativo mediante comandos de texto.
 
-## English
-
-In the context of Windows, CMD, or Command Prompt, **is a command line interface that allows you to interact with the operating system using text commands**. 
-
-It is a useful tool for executing commands, managing files, troubleshooting, and automating tasks.
-
-**The Command Prompt (CMD) is:**
-
-- **A command interpreter:** CMD takes commands typed by the user and translates them into actions that the operating system can understand and execute.
-- **An alternative to the graphical interface:** Although Windows has a graphical interface, CMD offers a faster and more efficient way to perform certain tasks, especially for advanced users or to automate processes.
-- **Troubleshooting tool:** CMD allows you to run commands to diagnose and fix system problems, such as network errors or configuration problems.
-- **Scripting base:** CMD is the basis for creating and executing scripts, allowing you to automate repetitive and complex tasks.
-
-In summary, CMD is an essential tool for managing and administering Windows systems, providing a powerful and flexible way to interact with the operating system using text commands.
