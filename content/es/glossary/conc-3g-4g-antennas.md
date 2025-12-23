@@ -7,6 +7,7 @@ tags:
 autor: "Belén"
 draft: false
 ---
+# Redes móviles 3G y 4G.
 Una antena 3/4G, también conocida como antena LTE, **es un dispositivo que facilita la conexión a internet a través de redes móviles 4G y 3G**. Estas antenas permiten la recepción y transmisión de señales de radio para conectar smartphones, tablets y módems a la red celular, mejorando la calidad y velocidad de la conexión.
 
 **Más detalles:**

@@ -6,6 +6,8 @@ tags:
 autor: "SOLE Colombia"
 draft: false
 ---
+# Transporte de señales de alta frecuencia.
+
 El cable coaxial, es un cable utilizado para transportar señales eléctricas de alta frecuencia. 
 
 Posee **dos conductores** concéntricos: 

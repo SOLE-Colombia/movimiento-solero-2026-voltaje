@@ -14,6 +14,7 @@ aspectos:
 - espacio
 fecha: '2025-10-11'
 ---
+# Tutorial para fomentar el aprendizaje autogestionado.
 
 En este video tutorial te explicamos cómo puedes crear tu espacio aprendizaje auto organizado. En SOLE Colombia hemos llevado esta metodología de educación disruptiva a muchos rincones del país... ¿Qué esperas para iniciar a usarla?
 

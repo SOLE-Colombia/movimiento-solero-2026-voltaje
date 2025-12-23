@@ -6,6 +6,7 @@ tags:
 autor: "Belén"
 draft: false
 ---
+# Transporte de señales de alta frecuencia.
 Un cable RG6 **es un tipo de cable coaxial utilizado principalmente para la transmisión de señales de televisión por cable, satélite e internet, así como para algunas aplicaciones de video de alta definición**. 
 
 Es conocido por su capacidad para manejar frecuencias más altas y reducir la pérdida de señal, lo que lo convierte en una opción popular para instalaciones tanto en interiores como exteriores.

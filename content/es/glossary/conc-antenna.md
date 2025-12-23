@@ -7,6 +7,7 @@ tags:
 autor: "SOLE Colombia"
 draft: false
 ---
+# Transmisión y recepción de ondas.
 **Una Antena es un dispositivo diseñado para transmitir y/o recibir ondas electromagnéticas**
 
 [Nasa](https://www-nasa-gov.translate.goog/general/what-is-an-antenna/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=sge#:~:text=An)

@@ -7,6 +7,8 @@ tags:
 autor: "Belén"
 draft: false
 ---
+# Focalizar la señal.
+
 Una antena Yagi **es un tipo de antena direccional, conocida por su alta ganancia y capacidad para enfocar la señal en una dirección específica**. 
 
 Se compone de un elemento principal llamado **brazo** (o elemento activo) y varios elementos más cortos, llamados **directores** y **reflectores**, dispuestos a lo largo del brazo.
