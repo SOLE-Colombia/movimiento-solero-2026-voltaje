@@ -6,4 +6,3 @@ tags:
 autor: "SOLE Colombia"
 draft: false
 ---
-# ¿Crees que los más privilegiados deberían subsidiar el internet de todos?

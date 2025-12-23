@@ -16,15 +16,3 @@ Es importante el aparato porque, normalmente, dispone de una pegatina donde se e
 ## Referencias
 
 - [Wikipedia](https://es.wikipedia.org/wiki/M%C3%B3dem)
-
-## English
-
-A Modem is a device that allows us to access the Internet, by serving as an interpreter of the signals needed to connect a computer to the service provider or ISP.
-
-Nowadays, connection service providers deliver a device that contains **a modem and a router, encapsulated in the same device**. The difference between these two is that the **modem** handles the connections to the provider's cable, and the **router** allows this connection to be shared with multiple devices in the space where they are installed.
-
-The device is important because it usually has a sticker with the data we need to access the Internet connection: network name and password. This data is what you share with people who want to use your Internet service, for example, those who accompany you on a SOLE to discover things together. It is also the data that your device will store for future occasions when you connect to the same network, through this modem's gateway.
-
-## References
-
-- [https://es.wikipedia.org/wiki/M%C3%B3dem](https://es.wikipedia.org/wiki/Módem)

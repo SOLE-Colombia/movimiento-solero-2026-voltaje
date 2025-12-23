@@ -1,18 +1,19 @@
 ---
-title: Antenas de radioenlace
-lang: es
-slug: antenas-de-radioenlace-voltaje-desconectado
-aspectos:
-- señal
-- electricidad
-- personas
-fecha: '2025-10-11'
+tipo: DESCONECTADO
+title: "Antenas de radioenlace"
+date: 2025-10-11
+tags:
+  - "Cartas conectivas"
+permite:
+  - "Conseguir"
+autor:
+  - "SOLE Colombia"
+draft: false
 ---
 
-# Antenas de radioenlace
+## Extender la señal a través del aire.
 
-Creado: 17 de diciembre de 2024 22:52
-Etiquetas: Conseguir, Internet, Soluciones, Tarjeta
+
 
 ![Antena de4 ](assets/images/desconectado-buy3Gantenna-how/desconectado-buy3Gantenna-how-card.png)
 

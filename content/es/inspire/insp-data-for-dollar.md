@@ -6,4 +6,3 @@ tags:
 autor: "SOLE Colombia"
 draft: false
 ---
-# ¿Cuántos Gb al mes te da tu compañía telefónica por $1US?

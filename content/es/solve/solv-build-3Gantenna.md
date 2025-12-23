@@ -10,6 +10,8 @@ tarda: "Horas"
 autor: "SOLE Colombia"
 draft: false
 ---
+## Captura señal con una antena hecha en casa.
+
 ## **Mejora tu conexión a la red móvil**
 
 ![Antena 3G casera](assets/images/solv-build-3Gantenna/solv-build-3Gantenna-antenna.webp)

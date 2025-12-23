@@ -1,18 +1,19 @@
 ---
-title: ¿Cómo compartir internet?
-lang: es
-slug: como-compartir-internet-voltaje-desconectado
-aspectos:
-- señal
-- electricidad
-- personas
-fecha: '2024-12-17'
+tipo: DESCONECTADO
+title: "¿Cómo compartir internet?"
+date: 2024-12-17
+tags:
+  - "Cartas conectivas"
+permite:
+  - "Compartir"
+autor:
+  - "SOLE Colombia"
+draft: false
 ---
 
-## ¿Cómo compartir internet?
+## Compartir es una responsabilidad colectiva.
 
-Creado: 17 de diciembre de 2024 23:11
-Etiquetas: Compartir, Internet, Soluciones, Tarjeta
+
 
 ![Como compartir internet](assets/images/desconectado-bigbox/desconectado-bigbox_card.png)
 

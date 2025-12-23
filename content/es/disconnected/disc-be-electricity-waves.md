@@ -1,23 +1,21 @@
 ---
-title: Jugar a ser electricidad y ondas
-lang: es
-slug: jugar-a-ser-electricidad-y-ondas-voltaje-desconectado
-aspectos:
-- señal
-- electricidad
-- dispositivos
-- personas
-- espacio
-fecha: '2024-12-17'
+tipo: DESCONECTADO
+title: "Jugar a ser electricidad y ondas"
+date: 2024-12-17
+tags:
+  - "Cartas navegadoras"
+permite:
+  - "Medir"
+autor:
+  - "SOLE Colombia"
+draft: false
 ---
 
+## ¿Cómo se transmite la señal de internet?
 
-Creado: 17 de diciembre de 2024 21:07
-Etiquetas: Conocimiento, Tarjeta
+
 
 ![Jugar a ser electricidad y ondas](assets/images/desconectado-electricity/desconectado-electricity-card.png)
-
-# **¿Cómo se transmite la señal de internet?**
 
 ***Para entender qué es un servidor y un cliente,  revisa la carta “Convertirte en información que viaja por el internet.”***
 

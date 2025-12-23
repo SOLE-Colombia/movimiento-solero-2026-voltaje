@@ -1,18 +1,20 @@
 ---
-title: ¿Cómo cacharrear tu señal móvil?
-lang: es
-slug: como-cacharrear-tu-senal-movil-voltaje-desconectado
-aspectos:
-- señal
-- electricidad
-- personas
-fecha: '2025-11-17'
+tipo: DESCONECTADO
+title: "¿Cómo cacharrear tu señal móvil?"
+date: 2025-11-17
+tags:
+  - "Cartas cacharreras"
+permite:
+  - "Medir"
+autor:
+  - "SOLE Colombia"
+draft: false
 ---
 
-## ¿Cómo cacharrear tu señal móvil?
+## Diagnóstico de señal móvil.
 
-Creado: 17 de diciembre de 2024 22:22
-Etiquetas: Cacharrear, Tarjeta
+
+
 
 ![WelcomeImage.png](assets/images/desconectado-tinkermobilesignal/desconectado-tinkermobilesignal-card.png)
 

@@ -1,17 +1,19 @@
 ---
-title: Despertar tu curiosidad
-lang: es
-slug: despertar-tu-curiosidad-voltaje-desconectado
-aspectos:
-- señal
-- electricidad
-- personas
-fecha: '2024-12-17'
+tipo: DESCONECTADO
+title: "Despertar tu curiosidad"
+date: 2024-12-17
+tags:
+  - "Cartas navegadoras"
+permite:
+  - "Medir"
+autor:
+  - "SOLE Colombia"
+draft: false
 ---
 
+## Una Gran Pregunta en un mundo sin escritura.
 
-Creado: 17 de diciembre de 2024 19:59
-Etiquetas: Conocimiento, Tarjeta
+
 
 ![Despertar tu curiosidad](assets/images/desconectado-curiosity/desconectado-curiosity-card.png)
 

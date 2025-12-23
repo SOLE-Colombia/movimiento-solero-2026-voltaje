@@ -1,22 +1,22 @@
 ---
-title: ¿Cómo cacharrear tu señal WiFi?
-lang: es
-slug: como-cacharrear-tu-senal-wifi-voltaje-desconectado
-aspectos:
-- señal
-- electricidad
-- personas
-fecha: '2024-12-17'
+tipo: DESCONECTADO
+title: "¿Cómo cacharrear tu señal WiFi?"
+date: 2024-12-17
+tags:
+  - "Cartas cacharreras"
+permite:
+  - "Medir"
+autor:
+  - "SOLE Colombia"
+draft: false
 ---
 
-## ¿Cómo cacharrear tu señal WiFi?
+## Diagnóstico de señal WiFi.
 
-Creado: 17 de diciembre de 2024 22:14
-Etiquetas: Cacharrear, Tarjeta
+
 
 ![Comocacharrear tu señal WiFi](assets/images/desconectado-tinkerwifisignal/desconectado-tinkerwifisignal-card.png)
 
-**Diagnóstico de señal WiFi**
 
 **Paso 1: Toma tu celular y revisa si tienes señal WiFi**
 

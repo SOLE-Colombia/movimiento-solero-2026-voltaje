@@ -10,6 +10,9 @@ tarda: "Días"
 autor: "SOLE Colombia"
 draft: false
 ---
+
+## Otros actores pueden hacer que tu mensaje llegue más lejos.
+
 ## Asociarnos con otros más visibles
 
 

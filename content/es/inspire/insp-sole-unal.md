@@ -7,13 +7,6 @@ tags:
 autor: "SOLE Colombia"
 draft: false
 ---
-# ¿Qué significa el agua para ti y tu comunidad?
-
-Tags: Impacto, Pregunta Provocadora
-idioma: español
-pie: No
-reacción: No
-traducción: No
 
 SOLE realizado por los estudiantes del observatorio IV de agua y energía de la escuela de Diseño Industrial en la Universidad Nacional. Abril 25 del 2025.
 

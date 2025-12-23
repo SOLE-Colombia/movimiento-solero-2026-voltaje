@@ -1,23 +1,22 @@
 ---
-title: Transformarte en una tecnología inalámbrica para conectar historias de vida
-lang: es
-slug: transformarte-en-una-tecnologia-inalambrica-para-conectar-historias-de-vida-voltaje-desconectado
-aspectos:
-- señal
-- electricidad
-- dispositivos
-- personas
-fecha: '2024-12-17'
+tipo: DESCONECTADO
+title: "Transformarte en una tecnología inalámbrica para conectar historias de vida"
+date: 2024-12-17
+tags:
+  - "Cartas navegadoras"
+permite:
+  - "Medir"
+autor:
+  - "SOLE Colombia"
+draft: false
 ---
 
+## ¿Cómo saber que tienes señal WiFi?
 
 
-Creado: 17 de diciembre de 2024 21:55
-Etiquetas: Conocimiento, Tarjeta
 
 ![Transformarte en una tecnología inalámbrica para conectar historias de vida](assets/images/desconectado-wireless/desconectado-wireless-card.png)
 
-# **¿Cómo saber que tienes señal WiFi?**
 
 Si tienes un celular, puedes dirigirte a la opción de configuración y buscar las redes WiFi que están disponibles. Aquí puede que encuentres redes abiertas, con contraseña o que no encuentres redes. Si estás en un computador u otro dispositivo, busca el símbolo de WiFi.
 

@@ -1,7 +1,6 @@
 ---
-title: ¿Cómo hacer SOLE? - Tutorial
+title: ¿Cómo hacer SOLE?
 lang: es
-slug: como-hacer-sole-tutorial-inspiration-db
 categories:
 - Internet
 - Metodología
@@ -15,25 +14,7 @@ aspectos:
 - espacio
 fecha: '2025-10-11'
 ---
-
-# ¿Cómo hacer SOLE? - Tutorial
-
-Tags: Internet, Metodología
-Formato: Video
-R2025: revisado
-idioma: español
-pie: Yes
-reacción: Yes
-traducción: Yes
-widget ok: ok
-
-*Descarga esta Inspiración para usarla desconectado*
-
-[Como_hacer_SOLE-Tutorial_20250825.pdf](/downloads/como-hacer-sole-tutorial-20250825.pdf)
-
-*Download this Inspiration to use it disconnected*
-
-[How_to_make_SOLE-Tutorial_20250825.pdf](/downloads/how-to-make-sole-tutorial-20250825.pdf)
+# Tutorial para fomentar el aprendizaje autogestionado.
 
 En este video tutorial te explicamos cómo puedes crear tu espacio aprendizaje auto organizado. En SOLE Colombia hemos llevado esta metodología de educación disruptiva a muchos rincones del país... ¿Qué esperas para iniciar a usarla?
 

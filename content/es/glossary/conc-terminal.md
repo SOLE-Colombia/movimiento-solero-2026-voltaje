@@ -25,20 +25,3 @@ En resumen, tanto la terminal como la consola son interfaces que permiten la com
 
 - [Terminal en la wikipedia](https://es.wikipedia.org/wiki/Terminal_(informática))
 
-## English
-
-In computing, a terminal or console is a device with which you connect to a computer, in more technical terms, it is a **text-based user interface that allows you to interact with an operating system or application**. 
-
-Historically, it referred to a physical device with a keyboard and monitor, but today, it usually refers to a software application that emulates that function, that is, a program that allows us to communicate directly with our operating system without the need to use graphical interfaces.
-
-**In more detail:**
-
-- **Terminal:** The interface that allows us to execute commands, control applications and view results in a text environment. Today, it most commonly refers to a program that emulates a physical terminal, allowing interaction with the operating system through commands.
-- **Console:** Traditionally, console referred to a physical device, such as a keyboard and monitor, connected directly to the computer. Today, the term can also refer to the terminal interface used to administer and configure systems, and is also used to refer to the management interface of cloud services.
-- **Difference between console and terminal:** Although the terms are often used interchangeably, console can refer to the physical device, while terminal can refer to the software that emulates that device. In practice, both terms are used to describe the command-line interface that users interact with to give instructions to the system.
-
-In short, both terminal and console are interfaces that allow communication with the operating system, either through a physical device (historically) or a software program (currently).
-
-### **References**
-
-- [Terminal on wikipedia](https://es.wikipedia.org/wiki/Terminal_(informática))

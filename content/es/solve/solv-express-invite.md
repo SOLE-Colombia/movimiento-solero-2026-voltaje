@@ -11,6 +11,7 @@ autor: "SOLE Colombia"
 draft: false
 ---
 ---
+## Las invitaciones son clave para convocar personas.
 
 ## La forma, es importante
 

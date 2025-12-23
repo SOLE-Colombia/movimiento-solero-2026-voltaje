@@ -10,6 +10,8 @@ tarda: "Horas"
 autor: "SOLE Colombia"
 draft: false
 ---
+## Con algunos ajustes, puedes aumentar la potencia de la señal.
+
 ## Amplifica tu señal móvil
 
 

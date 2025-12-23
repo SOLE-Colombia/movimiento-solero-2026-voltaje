@@ -27,26 +27,3 @@ Se utiliza principalmente para la administración remota de sistemas y la transf
 SSH es una herramienta esencial para la administración remota segura de sistemas, ofreciendo una conexión cifrada y protegida entre dispositivos a través de redes no seguras.
 
 ![SSH](/assets/images/conc-sshprotocol/conc-sshprotocol-screenshot.png)
-
-
-
-
-
-## English
-
-SSH, or Secure Shell, **is a network protocol that allows secure, remote connection to another computer over an unsecured network, such as the Internet**. 
-
-It is primarily used for remote system administration and secure file transfer. In essence, SSH creates an encrypted "tunnel" between two computers, allowing protected communication of data, passwords and other sensitive information (taken from [cloudflare.com](https://translate.google.com/translate?u=https://www.cloudflare.com/learning/access-management/what-is-ssh/&hl=es&sl=en&tl=es&client=sge#:~:text=SSH (Secure Shell)%20es%20un,trav%C3%A9s%20de%20redes%20no%20seguras.)).
-
-**More details:**
-
-- **Secure Access:** SSH provides a secure way to access remote servers, such as your website server, from your computer.
-- **Authentication:** To establish the connection, SSH requires authentication, which can be done by username and password, or by public and private cryptographic keys.
-- **Encryption:** SSH encrypts all data transmitted between the client and the server, protecting the information from possible interception attacks.
-- **File transfer:** In addition to allowing remote command execution, SSH is used to securely transfer files using protocols such as SFTP.
-- **Replaces Telnet:** SSH was created as a secure replacement for Telnet, a remote access protocol that did not offer encryption.
-- **Ports:** SSH uses TCP port 22 by default, although it can be configured on other ports.
-- **Implementations:** OpenSSH is a popular open source implementation of the SSH protocol.
-
-SSH is an essential tool for secure remote system administration, providing an encrypted and protected connection between devices over unsecured networks.
-

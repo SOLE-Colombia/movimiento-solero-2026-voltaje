@@ -7,6 +7,8 @@ tags:
 autor: "Belén"
 draft: false
 ---
+# Focalizar la señal.
+
 Una antena Yagi **es un tipo de antena direccional, conocida por su alta ganancia y capacidad para enfocar la señal en una dirección específica**. 
 
 Se compone de un elemento principal llamado **brazo** (o elemento activo) y varios elementos más cortos, llamados **directores** y **reflectores**, dispuestos a lo largo del brazo.
@@ -31,32 +33,5 @@ Se compone de un elemento principal llamado **brazo** (o elemento activo) y vari
 - **Sistemas de radar:** En algunas aplicaciones militares y de radar, se utilizan antenas Yagi para enfocar y dirigir las señales de radar.
 
 En resumen, la antena Yagi es una herramienta valiosa para mejorar la recepción y transmisión de señales en diversas aplicaciones debido a su alta directividad y ganancia.
-
-## English
-
-A Yagi antenna **is a type of directional antenna, known for its high gain and ability to focus the signal in a specific direction**. 
-
-It consists of a main element called the **arm** (or active element) and several shorter elements, called **directors** and **reflectors**, arranged along the arm.
-
-**How does it work?**
-
-- **Active element:** It is the one that is directly connected to the transmitter or receiver and is where the main signal is generated or received.
-- **Directors:** These elements are shorter than the active element and are located in front of it, in the direction of the desired signal. They help to focus the signal in that direction, increasing the antenna gain.
-- **Reflector:** It is a longer element than the active element and is located behind it. It reflects the radio waves, helping to focus the signal in the desired direction and reduce the signal in the opposite direction, increasing the directivity of the antenna.
-
-**Main characteristics:**
-
-- **Directivity:** Yagi antennas are highly directional, meaning they are most effective at transmitting or receiving signals in a specific direction.
-- **Gain:** Gain refers to the antenna's ability to concentrate the signal in one direction. Yagi antennas have high gain, which allows them to transmit and receive signals over long distances.
-- **Size:** The size of a Yagi antenna can vary depending on the frequency for which it is designed, but they are generally more compact than other directional antennas such as parabolic antennas.
-
-**Applications:**
-
-- **TV and radio reception:** They are commonly used to improve TV and radio signal reception, especially in areas with poor coverage.
-- **Wireless communications:** They are effective in point-to-point and point-to-multipoint links, where directional communication is required.
-- **Amateur radio:** Amateur radio operators use Yagi antennas to communicate over long distances and to participate in radio contests.
-- **Radar systems:** In some military and radar applications, Yagi antennas are used to focus and steer radar signals.
-
-In summary, the Yagi antenna is a valuable tool for improving signal reception and transmission in various applications due to its high directivity and gain.
 
 ![antena tipo Yagi](assets/images/conc-antenna-yagi/conc-antenna-yagi-antenna.png)

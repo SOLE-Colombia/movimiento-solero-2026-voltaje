@@ -1,18 +1,19 @@
 ---
-title: Acordar con un vecino
-lang: es
-slug: acordar-con-un-vecino-voltaje-desconectado
-aspectos:
-- señal
-- electricidad
-- personas
-fecha: '2024-12-17'
+tipo: DESCONECTADO
+title: "Acordar con un vecino"
+date: 2024-12-17
+tags:
+  - "Cartas conectivas"
+permite:
+  - "Conseguir"
+autor:
+  - "SOLE Colombia"
+draft: false
 ---
 
-## Acordar con un vecino
+## Otras personas ya están conectadas.
 
-Creado: 17 de diciembre de 2024 22:39
-Etiquetas: Conseguir, Internet, Soluciones, Tarjeta
+
 
 ![Como acordar con un vecino](assets/images/desconectado-buy3Gantenna-how/desconectado-buy3Gantenna-how-card.png)
 

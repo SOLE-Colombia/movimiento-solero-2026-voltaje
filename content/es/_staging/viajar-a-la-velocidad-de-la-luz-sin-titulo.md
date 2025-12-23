@@ -7,14 +7,14 @@ aspectos:
 - electricidad
 - dispositivos
 - personas
-fecha: '2025-10-11'
+fecha: '2025-01-14'
 ---
 
-# Viajar a la velocidad de la luz
+## Viajar a la velocidad de la luz
 
-Creado: 30 de agosto de 2025 23:19
+Creado: 14 de enero de 2025 20:09
 
-![Versión Voltaje Virtual_20241202_SOLE_Desconectado v2 (6).png](../../../../../¿Desconectado 1292bd68c5b681cba770d407771654ee/Sin título 7a3aa606c7184c28b51833e1547881a6/Viajar a la velocidad de la luz 27a7b88a75794eee824b53f6ded0851b/Versin_Voltaje_Virtual_20241202_SOLE_Desconectado_v2_(6).png)
+![Viajar a la velocidad de la luz](assets/images/desconectado-lightspeed/desconectado-lightspeed-card.png)
 
 # **¿Qué tan rápido puedes acceder a la información en internet?**
 

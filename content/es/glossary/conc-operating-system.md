@@ -26,26 +26,3 @@ Gestiona los recursos del sistema, como la memoria, el procesador y los disposit
 - **Para dispositivos móviles:** Android, iOS.
 
 En resumen, un sistema operativo es esencial para que cualquier dispositivo informático funcione correctamente, permitiendo a los usuarios interactuar con el hardware y ejecutar aplicaciones de forma eficiente
-
-## English
-
-An operating system (OS) **is a fundamental piece of software that acts as an intermediary between the hardware of a device (such as a computer or phone) and the applications you use**. 
-
-It manages system resources, such as memory, processor, and input/output devices, and allows applications to run and function properly. Without an OS, it would be very difficult or impossible to use a computing device.
-
-**Main functions of an operating system:**
-
-- **Resource management:** the OS manages RAM, storage space, processor, input/output devices (keyboard, mouse, display, etc.) and other hardware resources.
-- **User interface:** Allows interaction with the user through graphical interfaces (windows, icons) or command lines.
-- **Application execution:** The OS loads and executes applications, providing them with the necessary resources and managing their interaction with the hardware.
-- **Process management:** Organizes and controls the execution of multiple tasks or processes simultaneously (multitasking).
-- **File system:** Organizes, stores and retrieves files on storage devices.
-- **Security:** Controls access to system resources, protecting it from unauthorized access.
-- **Network communication:** Enables communication between devices over networks, such as the Internet.
-
-**Examples of operating systems:**
-
-- **For computers:** Windows, macOS, Linux.
-- **For mobile devices:** Android, iOS.
-
-In short, an operating system is essential for any computing device to function properly, allowing users to interact with the hardware and run applications efficiently.

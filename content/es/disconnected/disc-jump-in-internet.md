@@ -1,23 +1,21 @@
 ---
-title: Saltar de arriba a abajo en el internet
-lang: es
-slug: saltar-de-arriba-a-abajo-en-el-internet-voltaje-desconectado
-aspectos:
-- señal
-- electricidad
-- dispositivos
-- personas
-fecha: '2024-12-17'
+tipo: DESCONECTADO
+title: "Saltar de arriba a abajo en el internet"
+date: 2024-12-17
+tags:
+  - "Cartas navegadoras"
+permite:
+  - "Medir"
+autor:
+  - "SOLE Colombia"
+draft: false
 ---
 
+## ¿Qué significa "velocidad de carga y de descarga"?
 
 
-Creado: 17 de diciembre de 2024 21:19
-Etiquetas: Conocimiento, Tarjeta
 
 ![Saltar de arriba a abajo en el internet](assets/images/desconectado-jump/desconectado-jump-card.png)
-
-# **¿Qué significan los términos "velocidad de carga y de descarga"?**
 
 *Te sugerimos buscar la carta viajar a la velocidad de la luz y ser un científico del internet para complementar esta información.*
 

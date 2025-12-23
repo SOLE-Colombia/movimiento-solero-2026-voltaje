@@ -1,21 +1,19 @@
 ---
-title: Instrucciones para jugar SOLE Voltaje Desconectado
-lang: es
-slug: instrucciones-para-jugar-sole-voltaje-desconectado-desconectado
-aspectos:
-- señal
-- electricidad
-- personas
-fecha: '2025-10-11'
+tipo: DESCONECTADO
+title: "Instrucciones para usar SOLE Voltaje Desconectado"
+date: 2025-10-11
+tags:
+  []
+permite:
+  - "Compartir"
+autor:
+  - "SOLE Colombia"
+draft: false
 ---
 
+## ¿Cómo conectarnos a internet sin tener conexión?
 
 
-## Cómo mejorar el Internet sin Internet
-
-Descarga las Instrucciones en PDF
-
-[Instrucciones_para_jugar_SOLE_Voltaje_Desconectado.pdf](assets/images/desconectado-directions/Instrucciones_para_jugar_SOLE_Voltaje_Desconectado.pdf)
 
 **Propósito:** que cualquier persona, en cualquier parte del mundo y sin importar los conocimientos previos, pueda entender, de manera práctica y divertida, cómo funciona el internet sin internet.
 

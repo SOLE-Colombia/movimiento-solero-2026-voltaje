@@ -6,7 +6,7 @@ tags:
 autor: "Nicolás"
 draft: false
 ---
-# El inventario poético
+## El inventario poético
 
 Zer, niño, ser otr_.
 

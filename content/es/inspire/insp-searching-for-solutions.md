@@ -7,4 +7,3 @@ tags:
 autor: "SOLE Colombia"
 draft: false
 ---
-## ¿Has buscado información en internet para arreglar un problema de tu casa?

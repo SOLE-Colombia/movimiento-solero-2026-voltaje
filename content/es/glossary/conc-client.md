@@ -8,6 +8,8 @@ tags:
 autor: "Belén"
 draft: false
 ---
+# Quienes interactúan con los servidores.
+
 En informática, un cliente es una **pieza de hardware o software que accede a un servicio o recurso proporcionado por un servidor**. 
 
 El término puede referirse tanto a un dispositivo físico (como una computadora o teléfono inteligente) como a un programa de software (como un navegador web) que se utiliza para interactuar con un servidor. (Fuente: [Brave](https://brave.com/es/glossary/client/)) 
@@ -26,22 +28,3 @@ El término puede referirse tanto a un dispositivo físico (como una computadora
     - **Clientes pesados:** Tienen capacidad de almacenamiento local y pueden ejecutar aplicaciones de forma independiente. (Fuente: [Slideshare](https://www.slideshare.net/slideshow/clientes-informatico/54264431))
     - **Clientes ligeros:** Dependen principalmente del servidor para la ejecución de aplicaciones y el almacenamiento de datos. (Fuente: [Slideshare](https://www.slideshare.net/slideshow/clientes-informatico/54264431))
 - **Importancia:** Los clientes permiten a los usuarios acceder a una amplia gama de servicios y recursos de forma remota, facilitando la interacción con sistemas distribuidos y redes. (Fuente: [Oracle](https://docs.oracle.com/cd/E24842_01/html/E23289/clientconcept-33212.html))
-
-## English
-
-In computing, a client is a **piece of hardware or software that accesses a service or resource provided by a server**. 
-
-The term can refer to either a physical device (such as a computer or smartphone) or a software program (such as a web browser) that is used to interact with a server. (Source: [Brave](https://brave.com/es/glossary/client/))
-
-**In more detail:**
-
-- **Client role:** The client sends requests to the server to access data, services or resources provided by the server. (Source: https://www.ionos.com/es-us/digitalguide/servidores/know-how/que-es-un-cliente/
-- **Client-server interaction:** In a client-server architecture, the client initiates the communication and the server responds to the client's requests. (Source: https://www.ionos.com/es-us/digitalguide/servidores/know-how/que-es-un-cliente/
-- **Examples:**
-    - A web browser such as Google Chrome or Mozilla Firefox is a client that requests web pages from a server. (Source: https://brave.com/es/glossary/client/
-    - An email program that connects to a server to send and receive messages is another example. (Source: https://linube.com/ayuda/glosario
-    - A mobile device that accesses a cloud application is another example of a client. (Source: https://www.techtarget.com/searchenterprisedesktop/definition/client
-- **Types of clients:**
-    - **Thick clients:** They have local storage capacity and can run applications independently. (Source: https://es.slideshare.net/slideshow/clientes-informatico/54264431
-    - **Thin clients:** Rely primarily on the server for running applications and storing data. (Source: https://es.slideshare.net/slideshow/clientes-informatico/54264431
-- **Importance:** Clients allow users to access a wide range of services and resources remotely, facilitating interaction with distributed systems and networks. (Source: https://docs.oracle.com/cd/E24842_01/html/E23289/clientconcept-33212.html

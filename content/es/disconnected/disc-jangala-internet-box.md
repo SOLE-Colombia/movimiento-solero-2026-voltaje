@@ -1,19 +1,20 @@
 ---
-title: Big Box de Jangala
-lang: es
-slug: big-box-de-jangala-voltaje-desconectado
-aspectos:
-- señal
-- electricidad
-- dispositivos
-- personas
-fecha: '2024-12-17'
+tipo: DESCONECTADO
+title: "Big Box de Jangala"
+date: 2024-12-17
+tags:
+  - "Cartas conectivas"
+permite:
+  - "Compartir"
+autor:
+  - "SOLE Colombia"
+draft: false
 ---
 
-## Big Box de Jangala
+## Reúne, amplifica y comparte la señal existente.
 
-Creado: 17 de diciembre de 2024 22:59
-Etiquetas: Compartir, Internet, Soluciones, Tarjeta
+
+
 
 ![Big box de Jangala](assets/images/desconectado-bigbox/desconectado-bigbox_card.png)
 
