@@ -31,6 +31,20 @@ export default ((opts?: Partial<FolderContentOptions>) => {
   const FolderContent: QuartzComponent = (props: QuartzComponentProps) => {
     const { tree, fileData, allFiles, cfg } = props
 
+    // No renderizar contenido en la página principal - usa FolderGrid en su lugar
+    if (fileData.slug === "es" || fileData.slug === "index") {
+      const content = (
+        (tree as Root).children.length === 0
+          ? fileData.description
+          : htmlToJsx(fileData.filePath!, tree)
+      ) as ComponentChildren
+      return (
+        <div class="popover-hint">
+          <article>{content}</article>
+        </div>
+      )
+    }
+
     const mainSectionSlugs = new Set([
       "es/inspire/index",
       "es/solve/index",

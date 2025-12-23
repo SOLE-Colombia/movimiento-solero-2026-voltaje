@@ -1,8 +1,8 @@
 .folder-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
   gap: 1.5rem;
-  margin: 2rem 0;
+  margin: 0;
 }
 
 .folder-card {
@@ -32,35 +32,94 @@
   flex: 1;
 }
 
+/* Iconos usando mask-image */
 .card-icon {
-  width: 48px;
-  height: 48px;
+  width: 40px;
+  height: 40px;
   margin-bottom: 0.5rem;
+  background-color: currentColor;
+  mask-size: contain;
+  mask-repeat: no-repeat;
+  mask-position: center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
 }
 
-.card-icon-svg {
-  width: 100%;
-  height: 100%;
-  object-fit: contain;
-  filter: brightness(0) invert(0);
+.card-icon-new-here {
+  mask-image: url("/static/icons/voltaje/hand-hang-loose.svg");
+  -webkit-mask-image: url("/static/icons/voltaje/hand-hang-loose.svg");
+}
+
+.card-icon-inspire {
+  mask-image: url("/static/icons/voltaje/star-1.svg");
+  -webkit-mask-image: url("/static/icons/voltaje/star-1.svg");
+}
+
+.card-icon-solve {
+  mask-image: url("/static/icons/voltaje/hammer.svg");
+  -webkit-mask-image: url("/static/icons/voltaje/hammer.svg");
+}
+
+.card-icon-answers-comments {
+  mask-image: url("/static/icons/voltaje/phone-transfer.svg");
+  -webkit-mask-image: url("/static/icons/voltaje/phone-transfer.svg");
+}
+
+.card-icon-disconnected {
+  mask-image: url("/static/icons/voltaje/wifi-none.svg");
+  -webkit-mask-image: url("/static/icons/voltaje/wifi-none.svg");
+}
+
+.card-icon-glossary {
+  mask-image: url("/static/icons/voltaje/document.svg");
+  -webkit-mask-image: url("/static/icons/voltaje/document.svg");
+}
+
+/* Textos claros (blanco) para tarjetas oscuras */
+.text-light {
+  color: #ffffff !important;
+}
+
+/* Textos oscuros (negro) para tarjetas claras */
+.text-dark {
+  color: #000000 !important;
 }
 
 .card-body h3 {
   margin: 0;
   font-family: var(--bodyFont);
-  font-size: clamp(1.1rem, 2.5vw, 1.4rem);
+  font-size: clamp(1.2rem, 3vw, 1.5rem);
   font-weight: 700;
-  color: #000000;
   line-height: 1.3;
 }
 
 .card-description {
   font-size: 0.9rem;
-  color: #1a1a1a;
   margin: 0;
   line-height: 1.5;
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
+}
+
+/* Colores por defecto - texto blanco */
+.folder-card .card-icon {
+  color: #ffffff;
+}
+
+.folder-card h3,
+.folder-card .card-description {
+  color: #ffffff;
+}
+
+/* Tarjeta amarilla - texto negro */
+.folder-card.section-answers-comments .card-icon {
+  color: #000000;
+}
+
+.folder-card.section-answers-comments h3,
+.folder-card.section-answers-comments .card-description {
+  color: #000000;
 }

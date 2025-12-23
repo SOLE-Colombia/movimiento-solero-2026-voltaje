@@ -57,10 +57,10 @@ const config: QuartzConfig = {
           gray: "#4b5563",
           // Gris claro para textos secundarios
           darkgray: "#d1d5db",
-          // Color de títulos (h1-h6)
-          dark: "#1a84ae",
+          // Color de títulos (h1-h6) - Aguamarina
+          dark: "#26BFB8",
           // Acento para botones y elementos destacados
-          secondary: "#1a84ae",
+          secondary: "#26BFB8",
           // Color activo/hover (amarillo dorado)
           tertiary: "#F9C369",
           // Sombra para resaltar áreas

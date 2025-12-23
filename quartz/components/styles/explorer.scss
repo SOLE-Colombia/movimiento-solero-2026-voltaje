@@ -124,6 +124,8 @@ button.desktop-explorer {
       color: var(--dark);
       opacity: 0.75;
       pointer-events: all;
+      font-weight: 400;
+      font-size: 0.9rem;
 
       &.active {
         opacity: 1;

@@ -237,5 +237,36 @@ En `pageCardGrid.scss`, ajustar el color de texto para esa sección:
 
 ---
 
+## 🍞 Breadcrumbs (Migas de Pan)
+
+### Configuración
+
+Los breadcrumbs se configuran en `quartz.layout.ts`:
+
+```typescript
+Component.Breadcrumbs({ showCurrentPage: false })
+```
+
+### Opciones disponibles
+
+| Opción | Valor por defecto | Descripción |
+|--------|-------------------|-------------|
+| `spacerSymbol` | `"❯"` | Símbolo entre elementos |
+| `rootName` | `"Home"` | Nombre del primer elemento |
+| `resolveFrontmatterTitle` | `true` | Usar títulos del frontmatter |
+| `showCurrentPage` | `true` | Mostrar la página actual |
+
+### Configuración actual
+
+- `showCurrentPage: false` - Para evitar duplicación del título (el título ya aparece como h1)
+
+### Ubicaciones
+
+Los breadcrumbs se configuran en dos lugares de `quartz.layout.ts`:
+- `defaultContentPageLayout.beforeBody` - Páginas de contenido
+- `defaultListPageLayout.beforeBody` - Páginas de listado
+
+---
+
 **Última actualización:** Diciembre 2024
 

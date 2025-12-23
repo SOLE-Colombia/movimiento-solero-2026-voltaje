@@ -35,8 +35,8 @@ Sección `theme.colors` (líneas 30-63 aproximadamente)
 | **lightgray** | `#1a1f2e` | Variante para paneles y secciones |
 | **gray** | `#4b5563` | Bordes |
 | **darkgray** | `#d1d5db` | Texto secundario (claro) |
-| **dark** | `#1a84ae` | Color de títulos (h1-h6) |
-| **secondary** | `#1a84ae` | Enlaces y elementos destacados |
+| **dark** | `#26BFB8` | Color de títulos (h1-h6) - Aguamarina |
+| **secondary** | `#26BFB8` | Enlaces y elementos destacados |
 | **tertiary** | `#F9C369` | Color activo/hover (amarillo dorado) |
 | **highlight** | `rgba(249, 195, 105, 0.15)` | Fondo de elementos resaltados |
 | **textHighlight** | `#F9C36966` | Texto resaltado |
@@ -144,10 +144,11 @@ const sectionColors: Record<string, string> = {
 
 Para mantener la identidad visual de SOLE Voltaje:
 
-1. **Títulos**: Siempre `#1a84ae` (azul SOLE)
-2. **Hover/Activos**: Siempre `#F9C369` (amarillo dorado)
-3. **Tarjetas**: Colores planos por sección (sin degradados)
-4. **Texto en tarjetas oscuras**: Usar `#ffffff` (blanco) para contraste
+1. **Títulos (tema claro)**: `#1a84ae` (azul SOLE)
+2. **Títulos (tema oscuro)**: `#26BFB8` (aguamarina)
+3. **Hover/Activos**: Siempre `#F9C369` (amarillo dorado)
+4. **Tarjetas**: Colores planos por sección (sin degradados)
+5. **Texto en tarjetas oscuras**: Usar `#ffffff` (blanco) para contraste
 
 ---
 

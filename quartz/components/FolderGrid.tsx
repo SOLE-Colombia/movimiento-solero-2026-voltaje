@@ -2,17 +2,6 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import style from "./styles/folderGrid.scss"
 import { resolveRelative } from "../util/path"
 
-// Mapeo de secciones a iconos SVG
-const sectionIcons: Record<string, string> = {
-  "new-here": "/static/icons/voltaje/hand-hang-loose.svg",
-  "inspire": "/static/icons/voltaje/star-1.svg",
-  "solve": "/static/icons/voltaje/hammer.svg",
-  "answers-comments": "/static/icons/voltaje/phone-transfer.svg",
-  "disconnected": "/static/icons/voltaje/wifi-none.svg",
-  "glossary": "/static/icons/voltaje/document.svg",
-  "general": "/static/icons/voltaje/spiral-1.svg",
-}
-
 // Colores de fondo por sección
 const sectionColors: Record<string, string> = {
   "new-here": "#1a84ae",
@@ -66,21 +55,20 @@ export default (() => {
           const title = file.frontmatter?.title ?? file.slug?.split("/")[1]
           const description = file.frontmatter?.description ?? ""
           const section = file.slug?.split("/")[1] ?? ""
-          const iconUrl = sectionIcons[section] ?? "/static/icons/voltaje/spiral-1.svg"
           const bgColor = sectionColors[section] ?? "#4b5563"
+          const isYellow = section === "answers-comments"
 
           return (
             <a 
               href={resolveRelative(fileData.slug!, file.slug!)} 
-              class="folder-card"
+              class={`folder-card section-${section}`}
               style={`--card-bg-color: ${bgColor}`}
+              data-section={section}
             >
               <div class="card-body">
-                <div class="card-icon">
-                  <img src={iconUrl} alt="" class="card-icon-svg" />
-                </div>
-                <h3>{title}</h3>
-                <p class="card-description">{description}</p>
+                <div class={`card-icon card-icon-${section}`}></div>
+                <h3 class={isYellow ? "text-dark" : "text-light"}>{title}</h3>
+                <p class={`card-description ${isYellow ? "text-dark" : "text-light"}`}>{description}</p>
               </div>
             </a>
           )

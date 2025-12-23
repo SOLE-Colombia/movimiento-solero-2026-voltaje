@@ -61,15 +61,15 @@
 .page-card-title {
   margin: 0;
   font-family: var(--bodyFont);
-  font-size: clamp(1.1rem, 2.5vw, 1.5rem);
-  font-weight: 700;
+  font-size: clamp(0.95rem, 2vw, 1.2rem);
+  font-weight: 600;
   line-height: 1.3;
   color: #000000;
 }
 
 .page-card-description {
   margin: 0;
-  font-size: 0.95rem;
+  font-size: 0.85rem;
   line-height: 1.5;
   color: #1a1a1a;
   display: -webkit-box;
@@ -83,7 +83,7 @@
   gap: 1rem;
   padding: 0.75rem 1rem;
   border-top: 1px solid rgba(0, 0, 0, 0.15);
-  font-size: 1rem;
+  font-size: 0.9rem;
   font-weight: 600;
   margin-top: auto;
   color: #000000;
@@ -95,7 +95,7 @@
   gap: 0.25rem;
 }
 
-/* Colores por sección */
+/* Colores por sección - Letra blanca por defecto */
 .section-inspire .page-card {
   background-color: #26bfb8;
   border-color: rgba(0, 0, 0, 0.15);
@@ -108,7 +108,7 @@
 .section-inspire .page-card-title,
 .section-inspire .page-card-description,
 .section-inspire .page-card-categories {
-  color: #000000;
+  color: #ffffff;
 }
 
 .section-solve .page-card {
@@ -138,7 +138,7 @@
 .section-glossary .page-card-title,
 .section-glossary .page-card-description,
 .section-glossary .page-card-categories {
-  color: #000000;
+  color: #ffffff;
 }
 
 .section-disconnected .page-card {
@@ -153,9 +153,10 @@
 .section-disconnected .page-card-title,
 .section-disconnected .page-card-description,
 .section-disconnected .page-card-categories {
-  color: #000000;
+  color: #ffffff;
 }
 
+/* Tarjeta amarilla - texto negro */
 .section-answers-comments .page-card {
   background-color: #F9C369;
   border-color: rgba(0, 0, 0, 0.15);
@@ -170,5 +171,3 @@
 .section-answers-comments .page-card-categories {
   color: #000000;
 }
-
-
