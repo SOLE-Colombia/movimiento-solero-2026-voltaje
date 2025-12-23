@@ -60,9 +60,84 @@
 
 .page-card-title {
   margin: 0;
-  font-size: 1.05rem;
-  font-weight: 650;
-  line-height: 1.25;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.3;
+  color: #000000;
+}
+
+.page-card-description {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: #1a1a1a;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.page-card-categories {
+  display: flex;
+  gap: 1rem;
+  padding: 0.75rem 1rem;
+  border-top: 1px solid rgba(0, 0, 0, 0.15);
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: auto;
+  color: #000000;
+}
+
+.category {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+/* Colores por sección */
+.section-inspire .page-card {
+  background-color: var(--tertiary);
+  border-color: rgba(0, 0, 0, 0.15);
+}
+
+.section-inspire .page-card-body {
+  background-color: var(--tertiary);
+}
+
+.section-inspire .page-card-title,
+.section-inspire .page-card-description,
+.section-inspire .page-card-categories {
+  color: #000000;
+}
+
+.section-solve .page-card {
+  background-color: var(--secondary);
+  border-color: rgba(0, 0, 0, 0.15);
+}
+
+.section-solve .page-card-body {
+  background-color: var(--secondary);
+}
+
+.section-solve .page-card-title,
+.section-solve .page-card-description,
+.section-solve .page-card-categories {
+  color: #000000;
+}
+
+.section-glossary .page-card {
+  background-color: var(--lightgray);
+  border-color: var(--gray);
+}
+
+.section-glossary .page-card-body {
+  background-color: var(--lightgray);
+}
+
+.section-glossary .page-card-title,
+.section-glossary .page-card-description,
+.section-glossary .page-card-categories {
+  color: #000000;
 }
 
 
