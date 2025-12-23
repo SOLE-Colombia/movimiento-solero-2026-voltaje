@@ -26,8 +26,13 @@ const getSection = (slug: string): string => {
   if (parts.includes("inspire")) return "inspire"
   if (parts.includes("solve")) return "solve"
   if (parts.includes("glossary")) return "glossary"
+  if (parts.includes("disconnected")) return "disconnected"
+  if (parts.includes("comments")) return "comments"
   return "default"
 }
+
+// Secciones que no muestran imagen (solo color plano)
+const sectionsWithoutImage = ["solve", "inspire", "disconnected", "comments"]
 
 // Mostrar nivel de dificultad
 const renderDifficultyLabel = (dificultad: string) => {
@@ -79,13 +84,15 @@ export const PageCardGrid: QuartzComponent = ({
         const costo = page.frontmatter?.costo as string | undefined
         const tarda = page.frontmatter?.tarda as string | undefined
 
+        const hideImage = sectionsWithoutImage.includes(section)
+
         return (
           <a
             href={resolveRelative(fileData.slug!, page.slug!)}
             class="page-card"
             role="listitem"
           >
-            {section !== "solve" && (
+            {!hideImage && (
               <div class="page-card-image" aria-hidden="true">
                 {imageUrl ? (
                   <img src={imageUrl} alt={`Imagen de ${title}`} loading="lazy" />

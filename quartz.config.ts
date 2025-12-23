@@ -29,36 +29,44 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          // Fondo principal turquesa inspirado en las pantallas de bienvenida
-          light: "#1ABC9C",
+          // Fondo principal gris claro
+          light: "#f5f5f5",
           // Variante más clara para secciones o paneles
-          lightgray: "#4EDDC2",
-          // Gris verdoso oscuro para bordes sutiles
-          gray: "#006666",
-          // Gris muy oscuro usado para textos secundarios
-          darkgray: "#003E3A",
-          // Texto principal en negro para máximo contraste
-          dark: "#000000",
-          // Acento coral (botones y elementos destacados)
-          secondary: "#F4795B",
-          // Acento amarillo para resaltados y selecciones (radio/checkbox)
-          tertiary: "#FCE766",
-          // Sombra coral translúcida para resaltar áreas
-          highlight: "rgba(244, 117, 90, 0.15)",
+          lightgray: "#e5e5e5",
+          // Gris para bordes sutiles
+          gray: "#9ca3af",
+          // Gris oscuro para textos secundarios
+          darkgray: "#4b5563",
+          // Color de títulos (h1-h6)
+          dark: "#1a84ae",
+          // Acento para botones y elementos destacados
+          secondary: "#1a84ae",
+          // Color activo/hover (amarillo dorado)
+          tertiary: "#F9C369",
+          // Sombra para resaltar áreas
+          highlight: "rgba(26, 132, 174, 0.15)",
           // Color para resaltar texto seleccionado
-          textHighlight: "#FFF2B8",
+          textHighlight: "#F9C36966",
         },
-        // Mantener el modo oscuro como el predeterminado de Quartz o ajustarlo más adelante
         darkMode: {
-          light: "#0f172a",
-          lightgray: "#1f2937",
+          // Fondo principal oscuro
+          light: "#060b16",
+          // Variante para secciones o paneles
+          lightgray: "#1a1f2e",
+          // Gris para bordes
           gray: "#4b5563",
+          // Gris claro para textos secundarios
           darkgray: "#d1d5db",
-          dark: "#f3f4f6",
-          secondary: "#8795e3",
-          tertiary: "#f0c36a",
-          highlight: "rgba(135, 149, 227, 0.15)",
-          textHighlight: "#ecd49a88",
+          // Color de títulos (h1-h6)
+          dark: "#1a84ae",
+          // Acento para botones y elementos destacados
+          secondary: "#1a84ae",
+          // Color activo/hover (amarillo dorado)
+          tertiary: "#F9C369",
+          // Sombra para resaltar áreas
+          highlight: "rgba(249, 195, 105, 0.15)",
+          // Color para resaltar texto seleccionado
+          textHighlight: "#F9C36966",
         },
       },
     },

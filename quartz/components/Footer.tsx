@@ -84,7 +84,7 @@ export default ((opts?: Options) => {
               ))}
             </ul>
             <div class="footer-branding">
-              <img src="/static/icon.png" alt="SOLE Voltaje" class="footer-logo" />
+              <img src="/static/logo.png" alt="SOLE Voltaje" class="footer-logo" />
             </div>
           </div>
         )}

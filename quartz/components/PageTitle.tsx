@@ -34,10 +34,22 @@ PageTitle.css = `
   object-fit: contain;
 }
 
-/* Responsive: Logo más pequeño en móvil */
+/* Responsive: Logo ajustado por breakpoints */
+@media (max-width: 1200px) {
+  .page-logo {
+    height: 5rem;
+  }
+}
+
 @media (max-width: 768px) {
   .page-logo {
-    height: 3.5rem;
+    height: 4rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .page-logo {
+    height: 3rem;
   }
 }
 `

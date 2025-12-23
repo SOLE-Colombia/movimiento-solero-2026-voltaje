@@ -7,8 +7,6 @@ description: Encuentra soluciones prácticas y herramientas para mejorar la cone
 cardImage: /assets/images/solv-bicigenerator/solv-bicigenerator-bici.webp
 ---
 
-# Soluciona
-
 Aquí nos juntamos a “cacharrear”. Busca soluciones para retos de señal, electricidad, conseguir espacios para usar el internet en grupo, computadores para compartir o, lo más importante, convocar gente. 
 
 ## ¿CUÁL ES LA SITUACIÓN MÁS COMÚN EN TU COMUNIDAD?
@@ -24,12 +22,5 @@ Aquí nos juntamos a “cacharrear”. Busca soluciones para retos de señal, el
 [No tenemos computadores](es/solve/no-tenemos-computadores-soluciona.md)
 
 ---
-
-## ¿Cómo clasificamos las soluciones?
-
-- **0 / Fácil:** No necesita habilidades nuevas solo seguir instrucciones (reiniciar un módem).
-- **1 / Tranqui:** Necesitas habilidades nuevas en un lenguaje que ya maneja (comprar un plan de internet).
-- **2 / Promedio:** Necesita estar inmerso en un lenguaje nuevo y seguir pocas instrucciones sencillas (Instalar una app y aprender a usarla).
-- **3 / Difícil:** Necesita  estar inmerso en un o más lenguajes nuevos y seguir muchas instrucción simples o complejas (Construir una antena).
 
 ## Todas las soluciones
