@@ -9,9 +9,6 @@ aspectos:
 - personas
 fecha: '2025-10-11'
 ---
-
-# Ser internet para viajar por un cable a través de la tierra y los oceanos
-
 Creado: 14 de enero de 2025 20:09
 
 ![Ser internet para viajar por un cable a través de la tierra y los oceanos](assets/images/desconectado-cable/desconectado-cable-card.png)

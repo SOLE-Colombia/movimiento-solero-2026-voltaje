@@ -4,120 +4,189 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import walineScript from "./scripts/waline.inline"
 
 const style = `
-.waline-feedback {
-  margin-top: 3rem;
-  margin-bottom: 2rem;
+:root {
+  /* Mapeo de variables Quartz -> Waline */
+  --waline-theme-color: var(--secondary);
+  --waline-bgcolor: var(--light);
+  --waline-bgcolor-light: var(--lightgray);
+  --waline-text-color: var(--darkgray);
+  --waline-border-color: var(--lightgray);
+  --waline-disable-bgcolor: var(--lightgray);
+  --waline-info-bgcolor: var(--lightgray);
+  --waline-white: var(--light);
 }
 
-/* Ocultar todo excepto reacciones */
-.waline-feedback .wl-editor,
-.waline-feedback .wl-header,
-.waline-feedback .wl-list,
-.waline-feedback .wl-count,
-.waline-feedback .wl-powered,
-.waline-feedback .wl-login,
-.waline-feedback .wl-footer {
+.waline-feedback {
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+  width: 100%;
+  border-top: 1px solid var(--lightgray);
+  padding-top: 2rem;
+}
+
+/* 1. LIMPIEZA DE INTERFAZ (Ocultar extras) */
+.wl-header, .wl-editor, .wl-footer, .wl-info, .wl-sort, .wl-refresh, .wl-count, .wl-powered {
   display: none !important;
 }
 
-/* Contenedor de reacciones */
-.waline-feedback .wl-reaction {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-  padding: 0;
-  margin: 0;
+.wl-panel {
+  border: none !important;
+  background: transparent !important;
+  margin: 0 !important;
 }
 
-/* Botones base */
-.waline-feedback .wl-reaction-item {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: 0.5rem;
-  padding: 0.65rem 0.9rem;
-  min-width: 180px;
-  border-radius: 8px;
-  border: 1px solid transparent;
-  background: var(--light);
-  color: var(--darkgray);
-  cursor: pointer;
-  transition: all 0.2s ease;
-  font-weight: 600;
-  position: relative;
+.wl-reaction-title {
+  font-size: 1.1rem !important;
+  font-weight: 600 !important;
+  color: var(--dark) !important;
+  margin-bottom: 1.5rem !important;
+  text-align: center !important;
 }
 
-.waline-feedback .wl-reaction-item span {
-  font-size: 1rem;
+/* 2. LAYOUT BASE (Horizontal/compacto, responsive-first) */
+.wl-reaction-list {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: center !important;
+  gap: 0.75rem !important;
+  width: 100% !important;
+  padding: 0 !important;
+  flex-wrap: wrap !important;
 }
 
-.waline-feedback .wl-reaction-item::after {
-  content: "";
-  font-size: 0.95rem;
-  font-weight: 700;
+.wl-reaction-item {
+  /* Fluido: evita cortes en desktop y se adapta en tablet/móvil */
+  flex: 1 1 12.5rem !important;
+  min-width: 9.5rem !important;
+  max-width: 16rem !important;
+  margin: 0 !important;
+  padding: 0.75rem 1rem !important;
+  border: 1px solid var(--lightgray) !important;
+  border-radius: 12px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 10px !important;
+  background: var(--light) !important;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1) !important;
+  cursor: pointer !important;
+  box-shadow: none !important; /* flat por defecto */
+  line-height: 1.1 !important;
 }
 
-.waline-feedback .wl-reaction-item:hover {
+/* Accesibilidad / UX: foco visible */
+.wl-reaction-item:focus-visible {
+  outline: 2px solid color-mix(in srgb, var(--secondary) 60%, transparent);
+  outline-offset: 2px;
+}
+
+.wl-reaction-item.active {
+  /* El color real de active se define por estado (ver reglas nth-child) */
   transform: translateY(-1px);
-  box-shadow: 0 4px 10px rgba(0,0,0,0.06);
 }
 
-/* 1) ❌ */
-.waline-feedback .wl-reaction-item:nth-child(1) {
-  background: #fee2e2;
-  border-color: #ef4444;
-}
-.waline-feedback .wl-reaction-item:nth-child(1)::after {
-  content: "No me funcionó";
-  color: #b91c1c;
+/* 3. SOLUCIÓN SVGS EN LÍNEA */
+.wl-reaction-img {
+  display: none !important; /* Ocultamos los broken icons de Waline */
 }
 
-/* 2) 😓 */
-.waline-feedback .wl-reaction-item:nth-child(2) {
-  background: #ffedd5;
-  border-color: #f97316;
-}
-.waline-feedback .wl-reaction-item:nth-child(2)::after {
-  content: "Difícil";
-  color: #c2410c;
-}
-
-/* 3) 😐 */
-.waline-feedback .wl-reaction-item:nth-child(3) {
-  background: #f3f4f6;
-  border-color: #9ca3af;
-}
-.waline-feedback .wl-reaction-item:nth-child(3)::after {
-  content: "Regular";
-  color: #4b5563;
+.wl-reaction-item::before {
+  content: "";
+  width: 1.4rem;
+  height: 1.4rem;
+  background-color: currentColor;
+  display: inline-block;
+  mask-size: contain;
+  mask-repeat: no-repeat;
+  mask-position: center;
 }
 
-/* 4) 🙂 */
-.waline-feedback .wl-reaction-item:nth-child(4) {
-  background: #dbeafe;
-  border-color: #3b82f6;
+/* Icono 1: No funcionó (X) */
+.wl-reaction-item:nth-child(1)::before {
+  mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>');
 }
-.waline-feedback .wl-reaction-item:nth-child(4)::after {
-  content: "Útil";
-  color: #1d4ed8;
-}
-
-/* 5) 🚀 */
-.waline-feedback .wl-reaction-item:nth-child(5) {
-  background: #dcfce7;
-  border-color: #22c55e;
-}
-.waline-feedback .wl-reaction-item:nth-child(5)::after {
-  content: "¡Me funcionó!";
-  color: #15803d;
+.wl-reaction-item:nth-child(1) { color: #ef4444; border-color: color-mix(in srgb, #ef4444 35%, var(--lightgray)); }
+.wl-reaction-item:nth-child(1):hover,
+.wl-reaction-item:nth-child(1).active {
+  background: #ef4444 !important;
+  color: white !important;
+  border-color: #ef4444 !important;
 }
 
-@media (max-width: 700px) {
-  .waline-feedback .wl-reaction {
-    flex-direction: column;
+/* Icono 2: Regular (Neutro) */
+.wl-reaction-item:nth-child(2)::before {
+  mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="8" y1="12" x2="16" y2="12"></line></svg>');
+}
+.wl-reaction-item:nth-child(2) { color: #f59e0b; border-color: color-mix(in srgb, #f59e0b 35%, var(--lightgray)); }
+.wl-reaction-item:nth-child(2):hover,
+.wl-reaction-item:nth-child(2).active {
+  background: #f59e0b !important;
+  color: white !important;
+  border-color: #f59e0b !important;
+}
+
+/* Icono 3: Funcionó (Check/Rocket) */
+.wl-reaction-item:nth-child(3)::before {
+  mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>');
+}
+.wl-reaction-item:nth-child(3) { color: #10b981; border-color: color-mix(in srgb, #10b981 35%, var(--lightgray)); }
+.wl-reaction-item:nth-child(3):hover,
+.wl-reaction-item:nth-child(3).active {
+  background: #10b981 !important;
+  color: white !important;
+  border-color: #10b981 !important;
+}
+
+/* Textos personalizados vía CSS si Waline no los inyecta bien */
+.wl-reaction-item::after {
+  /* Previene “corte” y desbordes: se mantiene en una sola línea */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+.wl-reaction-item:nth-child(1)::after { content: "No funcionó"; font-weight: 600; font-size: 0.9rem; }
+.wl-reaction-item:nth-child(2)::after { content: "Regular"; font-weight: 600; font-size: 0.9rem; }
+.wl-reaction-item:nth-child(3)::after { content: "Funcionó"; font-weight: 600; font-size: 0.9rem; }
+
+.wl-reaction-votes {
+  font-size: 0.8rem !important;
+  opacity: 0.65 !important;
+  font-family: var(--codeFont) !important;
+  color: var(--darkgray) !important;
+}
+
+/* Hover “flat”: solo levanta un poco + refuerzo de contraste */
+.wl-reaction-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+}
+.wl-reaction-item:hover .wl-reaction-votes,
+.wl-reaction-item.active .wl-reaction-votes {
+  color: currentColor !important; /* en hover/active queda blanco por la regla de estado */
+  opacity: 0.9 !important;
+}
+
+@media (max-width: 600px) {
+  .wl-reaction-list {
+    /* Mobile compacto: fila/rejilla, no “tarjetas gigantes” */
+    justify-content: center !important;
+    gap: 0.6rem !important;
   }
-  .waline-feedback .wl-reaction-item {
-    width: 100%;
+  .wl-reaction-item {
+    padding: 0.6rem 0.75rem !important;
+    flex: 1 1 9.5rem !important;
+    min-width: 8.75rem !important;
+    max-width: 100% !important;
+  }
+  .wl-reaction-item::before {
+    width: 1.2rem;
+    height: 1.2rem;
+  }
+  .wl-reaction-item:nth-child(1)::after,
+  .wl-reaction-item:nth-child(2)::after,
+  .wl-reaction-item:nth-child(3)::after {
+    font-size: 0.85rem;
   }
 }
 `

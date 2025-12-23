@@ -25,15 +25,13 @@ const initWaline = () => {
       console.debug("[waline] init reactions on", window.location.pathname)
       init({
         el: "#waline",
-        serverURL: "https://waline-voltaje.vercel.app",
+        serverURL: "https://voltaje.zeabur.app/",
         path: window.location.pathname,
-        reaction: ["❌", "😓", "😐", "🙂", "🚀"],
+        lang: 'es',
+        reaction: [true, true, true],
         locale: {
-          placeholder: " ",
-          comment: " ",
-          submit: " ",
-          login: " ",
-          logout: " ",
+          reactionTitle: '¿Qué te pareció esta nota?',
+          placeholder: 'Deja un comentario...',
         },
       })
     })
