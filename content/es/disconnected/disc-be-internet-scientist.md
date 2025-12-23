@@ -1,13 +1,19 @@
 ---
-title: Ser un científico del internet
-lang: es
-slug: ser-un-cientifico-del-internet-voltaje-desconectado
-aspectos:
-- señal
-- electricidad
-- personas
-fecha: '2024-12-17'
+tipo: DESCONECTADO
+title: "Ser un científico del internet"
+date: 2024-12-17
+tags:
+  - "Cartas navegadoras"
+permite:
+  - "Medir"
+autor:
+  - "SOLE Colombia"
+draft: false
 ---
+
+## ¿Cómo saber qué tan rápido es tu internet?
+
+
 
 
 ![Ser un científico del internet](assets/images/desconectado-cientist/desconectado-cientist-card.png)

@@ -1,13 +1,19 @@
 ---
-title: ¿Cómo comprar una antena 3/4G?
-lang: es
-slug: como-comprar-una-antena-3-4g-voltaje-desconectado
-aspectos:
-- señal
-- electricidad
-- personas
-fecha: '2024-12-17'
+tipo: DESCONECTADO
+title: "¿Cómo comprar una antena 3/4G?"
+date: 2024-12-17
+tags:
+  - "Cartas conectivas"
+permite:
+  - "Conseguir"
+autor:
+  - "SOLE Colombia"
+draft: false
 ---
+
+## Una alternativa de conectividad económica.
+
+
 
 ![Como comprar una antena 3/4G](assets/images/desconectado-router/desconectado-router-card.png)
 

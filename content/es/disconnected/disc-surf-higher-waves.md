@@ -1,13 +1,19 @@
 ---
-title: Surfear cada vez en olas más altas
-lang: es
-slug: surfear-cada-vez-en-olas-mas-altas-voltaje-desconectado
-aspectos:
-- señal
-- electricidad
-- personas
-fecha: '2025-10-11'
+tipo: DESCONECTADO
+title: "Surfear cada vez en olas más altas"
+date: 2025-10-11
+tags:
+  - "Cartas navegadoras"
+permite:
+  - "Medir"
+autor:
+  - "SOLE Colombia"
+draft: false
 ---
+
+## ¿Cómo saber qué tipo de señal móvil tienes?
+
+
 
 
 ![Surfear cada vez en olas más altas](assets/images/desconectado-surf/desconectado-surf-card.png)

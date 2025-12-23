@@ -1,13 +1,19 @@
 ---
-title: Construye una antena 3G casera
-lang: es
-slug: construye-una-antena-3g-casera-voltaje-desconectado
-aspectos:
-- señal
-- electricidad
-- personas
-fecha: '2024-12-17'
+tipo: DESCONECTADO
+title: "Construye una antena 3G casera"
+date: 2024-12-17
+tags:
+  - "Cartas conectivas"
+permite:
+  - "Conseguir"
+autor:
+  - "SOLE Colombia"
+draft: false
 ---
+
+## Recibe ondas de señal 3G extendiendo la antena de tu celular.
+
+
 
 ![Como acordar con un vecino](assets/images/desconectado-buy3Gantenna-how/desconectado-buy3Gantenna-how-card.png)
 

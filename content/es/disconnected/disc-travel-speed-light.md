@@ -1,14 +1,19 @@
 ---
-title: Viajar a la velocidad de la luz
-lang: es
-slug: viajar-a-la-velocidad-de-la-luz-voltaje-desconectado
-aspectos:
-- señal
-- electricidad
-- dispositivos
-- personas
-fecha: '2025-10-11'
+tipo: DESCONECTADO
+title: "Viajar a la velocidad de la luz"
+date: 2025-10-11
+tags:
+  - "Cartas navegadoras"
+permite:
+  - "Medir"
+autor:
+  - "SOLE Colombia"
+draft: false
 ---
+
+## ¿Qué tan rápido puedes acceder a la información en internet?
+
+
 
 
 ![Viajar a la velocidad de la luz](assets/images/desconectado-lightspeed/desconectado-lightspeed-card.png)

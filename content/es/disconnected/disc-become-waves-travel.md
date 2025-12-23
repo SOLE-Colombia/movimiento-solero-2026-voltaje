@@ -1,14 +1,19 @@
 ---
-title: Transformarte en ondas para viajar por el mundo
-lang: es
-slug: transformarte-en-ondas-para-viajar-por-el-mundo-voltaje-desconectado
-aspectos:
-- señal
-- electricidad
-- dispositivos
-- personas
-fecha: '2024-12-17'
+tipo: DESCONECTADO
+title: "Transformarte en ondas para viajar por el mundo"
+date: 2024-12-17
+tags:
+  - "Cartas navegadoras"
+permite:
+  - "Medir"
+autor:
+  - "SOLE Colombia"
+draft: false
 ---
+
+## ¿Cómo saber que tienes señal móvil?
+
+
 
 
 ![Transformarte en ondas para viajar por el mundo](assets/images/desconectado-waves-card/desconectado-waves-card.png)

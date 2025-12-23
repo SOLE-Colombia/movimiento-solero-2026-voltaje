@@ -1,13 +1,19 @@
 ---
-title: Internet satelital compartido
-lang: es
-slug: internet-satelital-compartido-voltaje-desconectado
-aspectos:
-- señal
-- electricidad
-- personas
-fecha: '2025-10-11'
+tipo: DESCONECTADO
+title: "Internet satelital compartido"
+date: 2025-10-11
+tags:
+  - "Cartas conectivas"
+permite:
+  - "Compartir"
+autor:
+  - "SOLE Colombia"
+draft: false
 ---
+
+## Creación de acuerdos para la compra y uso de internet satelital.
+
+
 
 ![Internet satelital compartido](assets/images/desconectado-bigbox/desconectado-bigbox_card.png)
 

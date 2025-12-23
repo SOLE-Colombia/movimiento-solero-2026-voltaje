@@ -1,13 +1,19 @@
 ---
-title: Encontrar un aguja en un pajar
-lang: es
-slug: encontrar-un-aguja-en-un-pajar-voltaje-desconectado
-aspectos:
-- señal
-- personas
-- espacio
-fecha: '2024-12-17'
+tipo: DESCONECTADO
+title: "Encontrar una aguja en un pajar"
+date: 2024-12-17
+tags:
+  - "Cartas navegadoras"
+permite:
+  - "Medir"
+autor:
+  - "SOLE Colombia"
+draft: false
 ---
+
+## Internet: la biblioteca más grande en tu bolsillo.
+
+
 
 ![Encontrar un aguja en un pajar](assets/images/desconectado-findneedle/desconectado-findneedle-card.png)
 

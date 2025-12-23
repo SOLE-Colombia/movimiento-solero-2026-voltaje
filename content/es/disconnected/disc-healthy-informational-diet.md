@@ -1,13 +1,19 @@
 ---
-title: inventar una alimentación informática saludable
-lang: es
-slug: inventar-una-alimentacion-informatica-saludable-voltaje-desconectado
-aspectos:
-- señal
-- electricidad
-- personas
-fecha: '2024-12-17'
+tipo: DESCONECTADO
+title: "Inventar una alimentación informática saludable"
+date: 2024-12-17
+tags:
+  - "Cartas navegadoras"
+permite:
+  - "Medir"
+autor:
+  - "SOLE Colombia"
+draft: false
 ---
+
+## ¿Cómo se mide el uso del internet?
+
+
 
 
 ![Inventar una alimentación informática saludable](assets/images/desconectado-digitalhealth/desconectado-digitalhealth-card.png)

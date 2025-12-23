@@ -1,13 +1,19 @@
 ---
-title: Descubrir dónde está el internet
-lang: es
-slug: descubrir-donde-esta-el-internet-voltaje-desconectado
-aspectos:
-- señal
-- dispositivos
-- espacio
-fecha: '2024-12-17'
+tipo: DESCONECTADO
+title: "Descubrir dónde está el internet"
+date: 2024-12-17
+tags:
+  - "Cartas navegadoras"
+permite:
+  - "Medir"
+autor:
+  - "SOLE Colombia"
+draft: false
 ---
+
+## Una red de millones de computadores.
+
+
 
 
 ![Descubrir dónde está el internet](assets/images/desconectado-findinternet/desconectado-findinternet.png)

@@ -1,14 +1,19 @@
 ---
-title: Mejora el alcance de tu router
-lang: es
-slug: mejora-el-alcance-de-tu-router-voltaje-desconectado
-aspectos:
-- señal
-- electricidad
-- dispositivos
-- personas
-fecha: '2024-12-17'
+tipo: DESCONECTADO
+title: "Mejora el alcance de tu router"
+date: 2024-12-17
+tags:
+  - "Cartas conectivas"
+permite:
+  - "Mejorar"
+autor:
+  - "SOLE Colombia"
+draft: false
 ---
+
+## Optimiza la calidad de tu señal de router.
+
+
 
 
 ![Mejora el alcance de tu router](assets/images/desconectado-router/desconectado-router-card.png)

@@ -1,14 +1,19 @@
 ---
-title: Convertirte en información que viaja por el internet
-lang: es
-slug: convertirte-en-informacion-que-viaja-por-el-internet-voltaje-desconectado
-aspectos:
-- señal
-- electricidad
-- dispositivos
-- personas
-fecha: '2024-12-17'
+tipo: DESCONECTADO
+title: "Convertirte en información que viaja por el internet"
+date: 2024-12-17
+tags:
+  - "Cartas navegadoras"
+permite:
+  - "Medir"
+autor:
+  - "SOLE Colombia"
+draft: false
 ---
+
+## ¿Cómo funciona el internet?
+
+
 
 
 ![Convertirte en información que viaja por el internet](assets/images/desconectado-information/desconectado-information-card.png)

@@ -1,14 +1,19 @@
 ---
-title: Transformarte en una tecnología inalámbrica para conectar historias de vida
-lang: es
-slug: transformarte-en-una-tecnologia-inalambrica-para-conectar-historias-de-vida-voltaje-desconectado
-aspectos:
-- señal
-- electricidad
-- dispositivos
-- personas
-fecha: '2024-12-17'
+tipo: DESCONECTADO
+title: "Transformarte en una tecnología inalámbrica para conectar historias de vida"
+date: 2024-12-17
+tags:
+  - "Cartas navegadoras"
+permite:
+  - "Medir"
+autor:
+  - "SOLE Colombia"
+draft: false
 ---
+
+## ¿Cómo saber que tienes señal WiFi?
+
+
 
 ![Transformarte en una tecnología inalámbrica para conectar historias de vida](assets/images/desconectado-wireless/desconectado-wireless-card.png)
 

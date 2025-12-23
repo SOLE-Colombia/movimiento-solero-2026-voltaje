@@ -1,14 +1,19 @@
 ---
-title: Ser internet para viajar por un cable a través de la tierra y los oceanos
-lang: es
-slug: ser-internet-para-viajar-por-un-cable-a-traves-de-la-tierra-y-los-oceanos-sin-titulo
-aspectos:
-- señal
-- electricidad
-- dispositivos
-- personas
-fecha: '2025-10-11'
+tipo: DESCONECTADO
+title: "Ser internet para viajar por un cable a través de la tierra y los océanos"
+date: 2025-10-11
+tags:
+  - "Cartas cacharreras"
+permite:
+  - "Medir"
+autor:
+  - "SOLE Colombia"
+draft: false
 ---
+
+## ¿Cómo saber que tienes señal por cable?
+
+
 
 ![Ser internet para viajar por un cable a través de la tierra y los oceanos](assets/images/desconectado-cable/desconectado-cable-card.png)
 
