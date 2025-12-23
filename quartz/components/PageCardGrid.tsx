@@ -27,12 +27,12 @@ const getSection = (slug: string): string => {
   if (parts.includes("solve")) return "solve"
   if (parts.includes("glossary")) return "glossary"
   if (parts.includes("disconnected")) return "disconnected"
-  if (parts.includes("comments")) return "comments"
+  if (parts.includes("answers-comments")) return "answers-comments"
   return "default"
 }
 
 // Secciones que no muestran imagen (solo color plano)
-const sectionsWithoutImage = ["solve", "inspire", "disconnected", "comments"]
+const sectionsWithoutImage = ["solve", "inspire", "disconnected", "answers-comments"]
 
 // Mostrar nivel de dificultad
 const renderDifficultyLabel = (dificultad: string) => {

@@ -36,6 +36,7 @@ Si es tu primera vez en el proyecto, lee estos documentos en orden:
 
 ### 🎨 Personalización
 *   **[COLORES_Y_TEMAS.md](./COLORES_Y_TEMAS.md)** - Sistema de colores y temas visuales.
+*   **[TIPOGRAFIA_Y_ESTILOS.md](./TIPOGRAFIA_Y_ESTILOS.md)** - Tipografía, tarjetas y estilos visuales.
 *   **[SOLUCION_LOGO_FOOTER.md](./SOLUCION_LOGO_FOOTER.md)** - Configuración de logo y footer.
 
 ### 📦 Estrategias Avanzadas
@@ -68,5 +69,5 @@ Si encuentras algo que falta o está desactualizado:
 3.  Crea un Pull Request.
 
 ---
-*Última actualización: 19 de Noviembre, 2025*
+*Última actualización: Diciembre 2024*
 

@@ -40,17 +40,20 @@ Bienvenido al centro de documentación del jardín digital de la Fundación SOLE
 
 ```
 docs/
-├── tecnico/           ← Para desarrolladores
-│   ├── ARQUITECTURA.md
-│   ├── DOCKER.md
-│   ├── DESARROLLO.md
+├── tecnico/                    ← Para desarrolladores
+│   ├── ARQUITECTURA.md         - Estructura del proyecto
+│   ├── COLORES_Y_TEMAS.md      - Paleta de colores y temas
+│   ├── TIPOGRAFIA_Y_ESTILOS.md - Fuentes y estilos visuales
+│   ├── MAPA_DEL_PROYECTO.md    - Visión global del sistema
+│   ├── DOCKER.md               - DevContainers
+│   ├── DESARROLLO.md           - Comandos y flujos
 │   └── ...
 │
-├── editorial/         ← Para redactores
+├── editorial/                  ← Para redactores
 │   ├── MANUAL_REDACCION.md
 │   └── GUIA_MULTIMEDIA.md
 │
-└── README.md          ← Este archivo
+└── README.md                   ← Este archivo
 ```
 
 ---
@@ -63,4 +66,6 @@ docs/
 
 ---
 *Fundación SOLE Colombia - Conectando comunidades.*
+
+**Última actualización:** Diciembre 2024
 

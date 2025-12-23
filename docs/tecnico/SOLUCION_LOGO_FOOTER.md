@@ -1,182 +1,194 @@
-# 🖼️ Solución: Logo no aparece en el Footer
+# 🖼️ Configuración del Logo y Footer - SOLE Voltaje
 
-## 📍 Problema
+## 📍 Archivos Clave
 
-El logo de SOLE Voltaje (`icon.png`) no se muestra en el footer después de hacer el build del sitio.
-
----
-
-## ✅ Soluciones
-
-### Solución 1: Verificar que el archivo existe
-
-```bash
-ls -la /workspace/quartz/quartz/static/icon.png
-```
-
-**Si el archivo NO existe:**
-- Copia tu logo a `/workspace/quartz/quartz/static/icon.png`
-- El tamaño recomendado es **32x32px** o **64x64px**
-- Formato: PNG con fondo transparente
-
-### Solución 2: Rebuild limpio
-
-```bash
-cd /workspace/quartz
-rm -rf .quartz-cache public
-npx quartz build --serve
-```
-
-Esto eliminará la caché y reconstruirá todo desde cero.
-
-### Solución 3: Verificar la ruta en el Footer
-
-El archivo está en:
-```
-/workspace/quartz/quartz/components/Footer.tsx
-```
-
-Línea 84 debe tener:
-```tsx
-<img src="/static/icon.png" alt="SOLE Voltaje" class="footer-logo" />
-```
-
-**Nota:** La ruta debe ser `/static/icon.png` (con slash inicial).
-
-### Solución 4: Verificar que el Plugin Static está activo
-
-En `/workspace/quartz/quartz.config.ts`, verifica que en la sección `emitters` esté:
-
-```typescript
-Plugin.Static(),
-```
-
-Este plugin copia los archivos de `quartz/static/` a `public/static/` durante el build.
+| Archivo | Ubicación | Propósito |
+|---------|-----------|-----------|
+| **Logo principal** | `quartz/static/logo.png` | Logo que aparece en el header y footer |
+| **Favicon** | `quartz/static/icon.png` | Icono del navegador |
+| **PageTitle.tsx** | `quartz/components/PageTitle.tsx` | Componente del logo en header |
+| **Footer.tsx** | `quartz/components/Footer.tsx` | Componente del footer |
+| **footer.scss** | `quartz/components/styles/footer.scss` | Estilos del footer |
 
 ---
 
-## 🔍 Diagnóstico Paso a Paso
+## 🖼️ Logo en el Header
 
-### 1. Verificar el archivo original
+### Configuración Actual
 
-```bash
-cd /workspace/quartz
-ls -lh quartz/static/icon.png
-```
-
-Deberías ver algo como:
-```
--rw-r--r-- 1 root root 3.3K Nov 10 11:32 quartz/static/icon.png
-```
-
-### 2. Hacer un build de prueba
-
-```bash
-npx quartz build
-```
-
-### 3. Verificar que se copió al public
-
-```bash
-ls -lh public/static/icon.png
-```
-
-Si este archivo **NO existe**, el problema está en el build/copia.
-
-### 4. Verificar en el navegador
-
-Abre tu sitio y en la consola del navegador (F12), prueba:
-
-```javascript
-fetch('/static/icon.png').then(r => console.log('Logo found:', r.ok))
-```
-
-Si retorna `Logo found: false`, el archivo no está siendo servido.
-
----
-
-## 🛠️ Solución Alternativa: Usar el favicon
-
-Si el logo sigue sin funcionar, puedes usar el favicon del sitio:
+El logo del header está en `quartz/components/PageTitle.tsx`:
 
 ```tsx
-<img src="/favicon.ico" alt="SOLE Voltaje" class="footer-logo" />
+<img src={joinSegments(baseDir, "static/logo.png")} alt="" class="page-logo" />
 ```
 
-O usar una URL externa (CDN):
+### Tamaños Responsive
+
+```css
+.page-logo {
+  height: 6rem;      /* Desktop grande */
+}
+
+@media (max-width: 1200px) {
+  .page-logo { height: 5rem; }
+}
+
+@media (max-width: 768px) {
+  .page-logo { height: 4rem; }
+}
+
+@media (max-width: 480px) {
+  .page-logo { height: 3rem; }
+}
+```
+
+### Cambiar el Logo
+
+1. Reemplaza el archivo `quartz/static/logo.png`
+2. Formato recomendado: **PNG con fondo transparente**
+3. Tamaño recomendado: **Mínimo 200px de altura**
+4. Rebuild: `npx quartz build --serve`
+
+---
+
+## 🦶 Logo en el Footer
+
+### Configuración Actual
+
+El logo del footer está en `quartz/components/Footer.tsx`:
 
 ```tsx
-<img src="https://voltaje.solecolombia.org/static/icon.png" alt="SOLE Voltaje" class="footer-logo" />
+<div class="footer-branding">
+  <img src="/static/logo.png" alt="SOLE Voltaje" class="footer-logo" />
+</div>
+```
+
+### Estilos del Footer
+
+En `quartz/components/styles/footer.scss`:
+
+```scss
+.footer-branding {
+  display: flex;
+  justify-content: flex-end;
+  
+  .footer-logo {
+    width: auto;
+    height: 80px;
+    object-fit: contain;
+    transition: opacity 0.2s ease;
+    
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+}
+```
+
+### Nota Importante
+
+El footer siempre muestra el logo, independientemente de si hay links personalizados configurados.
+
+---
+
+## 📐 Estructura del Footer
+
+El footer tiene tres secciones:
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  footer-links      │  footer-info           │  footer-custom    │
+│  ────────────      │  ───────────           │  ─────────────    │
+│  • ¿Nuevo aquí?    │  Texto del proyecto    │  [Links opcionales]│
+│  • Inspírate       │  Licencia              │                    │
+│  • Soluciona       │  Créditos Quartz       │  [LOGO]           │
+│  • etc...          │                        │                    │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🔄 Después de los Cambios
+## 🔧 Solución de Problemas
 
-1. **Guardar** todos los archivos
-2. **Rebuild** completo:
+### El logo no aparece
+
+1. **Verificar que el archivo existe:**
    ```bash
-   cd /workspace/quartz
+   ls -la quartz/static/logo.png
+   ```
+
+2. **Rebuild limpio:**
+   ```bash
    rm -rf .quartz-cache public
    npx quartz build --serve
    ```
-3. **Refrescar** el navegador con Ctrl+F5
-4. **Verificar** que el logo aparece en el footer
+
+3. **Verificar la ruta en el navegador:**
+   - Abre las DevTools (F12)
+   - Ve a la pestaña Network
+   - Busca `logo.png`
+   - Verifica que el status sea 200
+
+### El logo se ve muy pequeño o muy grande
+
+Ajustar los valores de `height` en:
+- `PageTitle.tsx` para el header
+- `footer.scss` para el footer
+
+### El logo se ve pixelado
+
+- Usa una imagen de mayor resolución
+- Mínimo 2x el tamaño mostrado (para pantallas Retina)
+- Ejemplo: Si se muestra a 80px, usa una imagen de 160px
 
 ---
 
-## 📝 Checklist de Verificación
+## 📝 Cambiar los Links del Footer
 
-- [ ] El archivo `icon.png` existe en `quartz/static/`
-- [ ] El tamaño del logo es razonable (< 100KB)
-- [ ] La ruta en Footer.tsx es `/static/icon.png`
-- [ ] El Plugin.Static() está en la configuración
-- [ ] Se hizo un rebuild limpio
-- [ ] Se limpió la caché del navegador
-- [ ] Se verificó en la consola del navegador
+En `Footer.tsx`, editar el objeto `soleLinks`:
 
----
-
-## 🆘 Si Nada Funciona
-
-### Opción A: Usar imagen en base64
-
-Convierte tu logo a base64 y úsalo directamente:
-
-```bash
-base64 quartz/static/icon.png
+```typescript
+const soleLinks = {
+  "¿Nuevo aquí?": "/es/new-here",
+  "Inspírate": "/es/inspire",
+  "Soluciona": "/es/solve",
+  "Pregunta/Comenta": "/es/answers-comments",
+  "¿Desconectado?": "/es/disconnected",
+  "Conceptorio": "/es/glossary",
+}
 ```
 
-Luego en Footer.tsx:
+---
 
-```tsx
-<img src="data:image/png;base64,iVBORw0KG..." alt="SOLE Voltaje" class="footer-logo" />
+## 🎨 Personalizar Colores del Footer
+
+En `footer.scss`:
+
+```scss
+footer {
+  border-top: 1px solid var(--lightgray);  // Línea superior
+  
+  a {
+    color: inherit;  // Hereda el color del tema
+    
+    &:hover {
+      opacity: 1;  // Más visible al hover
+    }
+  }
+}
 ```
 
-### Opción B: Usar un componente SVG
+---
 
-Si tu logo es simple, conviértelo a SVG y úsalo como componente React directamente en el Footer.
+## ✅ Checklist de Verificación
 
-### Opción C: Subir a un CDN
-
-Sube el logo a:
-- Cloudinary
-- Imgur  
-- GitHub Pages
-- Tu servidor
-
-Y usa la URL externa.
+- [ ] `logo.png` existe en `quartz/static/`
+- [ ] El archivo es PNG con fondo transparente
+- [ ] La resolución es suficiente (mínimo 200px altura)
+- [ ] El tamaño del archivo es razonable (< 500KB)
+- [ ] Se hizo rebuild después de cambiar el logo
+- [ ] Se limpió la caché del navegador (Ctrl+Shift+R)
 
 ---
 
-## 📧 Contacto
-
-Si el problema persiste, revisa:
-- [Documentación de Quartz](https://quartz.jzhao.xyz/)
-- [GitHub Issues de Quartz](https://github.com/jackyzha0/quartz/issues)
-- Logs de build en la consola
-
----
-
-**Última actualización:** Noviembre 2025
-
+**Última actualización:** Diciembre 2024

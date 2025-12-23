@@ -55,14 +55,27 @@ Se define en `quartz.layout.ts`:
 
 ---
 
-## 4) Lógicas ya aplicadas (lo “especial” del Voltaje)
+## 4) Lógicas ya aplicadas (lo "especial" del Voltaje)
 
-### 4.1 Home como “panel de secciones”
+### 4.1 Home como "panel de secciones"
 - **`FolderGrid`** (componente custom) construye tarjetas de secciones a partir de índices en español.
 - Regla actual: busca slugs que empiecen por `es/` y que sean índices de carpetas principales.
+- **Sin imágenes**: Las tarjetas del home usan colores planos por sección e iconos SVG.
+- **Iconos SVG**: Ubicados en `/static/icons/voltaje/` (hammer.svg, star-1.svg, etc.)
 
-### 4.2 Índices de sección con tarjetas aleatorias
-- **`RandomCardGrid`** muestra tarjetas “recomendadas/aleatorias” para páginas `type: section-index`.
+### 4.2 Tarjetas de contenido (PageCardGrid)
+- **`PageCardGrid`** muestra tarjetas de contenido dentro de cada sección.
+- **Colores por sección**:
+  - Inspire: Aguamarina (#26bfb8)
+  - Solve: Morado (#991d79)
+  - Glossary: Naranja (#fc794d)
+  - Disconnected: Rosado (#eb3b81)
+  - Answers-comments: Amarillo (#F9C369)
+- **Secciones sin imagen** (solo color plano): solve, inspire, disconnected, answers-comments
+- **Metadatos de solve**: Muestra dificultad, costo y tiempo desde frontmatter
+
+### 4.3 Índices de sección con tarjetas aleatorias
+- **`RandomCardGrid`** muestra tarjetas "recomendadas/aleatorias" para páginas `type: section-index`.
 - Tiene script en cliente (inline) para comportamiento dinámico.
 
 ### 4.3 Explorer con orden y “promoción” de idiomas
@@ -195,10 +208,13 @@ Esto es la base para “diseño interactivo” en un sitio estático: UI en TSX 
 - **Pipeline de plugins y analytics**: `quartz.config.ts`
 - **Inyección de scripts globales + analytics + SPA**: `quartz/plugins/emitters/componentResources.ts`
 - **Componentes custom**:
-  - `quartz/components/FolderGrid.tsx`
+  - `quartz/components/FolderGrid.tsx` (tarjetas del home con iconos SVG)
+  - `quartz/components/PageCardGrid.tsx` (tarjetas de contenido por sección)
   - `quartz/components/RandomCardGrid.tsx`
   - `quartz/components/DownloadButton.tsx`
   - `quartz/components/ReaderMode.tsx`
+  - `quartz/components/PageTitle.tsx` (logo responsive)
+  - `quartz/components/Footer.tsx` (footer con logo)
 - **CI/CD**:
   - `.github/workflows/deploy-production.yml`
   - `.github/workflows/test-desarrollo.yml`

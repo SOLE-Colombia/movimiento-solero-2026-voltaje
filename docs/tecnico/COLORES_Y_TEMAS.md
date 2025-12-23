@@ -4,10 +4,10 @@
 
 Los colores globales del sitio se configuran en:
 ```
-/workspace/quartz/quartz.config.ts
+quartz.config.ts
 ```
 
-Líneas 30-53 (sección `colors`)
+Sección `theme.colors` (líneas 30-63 aproximadamente)
 
 ---
 
@@ -15,219 +15,169 @@ Líneas 30-53 (sección `colors`)
 
 ### Modo Claro (Light Mode)
 
-| Color | Código | Uso |
-|-------|--------|-----|
-| **Fondo principal** | `#ffffff` | Fondo de páginas |
-| **Gris muy claro** | `#e8ecf1` | Bordes y separadores |
-| **Gris medio** | `#9ca3af` | Texto secundario |
-| **Gris oscuro** | `#374151` | Texto importante |
-| **Negro** | `#1f2937` | Texto principal |
-| **Azul SOLE** 🔵 | `#0066cc` | Enlaces, botones, color principal |
-| **Verde energético** 🟢 | `#10b981` | Acentos, badges, estados positivos |
-| **Highlight** | `rgba(0, 102, 204, 0.12)` | Fondo de elementos resaltados |
-| **Text Highlight** | `#fef3c7` | Texto resaltado con marca-textos |
+| Variable | Código | Uso |
+|----------|--------|-----|
+| **light** | `#f5f5f5` | Fondo principal de páginas |
+| **lightgray** | `#e5e5e5` | Variante para paneles y secciones |
+| **gray** | `#9ca3af` | Bordes sutiles |
+| **darkgray** | `#4b5563` | Texto secundario |
+| **dark** | `#1a84ae` | Color de títulos (h1-h6) |
+| **secondary** | `#1a84ae` | Enlaces y elementos destacados |
+| **tertiary** | `#F9C369` | Color activo/hover (amarillo dorado) |
+| **highlight** | `rgba(26, 132, 174, 0.15)` | Fondo de elementos resaltados |
+| **textHighlight** | `#F9C36966` | Texto resaltado |
 
 ### Modo Oscuro (Dark Mode)
 
-| Color | Código | Uso |
-|-------|--------|-----|
-| **Fondo principal** | `#0f1419` | Fondo de páginas |
-| **Gris oscuro** | `#1f2937` | Bordes y separadores |
-| **Gris medio** | `#6b7280` | Texto secundario |
-| **Gris claro** | `#d1d5db` | Texto importante |
-| **Blanco** | `#f3f4f6` | Texto principal |
-| **Azul brillante** 🔵 | `#3b82f6` | Enlaces, botones, color principal |
-| **Verde energético** 🟢 | `#10b981` | Acentos, badges, estados positivos |
-| **Highlight** | `rgba(59, 130, 246, 0.15)` | Fondo de elementos resaltados |
-| **Text Highlight** | `#fcd34d88` | Texto resaltado con marca-textos |
+| Variable | Código | Uso |
+|----------|--------|-----|
+| **light** | `#060b16` | Fondo principal de páginas |
+| **lightgray** | `#1a1f2e` | Variante para paneles y secciones |
+| **gray** | `#4b5563` | Bordes |
+| **darkgray** | `#d1d5db` | Texto secundario (claro) |
+| **dark** | `#1a84ae` | Color de títulos (h1-h6) |
+| **secondary** | `#1a84ae` | Enlaces y elementos destacados |
+| **tertiary** | `#F9C369` | Color activo/hover (amarillo dorado) |
+| **highlight** | `rgba(249, 195, 105, 0.15)` | Fondo de elementos resaltados |
+| **textHighlight** | `#F9C36966` | Texto resaltado |
+
+---
+
+## 🃏 Colores de Tarjetas por Sección
+
+Las tarjetas de contenido tienen colores específicos según la sección:
+
+| Sección | Color | Código Hex | Ubicación |
+|---------|-------|------------|-----------|
+| **Inspírate** | Aguamarina | `#26bfb8` | `inspire/` |
+| **Soluciona** | Morado | `#991d79` | `solve/` |
+| **Conceptorio** | Naranja | `#fc794d` | `glossary/` |
+| **Desconectado** | Rosado | `#eb3b81` | `disconnected/` |
+| **Pregunta/Comenta** | Amarillo dorado | `#F9C369` | `answers-comments/` |
+| **¿Nuevo aquí?** | Azul | `#1a84ae` | `new-here/` |
+
+### Archivos de configuración de tarjetas:
+- **PageCardGrid.tsx**: `quartz/components/PageCardGrid.tsx`
+- **Estilos**: `quartz/components/styles/pageCardGrid.scss`
+- **FolderGrid (Home)**: `quartz/components/FolderGrid.tsx`
+- **Estilos Home**: `quartz/components/styles/folderGrid.scss`
 
 ---
 
 ## 🔧 Cómo Cambiar los Colores
 
-### 1. Editar el archivo de configuración
+### 1. Colores del tema global
 
-```bash
-nano /workspace/quartz/quartz.config.ts
-```
-
-O abrirlo en tu editor favorito.
-
-### 2. Encontrar la sección de colores (línea 30)
+Editar `quartz.config.ts`:
 
 ```typescript
 colors: {
   lightMode: {
-    light: "#ffffff",
-    secondary: "#0066cc",  // ← Cambiar este valor
-    // ...
+    light: "#f5f5f5",
+    lightgray: "#e5e5e5",
+    gray: "#9ca3af",
+    darkgray: "#4b5563",
+    dark: "#1a84ae",        // ← Títulos
+    secondary: "#1a84ae",   // ← Enlaces
+    tertiary: "#F9C369",    // ← Hover/activos
+    highlight: "rgba(26, 132, 174, 0.15)",
+    textHighlight: "#F9C36966",
   },
   darkMode: {
-    // ...
+    // ... similar estructura
   },
 }
 ```
 
-### 3. Reconstruir el sitio
+### 2. Colores de tarjetas por sección
 
-```bash
-cd /workspace/quartz
-npx quartz build --serve
+Editar `quartz/components/styles/pageCardGrid.scss`:
+
+```scss
+.section-inspire .page-card {
+  background-color: #26bfb8;
+}
+
+.section-solve .page-card {
+  background-color: #991d79;
+}
+
+// ... etc
+```
+
+### 3. Colores del Home (FolderGrid)
+
+Editar `quartz/components/FolderGrid.tsx`:
+
+```typescript
+const sectionColors: Record<string, string> = {
+  "new-here": "#1a84ae",
+  "inspire": "#26bfb8",
+  "solve": "#991d79",
+  "answers-comments": "#F9C369",
+  "disconnected": "#eb3b81",
+  "glossary": "#fc794d",
+}
 ```
 
 ---
 
 ## 🎯 Qué Hace Cada Color
 
-### `light`
-- **Uso:** Color de fondo principal de las páginas
-- **Recomendación:** Debe ser muy claro en light mode, muy oscuro en dark mode
-- **Ejemplo:** Blanco `#ffffff` o Gris muy claro `#f8f9fa`
+### Variables del tema
 
-### `lightgray`
-- **Uso:** Bordes, separadores, líneas divisorias
-- **Recomendación:** Debe tener poco contraste con el fondo
-- **Ejemplo:** `#e8ecf1` o `#dee2e6`
-
-### `gray`
-- **Uso:** Texto secundario, metadatos, fechas
-- **Recomendación:** Legible pero no dominante
-- **Ejemplo:** `#9ca3af` o `#868e96`
-
-### `darkgray`
-- **Uso:** Texto importante pero no principal
-- **Recomendación:** Buen contraste con el fondo
-- **Ejemplo:** `#374151` o `#495057`
-
-### `dark`
-- **Uso:** Texto principal del contenido
-- **Recomendación:** Máximo contraste con el fondo
-- **Ejemplo:** `#1f2937` o `#212529`
-
-### `secondary` ⭐ (Color Principal)
-- **Uso:** Enlaces, botones principales, color de marca
-- **Recomendación:** Color característico de tu marca
-- **Ejemplo:** Azul SOLE `#0066cc` o tu color corporativo
-
-### `tertiary` ⭐ (Color de Acento)
-- **Uso:** Botones secundarios, badges, destacados
-- **Recomendación:** Complementa al color principal
-- **Ejemplo:** Verde `#10b981` o Naranja `#ff6b35`
-
-### `highlight`
-- **Uso:** Fondo de elementos al pasar el mouse (hover)
-- **Recomendación:** Versión muy transparente del color principal
-- **Ejemplo:** `rgba(0, 102, 204, 0.12)`
-
-### `textHighlight`
-- **Uso:** Texto resaltado con marca-textos (==texto==)
-- **Recomendación:** Amarillo suave o color pastel
-- **Ejemplo:** `#fef3c7` o `#fff3bf`
+| Variable | Descripción |
+|----------|-------------|
+| `light` | Fondo principal de todas las páginas |
+| `lightgray` | Fondo de paneles, tarjetas, secciones secundarias |
+| `gray` | Bordes, líneas divisorias |
+| `darkgray` | Texto secundario, metadatos, fechas |
+| `dark` | **Títulos (h1-h6)** y texto principal |
+| `secondary` | Enlaces, botones principales |
+| `tertiary` | Estados hover, elementos activos en sidebar |
+| `highlight` | Fondo de elementos al pasar el mouse |
+| `textHighlight` | Resaltado de texto (==texto==) |
 
 ---
 
-## 🌈 Paletas Sugeridas
+## 🌈 Consistencia de Colores
 
-### Opción 1: Azul Tecnológico (Actual)
-```typescript
-lightMode: {
-  secondary: "#0066cc",  // Azul SOLE
-  tertiary: "#10b981",   // Verde
-}
-```
+Para mantener la identidad visual de SOLE Voltaje:
 
-### Opción 2: Naranja Energético
-```typescript
-lightMode: {
-  secondary: "#ff6b35",  // Naranja vibrante
-  tertiary: "#4ecdc4",   // Turquesa
-}
-```
-
-### Opción 3: Púrpura Moderno
-```typescript
-lightMode: {
-  secondary: "#6366f1",  // Índigo
-  tertiary: "#ec4899",   // Rosa
-}
-```
-
-### Opción 4: Verde Sostenible
-```typescript
-lightMode: {
-  secondary: "#059669",  // Verde oscuro
-  tertiary: "#f59e0b",   // Ámbar
-}
-```
-
----
-
-## 🎨 Herramientas Útiles
-
-### Generadores de Paletas
-- [Coolors](https://coolors.co/) - Generador de paletas
-- [Adobe Color](https://color.adobe.com/) - Rueda de colores
-- [Material Design Colors](https://materialui.co/colors/) - Paletas Material
-
-### Verificadores de Contraste (Accesibilidad)
-- [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
-- [Contrast Ratio](https://contrast-ratio.com/)
-
-### Recomendación
-Para accesibilidad, el contraste entre texto y fondo debe ser:
-- **Mínimo 4.5:1** para texto normal
-- **Mínimo 3:1** para texto grande
+1. **Títulos**: Siempre `#1a84ae` (azul SOLE)
+2. **Hover/Activos**: Siempre `#F9C369` (amarillo dorado)
+3. **Tarjetas**: Colores planos por sección (sin degradados)
+4. **Texto en tarjetas oscuras**: Usar `#ffffff` (blanco) para contraste
 
 ---
 
 ## 🔄 Aplicar Cambios
 
-Después de modificar los colores:
+Después de modificar colores:
 
-1. **Guardar el archivo** `quartz.config.ts`
+1. **Guardar** los archivos modificados
 2. **Reconstruir** el sitio:
    ```bash
-   cd /workspace/quartz
-   npx quartz build
+   npx quartz build --serve
    ```
-3. **Verificar** en el navegador (puede necesitar Ctrl+F5 para limpiar caché)
-4. **Hacer commit** de los cambios:
+3. **Limpiar caché** si es necesario:
    ```bash
-   git add quartz/quartz.config.ts
-   git commit -m "Actualizar paleta de colores del sitio"
-   git push
+   rm -rf .quartz-cache public
+   npx quartz build --serve
    ```
 
 ---
 
-## 📝 Notas Importantes
+## 📝 Historial de Cambios
 
-- Los colores se aplican **automáticamente** a todo el sitio
-- No necesitas modificar archivos CSS manualmente
-- Los cambios requieren **rebuild** para verse reflejados
-- Prueba siempre en **ambos modos** (claro y oscuro)
-- Verifica la **accesibilidad** del contraste
-
----
-
-## 🐛 Solución de Problemas
-
-### Los colores no cambian después de rebuild
-
-```bash
-# Limpiar cache y reconstruir
-rm -rf quartz/.quartz-cache quartz/public
-npx quartz build
-```
-
-### Los colores se ven diferentes en producción
-
-- Asegúrate de hacer `git push` después del commit
-- Verifica que el deploy se haya completado
-- Limpia la caché del navegador (Ctrl+Shift+R)
+### Diciembre 2024
+- Fondo claro cambiado de turquesa a gris claro (`#f5f5f5`)
+- Fondo oscuro cambiado a azul muy oscuro (`#060b16`)
+- Títulos ahora usan azul SOLE (`#1a84ae`)
+- Hover/activos usan amarillo dorado (`#F9C369`)
+- Nuevos colores de tarjetas por sección
 
 ---
 
-**Última actualización:** Noviembre 2025
+**Última actualización:** Diciembre 2024
 **Versión de Quartz:** 4.x
-

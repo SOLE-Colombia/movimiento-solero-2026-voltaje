@@ -81,7 +81,7 @@ Estas recomendaciones son relevantes a la hora de hacer colectas de dinero con f
     
     ¡Usando Internet podríamos encontrar respuestas a estas y otras Grandes Preguntas!
     
-    El plan de Internet más barato es $120,000 COP, nadie en la vereda podría pagarlo. Pero hemos pensado que, haciendo una coleta entre 12 personas o familias, podríamos pagar una mensualidad de $10,000 COP y poner el internet de banda ancha por fibra óptica en un lugar de fácil acceso para todos, como puede ser el hogar geriátrico, el salón comunal o la tienda de doña Adela que es el negocio que está abierto la mayor parte del tiempo y donde todos podríamos conectarnos. La conexión podríamos usarla todos, hasta los niños de la vereda, para hacer sus tareas.
+    El plan de Internet más barato es \$120,000 COP, nadie en la vereda podría pagarlo. Pero hemos pensado que, haciendo una coleta entre 12 personas o familias, podríamos pagar una mensualidad de \$10,000 COP y poner el internet de banda ancha por fibra óptica en un lugar de fácil acceso para todos, como puede ser el hogar geriátrico, el salón comunal o la tienda de doña Adela que es el negocio que está abierto la mayor parte del tiempo y donde todos podríamos conectarnos. La conexión podríamos usarla todos, hasta los niños de la vereda, para hacer sus tareas.
     
     Así, si le interesa y puede ser parte de esta colecta, ¡súmese a esta lista! ¡ya pronto podremos tener internet para nosotros! 
     

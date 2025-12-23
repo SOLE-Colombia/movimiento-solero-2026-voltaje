@@ -71,8 +71,8 @@ export default ((opts?: Options) => {
           </p>
         </div>
         
-        {Object.entries(links).length > 0 && (
-          <div class="footer-section footer-custom">
+        <div class="footer-section footer-custom">
+          {Object.entries(links).length > 0 && (
             <ul>
               <li>
                 <a href="/es">Página Principal</a>
@@ -83,11 +83,11 @@ export default ((opts?: Options) => {
                 </li>
               ))}
             </ul>
-            <div class="footer-branding">
-              <img src="/static/logo.png" alt="SOLE Voltaje" class="footer-logo" />
-            </div>
+          )}
+          <div class="footer-branding">
+            <img src="/static/logo.png" alt="SOLE Voltaje" class="footer-logo" />
           </div>
-        )}
+        </div>
       </footer>
     )
   }
