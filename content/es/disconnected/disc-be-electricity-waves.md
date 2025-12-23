@@ -17,8 +17,6 @@ draft: false
 
 ![Jugar a ser electricidad y ondas](assets/images/desconectado-electricity/desconectado-electricity-card.png)
 
-# **¿Cómo se transmite la señal de internet?**
-
 ***Para entender qué es un servidor y un cliente,  revisa la carta “Convertirte en información que viaja por el internet.”***
 
 Para que la información que envía un **servidor** llegue a tu casa, barrio, vereda o comunidad, el **cliente** que usas se conecta a Internet. Tomemos, por ejemplo, tu teléfono celular en algún lugar en Colombia y que la respuesta se encuentre en un servidor en Europa. Esta es la gran aventura que toma tu pregunta.

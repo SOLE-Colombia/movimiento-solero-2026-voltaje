@@ -17,7 +17,6 @@ draft: false
 
 ![Transformarte en una tecnología inalámbrica para conectar historias de vida](assets/images/desconectado-wireless/desconectado-wireless-card.png)
 
-# **¿Cómo saber que tienes señal WiFi?**
 
 Si tienes un celular, puedes dirigirte a la opción de configuración y buscar las redes WiFi que están disponibles. Aquí puede que encuentres redes abiertas, con contraseña o que no encuentres redes. Si estás en un computador u otro dispositivo, busca el símbolo de WiFi.
 

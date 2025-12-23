@@ -17,7 +17,6 @@ draft: false
 
 ![Comocacharrear tu señal WiFi](assets/images/desconectado-tinkerwifisignal/desconectado-tinkerwifisignal-card.png)
 
-**Diagnóstico de señal WiFi**
 
 **Paso 1: Toma tu celular y revisa si tienes señal WiFi**
 

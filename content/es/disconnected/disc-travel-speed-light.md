@@ -18,7 +18,7 @@ draft: false
 
 ![Viajar a la velocidad de la luz](assets/images/desconectado-lightspeed/desconectado-lightspeed-card.png)
 
-# **¿Qué tan rápido puedes acceder a la información en internet?**
+
 
 **Los megabytes descarga (MB) son una medida de la rapidez con la que se transmiten los datos de internet. Entre más MB tengas, más rápido es tu internet.** 
 

@@ -18,8 +18,6 @@ draft: false
 
 ![WelcomeImage.png](assets/images/desconectado-tinkermobilesignal/desconectado-tinkermobilesignal-card.png)
 
-**Diagnóstico de señal móvil**
-
 **Paso 1: Toma tu celular y revisa si tienes señal móvil**
 
 > *Para saber si tienes señal móvil puedes leer la tarjeta **Transformarte en ondas para viajar por el mundo***
