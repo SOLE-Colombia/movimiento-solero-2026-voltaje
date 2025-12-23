@@ -11,6 +11,7 @@ tarda: "Minutos"
 autor: "SOLE Colombia"
 draft: false
 ---
+## Configura tu Raspberry Pi  
 
 ## Comparte tu internet de bolsillo
 

@@ -10,6 +10,8 @@ tarda: "Horas"
 autor: "SOLE Colombia"
 draft: false
 ---
+## Prácticas que te permitirán optimizar tu conexión.
+
 ## Aprovecha las opciones de tu servicio de Internet
 
 

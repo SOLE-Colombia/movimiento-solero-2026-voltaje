@@ -10,6 +10,8 @@ tarda: "Días"
 autor: "SOLE Colombia"
 draft: false
 ---
+## Consigue electricidad con una bicicleta.
+
 ## Comprar y montar un sistema de generación eléctrica con una bicicleta
 
 
