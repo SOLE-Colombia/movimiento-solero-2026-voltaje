@@ -47,7 +47,7 @@ export default {
       quickLinks: "Enlaces rápidos",
     },
     graph: {
-      title: "Vista Gráfica",
+      title: "Ideas relacionadas",
     },
     recentNotes: {
       title: "Notas Recientes",
