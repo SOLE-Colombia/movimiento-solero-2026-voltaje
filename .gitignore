@@ -66,3 +66,12 @@ build/
 # Git Docker Helper (local)
 git-docker.sh
 GIT-DOCKER.md
+
+# Obsidian settings
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/appearance.json
+.obsidian/plugins/
+# Si quieres compartir plugins y configuración de temas con el equipo, 
+# NO ignores .obsidian/ totalmente, solo los archivos de arriba.
