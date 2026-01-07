@@ -1,0 +1,337 @@
+@use "../../styles/variables.scss" as *;
+
+.solve-filter-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin: 1rem 0;
+}
+
+// Barra de filtros horizontal
+.solve-filter-bar {
+  background: var(--light);
+  border: 2px solid var(--lightgray);
+  border-radius: 4px;
+  padding: 1rem 1.25rem;
+}
+
+.filter-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--lightgray);
+  flex-wrap: wrap;
+  
+  .filter-icon {
+    font-size: 1.25rem;
+  }
+  
+  .filter-title {
+    font-family: var(--bodyFont);
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--dark);
+  }
+  
+  .filter-count {
+    font-family: var(--bodyFont);
+    font-size: 0.85rem;
+    color: var(--secondary);
+    margin-left: auto;
+  }
+  
+  .filter-reset-btn {
+    background: transparent;
+    border: 1px solid var(--secondary);
+    color: var(--secondary);
+    font-family: var(--bodyFont);
+    font-size: 0.8rem;
+    padding: 0.25rem 0.75rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    
+    &:hover {
+      background: var(--secondary);
+      color: var(--light);
+    }
+  }
+}
+
+.filter-controls {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem 2rem;
+  align-items: start;
+}
+
+.filter-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.filter-categories {
+  grid-column: 1 / -1;
+  margin-top: 0.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--lightgray);
+}
+
+.filter-label {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+  .label-text {
+    font-family: var(--bodyFont);
+    font-size: 0.8rem;
+    color: var(--darkgray);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  
+  .label-value {
+    font-family: var(--bodyFont);
+    font-size: 0.8rem;
+    color: var(--secondary);
+    font-weight: 600;
+  }
+}
+
+// Sliders con estilo del tema
+.pixel-slider {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 6px;
+  background: var(--lightgray);
+  border: 1px solid var(--gray);
+  outline: none;
+  cursor: pointer;
+  border-radius: 0;
+  
+  &::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 16px;
+    height: 16px;
+    background: var(--secondary);
+    border: 2px solid var(--dark);
+    cursor: pointer;
+    border-radius: 0;
+  }
+  
+  &::-moz-range-thumb {
+    width: 16px;
+    height: 16px;
+    background: var(--secondary);
+    border: 2px solid var(--dark);
+    cursor: pointer;
+    border-radius: 0;
+  }
+  
+  &:hover {
+    border-color: var(--secondary);
+  }
+}
+
+.slider-marks {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0.25rem;
+  
+  span {
+    font-family: var(--bodyFont);
+    font-size: 0.65rem;
+    color: var(--gray);
+  }
+}
+
+// Checkboxes
+.checkbox-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 2rem;
+  width: 100%;
+}
+
+.checkbox-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  cursor: pointer;
+  flex-shrink: 0;
+  
+  &:hover .checkbox-text {
+    color: var(--secondary);
+  }
+}
+
+.filter-checkbox {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 14px;
+  height: 14px;
+  border: 2px solid var(--gray);
+  background: transparent;
+  cursor: pointer;
+  position: relative;
+  flex-shrink: 0;
+  border-radius: 0;
+  
+  &:checked {
+    background: var(--secondary);
+    border-color: var(--secondary);
+    
+    &::after {
+      content: "✓";
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: var(--light);
+      font-size: 10px;
+      font-weight: bold;
+    }
+  }
+  
+  &:hover {
+    border-color: var(--secondary);
+  }
+}
+
+.checkbox-text {
+  font-family: var(--bodyFont);
+  font-size: 0.85rem;
+  color: var(--darkgray);
+  transition: color 0.2s ease;
+  white-space: nowrap;
+  overflow: visible;
+}
+
+// Grid de tarjetas - 3 columnas fijas
+.solve-card-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+
+.solve-card {
+  display: flex;
+  flex-direction: column;
+  background: #991d79;
+  border: 2px solid rgba(255, 255, 255, 0.15);
+  border-radius: 8px;
+  text-decoration: none;
+  transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+  min-height: 140px;
+  
+  &:hover {
+    transform: translateY(-2px);
+    border-color: var(--tertiary);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+}
+
+.solve-card-body {
+  padding: 1rem 1rem 0.5rem;
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+}
+
+.solve-card-title {
+  margin: 0;
+  font-family: var(--bodyFont);
+  font-size: clamp(0.9rem, 1.5vw, 1rem);
+  font-weight: 600;
+  color: #ffffff;
+  line-height: 1.35;
+}
+
+.solve-card-meta {
+  display: flex;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  
+  .meta-item {
+    font-family: var(--bodyFont);
+    font-size: 0.75rem;
+    color: rgba(255, 255, 255, 0.9);
+    
+    &.difficulty {
+      color: var(--tertiary);
+    }
+  }
+}
+
+.solve-card-tags {
+  display: flex;
+  gap: 0.35rem;
+  padding: 0 1rem 0.75rem;
+  flex-wrap: wrap;
+}
+
+.tag-badge {
+  font-family: var(--bodyFont);
+  font-size: 0.65rem;
+  padding: 0.15rem 0.4rem;
+  background: rgba(255, 255, 255, 0.15);
+  color: #ffffff;
+  border-radius: 2px;
+}
+
+// Responsive
+@media (max-width: 1100px) {
+  .filter-controls {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  .filter-categories {
+    grid-column: 1 / -1;
+  }
+  
+  .solve-card-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .filter-controls {
+    grid-template-columns: 1fr;
+  }
+  
+  .filter-categories {
+    grid-column: 1 / -1;
+  }
+  
+  .checkbox-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1rem;
+  }
+  
+  .solve-card-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 500px) {
+  .solve-card-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .filter-header {
+    .filter-count {
+      width: 100%;
+      margin-left: 0;
+      margin-top: 0.5rem;
+    }
+  }
+  
+  .checkbox-group {
+    gap: 0.5rem 0.75rem;
+  }
+}

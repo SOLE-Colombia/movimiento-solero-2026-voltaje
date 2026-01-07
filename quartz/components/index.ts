@@ -27,6 +27,7 @@ import ConditionalRender from "./ConditionalRender"
 import FolderGrid from "./FolderGrid"
 import RandomCardGrid from "./RandomCardGrid"
 import LanguageToggle from "./LanguageToggle"
+import SolveFilterGrid from "./SolveFilterGrid"
 
 export {
   ArticleTitle,
@@ -58,4 +59,5 @@ export {
   FolderGrid,
   RandomCardGrid,
   LanguageToggle,
+  SolveFilterGrid,
 }

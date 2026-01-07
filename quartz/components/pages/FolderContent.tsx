@@ -3,6 +3,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import style from "../styles/listPage.scss"
 import { PageList, SortFn } from "../PageList"
 import { PageCardGrid } from "../PageCardGrid"
+import SolveFilterGrid from "../SolveFilterGrid"
 import { Root } from "hast"
 import { htmlToJsx } from "../../util/jsx"
 import { i18n } from "../../i18n"
@@ -27,6 +28,7 @@ const defaultOptions: FolderContentOptions = {
 
 export default ((opts?: Partial<FolderContentOptions>) => {
   const options: FolderContentOptions = { ...defaultOptions, ...opts }
+  const SolveFilterGridComponent = SolveFilterGrid()
 
   const FolderContent: QuartzComponent = (props: QuartzComponentProps) => {
     const { tree, fileData, allFiles, cfg } = props
@@ -45,9 +47,11 @@ export default ((opts?: Partial<FolderContentOptions>) => {
       )
     }
 
+    // Usar SolveFilterGrid para la sección de soluciones
+    const isSolveSection = fileData.slug === "es/solve/index" || fileData.slug === "es/solve"
+
     const mainSectionSlugs = new Set([
       "es/inspire/index",
-      "es/solve/index",
       "es/disconnected/index",
       "es/glossary/index",
       "es/answers-comments/index",
@@ -126,6 +130,16 @@ export default ((opts?: Partial<FolderContentOptions>) => {
         : htmlToJsx(fileData.filePath!, tree)
     ) as ComponentChildren
 
+    // Renderizar SolveFilterGrid para la sección de soluciones
+    if (isSolveSection) {
+      return (
+        <div class="popover-hint">
+          <article class={classes}>{content}</article>
+          <SolveFilterGridComponent {...listProps} />
+        </div>
+      )
+    }
+
     return (
       <div class="popover-hint">
         <article class={classes}>{content}</article>
@@ -145,6 +159,6 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     )
   }
 
-  FolderContent.css = concatenateResources(style, PageList.css, PageCardGrid.css)
+  FolderContent.css = concatenateResources(style, PageList.css, PageCardGrid.css, SolveFilterGridComponent.css)
   return FolderContent
 }) satisfies QuartzComponentConstructor
