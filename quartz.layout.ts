@@ -291,6 +291,7 @@ export const defaultListPageLayout: PageLayout = {
       component: Component.InspireFilterSidebar(),
       condition: (page) => {
         const slug = page.fileData.slug ?? ""
+        // Mostrar filtro en TODA la sección de Inspire (incluyendo página principal)
         return slug.startsWith("es/inspire") || slug.startsWith("inspire")
       },
     }),

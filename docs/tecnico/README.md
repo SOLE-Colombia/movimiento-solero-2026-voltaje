@@ -40,6 +40,11 @@ Si es tu primera vez en el proyecto, lee estos documentos en orden:
 *   **[SOLUCION_LOGO_FOOTER.md](./SOLUCION_LOGO_FOOTER.md)** - Configuración de logo y footer.
 *   **[COMPONENTES_UI.md](./COMPONENTES_UI.md)** - Activar/desactivar módulos de la UI.
 
+### 🎯 Páginas y Componentes Específicos
+*   **[PAGINA_INSPIRE_DISENO.md](./PAGINA_INSPIRE_DISENO.md)** - Documentación completa de diseño de la página Inspire.
+*   **[REFERENCIA_RAPIDA_FILTROS.md](./REFERENCIA_RAPIDA_FILTROS.md)** - Guía rápida para implementar filtros de categorías.
+*   **[SISTEMA_MASONRY_TARJETAS.md](./SISTEMA_MASONRY_TARJETAS.md)** - Sistema de layout masonry para tarjetas.
+
 ### 📦 Estrategias Avanzadas
 *   **[ESTRATEGIA_PDFS.md](./ESTRATEGIA_PDFS.md)** - Manejo de PDFs y generación dinámica.
 
@@ -70,5 +75,5 @@ Si encuentras algo que falta o está desactualizado:
 3.  Crea un Pull Request.
 
 ---
-*Última actualización: Diciembre 2024*
+*Última actualización: Enero 2026*
 

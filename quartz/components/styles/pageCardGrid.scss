@@ -1,8 +1,17 @@
+@use "../../styles/variables.scss" as *;
+
 .page-card-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-  gap: 1.25rem;
+  column-count: 3;
+  column-gap: 1.25rem;
   margin: 2rem 0;
+  
+  @media all and ($tablet) {
+    column-count: 2;
+  }
+  
+  @media all and ($mobile) {
+    column-count: 1;
+  }
 }
 
 .page-card {
@@ -15,7 +24,8 @@
   color: inherit;
   transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
   background-color: var(--light);
-  height: 100%;
+  break-inside: avoid;
+  margin-bottom: 1.25rem;
   box-shadow: 6px 6px 0 #4f4f4f;
 }
 
