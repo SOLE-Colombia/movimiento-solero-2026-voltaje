@@ -2,9 +2,10 @@
 title: "¿Cómo funciona el Internet?"
 date: 2025-10-11
 tags:
-  - "Sobre el internet"
-autor: "Sanjay"
+  - Sobre el internet
+autor: Sanjay
 draft: false
+resumen: Descubre cómo viaja la información por la red.
 ---
 *Descarga esta Inspiración para usarla desconectado*
 

@@ -2,10 +2,11 @@
 title: "Construimos un SOLE Lab en la Guajira para usar el Internet en grupo"
 date: 2025-10-11
 tags:
-  - "De Voltaje a SOLE"
-  - "Historias potentes"
-autor: "SOLE Colombia"
+  - De Voltaje a SOLE
+  - Historias potentes
+autor: SOLE Colombia
 draft: false
+resumen: Descubre la Biblioteca del Futuro en Boca de Camarones.
 ---
 No todo el mundo tiene un espacio público con conectividad
 para hacer SOLE; para aprender a aprender en grupo usando el

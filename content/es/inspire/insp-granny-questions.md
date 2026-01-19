@@ -2,9 +2,10 @@
 title: "Preguntas y respuestas sobre la experiencia de ser una Abuelita"
 date: 2025-10-11
 tags:
-  - "De Voltaje a SOLE"
-autor: "SOLE Colombia"
+  - De Voltaje a SOLE
+autor: SOLE Colombia
 draft: false
+resumen: Resolvemos las dudas más comunes sobre ser una Abuelita.
 ---
 *Descarga esta Inspiración para usarla desconectado*
 

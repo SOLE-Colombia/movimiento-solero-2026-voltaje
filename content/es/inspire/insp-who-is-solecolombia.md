@@ -2,9 +2,10 @@
 title: "SOLE Colombia: ¿Quiénes somos?"
 date: 2024-10-24
 tags:
-  - "De Voltaje a SOLE"
-autor: "Manuela"
+  - De Voltaje a SOLE
+autor: Manuela
 draft: false
+resumen: Creamos un futuro equitativo juntos, una Gran Pregunta a la vez.
 ---
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
   <iframe 

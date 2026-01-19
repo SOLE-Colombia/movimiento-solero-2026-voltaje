@@ -2,9 +2,10 @@
 title: "La Nube de Abuelitas: qué pasa cuando no hay conexión"
 date: 2024-10-25
 tags:
-  - "De Voltaje a SOLE"
-autor: "Belén"
+  - De Voltaje a SOLE
+autor: Belén
 draft: false
+resumen: La comunicación y la presencia no necesitan muchos adornos.
 ---
 *Descarga esta Inspiración para usarla desconectado*
 

@@ -2,9 +2,10 @@
 title: "Prueba #03 SOLE Voltaje"
 date: 2024-10-25
 tags:
-  - "Metodologías"
-autor: "Nicolás"
+  - Metodologías
+autor: Nicolás
 draft: false
+resumen: Taller para reflexionar sobre nuestra autonomía tecnológica.
 ---
 ## Taller Tierra Común
 

@@ -2,8 +2,10 @@
 title: "¿Cómo mejoró el Internet en Valdivia, Antioquia?"
 date: 2025-10-11
 tags:
-autor: "SOLE Colombia"
+  - Historias potentes
+autor: SOLE Colombia
 draft: false
+resumen: La historia de cómo mejoró la conectividad en Valdivia.
 ---
 *Descarga esta Inspiración para usarla desconectado*
 

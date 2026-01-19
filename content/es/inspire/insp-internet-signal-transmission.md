@@ -2,9 +2,10 @@
 title: "¿Cómo viaja un mensaje desde tu celular hasta el de tus amigos?"
 date: 2025-10-11
 tags:
-  - "Sobre el internet"
-autor: "Belén"
+  - Sobre el internet
+autor: Belén
 draft: false
+resumen: Descubre cómo se transmite la señal de Internet.
 ---
 *Descarga esta Inspiración para usarla desconectado*
 

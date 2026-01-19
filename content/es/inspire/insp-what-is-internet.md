@@ -2,9 +2,10 @@
 title: "¿Qué es el Internet?"
 date: 2025-10-11
 tags:
-  - "Sobre el internet"
-autor: "Sanjay"
+  - Sobre el internet
+autor: Sanjay
 draft: false
+resumen: El Internet es una manta de solidaridad que conecta al mundo.
 ---
 *Descarga esta Inspiración para usarla desconectado*
 

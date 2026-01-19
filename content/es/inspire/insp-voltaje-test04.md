@@ -2,9 +2,10 @@
 title: "Prueba #04 SOLE Voltaje"
 date: 2024-10-25
 tags:
-  - "Metodologías"
-autor: "Nicolás"
+  - Metodologías
+autor: Nicolás
 draft: false
+resumen: Aclarar la contribución de los usuarios a SOLE Voltaje.
 ---
 # **PROPÓSITO**
 

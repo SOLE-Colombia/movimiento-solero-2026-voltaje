@@ -2,11 +2,11 @@
 title: "La fantástica historia de cómo Nico construyó su manera de tener internet."
 date: 2024-10-23
 tags:
-  - "Te ha pasado"
-  - "Vamos a romper"
-  - "Curiosidades"
-autor: "Manuela"
+  - Curiosidades
+  - Historias potentes
+autor: Manuela
 draft: false
+resumen: Animamos a otros a construir su propia antena 3G casera.
 ---
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
   <iframe 

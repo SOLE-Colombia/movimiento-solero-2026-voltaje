@@ -2,10 +2,11 @@
 title: "Recursos para uno, recursos para todos"
 date: 2025-10-11
 tags:
-  - "Metodologías"
-  - "De Voltaje a SOLE"
-autor: "Manuela"
+  - Metodologías
+  - De Voltaje a SOLE
+autor: Manuela
 draft: false
+resumen: Aprendimos a jugar para reflexionar sobre el uso de los bienes comunes.
 ---
 ## ¿Sabías que puedes usar el juego para crear acuerdos comunitarios? 💭
 

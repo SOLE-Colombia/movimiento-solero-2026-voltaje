@@ -2,9 +2,10 @@
 title: "Trayectoria socio-técnica · Comunidad de Cacharreras"
 date: 2025-10-11
 tags:
-  - "Metodologías"
-autor: "SOLE Colombia"
+  - Metodologías
+autor: SOLE Colombia
 draft: false
+resumen: Bitácora del desarrollo de SOLE Voltaje.
 ---
 Nos propusimos crear este espacio divergente que estas explorando llamado **SOLE Voltaje: La Guía de soluciones para la conectividad.** En esta bitácora encontrarás el relato del desarrollo de multiplicidad de experimentos que diseñamos y ejecutamos con el fin de mejorar la experiencia de usuario y la interacción con nuestra comunidad de cacharreras. A continuación encuentras una bitácora organizada en macro-eventos y micro-eventos donde se despliega el relato de lo acontecido a la luz de la herramienta analítica de las “trayectorias socio-técnicas”.
 

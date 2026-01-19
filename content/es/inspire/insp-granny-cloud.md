@@ -2,9 +2,10 @@
 title: "¿Cómo cambiar el mundo desde tu casa? Conoce la Nube de Abuelitas"
 date: 2024-10-25
 tags:
-  - "De Voltaje a SOLE"
-autor: "Belén"
+  - De Voltaje a SOLE
+autor: Belén
 draft: false
+resumen: Descubre cómo acompañar el aprendizaje desde una mirada amorosa.
 ---
 *Descarga esta Inspiración para usarla desconectado*
 

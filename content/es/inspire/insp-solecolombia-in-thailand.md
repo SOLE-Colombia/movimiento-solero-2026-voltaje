@@ -2,9 +2,10 @@
 title: "¡SOLE Colombia llega a Tailandia!"
 date: 2025-10-11
 tags:
-  - "Historias potentes"
-autor: "SOLE Colombia"
+  - Historias potentes
+autor: SOLE Colombia
 draft: false
+resumen: Llevamos el Aprendizaje Auto Organizado a más lugares del mundo.
 ---
 *Descarga esta Inspiración para usarla desconectado*
 

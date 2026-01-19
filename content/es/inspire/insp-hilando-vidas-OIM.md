@@ -2,9 +2,10 @@
 title: "SOLE + Hilando Vidas y Esperanza 2022"
 date: 2025-10-11
 tags:
-  - "Historias potentes"
-autor: "SOLE Colombia"
+  - Historias potentes
+autor: SOLE Colombia
 draft: false
+resumen: SOLEamos 15 comunidades de tres regiones maravillosas.
 ---
 En el 2022 SOLEamos 15 comunidades de tres Regiones  maravillosas donde:
 

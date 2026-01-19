@@ -2,9 +2,10 @@
 title: "¿Cómo mejoró el Internet en Piendamó, Cauca?"
 date: 2025-10-11
 tags:
-  - "Historias potentes"
-autor: "SOLE Colombia"
+  - Historias potentes
+autor: SOLE Colombia
 draft: false
+resumen: La historia de cómo mejoró la conectividad en Piendamó.
 ---
 *Descarga esta Inspiración para usarla desconectado*
 

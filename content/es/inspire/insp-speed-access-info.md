@@ -2,11 +2,11 @@
 title: "¿Te ha pasado que un video carga más rápido en el celular de otra persona?"
 date: 2025-10-11
 tags:
-  - "Sobre el internet"
-  - "Te ha pasado"
-  - "Preguntas incómodas"
-autor: "Sanjay"
+  - Sobre el internet
+  - Preguntas incómodas
+autor: Sanjay
 draft: false
+resumen: Entiende cómo se puede acceder rápidamente a la información en Internet.
 ---
 Hablamos que el Internet es rápido si podemos acceder rápidamente a la información que consultamos. 
 

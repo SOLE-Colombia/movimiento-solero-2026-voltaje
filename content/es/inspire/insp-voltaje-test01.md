@@ -2,9 +2,10 @@
 title: "Prueba #01 SOLE Voltaje"
 date: 2024-10-25
 tags:
-  - "Metodologías"
-autor: "Nicolás"
+  - Metodologías
+autor: Nicolás
 draft: false
+resumen: Evaluamos la funcionalidad de tres soluciones de conectividad.
 ---
 # Presentación
 

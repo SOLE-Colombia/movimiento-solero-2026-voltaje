@@ -2,10 +2,11 @@
 title: "SOLE Colombia somos TODOS"
 date: 2025-10-11
 tags:
-  - "De Voltaje a SOLE"
-  - "Historias potentes"
-autor: "SOLE Colombia"
+  - De Voltaje a SOLE
+  - Historias potentes
+autor: SOLE Colombia
 draft: false
+resumen: Estamos creando un futuro equitativo y hermoso juntos.
 ---
 *Descarga esta Inspiración para usarla desconectado*
 

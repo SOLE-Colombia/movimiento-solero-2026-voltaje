@@ -2,9 +2,10 @@
 title: "¿Cómo construir memoria en un SOLE Lab?"
 date: 2025-10-11
 tags:
-  - "Metodologías"
-autor: "SOLE Colombia"
+  - Metodologías
+autor: SOLE Colombia
 draft: false
+resumen: Recopila la historia del SOLE Lab desde la mirada de cada grupo.
 ---
 **Propósito:** recopilar ágilmente la historia del SOLE Lab de Boca de Camarones desde la mirada de cada grupo de colaboradores (Comunidad Boca de Camarones, SOLE Colombia e Internet Society Foundation)
 

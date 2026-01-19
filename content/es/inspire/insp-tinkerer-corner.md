@@ -2,9 +2,11 @@
 title: "La esquina del cacharreo"
 date: 2024-10-21
 tags:
-  - "Vamos a romper"
-autor: "Nicolás"
+  - Curiosidades
+  - Metodologías
+autor: Nicolás
 draft: false
+resumen: Un espacio para explorar el cacharreo y la creatividad.
 ---
 ## El inventario poético
 

@@ -1,27 +1,24 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/inspireFilterSidebar.scss"
 
+// Categorías específicas de Inspírate según el CSV
+const INSPIRE_CATEGORIES = [
+  "Historias potentes",
+  "Preguntas incómodas",
+  "Sobre el internet",
+  "Curiosidades",
+  "Metodologías",
+  "De Voltaje a SOLE",
+]
+
 const normalizeTag = (tag: string) => tag.trim().toLowerCase()
 
 export default (() => {
-  const InspireFilterSidebar: QuartzComponent = ({ allFiles }: QuartzComponentProps) => {
-    const tagMap = new Map<string, string>()
-    for (const page of allFiles) {
-      const raw = (page.frontmatter?.categories ?? page.frontmatter?.tags ?? []) as string[] | string
-      const tags = Array.isArray(raw) ? raw : [raw]
-      for (const tag of tags) {
-        if (typeof tag !== "string") continue
-        const normalized = normalizeTag(tag)
-        if (!normalized) continue
-        if (!tagMap.has(normalized)) {
-          tagMap.set(normalized, tag.trim())
-        }
-      }
-    }
-
-    const tags = Array.from(tagMap.entries())
-      .map(([value, label]) => ({ value, label }))
-      .sort((a, b) => a.label.localeCompare(b.label, "es"))
+  const InspireFilterSidebar: QuartzComponent = ({}: QuartzComponentProps) => {
+    const tags = INSPIRE_CATEGORIES.map((cat) => ({
+      value: normalizeTag(cat),
+      label: cat,
+    }))
 
     const filterScript = `
       document.addEventListener('DOMContentLoaded', function() {

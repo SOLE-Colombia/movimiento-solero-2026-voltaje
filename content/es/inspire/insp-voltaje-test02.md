@@ -2,9 +2,10 @@
 title: "Prueba #02 SOLE Voltaje"
 date: 2024-10-25
 tags:
-  - "Metodologías"
-autor: "Nicolás"
+  - Metodologías
+autor: Nicolás
 draft: false
+resumen: Protocolo para la prueba 02 basado en aprendizajes de la prueba 01.
 ---
 Este documento tiene el objetivo de plantear el protocolo para la realización de la prueba 02 de la Guía de Soluciones con base en los aprendizajes y hallazgos de la prueba 01 realizada el 3.02.2024.
 

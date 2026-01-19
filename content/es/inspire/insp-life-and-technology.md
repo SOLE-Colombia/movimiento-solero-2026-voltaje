@@ -2,10 +2,11 @@
 title: "¿Cómo la tecnología nos puede ayudar a tejer historias?"
 date: 2025-10-11
 tags:
-  - "Metodologías"
-  - "Historias potentes"
-autor: "SOLE Colombia"
+  - Metodologías
+  - Historias potentes
+autor: SOLE Colombia
 draft: false
+resumen: Metodología para tejer historias usando la tecnología.
 ---
 **Lugar de implementación:** Recarga tu SOLE LAB en Boca de Camarones
 

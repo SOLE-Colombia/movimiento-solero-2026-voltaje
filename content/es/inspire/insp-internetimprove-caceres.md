@@ -2,9 +2,10 @@
 title: "¿Cómo mejoró el Internet en Cáceres, Antioquia?"
 date: 2025-10-11
 tags:
-  - "Historias potentes"
-autor: "SOLE Colombia"
+  - Historias potentes
+autor: SOLE Colombia
 draft: false
+resumen: Cinco líderes comunitarios mejoran el acceso a Internet en su comunidad.
 ---
 *Descarga esta Inspiración para usarla desconectado*
 

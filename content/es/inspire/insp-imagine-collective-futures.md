@@ -2,9 +2,10 @@
 title: "¿Cómo imaginar futuros en comunidad?"
 date: 2025-10-11
 tags:
-  - "Metodologías"
-autor: "SOLE Colombia"
+  - Metodologías
+autor: SOLE Colombia
 draft: false
+resumen: Una metodología para soñar futuros colectivos.
 ---
 **Instrucciones:**
 

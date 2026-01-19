@@ -2,9 +2,10 @@
 title: "Todo comienza con una Gran Pregunta"
 date: 2025-10-11
 tags:
-  - "De Voltaje a SOLE"
-autor: "SOLE Colombia"
+  - De Voltaje a SOLE
+autor: SOLE Colombia
 draft: false
+resumen: Una experiencia para despertar la curiosidad y aprender en grupo.
 ---
 *Descarga esta solución para usarla desconectado*
 

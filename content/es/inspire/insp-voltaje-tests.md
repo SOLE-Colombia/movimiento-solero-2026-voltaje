@@ -2,10 +2,11 @@
 title: "Estamos contruyendo una plataforma con mucho Voltaje, ¿te nos unes?"
 date: 2024-10-24
 tags:
-  - "De Voltaje a SOLE"
-  - "Historias potentes"
-autor: "Manuela"
+  - De Voltaje a SOLE
+  - Historias potentes
+autor: Manuela
 draft: false
+resumen: Galería de fotos de las pruebas de Voltaje.
 ---
 Las pruebas de Voltaje nos han servido para explorar, evaluar y llevar más allá las soluciones y dispositivos que hemos desarrollado para despertar el espíritu cacharrero y fomentar un acercamiento a la tecnología y la conectividad que nos lleve a generar espacios de aprendizaje autónomo y comunitario. 
 

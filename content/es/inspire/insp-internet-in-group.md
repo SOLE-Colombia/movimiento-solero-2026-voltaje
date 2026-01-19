@@ -2,9 +2,10 @@
 title: "¿Cuándo fue la última vez que usaste el Internet en grupo?"
 date: 2025-10-11
 tags:
-  - "Preguntas incómodas"
-autor: "Sanjay"
+  - Preguntas incómodas
+autor: Sanjay
 draft: false
+resumen: Descubre cómo compartir el Internet puede crear comunidades.
 ---
 *Descarga esta Inspiración para usarla desconectado*
 

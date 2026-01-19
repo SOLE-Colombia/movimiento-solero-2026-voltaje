@@ -1,19 +1,10 @@
 ---
 title: ¿Cómo hacer SOLE?
 lang: es
-categories:
-- Internet
-- Metodologías
-- De Voltaje a SOLE
-formato:
-- Video
+tags:
+  - Metodologías
+  - De Voltaje a SOLE
 draft: false
-traduccion: true
-aspectos:
-- señal
-- personas
-- espacio
-fecha: '2025-10-11'
 autor: SOLE Colombia
 resumen: Aprende sobre cualquier tema de forma autogestionada
 ---

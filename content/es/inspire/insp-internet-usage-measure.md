@@ -2,9 +2,10 @@
 title: "¿Cuánto pesan los datos que viajan por Internet?"
 date: 2025-10-11
 tags:
-  - "Sobre el internet"
-autor: "Manuela"
+  - Sobre el internet
+autor: Manuela
 draft: false
+resumen: Comprende cómo se mide el uso de Internet.
 ---
 *Descarga esta Inspiración para usarla desconectado*
 

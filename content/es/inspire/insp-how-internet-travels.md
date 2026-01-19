@@ -2,11 +2,12 @@
 title: "¿Te has preguntado cómo llega el Internet, la luz o la señal móvil a ti?"
 date: 2024-10-23
 tags:
-  - "Curiosidades"
-  - "Preguntas incómodas"
-  - "Sobre el internet"
-autor: "SOLE Colombia"
+  - Curiosidades
+  - Preguntas incómodas
+  - Sobre el internet
+autor: SOLE Colombia
 draft: false
+resumen: Descubre el viaje de la información desde la fuente hasta tu hogar.
 ---
 Todos los días revisamos mensajes en nuestros celulares, prendemos una luz o recibimos una llamada telefónica. 
 

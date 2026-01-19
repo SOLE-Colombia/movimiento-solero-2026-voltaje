@@ -2,10 +2,11 @@
 title: "¿Qué significa el agua para ti y tu comunidad?"
 date: 2025-10-11
 tags:
-  - "Historias potentes"
-  - "De Voltaje a SOLE"
-autor: "SOLE Colombia"
+  - Historias potentes
+  - De Voltaje a SOLE
+autor: SOLE Colombia
 draft: false
+resumen: SOLE realizado por estudiantes de la Universidad Nacional.
 ---
 
 SOLE realizado por los estudiantes del observatorio IV de agua y energía de la escuela de Diseño Industrial en la Universidad Nacional. Abril 25 del 2025.
