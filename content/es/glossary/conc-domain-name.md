@@ -1,6 +1,6 @@
 ---
 title: "Nombre de dominio | Domain name"
-date: 2025-70-17
+date: 2025-02-17
 tags:
   - "Términos del mundo virtual"
   - "Seguridad e identificación"

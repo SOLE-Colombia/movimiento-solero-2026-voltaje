@@ -1,13 +1,14 @@
 ---
-title: "Construye una antena 3G casera"
+title: Construye una antena 3G casera
 date: 2025-12-17
 tags:
-  - "Señal"
-dificultad: "Medio"
-costo: "< USD 25"
-ayudantes: "1 persona"
-tarda: "Horas"
-autor: "SOLE Colombia"
+  - Señal
+dificultad: Medio
+costo: < USD 25
+ayudantes: 1 persona
+tarda: Horas
+autor:
+  - SOLE Colombia
 draft: false
 ---
 ## Captura señal con una antena hecha en casa.

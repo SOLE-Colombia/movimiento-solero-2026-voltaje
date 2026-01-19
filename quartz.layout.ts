@@ -18,11 +18,14 @@ export const sharedPageComponents: SharedLayout = {
     }),
     Component.Comments(),
   ],
-  footer: Component.Footer({
-    links: {
-      "SOLE Colombia": "https://www.solecolombia.org/",
-      "GitHub": "https://github.com/SOLE-Colombia/voltaje",
-    },
+  footer: Component.ConditionalRender({
+    component: Component.Footer({
+      links: {
+        "SOLE Colombia": "https://www.solecolombia.org/",
+        "GitHub": "https://github.com/SOLE-Colombia/voltaje",
+      },
+    }),
+    condition: () => false,
   }),
 }
 
@@ -51,11 +54,23 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Explorer({
       filterFn: (node) => {
+        const mainMenuOrder = [
+          "new-here", // Nuevo aquí
+          "solve", // Soluciona
+          "inspire", // Inspírate
+          "glossary", // Conceptorio
+          "disconnected", // Desconectado
+          "answers-comments", // ¿Quieres hablar con otro humano?
+        ]
         // Excluir la carpeta "tags"
         if (node.slugSegment === "tags") return false
         // Excluir borradores / staging
         if (node.slugSegment === "_staging") return false
-        return true
+        // Excluir la página de descargas del menú principal
+        if (node.slugSegment === "descargas") return false
+        // Mantener el nodo raíz y solo las secciones principales
+        if (!node.slugSegment) return true
+        return mainMenuOrder.includes(node.slugSegment)
       },
       mapFn: (node) => {
         // Promover contenido de carpetas de idioma al nivel raíz
@@ -73,16 +88,26 @@ export const defaultContentPageLayout: PageLayout = {
             child => !langFolders.includes(child)
           ).concat(promotedChildren)
         }
+        // Dejar solo títulos principales sin desplegables
+        if (!node.slugSegment) {
+          for (const child of node.children) {
+            if (child.slugSegment === "answers-comments") {
+              child.displayName = "¿Quieres hablar con otro humano?"
+            }
+            child.children = []
+            child.isFolder = false
+          }
+        }
       },
       sortFn: (a, b) => {
         // Orden personalizado para las carpetas principales
         const customOrder = [
           "new-here",      // Nuevo aquí
-          "inspire",       // Inspírate
           "solve",         // Soluciona
-          "answers-comments", // Pregunta/Comenta
-          "disconnected",  // Desconectado
+          "inspire",       // Inspírate
           "glossary",      // Conceptorio
+          "disconnected",  // Desconectado
+          "answers-comments", // ¿Quieres hablar con otro humano?
           "general",       // General (si existe)
         ]
         
@@ -114,11 +139,13 @@ export const defaultContentPageLayout: PageLayout = {
           return -1
         }
       },
+      order: ["map", "filter", "sort"],
       folderDefaultState: "collapsed",
     }),
   ],
   right: [
-    Component.Graph(),
+    // Módulo de gráfico desactivado sin eliminar el código.
+    // Component.Graph(),
     Component.Backlinks(),
   ],
 }
@@ -139,11 +166,23 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     Component.Explorer({
       filterFn: (node) => {
+        const mainMenuOrder = [
+          "new-here", // Nuevo aquí
+          "solve", // Soluciona
+          "inspire", // Inspírate
+          "glossary", // Conceptorio
+          "disconnected", // Desconectado
+          "answers-comments", // ¿Quieres hablar con otro humano?
+        ]
         // Excluir la carpeta "tags"
         if (node.slugSegment === "tags") return false
         // Excluir borradores / staging
         if (node.slugSegment === "_staging") return false
-        return true
+        // Excluir la página de descargas del menú principal
+        if (node.slugSegment === "descargas") return false
+        // Mantener el nodo raíz y solo las secciones principales
+        if (!node.slugSegment) return true
+        return mainMenuOrder.includes(node.slugSegment)
       },
       mapFn: (node) => {
         // Promover contenido de carpetas de idioma al nivel raíz
@@ -161,16 +200,26 @@ export const defaultListPageLayout: PageLayout = {
             child => !langFolders.includes(child)
           ).concat(promotedChildren)
         }
+        // Dejar solo títulos principales sin desplegables
+        if (!node.slugSegment) {
+          for (const child of node.children) {
+            if (child.slugSegment === "answers-comments") {
+              child.displayName = "¿Quieres hablar con otro humano?"
+            }
+            child.children = []
+            child.isFolder = false
+          }
+        }
       },
       sortFn: (a, b) => {
         // Orden personalizado para las carpetas principales
         const customOrder = [
           "new-here",      // Nuevo aquí
-          "inspire",       // Inspírate
           "solve",         // Soluciona
-          "answers-comments", // Pregunta/Comenta
-          "disconnected",  // Desconectado
+          "inspire",       // Inspírate
           "glossary",      // Conceptorio
+          "disconnected",  // Desconectado
+          "answers-comments", // ¿Quieres hablar con otro humano?
           "general",       // General (si existe)
         ]
         
@@ -202,6 +251,7 @@ export const defaultListPageLayout: PageLayout = {
           return -1
         }
       },
+      order: ["map", "filter", "sort"],
       folderDefaultState: "collapsed",
     }),
   ],

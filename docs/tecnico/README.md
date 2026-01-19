@@ -38,6 +38,7 @@ Si es tu primera vez en el proyecto, lee estos documentos en orden:
 *   **[COLORES_Y_TEMAS.md](./COLORES_Y_TEMAS.md)** - Sistema de colores y temas visuales.
 *   **[TIPOGRAFIA_Y_ESTILOS.md](./TIPOGRAFIA_Y_ESTILOS.md)** - Tipografía, tarjetas y estilos visuales.
 *   **[SOLUCION_LOGO_FOOTER.md](./SOLUCION_LOGO_FOOTER.md)** - Configuración de logo y footer.
+*   **[COMPONENTES_UI.md](./COMPONENTES_UI.md)** - Activar/desactivar módulos de la UI.
 
 ### 📦 Estrategias Avanzadas
 *   **[ESTRATEGIA_PDFS.md](./ESTRATEGIA_PDFS.md)** - Manejo de PDFs y generación dinámica.
