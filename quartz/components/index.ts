@@ -28,6 +28,7 @@ import FolderGrid from "./FolderGrid"
 import RandomCardGrid from "./RandomCardGrid"
 import LanguageToggle from "./LanguageToggle"
 import SolveFilterGrid from "./SolveFilterGrid"
+import InspireFilterSidebar from "./InspireFilterSidebar"
 
 export {
   ArticleTitle,
@@ -60,4 +61,5 @@ export {
   RandomCardGrid,
   LanguageToggle,
   SolveFilterGrid,
+  InspireFilterSidebar,
 }

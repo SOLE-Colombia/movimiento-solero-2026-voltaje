@@ -86,7 +86,13 @@ export const PageCardGrid: QuartzComponent = ({
         const resumen = (page.frontmatter?.resumen ?? page.frontmatter?.description) as
           | string
           | undefined
-        const categorias = (page.frontmatter?.categories ?? []) as string[]
+        const categoriasRaw = (page.frontmatter?.categories ??
+          page.frontmatter?.tags ??
+          []) as string[] | string
+        const categorias = (Array.isArray(categoriasRaw) ? categoriasRaw : [categoriasRaw]).filter(
+          (categoria) => typeof categoria === "string" && categoria.trim().length > 0,
+        )
+        const normalizedTags = categorias.map((categoria) => categoria.trim().toLowerCase())
 
         const hideImage = sectionsWithoutImage.includes(section)
 
@@ -95,6 +101,7 @@ export const PageCardGrid: QuartzComponent = ({
             href={resolveRelative(fileData.slug!, page.slug!)}
             class="page-card"
             role="listitem"
+            data-tags={normalizedTags.join(",")}
           >
             {!hideImage && (
               <div class="page-card-image" aria-hidden="true">

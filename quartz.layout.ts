@@ -255,5 +255,12 @@ export const defaultListPageLayout: PageLayout = {
       folderDefaultState: "collapsed",
     }),
   ],
-  right: [],
+  right: [
+    Component.ConditionalRender({
+      component: Component.InspireFilterSidebar(),
+      condition: (page) =>
+        page.fileData.slug?.startsWith("es/inspire") ||
+        page.fileData.slug?.startsWith("inspire"),
+    }),
+  ],
 }
