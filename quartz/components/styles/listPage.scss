@@ -6,6 +6,14 @@ ul.section-ul {
   padding-left: 0;
 }
 
+.page-listing > p {
+  color: #9a9a9a;
+}
+
+::root[saved-theme="dark"] .page-listing > p {
+  color: var(--darkgray);
+}
+
 li.section-li {
   margin-bottom: 1em;
 

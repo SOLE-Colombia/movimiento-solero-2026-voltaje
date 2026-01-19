@@ -3,7 +3,8 @@ title: ¿Cómo hacer SOLE?
 lang: es
 categories:
 - Internet
-- Metodología
+- Metodologías
+- De Voltaje a SOLE
 formato:
 - Video
 draft: false
@@ -13,7 +14,8 @@ aspectos:
 - personas
 - espacio
 fecha: '2025-10-11'
-
+autor: SOLE Colombia
+resumen: Aprende sobre cualquier tema de forma autogestionada
 ---
 # Tutorial para fomentar el aprendizaje autogestionado.
 

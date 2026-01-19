@@ -83,6 +83,10 @@ export const PageCardGrid: QuartzComponent = ({
         const dificultad = page.frontmatter?.dificultad as string | undefined
         const costo = page.frontmatter?.costo as string | undefined
         const tarda = page.frontmatter?.tarda as string | undefined
+        const resumen = (page.frontmatter?.resumen ?? page.frontmatter?.description) as
+          | string
+          | undefined
+        const categorias = (page.frontmatter?.categories ?? []) as string[]
 
         const hideImage = sectionsWithoutImage.includes(section)
 
@@ -103,8 +107,13 @@ export const PageCardGrid: QuartzComponent = ({
             )}
             <div class="page-card-body">
               <h3 class="page-card-title">{title}</h3>
-              {page.frontmatter?.description && (
-                <p class="page-card-description">{page.frontmatter.description}</p>
+              {resumen && <p class="page-card-summary">{resumen}</p>}
+              {categorias.length > 0 && (
+                <div class="page-card-tags">
+                  {categorias.map((categoria) => (
+                    <span class="page-card-tag">#{categoria}</span>
+                  ))}
+                </div>
               )}
             </div>
             {section === "solve" && (dificultad || costo || tarda) && (
