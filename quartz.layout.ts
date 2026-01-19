@@ -1,15 +1,14 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+const isHomePage = (page: { fileData: { slug?: string } }) =>
+  page.fileData.slug === "index" || page.fileData.slug === "es"
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    Component.ConditionalRender({
-      component: Component.FolderGrid(),
-      condition: (page) => page.fileData.slug === "index" || page.fileData.slug === "es",
-    }),
     Component.ConditionalRender({
       component: Component.RandomCardGrid({ count: 3 }),
       condition: (props) =>
@@ -33,12 +32,26 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
-      component: Component.Breadcrumbs({ showCurrentPage: false }),
-      condition: (page) => page.fileData.slug !== "index",
+      component: Component.Breadcrumbs({
+        showCurrentPage: false,
+        rootName: "Inicio",
+        hideSegments: ["es", "en"],
+        hideTitles: ["sole voltaje"],
+      }),
+      condition: (page) => !isHomePage(page),
     }),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
+    Component.ConditionalRender({
+      component: Component.ArticleTitle(),
+      condition: (page) => !isHomePage(page),
+    }),
+    Component.ConditionalRender({
+      component: Component.ContentMeta(),
+      condition: (page) => !isHomePage(page),
+    }),
+    Component.ConditionalRender({
+      component: Component.TagList(),
+      condition: (page) => !isHomePage(page),
+    }),
   ],
   left: [
     Component.PageTitle(),
@@ -152,7 +165,25 @@ export const defaultContentPageLayout: PageLayout = {
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs({ showCurrentPage: false }), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    Component.ConditionalRender({
+      component: Component.Breadcrumbs({
+        showCurrentPage: true,
+        rootName: "Inicio",
+        hideSegments: ["es", "en"],
+        hideTitles: ["sole voltaje"],
+      }),
+      condition: (page) => !isHomePage(page),
+    }),
+    Component.ConditionalRender({
+      component: Component.ArticleTitle(),
+      condition: (page) => !isHomePage(page),
+    }),
+    Component.ConditionalRender({
+      component: Component.ContentMeta(),
+      condition: (page) => !isHomePage(page),
+    }),
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -258,9 +289,10 @@ export const defaultListPageLayout: PageLayout = {
   right: [
     Component.ConditionalRender({
       component: Component.InspireFilterSidebar(),
-      condition: (page) =>
-        page.fileData.slug?.startsWith("es/inspire") ||
-        page.fileData.slug?.startsWith("inspire"),
+      condition: (page) => {
+        const slug = page.fileData.slug ?? ""
+        return slug.startsWith("es/inspire") || slug.startsWith("inspire")
+      },
     }),
   ],
 }

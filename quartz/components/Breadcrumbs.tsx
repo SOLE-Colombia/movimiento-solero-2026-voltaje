@@ -26,6 +26,14 @@ interface BreadcrumbOptions {
    * Whether to display the current page in the breadcrumbs.
    */
   showCurrentPage: boolean
+  /**
+   * Slug segments to hide from the breadcrumbs (e.g. locale folders).
+   */
+  hideSegments: string[]
+  /**
+   * Display names to hide from the breadcrumbs.
+   */
+  hideTitles: string[]
 }
 
 const defaultOptions: BreadcrumbOptions = {
@@ -33,6 +41,8 @@ const defaultOptions: BreadcrumbOptions = {
   rootName: "Home",
   resolveFrontmatterTitle: true,
   showCurrentPage: true,
+  hideSegments: [],
+  hideTitles: [],
 }
 
 function formatCrumb(displayName: string, baseSlug: FullSlug, currentSlug: SimpleSlug): CrumbData {
@@ -58,14 +68,24 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
       return null
     }
 
-    const crumbs: CrumbData[] = pathNodes.map((node, idx) => {
+    const hiddenSegments = new Set(options.hideSegments.map((segment) => segment.toLowerCase()))
+    const hiddenTitles = new Set(options.hideTitles.map((title) => title.toLowerCase()))
+    const filteredPathNodes = pathNodes.filter((node) => {
+      const simpleSlug = simplifySlug(node.slug)
+      if (simpleSlug === "/") return true
+      if (hiddenSegments.has(simpleSlug.toLowerCase())) return false
+      if (hiddenTitles.has(node.displayName.toLowerCase())) return false
+      return true
+    })
+
+    const crumbs: CrumbData[] = filteredPathNodes.map((node, idx) => {
       const crumb = formatCrumb(node.displayName, fileData.slug!, simplifySlug(node.slug))
       if (idx === 0) {
         crumb.displayName = options.rootName
       }
 
       // For last node (current page), set empty path
-      if (idx === pathNodes.length - 1) {
+      if (idx === filteredPathNodes.length - 1) {
         crumb.path = ""
       }
 

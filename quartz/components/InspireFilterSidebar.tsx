@@ -1,23 +1,30 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/inspireFilterSidebar.scss"
 
-// Categorías específicas de Inspírate según el CSV
-const INSPIRE_CATEGORIES = [
-  "Historias potentes",
-  "Preguntas incómodas",
-  "Sobre el internet",
-  "Curiosidades",
-  "Metodologías",
-  "De Voltaje a SOLE",
+type InspireCategory = {
+  label: string
+  value: string
+}
+
+// Categorías visibles en el filtro de Inspírate.
+// Edita el label para el texto visible y el value para que coincida
+// con los tags usados en el frontmatter de las páginas.
+const INSPIRE_CATEGORIES: InspireCategory[] = [
+  { label: "Historias potentes", value: "Historias-potentes" },
+  { label: "Preguntas incómodas", value: "Preguntas-incómodas" },
+  { label: "Sobre el internet", value: "Sobre-el-internet" },
+  { label: "Curiosidades", value: "Curiosidades" },
+  { label: "Metodologías", value: "Metodologías" },
+  { label: "De Voltaje a SOLE", value: "De-Voltaje-a-SOLE" },
 ]
 
 const normalizeTag = (tag: string) => tag.trim().toLowerCase()
 
 export default (() => {
-  const InspireFilterSidebar: QuartzComponent = ({}: QuartzComponentProps) => {
+  const InspireFilterSidebar: QuartzComponent = ({ }: QuartzComponentProps) => {
     const tags = INSPIRE_CATEGORIES.map((cat) => ({
-      value: normalizeTag(cat),
-      label: cat,
+      value: normalizeTag(cat.value),
+      label: cat.label,
     }))
 
     const filterScript = `
