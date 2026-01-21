@@ -36,7 +36,7 @@ export const defaultContentPageLayout: PageLayout = {
         showCurrentPage: false,
         rootName: "Inicio",
         hideSegments: ["es", "en"],
-        hideTitles: ["sole voltaje"],
+        hideTitles: ["sole voltaje", "inicio"],
       }),
       condition: (page) => !isHomePage(page),
     }),
@@ -66,6 +66,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Search(),
     Component.Explorer({
+      folderClickBehavior: "link", // Permitir que las carpetas funcionen como enlaces
       filterFn: (node) => {
         const mainMenuOrder = [
           "new-here", // Nuevo aquí
@@ -91,11 +92,11 @@ export const defaultContentPageLayout: PageLayout = {
         const langFolders = node.children.filter(
           child => child.isFolder && (child.slugSegment === "es" || child.slugSegment === "en")
         )
-        
+
         if (langFolders.length > 0) {
           // Para cada carpeta de idioma encontrada, promover sus hijos al nivel actual
           const promotedChildren = langFolders.flatMap(langFolder => langFolder.children)
-          
+
           // Remover las carpetas de idioma y agregar sus hijos promovidos
           node.children = node.children.filter(
             child => !langFolders.includes(child)
@@ -123,20 +124,20 @@ export const defaultContentPageLayout: PageLayout = {
           "answers-comments", // ¿Quieres hablar con otro humano?
           "general",       // General (si existe)
         ]
-        
+
         // Obtener índice en el orden personalizado (-1 si no está en la lista)
         const indexA = customOrder.indexOf(a.slugSegment)
         const indexB = customOrder.indexOf(b.slugSegment)
-        
+
         // Si ambos están en la lista personalizada, ordenar según esa lista
         if (indexA !== -1 && indexB !== -1) {
           return indexA - indexB
         }
-        
+
         // Si solo uno está en la lista, ese va primero
         if (indexA !== -1) return -1
         if (indexB !== -1) return 1
-        
+
         // Si ninguno está en la lista, ordenar alfabéticamente
         // Dar prioridad a carpetas sobre archivos
         if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
@@ -145,7 +146,7 @@ export const defaultContentPageLayout: PageLayout = {
             sensitivity: "base",
           })
         }
-        
+
         if (!a.isFolder && b.isFolder) {
           return 1
         } else {
@@ -171,7 +172,7 @@ export const defaultListPageLayout: PageLayout = {
         showCurrentPage: true,
         rootName: "Inicio",
         hideSegments: ["es", "en"],
-        hideTitles: ["sole voltaje"],
+        hideTitles: ["sole voltaje", "inicio"],
       }),
       condition: (page) => !isHomePage(page),
     }),
@@ -196,6 +197,7 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Search(),
     Component.Explorer({
+      folderClickBehavior: "link", // Permitir que las carpetas funcionen como enlaces
       filterFn: (node) => {
         const mainMenuOrder = [
           "new-here", // Nuevo aquí
@@ -221,11 +223,11 @@ export const defaultListPageLayout: PageLayout = {
         const langFolders = node.children.filter(
           child => child.isFolder && (child.slugSegment === "es" || child.slugSegment === "en")
         )
-        
+
         if (langFolders.length > 0) {
           // Para cada carpeta de idioma encontrada, promover sus hijos al nivel actual
           const promotedChildren = langFolders.flatMap(langFolder => langFolder.children)
-          
+
           // Remover las carpetas de idioma y agregar sus hijos promovidos
           node.children = node.children.filter(
             child => !langFolders.includes(child)
@@ -253,20 +255,20 @@ export const defaultListPageLayout: PageLayout = {
           "answers-comments", // ¿Quieres hablar con otro humano?
           "general",       // General (si existe)
         ]
-        
+
         // Obtener índice en el orden personalizado (-1 si no está en la lista)
         const indexA = customOrder.indexOf(a.slugSegment)
         const indexB = customOrder.indexOf(b.slugSegment)
-        
+
         // Si ambos están en la lista personalizada, ordenar según esa lista
         if (indexA !== -1 && indexB !== -1) {
           return indexA - indexB
         }
-        
+
         // Si solo uno está en la lista, ese va primero
         if (indexA !== -1) return -1
         if (indexB !== -1) return 1
-        
+
         // Si ninguno está en la lista, ordenar alfabéticamente
         // Dar prioridad a carpetas sobre archivos
         if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
@@ -275,7 +277,7 @@ export const defaultListPageLayout: PageLayout = {
             sensitivity: "base",
           })
         }
-        
+
         if (!a.isFolder && b.isFolder) {
           return 1
         } else {
