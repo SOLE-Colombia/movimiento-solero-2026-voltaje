@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "es-ES", // Español de Colombia
-    baseUrl: "voltaje.solecolombia.org",
+    baseUrl: "sole-colombia.github.io/voltaje",
     ignorePatterns: ["private", "templates", ".obsidian", "_staging", "**/_staging/**"],
     defaultDateType: "modified",
     theme: {
@@ -90,7 +90,7 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
-      Plugin.Latex({ 
+      Plugin.Latex({
         renderEngine: "mathjax"
       }),
     ],
