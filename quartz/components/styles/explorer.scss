@@ -130,10 +130,15 @@ button.desktop-explorer {
       pointer-events: all;
       font-weight: 800;
       font-size: 18px;
+      padding: 2px 5px;
+      border-radius: 0px;
 
       &.active {
         opacity: 1;
-        color: #1a84ae;
+        color: white !important;
+        background-color: #1a84ae;
+        display: inline-block;
+        width: fit-content;
       }
     }
   }

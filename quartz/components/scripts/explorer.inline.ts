@@ -113,7 +113,10 @@ function createFileNode(currentSlug: FullSlug, node: FileTrieNode): HTMLLIElemen
   a.dataset.for = node.slug
   a.textContent = node.displayName
 
-  if (currentSlug === node.slug) {
+  if (
+    simplifySlug(currentSlug).replace(/\/$/, "") ===
+    simplifySlug(node.slug as FullSlug).replace(/\/$/, "")
+  ) {
     a.classList.add("active")
   }
 
@@ -144,6 +147,15 @@ function createFolderNode(
     a.dataset.for = folderPath
     a.className = "folder-title"
     a.textContent = node.displayName
+
+    const simpleCurrent = simplifySlug(currentSlug)
+    const simpleFolder = simplifySlug(folderPath as FullSlug)
+    const isMatch = simpleCurrent === simpleFolder || simpleCurrent.startsWith(simpleFolder + "/")
+
+    if (isMatch) {
+      a.classList.add("active")
+    }
+
     button.replaceWith(a)
   } else {
     const span = titleContainer.querySelector(".folder-title") as HTMLElement
