@@ -14,8 +14,8 @@ ArticleTitle.css = `
 .article-title {
   margin: 2rem 0 0 0;
   color: #27BFB8;
-  font-size: 64px;
-  font-weight: 600;
+  font-size: 80px;
+  font-weight: 400;
 }
 `
 

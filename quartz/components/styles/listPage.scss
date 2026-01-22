@@ -6,28 +6,33 @@ ul.section-ul {
   padding-left: 0;
 }
 
-.page-listing > p {
+.page-listing>p {
   color: #9a9a9a;
+  margin-top: 8px;
+  margin-bottom: -20px;
+  font-family: "Roboto Mono";
+  font-size: 16px;
+  vertical-align: top;
 }
 
-::root[saved-theme="dark"] .page-listing > p {
+::root[saved-theme="dark"] .page-listing>p {
   color: var(--darkgray);
 }
 
 li.section-li {
   margin-bottom: 1em;
 
-  & > .section {
+  &>.section {
     display: grid;
     grid-template-columns: fit-content(8em) 3fr 1fr;
 
     @media all and ($mobile) {
-      & > .tags {
+      &>.tags {
         display: none;
       }
     }
 
-    & > .desc > h3 > a {
+    &>.desc>h3>a {
       background-color: transparent;
     }
 
@@ -42,7 +47,7 @@ li.section-li {
 .popover .section {
   grid-template-columns: fit-content(8em) 1fr !important;
 
-  & > .tags {
+  &>.tags {
     display: none;
   }
 }

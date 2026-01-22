@@ -40,7 +40,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ConditionalRender({
       component: Component.ContentMeta(),
-      condition: (page) => !isHomePage(page),
+      condition: (page) => !isHomePage(page) && page.fileData.frontmatter?.type !== "section-index",
     }),
     Component.ConditionalRender({
       component: Component.TagList(),
@@ -176,7 +176,7 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.ConditionalRender({
       component: Component.ContentMeta(),
-      condition: (page) => !isHomePage(page),
+      condition: (page) => !isHomePage(page) && page.fileData.frontmatter?.type !== "section-index",
     }),
     // Filtro de Solve visible solo en móvil (aparece arriba del contenido)
     Component.MobileOnly(
