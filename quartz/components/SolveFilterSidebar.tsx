@@ -24,19 +24,18 @@ export default (() => {
         </div>
         
         <div class="solve-filter-content">
-          {/* Categorías */}
+          {/* Categorías (Botones) */}
           <div class="filter-section">
             <h4 class="section-title">Categorías</h4>
-            <div class="checkbox-list">
+            <div class="buttons-grid">
               {categories.map((cat) => (
-                <label class="checkbox-item">
-                  <input 
-                    type="checkbox" 
-                    class="category-checkbox" 
-                    value={cat}
-                  />
-                  <span class="checkbox-label">{cat}</span>
-                </label>
+                <button 
+                  type="button" 
+                  class="solve-filter-btn category-btn" 
+                  data-value={cat}
+                >
+                  {cat}
+                </button>
               ))}
             </div>
           </div>
@@ -47,7 +46,7 @@ export default (() => {
           <div class="filter-section">
             <div class="section-header">
               <h4 class="section-title">Dificultad</h4>
-              <button class="section-reset diff-reset">Limpiar</button>
+              <span class="section-reset-link" data-slider="diff">Limpiar</span>
             </div>
             <input 
               type="range" 
@@ -56,11 +55,11 @@ export default (() => {
               max="3" 
               value="3" 
             />
-            <div class="slider-labels">
-              <span>⚡</span>
-              <span>⚡⚡</span>
-              <span>⚡⚡⚡</span>
-              <span>⚡⚡⚡⚡</span>
+            <div class="slider-labels diff-labels">
+              <span class="label-item">Fácil</span>
+              <span class="label-item">Medio</span>
+              <span class="label-item">Difícil</span>
+              <span class="label-item">Complejo</span>
             </div>
           </div>
           
@@ -68,7 +67,7 @@ export default (() => {
           <div class="filter-section">
             <div class="section-header">
               <h4 class="section-title">Costo</h4>
-              <button class="section-reset cost-reset">Limpiar</button>
+              <span class="section-reset-link" data-slider="cost">Limpiar</span>
             </div>
             <input 
               type="range" 
@@ -78,11 +77,11 @@ export default (() => {
               value="4" 
             />
             <div class="slider-labels cost-labels">
-              <span>Gratis</span>
-              <span>$</span>
-              <span>$$</span>
-              <span>$$$</span>
-              <span>Mensual</span>
+              <span class="label-item">Gratis</span>
+              <span class="label-item">$</span>
+              <span class="label-item">$$</span>
+              <span class="label-item">$$$</span>
+              <span class="label-item">Mensual</span>
             </div>
           </div>
           
@@ -90,7 +89,7 @@ export default (() => {
           <div class="filter-section">
             <div class="section-header">
               <h4 class="section-title">Tarda</h4>
-              <button class="section-reset time-reset">Limpiar</button>
+              <span class="section-reset-link" data-slider="time">Limpiar</span>
             </div>
             <input 
               type="range" 
@@ -99,10 +98,10 @@ export default (() => {
               max="2" 
               value="2" 
             />
-            <div class="slider-labels">
-              <span>Minutos</span>
-              <span>Horas</span>
-              <span>Días</span>
+            <div class="slider-labels time-labels">
+              <span class="label-item">Minutos</span>
+              <span class="label-item">Horas</span>
+              <span class="label-item">Días</span>
             </div>
           </div>
           
@@ -110,7 +109,7 @@ export default (() => {
           <div class="filter-section">
             <div class="section-header">
               <h4 class="section-title">Ayudantes</h4>
-              <button class="section-reset helpers-reset">Limpiar</button>
+              <span class="section-reset-link" data-slider="helpers">Limpiar</span>
             </div>
             <input 
               type="range" 
@@ -119,11 +118,11 @@ export default (() => {
               max="3" 
               value="3" 
             />
-            <div class="slider-labels">
-              <span>Sin ayudantes</span>
-              <span>1 ayu.</span>
-              <span>2-3 ayu.</span>
-              <span>+3 ayu.</span>
+            <div class="slider-labels helpers-labels">
+              <span class="label-item">Solo</span>
+              <span class="label-item">1 ayu.</span>
+              <span class="label-item">2-3 ayu.</span>
+              <span class="label-item">+3 ayu.</span>
             </div>
           </div>
           
@@ -131,18 +130,18 @@ export default (() => {
           <div class="filter-section">
             <div class="section-header">
               <h4 class="section-title">Permite</h4>
-              <button class="section-reset permite-reset">Limpiar</button>
+              <span class="section-reset-link" data-slider="permite">Limpiar</span>
             </div>
-            <div class="permite-options">
+            <input 
+              type="range" 
+              class="filter-slider permite-slider"
+              min="0" 
+              max="3" 
+              value="0" 
+            />
+            <div class="slider-labels permite-labels">
               {permiteOptions.map((opt) => (
-                <label class="permite-item">
-                  <input 
-                    type="checkbox" 
-                    class="permite-checkbox" 
-                    value={opt}
-                  />
-                  <span class="permite-label">{opt}</span>
-                </label>
+                <span class="label-item">{opt}</span>
               ))}
             </div>
           </div>

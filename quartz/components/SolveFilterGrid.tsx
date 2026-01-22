@@ -47,10 +47,13 @@ export default ((opts?: SolveFilterGridOptions) => {
 
     return (
       <div class="solve-grid-wrapper">
-        {/* Grid de tarjetas - 3 columnas */}
+        <p class="solve-count">{list.length} soluciones en esta carpeta.</p>
+        
+        {/* Grid de tarjetas - Estilo masonry como Inspire */}
         <div class="solve-card-grid">
           {list.map((page) => {
             const title = titleFallback(page)
+            const description = page.frontmatter?.description as string | undefined
             const dificultad = page.frontmatter?.dificultad as string | undefined
             const costo = page.frontmatter?.costo as string | undefined
             const tarda = page.frontmatter?.tarda as string | undefined
@@ -59,15 +62,6 @@ export default ((opts?: SolveFilterGridOptions) => {
             const diffNum = dificultad ? (difficultyMap[dificultad] ?? 2) : 2
             const costNum = costo ? (costMap[costo] ?? 1) : 1
             const timeNum = tarda ? (timeMap[tarda] ?? 2) : 2
-            
-            // Renderizar iconos de costo
-            const costIcon = costo === "Gratis" ? "Ⓢ" : 
-                            costo?.includes("< USD 25") ? "ⓈⓈ" : 
-                            costo?.includes("25 - 50") ? "ⓈⓈ" : "ⓈⓈⓈ"
-            
-            // Renderizar iconos de tiempo
-            const timeIcon = tarda === "Minutos" ? "⏱" : 
-                            tarda === "Horas" ? "⏱⏱" : "⏱⏱⏱"
             
             return (
               <a
@@ -80,16 +74,14 @@ export default ((opts?: SolveFilterGridOptions) => {
               >
                 <div class="solve-card-body">
                   <h3 class="solve-card-title">{title}</h3>
-                </div>
-                <div class="solve-card-meta">
-                  {dificultad && <span class="meta-item difficulty">{dificultad}</span>}
-                  {costo && <span class="meta-item cost">{costIcon}</span>}
-                  {tarda && <span class="meta-item time">{timeIcon}</span>}
+                  {description && (
+                    <p class="solve-card-summary">{description}</p>
+                  )}
                 </div>
                 {tags.length > 0 && (
                   <div class="solve-card-tags">
-                    {tags.slice(0, 2).map((tag) => (
-                      <span class="tag-badge">{tag}</span>
+                    {tags.slice(0, 3).map((tag) => (
+                      <span class="solve-card-tag">#{tag}</span>
                     ))}
                   </div>
                 )}

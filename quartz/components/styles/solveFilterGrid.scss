@@ -7,93 +7,89 @@
   margin: 1rem 0;
 }
 
-// Grid de tarjetas - 3 columnas en desktop
+.solve-count {
+  margin: 0 0 1rem 0;
+  color: var(--gray);
+  font-size: 0.95rem;
+}
+
+// Grid de tarjetas - Estilo masonry como Inspire
 .solve-card-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1rem;
+  column-count: 3;
+  column-gap: 1.25rem;
+  
+  @media all and ($tablet) {
+    column-count: 2;
+  }
+  
+  @media all and ($mobile) {
+    column-count: 1;
+  }
 }
 
 .solve-card {
   display: flex;
   flex-direction: column;
-  background: #991d79;
-  border: 2px solid rgba(255, 255, 255, 0.15);
-  border-radius: 8px;
+  overflow: hidden;
+  border: 3px solid #4f4f4f;
+  border-radius: 0; // Sin curvas
   text-decoration: none;
-  transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
-  min-height: 140px;
+  color: inherit;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+  background-color: #991d79;
+  break-inside: avoid;
+  margin-bottom: 1.25rem;
+  box-shadow: 6px 6px 0 #4f4f4f;
   
   &:hover {
     transform: translateY(-2px);
-    border-color: var(--tertiary);
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+    box-shadow: 8px 8px 0 #4f4f4f;
+    border-color: #4f4f4f;
   }
 }
 
 .solve-card-body {
-  padding: 1rem 1rem 0.5rem;
-  flex: 1;
   display: flex;
-  align-items: flex-start;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 1rem 1.25rem 1.25rem;
+  background-color: #991d79;
 }
 
 .solve-card-title {
   margin: 0;
   font-family: var(--bodyFont);
-  font-size: clamp(0.9rem, 1.5vw, 1rem);
+  font-size: clamp(0.95rem, 2vw, 1.2rem);
   font-weight: 600;
+  line-height: 1.3;
   color: #ffffff;
-  line-height: 1.35;
 }
 
-.solve-card-meta {
-  display: flex;
-  gap: 0.5rem;
-  padding: 0.5rem 1rem;
-  
-  .meta-item {
-    font-family: var(--bodyFont);
-    font-size: 0.75rem;
-    color: rgba(255, 255, 255, 0.9);
-    
-    &.difficulty {
-      color: var(--tertiary);
-    }
-  }
+.solve-card-summary {
+  margin: 0;
+  font-size: 17px;
+  line-height: 1.4;
+  color: #ffffff;
+  font-family: "Noto Sans", var(--bodyFont);
+  font-weight: 400;
 }
 
 .solve-card-tags {
   display: flex;
-  gap: 0.35rem;
-  padding: 0 1rem 0.75rem;
   flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 0 1.25rem 1rem;
 }
 
-.tag-badge {
-  font-family: var(--bodyFont);
-  font-size: 0.65rem;
-  padding: 0.15rem 0.4rem;
-  background: rgba(255, 255, 255, 0.15);
+.solve-card-tag {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.15rem 0.5rem;
+  border-radius: 0;
+  font-size: 14px;
+  font-weight: 400;
+  background-color: rgba(255, 255, 255, 0.25);
   color: #ffffff;
-  border-radius: 2px;
-}
-
-// Responsive
-@media (max-width: 1100px) {
-  .solve-card-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-@media (max-width: 768px) {
-  .solve-card-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-@media (max-width: 500px) {
-  .solve-card-grid {
-    grid-template-columns: 1fr;
-  }
+  font-family: "Noto Sans", var(--bodyFont);
+  white-space: nowrap;
 }
