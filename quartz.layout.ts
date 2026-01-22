@@ -9,12 +9,6 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    Component.ConditionalRender({
-      component: Component.RandomCardGrid({ count: 3 }),
-      condition: (props) =>
-        props.fileData.frontmatter?.type === "section-index" &&
-        props.fileData.slug !== "index",
-    }),
     Component.Comments(),
   ],
   footer: Component.ConditionalRender({
@@ -184,6 +178,26 @@ export const defaultListPageLayout: PageLayout = {
       component: Component.ContentMeta(),
       condition: (page) => !isHomePage(page),
     }),
+    // Filtro de Solve visible solo en móvil (aparece arriba del contenido)
+    Component.MobileOnly(
+      Component.ConditionalRender({
+        component: Component.SolveFilterSidebar(),
+        condition: (page) => {
+          const slug = page.fileData.slug ?? ""
+          return slug.startsWith("es/solve") || slug.startsWith("solve")
+        },
+      }),
+    ),
+    // Filtro de Inspire visible solo en móvil (aparece arriba del contenido)
+    Component.MobileOnly(
+      Component.ConditionalRender({
+        component: Component.InspireFilterSidebar(),
+        condition: (page) => {
+          const slug = page.fileData.slug ?? ""
+          return slug.startsWith("es/inspire") || slug.startsWith("inspire")
+        },
+      }),
+    ),
   ],
   left: [
     Component.PageTitle(),
@@ -289,13 +303,25 @@ export const defaultListPageLayout: PageLayout = {
     }),
   ],
   right: [
-    Component.ConditionalRender({
-      component: Component.InspireFilterSidebar(),
-      condition: (page) => {
-        const slug = page.fileData.slug ?? ""
-        // Mostrar filtro en TODA la sección de Inspire (incluyendo página principal)
-        return slug.startsWith("es/inspire") || slug.startsWith("inspire")
-      },
-    }),
+    // Filtro para la sección de Inspire (solo desktop - móvil usa beforeBody)
+    Component.DesktopOnly(
+      Component.ConditionalRender({
+        component: Component.InspireFilterSidebar(),
+        condition: (page) => {
+          const slug = page.fileData.slug ?? ""
+          return slug.startsWith("es/inspire") || slug.startsWith("inspire")
+        },
+      }),
+    ),
+    // Filtro para la sección de Solve (solo desktop - móvil usa beforeBody)
+    Component.DesktopOnly(
+      Component.ConditionalRender({
+        component: Component.SolveFilterSidebar(),
+        condition: (page) => {
+          const slug = page.fileData.slug ?? ""
+          return slug.startsWith("es/solve") || slug.startsWith("solve")
+        },
+      }),
+    ),
   ],
 }

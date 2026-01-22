@@ -21,77 +21,121 @@ const INSPIRE_CATEGORIES: InspireCategory[] = [
 const normalizeTag = (tag: string) => tag.trim().toLowerCase()
 
 export default (() => {
-  const InspireFilterSidebar: QuartzComponent = ({ }: QuartzComponentProps) => {
+  const InspireFilterSidebar: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
     const tags = INSPIRE_CATEGORIES.map((cat) => ({
       value: normalizeTag(cat.value),
       label: cat.label,
     }))
 
     const filterScript = `
-      document.addEventListener('DOMContentLoaded', function() {
-        const wrapper = document.querySelector('.inspire-filter');
-        if (!wrapper) return;
-        const checkboxes = wrapper.querySelectorAll('input[type="checkbox"][data-filter-tag]');
-        const resetBtn = wrapper.querySelector('[data-filter-reset]');
-        const cards = document.querySelectorAll('.page-card-grid.section-inspire .page-card');
-        const totalOptions = checkboxes.length;
-
-        function getSelected() {
-          const selected = [];
-          checkboxes.forEach(cb => {
-            if (cb.checked) selected.push(cb.value);
-          });
-          return selected;
+      (function() {
+        if (window._inspireFilterGlobalAttached) {
+             // Si ya están los listeners globales, solo aseguramos que el filtro se aplique al navegar
+             return; 
         }
+        window._inspireFilterGlobalAttached = true;
 
-        function showAll() {
+        // Helper para obtener tarjetas (siempre busca en el DOM actual)
+        const getCards = () => document.querySelectorAll('.page-card-grid.section-inspire .page-card');
+
+        // Función de filtrado
+        const filterCards = () => {
+          const cards = getCards();
+          if (cards.length === 0) return;
+
+          // Obtenemos los tags activos de cualquier botón activo en el DOM
+          const activeTagsSet = new Set();
+          document.querySelectorAll('.inspire-filter-btn.active').forEach(btn => {
+            if (btn.dataset.filterTag) {
+              activeTagsSet.add(btn.dataset.filterTag.toLowerCase());
+            }
+          });
+          const selectedTags = Array.from(activeTagsSet);
+
           cards.forEach(card => {
-            card.style.display = '';
+            if (selectedTags.length === 0) {
+              card.style.display = 'block';
+              return;
+            }
+            const cardTagsStr = card.dataset.tags || '';
+            const cardTags = cardTagsStr.toLowerCase().split(',').map(t => t.trim());
+            const matches = selectedTags.some(tag => cardTags.includes(tag));
+            card.style.display = matches ? 'block' : 'none';
           });
-        }
+        };
 
-        function filterCards() {
-          const selected = getSelected();
-          if (selected.length === 0 || selected.length === totalOptions) {
-            showAll();
+        // Delegación de eventos global
+        document.addEventListener('click', (e) => {
+          // Manejar clic en botón de filtro
+          const btn = e.target.closest('.inspire-filter-btn');
+          if (btn) {
+            e.preventDefault();
+            e.stopPropagation(); // Evitar propagación para prevenir dobles manejos si hay otros listeners
+            
+            const tag = btn.dataset.filterTag;
+            
+            // Sincronización: Buscar TODOS los botones con este tag
+            const allMatchingButtons = document.querySelectorAll(\`button[data-filter-tag="\${tag}"]\`);
+            
+            // Determinar nuevo estado (toggle) basado en el botón clickeado
+            const newState = !btn.classList.contains('active');
+
+            allMatchingButtons.forEach(b => {
+              if (newState) b.classList.add('active');
+              else b.classList.remove('active');
+            });
+
+            filterCards();
             return;
           }
 
-          cards.forEach(card => {
-            const tags = (card.dataset.tags || '').split(',').filter(Boolean);
-            const match = selected.some(tag => tags.includes(tag));
-            card.style.display = match ? '' : 'none';
-          });
+          // Manejar clic en reset
+          const resetBtn = e.target.closest('.inspire-filter-reset');
+          if (resetBtn) {
+             e.preventDefault();
+             e.stopPropagation();
+             
+             document.querySelectorAll('.inspire-filter-btn.active').forEach(b => {
+               b.classList.remove('active');
+             });
+             filterCards();
+          }
+        });
+
+        // Re-aplicar filtro al navegar (por si el DOM cambió pero el estado visual se perdió o para inicializar)
+        document.addEventListener('nav', () => {
+             // Pequeño delay para asegurar que el DOM nuevo esté listo
+             setTimeout(filterCards, 50);
+        });
+        
+        // Ejecución inicial
+        if (document.readyState === 'complete' || document.readyState === 'interactive') {
+            filterCards();
+        } else {
+            document.addEventListener('DOMContentLoaded', filterCards);
         }
 
-        function resetFilters() {
-          checkboxes.forEach(cb => { cb.checked = false; });
-          showAll();
-        }
-
-        checkboxes.forEach(cb => cb.addEventListener('change', filterCards));
-        if (resetBtn) resetBtn.addEventListener('click', resetFilters);
-      });
+      })();
     `
 
     return (
-      <div class="inspire-filter" role="region" aria-label="Filtros de categorías">
+      <div class={`inspire-filter ${displayClass ?? ""}`} role="region" aria-label="Filtro de categorías">
         <div class="inspire-filter-header">
-          <h3>Filtros</h3>
+          <h3>Categorías</h3>
           <button type="button" class="inspire-filter-reset" data-filter-reset>
             Limpiar
           </button>
         </div>
-        <div class="inspire-filter-section">
-          <h4>Categorías</h4>
-          <div class="inspire-filter-options">
-            {tags.map((tag) => (
-              <label class="inspire-filter-option">
-                <input type="checkbox" data-filter-tag value={tag.value} />
-                <span>{tag.label}</span>
-              </label>
-            ))}
-          </div>
+        <div class="inspire-filter-options">
+          {tags.map((tag) => (
+            <button
+              type="button"
+              class="inspire-filter-btn"
+              data-filter-tag={tag.value}
+            >
+              {tag.label}
+            </button>
+          ))}
         </div>
         <script dangerouslySetInnerHTML={{ __html: filterScript }} />
       </div>

@@ -25,9 +25,6 @@ const timeMap: Record<string, number> = {
   "Días": 3,
 }
 
-// Categorías disponibles
-const categories = ["Señal", "Dispositivos", "Personas", "Electricidad", "Espacio"]
-
 const titleFallback = (page: QuartzPluginData): string => {
   const title = page.frontmatter?.title
   if (typeof title === "string" && title.trim().length > 0) return title.trim()
@@ -48,206 +45,8 @@ export default ((opts?: SolveFilterGridOptions) => {
     const sorter = byDateAndAlphabeticalFolderFirst(cfg)
     const list = allFiles.sort(sorter)
 
-    // Script de filtrado - solo se activa con interacción del usuario
-    const filterScript = `
-    document.addEventListener('DOMContentLoaded', function() {
-      const diffSlider = document.getElementById('diff-slider');
-      const costSlider = document.getElementById('cost-slider');
-      const timeSlider = document.getElementById('time-slider');
-      const checkboxes = document.querySelectorAll('.category-checkbox');
-      const cards = document.querySelectorAll('.solve-card');
-      const diffValue = document.getElementById('diff-value');
-      const costValue = document.getElementById('cost-value');
-      const timeValue = document.getElementById('time-value');
-      const countDisplay = document.getElementById('card-count');
-      const resetBtn = document.getElementById('filter-reset');
-      
-      const diffLabels = ['', 'Fácil', 'Medio', 'Complejo'];
-      const costLabels = ['Gratis', '$', '$$', '$$$'];
-      const timeLabels = ['', 'Min', 'Hrs', 'Días'];
-      
-      // Estado: filtros inactivos hasta primera interacción
-      let filtersActive = false;
-      
-      function updateLabels() {
-        if (diffValue) diffValue.textContent = diffLabels[diffSlider.value] || '';
-        if (costValue) costValue.textContent = costLabels[costSlider.value] || '';
-        if (timeValue) timeValue.textContent = timeLabels[timeSlider.value] || '';
-      }
-      
-      function getCheckedCategories() {
-        const checked = [];
-        checkboxes.forEach(cb => {
-          if (cb.checked) checked.push(cb.value);
-        });
-        return checked;
-      }
-      
-      function filterCards() {
-        // Solo filtrar si el usuario ha interactuado
-        if (!filtersActive) {
-          updateLabels();
-          return;
-        }
-        
-        const maxDiff = parseInt(diffSlider.value);
-        const maxCost = parseInt(costSlider.value);
-        const maxTime = parseInt(timeSlider.value);
-        const selectedCats = getCheckedCategories();
-        
-        let visibleCount = 0;
-        
-        cards.forEach(card => {
-          const cardDiff = parseInt(card.dataset.difficulty) || 0;
-          const cardCost = parseInt(card.dataset.cost) || 0;
-          const cardTime = parseInt(card.dataset.time) || 0;
-          const cardCats = (card.dataset.categories || '').split(',').filter(Boolean);
-          
-          const matchesDiff = cardDiff <= maxDiff;
-          const matchesCost = cardCost <= maxCost;
-          const matchesTime = cardTime <= maxTime;
-          const matchesCat = selectedCats.length === 0 || 
-            selectedCats.some(cat => cardCats.includes(cat));
-          
-          if (matchesDiff && matchesCost && matchesTime && matchesCat) {
-            card.style.display = 'flex';
-            visibleCount++;
-          } else {
-            card.style.display = 'none';
-          }
-        });
-        
-        if (countDisplay) {
-          countDisplay.textContent = visibleCount + ' soluciones';
-        }
-        
-        updateLabels();
-      }
-      
-      function activateAndFilter() {
-        filtersActive = true;
-        filterCards();
-      }
-      
-      function resetFilters() {
-        filtersActive = false;
-        diffSlider.value = 3;
-        costSlider.value = 3;
-        timeSlider.value = 3;
-        checkboxes.forEach(cb => cb.checked = false);
-        
-        // Mostrar todas las tarjetas
-        cards.forEach(card => card.style.display = 'flex');
-        if (countDisplay) countDisplay.textContent = cards.length + ' soluciones';
-        updateLabels();
-      }
-      
-      // Event listeners - activan filtros en primera interacción
-      if (diffSlider) diffSlider.addEventListener('input', activateAndFilter);
-      if (costSlider) costSlider.addEventListener('input', activateAndFilter);
-      if (timeSlider) timeSlider.addEventListener('input', activateAndFilter);
-      checkboxes.forEach(cb => cb.addEventListener('change', activateAndFilter));
-      if (resetBtn) resetBtn.addEventListener('click', resetFilters);
-      
-      // Inicializar labels sin filtrar
-      updateLabels();
-      if (countDisplay) countDisplay.textContent = cards.length + ' soluciones';
-    });
-    `
-
     return (
-      <div class="solve-filter-wrapper">
-        {/* Barra de filtros horizontal arriba */}
-        <div class="solve-filter-bar">
-          <div class="filter-header">
-            <span class="filter-icon">⚡</span>
-            <span class="filter-title">Filtrar soluciones</span>
-            <span id="card-count" class="filter-count">{list.length} soluciones</span>
-            <button id="filter-reset" class="filter-reset-btn">Limpiar</button>
-          </div>
-          
-          <div class="filter-controls">
-            <div class="filter-group">
-              <label class="filter-label">
-                <span class="label-text">Dificultad</span>
-                <span id="diff-value" class="label-value">Complejo</span>
-              </label>
-              <input 
-                type="range" 
-                id="diff-slider" 
-                min="1" 
-                max="3" 
-                value="3" 
-                class="pixel-slider"
-              />
-              <div class="slider-marks">
-                <span>Fácil</span>
-                <span>Medio</span>
-                <span>Complejo</span>
-              </div>
-            </div>
-            
-            <div class="filter-group">
-              <label class="filter-label">
-                <span class="label-text">Costo</span>
-                <span id="cost-value" class="label-value">$$$</span>
-              </label>
-              <input 
-                type="range" 
-                id="cost-slider" 
-                min="0" 
-                max="3" 
-                value="3" 
-                class="pixel-slider"
-              />
-              <div class="slider-marks">
-                <span>Gratis</span>
-                <span>$</span>
-                <span>$$</span>
-                <span>$$$</span>
-              </div>
-            </div>
-            
-            <div class="filter-group">
-              <label class="filter-label">
-                <span class="label-text">Tiempo</span>
-                <span id="time-value" class="label-value">Días</span>
-              </label>
-              <input 
-                type="range" 
-                id="time-slider" 
-                min="1" 
-                max="3" 
-                value="3" 
-                class="pixel-slider"
-              />
-              <div class="slider-marks">
-                <span>Min</span>
-                <span>Hrs</span>
-                <span>Días</span>
-              </div>
-            </div>
-            
-            <div class="filter-group filter-categories">
-              <label class="filter-label">
-                <span class="label-text">Categorías</span>
-              </label>
-              <div class="checkbox-group">
-                {categories.map((cat) => (
-                  <label class="checkbox-label">
-                    <input 
-                      type="checkbox" 
-                      class="category-checkbox filter-checkbox" 
-                      value={cat}
-                    />
-                    <span class="checkbox-text">{cat}</span>
-                  </label>
-                ))}
-              </div>
-            </div>
-          </div>
-        </div>
-        
+      <div class="solve-grid-wrapper">
         {/* Grid de tarjetas - 3 columnas */}
         <div class="solve-card-grid">
           {list.map((page) => {
@@ -298,8 +97,6 @@ export default ((opts?: SolveFilterGridOptions) => {
             )
           })}
         </div>
-        
-        <script dangerouslySetInnerHTML={{ __html: filterScript }} />
       </div>
     )
   }
