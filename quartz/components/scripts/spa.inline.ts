@@ -24,6 +24,28 @@ const isSamePage = (url: URL): boolean => {
   return sameOrigin && samePath
 }
 
+const getBasePath = (): string => {
+  const basePath = document.body?.dataset.basepath ?? ""
+  if (!basePath || basePath === "/") return ""
+  return basePath.endsWith("/") ? basePath.slice(0, -1) : basePath
+}
+
+const shouldApplyBasePath = (basePath: string): boolean => {
+  if (!basePath) return false
+  const currentPath = window.location.pathname
+  return currentPath === basePath || currentPath.startsWith(basePath + "/")
+}
+
+const applyBasePath = (url: URL): URL => {
+  const basePath = getBasePath()
+  if (!shouldApplyBasePath(basePath)) return url
+  if (url.pathname === basePath || url.pathname.startsWith(basePath + "/")) return url
+  const next = new URL(url.toString())
+  const path = next.pathname.startsWith("/") ? next.pathname : `/${next.pathname}`
+  next.pathname = `${basePath}${path}`
+  return next
+}
+
 const getOpts = ({ target }: Event): { url: URL; scroll?: boolean } | undefined => {
   if (!isElement(target)) return
   if (target.attributes.getNamedItem("target")?.value === "_blank") return
@@ -32,7 +54,8 @@ const getOpts = ({ target }: Event): { url: URL; scroll?: boolean } | undefined 
   if ("routerIgnore" in a.dataset) return
   const { href } = a
   if (!isLocalUrl(href)) return
-  return { url: new URL(href), scroll: "routerNoscroll" in a.dataset ? false : undefined }
+  const url = applyBasePath(new URL(href))
+  return { url, scroll: "routerNoscroll" in a.dataset ? false : undefined }
 }
 
 function notifyNav(url: FullSlug) {
@@ -136,11 +159,12 @@ async function _navigate(url: URL, isBack: boolean = false) {
 async function navigate(url: URL, isBack: boolean = false) {
   if (isNavigating) return
   isNavigating = true
+  const targetUrl = applyBasePath(url)
   try {
-    await _navigate(url, isBack)
+    await _navigate(targetUrl, isBack)
   } catch (e) {
     console.error(e)
-    window.location.assign(url)
+    window.location.assign(targetUrl)
   } finally {
     isNavigating = false
   }

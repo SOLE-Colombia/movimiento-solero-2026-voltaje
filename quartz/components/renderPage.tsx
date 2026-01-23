@@ -440,12 +440,18 @@ export function renderPage(
     </div>
   )
 
+  const basePath = (() => {
+    if (!cfg.baseUrl) return ""
+    const url = new URL(`https://${cfg.baseUrl}`)
+    const cleaned = url.pathname.replace(/\/$/, "")
+    return cleaned === "/" ? "" : cleaned
+  })()
   const lang = componentData.fileData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en"
   const direction = i18n(cfg.locale).direction ?? "ltr"
   const doc = (
     <html lang={lang} dir={direction}>
       <Head {...componentData} />
-      <body data-slug={slug}>
+      <body data-slug={slug} data-basepath={basePath}>
         <div id="quartz-root" class="page">
           <Body {...componentData}>
             {LeftComponent}

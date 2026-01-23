@@ -116,7 +116,6 @@ export const defaultContentPageLayout: PageLayout = {
           "glossary",      // Conceptorio
           "disconnected",  // Desconectado
           "answers-comments", // ¿Quieres hablar con otro humano?
-          "general",       // General (si existe)
         ]
 
         // Obtener índice en el orden personalizado (-1 si no está en la lista)
