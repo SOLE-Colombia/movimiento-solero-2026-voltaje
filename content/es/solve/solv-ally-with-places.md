@@ -45,7 +45,8 @@ Con estas recomendaciones puedes saber cómo acercarte a otros para que apoyen l
     Aunque no debes subestimar el talento de tu comunidad, puedes ir priorizando las personas y lugares que quieres convocar con un ‘para qué’ que esté bien claro. 
     
     Si puedes, define con detalle tu propuesta: ¿es un evento, o una serie de eventos? ¿qué necesitas tener, o comprar, o con qué necesitas dotar tu propósito? ¿necesitas contar con más personas, o lo vas a hacer tú solo?
-    
+    <br>
+
 - **Momento 2: Localiza a los que convocan, quiénes son y qué hacen**
     
     Observa a tu alrededor: en tu barrio, en tu comunidad, en tu localidad… ¡quizá en tu propia casa tengas aliados!
