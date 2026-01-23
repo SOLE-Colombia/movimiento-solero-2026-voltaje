@@ -13,7 +13,7 @@ En el año 2023, la comunidad de Dominguillo comenzó a vivir una transformació
 
 Aquí está presentando el Jangala o a “Jang”, como decidieron llamarlo, Luis Miguel Mina -o Lucho, como lo conocemos todos- es uno de los Embajadores SOLE que formamos en el 2023: 
 
-<video controls preload="metadata" src="../../../assets/videos/insp-internetimprove-dominguillo/insp-internetimprove-dominguillo1.webm"></video>
+<video controls preload="metadata" src="/assets/videos/insp-internetimprove-dominguillo/insp-internetimprove-dominguillo1.webm"></video>
 *Franki, Lucho y Mateo en los Talleres de Inspiración en Dominguillo, Cauca (2023).*
 
 
@@ -46,16 +46,16 @@ Sin embargo, con el paso del tiempo la comunidad ya no pudo seguir utilizando la
 
 Y… ¿Adivinen qué? Juntos, trabajamos en el desarrollo del SOLE Lab, un espacio público en el que se instalaron sillas, mesas y computadoras y se restableció el acceso a Internet. Con el SOLE Lab, los habitantes de Dominguillo recuperaron la oportunidad de conectarse al mundo, continuar sus sesiones de SOLE y explorar nuevas formas de aprendizaje.
 
-![Espacio comunitario del SOLE Lab en Dominguillo, Cauca](../../../assets/images/insp-internetimprove-dominguillo/insp-internetimprove-dominguillo-beauty.webp)
+![Espacio comunitario del SOLE Lab en Dominguillo, Cauca](/assets/images/insp-internetimprove-dominguillo/insp-internetimprove-dominguillo-beauty.webp)
 *SOLE Lab de Dominguillo, Cauca (2024).*
 
-![Actividades productivas y aprendizaje comunitario](../../../assets/images/insp-internetimprove-dominguillo/insp-internetimprove-dominguillo-harvest.webp)
+![Actividades productivas y aprendizaje comunitario](/assets/images/insp-internetimprove-dominguillo/insp-internetimprove-dominguillo-harvest.webp)
 *Aprendizaje y trabajo comunitario en el SOLE Lab, Dominguillo (2024).*
 
-![Niños participando en sesiones SOLE](../../../assets/images/insp-internetimprove-dominguillo/insp-internetimprove-dominguillo-kids.webp)
+![Niños participando en sesiones SOLE](/assets/images/insp-internetimprove-dominguillo/insp-internetimprove-dominguillo-kids.webp)
 *Niños y jóvenes participando en sesiones SOLE, Dominguillo (2024).*
 
-![Videollamadas y conexión con el mundo](../../../assets/images/insp-internetimprove-dominguillo/insp-internetimprove-dominguillo-videocall.webp)
+![Videollamadas y conexión con el mundo](/assets/images/insp-internetimprove-dominguillo/insp-internetimprove-dominguillo-videocall.webp)
 *Conectividad y comunicación global desde Dominguillo, Cauca (2024).*
 
 
