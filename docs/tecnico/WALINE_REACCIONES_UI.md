@@ -1,66 +1,107 @@
-## UI de reacciones Waline (Quartz) – guía de ajustes
+# UI de Waline (reacciones + comentarios) - guia actualizada
 
-Este proyecto usa un `Comments.tsx` que integra Waline pero **solo muestra reacciones** (se oculta editor, lista de comentarios, etc.). El diseño está implementado como CSS embebido en `const style`.
+Esta integracion usa Waline con **reacciones y caja de comentarios**. El diseno y la experiencia se controlan en dos lugares:
 
-### Dónde editar
+- **Estilos y overrides**: `quartz/components/Comments.tsx` (`const style = \`...\``)
+- **Configuracion de Waline**: `quartz/components/scripts/waline.inline.ts`
 
-- **Componente**: `quartz/components/Comments.tsx`
-- **Bloque CSS**: `const style = \`...\``
+La idea es mantener la estetica SOLE: bordes fuertes, esquinas rectas y tipografia monoespaciada.
 
-### Estructura real (clases de Waline)
+---
+
+## 1) Configuracion actual (resumen)
+
+- **Reacciones activas**: 3 botones.
+- **Iconos**: data URI (SVG inline) en `reactionIcons`.
+- **Texto principal**: `locale.reactionTitle`
+- **Placeholder**: `locale.placeholder`
+- **Estado vacio**: `locale.sofa`
+- **Acciones pesadas desactivadas**:
+  - GIFs (`search: false`)
+  - Upload de imagenes (`imageUploader: false`)
+  - Boton de preview (oculto por CSS)
+
+---
+
+## 2) Donde editar y que tocar
+
+### A) `quartz/components/scripts/waline.inline.ts`
+
+Aqui viven:
+- `serverURL` (backend de Waline)
+- `reactionIcons` (3 iconos en orden)
+- textos en `locale` (titulo, placeholder, sofa)
+- flags de features (`imageUploader`, `search`)
+
+Si cambias el orden de las reacciones, actualiza tambien el CSS en `Comments.tsx`.
+
+### B) `quartz/components/Comments.tsx`
+
+Aqui esta todo el CSS de UI (panel, formulario, botones, reacciones y tarjetas).
+
+Puntos clave que ya estan alineados al look SOLE:
+- **Bordes**: `3px solid #4f4f4f` y `border-radius: 1px`
+- **Tipografia**: `var(--headerFont)` para titulo de reacciones, `var(--bodyFont)` para el resto
+- **Panel**: sin sombras, con padding y divisiones internas
+
+---
+
+## 3) Estructura real (clases de Waline)
 
 - **Lista**: `.wl-reaction-list` (contenedor flex)
-- **Botón**: `.wl-reaction-item` (cada reacción)
+- **Boton**: `.wl-reaction-item` (cada reaccion)
 - **Votos**: `.wl-reaction-votes`
-- **Ícono “roto” de Waline**: `.wl-reaction-img` (se oculta)
+- **Icono nativo de Waline**: `.wl-reaction-img` (se oculta)
 
-El ícono visible se dibuja con `::before` usando `mask-image` (SVG inline) y color vía `currentColor`.
+El icono visible se dibuja con `::before` usando `mask-image` y color `currentColor`.
 
-### Estados (3 botones)
+---
+
+## 4) Estados (3 botones)
 
 El CSS asume **3 reacciones** y las estiliza por orden:
 
-1. `nth-child(1)` → **No funcionó** (rojo `#ef4444`)
-2. `nth-child(2)` → **Regular** (ámbar `#f59e0b`)
-3. `nth-child(3)` → **Funcionó** (verde `#10b981`)
+1. `nth-child(1)` -> **No funciono** (rojo `#ef4444`)
+2. `nth-child(2)` -> **Regular** (ambar `#f59e0b`)
+3. `nth-child(3)` -> **Funciono** (verde `#10b981`)
 
-Si cambias el orden/cantidad en la configuración de Waline, debes actualizar las reglas `nth-child()`.
+Si cambias el orden/cantidad en `reactionIcons`, tambien cambia los `nth-child()`.
 
-### Responsive (mobile-first compacto)
+---
 
-- **Desktop/Tablet**: la lista es horizontal con `flex-wrap`, y cada item usa `flex: 1 1 12.5rem` para evitar cortes.
-- **Mobile (`@media (max-width: 600px)`)**:
-  - Se mantiene **fila/rejilla** (no columna).
-  - Se reduce `padding` y tamaño del ícono.
-  - Cada botón usa `flex: 1 1 9.5rem` para acomodarse en 1–2 filas sin ocupar toda la pantalla.
+## 5) Comentarios habilitados (editor visible)
 
-### Evitar “corte de información”
+Ahora la seccion **si permite comentar**. Se muestran:
+- Campos de nombre/correo (header)
+- Editor
+- Footer con boton "Enviar"
 
-El texto de cada botón se imprime con `::after` y se fuerza a una sola línea:
+Se ocultan solo acciones no deseadas (GIF, upload, preview).
 
-- `white-space: nowrap`
-- `overflow: hidden`
-- `text-overflow: ellipsis`
+---
 
-Si quieres permitir 2 líneas (por ejemplo en móviles), cambia a:
+## 6) Responsive
 
-- `white-space: normal;`
-- y opcional: `line-clamp` (requiere reglas extra).
+- **Desktop/Tablet**: reacciones en fila con wrap
+- **Mobile**:
+  - borde interno cambia de vertical a horizontal en el header
+  - botones compactos para no romper el layout
 
-### Hover/Active con color del estado
+---
 
-El hover y el active son por estado:
+## 7) Notas de SPA (Quartz)
 
-- Rojo: `background: #ef4444; color: white; border-color: #ef4444;`
-- Ámbar: `background: #f59e0b; color: white; border-color: #f59e0b;`
-- Verde: `background: #10b981; color: white; border-color: #10b981;`
+Waline se inicializa:
+- al cargar la pagina
+- y en cada navegacion SPA (`document.addEventListener("nav", ...)`)
 
-Como `::before` usa `currentColor`, el ícono automáticamente se vuelve blanco en hover/active.
+Esto evita que la UI se quede en blanco cuando se navega sin recargar.
 
-### Ajustes rápidos recomendados
+---
 
-- **Separación entre botones**: `.wl-reaction-list { gap: ... }`
-- **Ancho base de botón**: `.wl-reaction-item { flex: 1 1 ...; min-width: ...; max-width: ... }`
-- **Breakpoints**: `@media (max-width: 600px)` (puedes mover a 700px si tu sidebar es estrecho)
-- **Sombra en hover**: `.wl-reaction-item:hover { box-shadow: ...; transform: ... }` (mantener sutil para estilo “flat”)
+## 8) Checklist rapido
 
+- Abrir una pagina con comentarios
+- Ver que **no hay 404 `/true`**
+- Ver 3 reacciones con texto correcto
+- Ver caja de comentarios y boton "Enviar"

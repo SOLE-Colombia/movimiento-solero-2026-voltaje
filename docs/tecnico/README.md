@@ -4,13 +4,25 @@ Guía completa para desarrolladores y mantenedores de **SOLE Voltaje**.
 
 ---
 
-## 🚀 Inicio Rápido
+## 🚀 Inicio Rapido (guia unificada)
 
 Si es tu primera vez en el proyecto, lee estos documentos en orden:
 
-1.  **[ARQUITECTURA.md](./ARQUITECTURA.md)** - Entender cómo está construido el proyecto.
-2.  **[DOCKER.md](./DOCKER.md)** - Configuración del entorno DevContainers.
-3.  **[COMO_TRABAJAR_CORRECTAMENTE.md](./COMO_TRABAJAR_CORRECTAMENTE.md)** - Flujo de trabajo diario.
+1.  **[GUIA_ARQUITECTURA.md](./GUIA_ARQUITECTURA.md)** - Vision global del sistema.
+2.  **[GUIA_TECNICA.md](./GUIA_TECNICA.md)** - Comandos y procesos del dia a dia.
+3.  **[GUIA_DISENO.md](./GUIA_DISENO.md)** - Reglas visuales y estilo SOLE.
+4.  **[GUIA_RUTAS_Y_NOMENCLATURA.md](./GUIA_RUTAS_Y_NOMENCLATURA.md)** - Rutas, slugs y nombres.
+5.  **[DOCKER.md](./DOCKER.md)** - Entorno DevContainers.
+6.  **[COMO_TRABAJAR_CORRECTAMENTE.md](./COMO_TRABAJAR_CORRECTAMENTE.md)** - Flujo de trabajo diario.
+
+---
+
+## 🧭 Guias unificadas
+
+- **[GUIA_DISENO.md](./GUIA_DISENO.md)** - Resumen de diseno y UI.
+- **[GUIA_ARQUITECTURA.md](./GUIA_ARQUITECTURA.md)** - Resumen de arquitectura.
+- **[GUIA_RUTAS_Y_NOMENCLATURA.md](./GUIA_RUTAS_Y_NOMENCLATURA.md)** - Rutas, nombres y convenciones.
+- **[GUIA_TECNICA.md](./GUIA_TECNICA.md)** - Operacion diaria y troubleshooting.
 
 ---
 
