@@ -50,11 +50,22 @@ interface SolveFilterGridOptions {
 const clampCount = (value: number, min: number, max: number) =>
   Math.min(max, Math.max(min, value))
 
-const iconSrc = (metric: string, level: number) => `/assets/icons/solve-${metric}-${level}.svg`
+const iconSrc = (baseSlug: FullSlug, metric: string, level: number) =>
+  resolveRelative(baseSlug, `assets/icons/solve-${metric}-${level}.svg` as FullSlug)
 
-const renderMetricIcon = (level: number, className: string, label: string) => (
+const renderMetricIcon = (
+  baseSlug: FullSlug,
+  level: number,
+  className: string,
+  label: string,
+) => (
   <span class={`solve-card-metric ${className}`} aria-label={label} title={label}>
-    <img class="solve-card-metric-icon" src={iconSrc(className, level)} alt="" aria-hidden="true" />
+    <img
+      class="solve-card-metric-icon"
+      src={iconSrc(baseSlug, className, level)}
+      alt=""
+      aria-hidden="true"
+    />
   </span>
 )
 
@@ -119,13 +130,15 @@ export default ((opts?: SolveFilterGridOptions) => {
                 {showMeta && (
                   <div class="solve-card-meta">
                     {renderMetricIcon(
+                      fileData.slug!,
                       diffLevel,
                       "difficulty",
                       `Dificultad: ${dificultad ?? "Sin dato"}`,
                     )}
-                    {renderMetricIcon(costLevel, "cost", `Costo: ${costo ?? "Sin dato"}`)}
-                    {renderMetricIcon(timeLevel, "time", `Tarda: ${tarda ?? "Sin dato"}`)}
+                    {renderMetricIcon(fileData.slug!, costLevel, "cost", `Costo: ${costo ?? "Sin dato"}`)}
+                    {renderMetricIcon(fileData.slug!, timeLevel, "time", `Tarda: ${tarda ?? "Sin dato"}`)}
                     {renderMetricIcon(
+                      fileData.slug!,
                       helpersLevel,
                       "helpers",
                       `Ayudantes: ${ayudantes ?? "Sin dato"}`,
