@@ -10,34 +10,30 @@ tarda: "Horas"
 autor: "SOLE Colombia"
 draft: false
 ---
-## Instalar una antena, para tener Internet en un espacio fijo
 
-![Bienvenida](/assets/images/solv-need-3Gantenna/solve-need-3Gantenna-welcome.webp)
+![Previsualización de la antena instalada](/assets/images/solv-need-3Gantenna/solve-need-3Gantenna-welcome.webp)
 
-### Audiolectura de la solución
+Hola, soy Sanjay, y no soy un experto en temas de conectividad, pero he aprendido *cacharreando:* es decir, a punta de prueba y error, y también, preguntándole a otras personas sobre el tema. 
 
-_________________
+En esta solución, vas a poder instalar una antena 3G/4G que hayas comprado. Si aún no tienes una, puedes ir a la solución ["¿Cómo comprar una antena 3G-4G?"](/es/solve/como-comprar-una-antena-satelital-solutions-db.md) para saber cuál te funciona mejor.
 
+¡OJO! Es importante que sepas que **hay muchos tipos de antenas 3G o 4G,** aunque, en general, esta solución debería servirte para instalar la que tengas. 
 
-Hola, soy Sanjay, y no soy un experto en temas de conectividad, pero he aprendido *cacharreando:* a punta de prueba y error, y, también, preguntándole a otras personas sobre el tema. 
+Es posible que tu antena venga con un manual o instructivo. Te recomendamos leerlo primero. Pero, si no lo tienes, o si quien te vendió la antena no te explicó cómo hacerlo, ¡lo que viene te puede servir!
 
-En esta solución, vas a poder instalar una antena 3/4G que hayas comprado. Si no las has comprado aún, puedes ir a las solución de [¿Cómo comprar una antena 3-4G?](/es/solve/como-comprar-una-antena-satelital-solutions-db.md) para hacer eso antes.
-
-En esta solución puedes demorarte de **30 minutos a unas cuantas horas**, depende de la dificultad en ubicar la señal idónea para tu antena. Tiene un nivel de **dificultad medio**. Es para hacer entre **3 personas,** idealmente: una, para leer, las otras dos, para conectar y sostener los componentes de la antena.  
-
-¡OJO! Es importante que sepas que hay muchos tipos de antenas 3G o 4G, aunque, en general, lo que te contamos en esta solución debería ayudarte a poder instalar la que tengas. 
-
-Es posible que tu antena venga con un manual o instructivo. Siempre será mejor leerlo primero. Si no lo tiene, o quien te vendió la antena no te explicó cómo hacerlo, lo que viene a continuación te puede servir de referente. 
-
-Recuerda, el contenido de las instrucciones y lo que encuentres aquí puede verse algo diferente. 
+Recuerda, las instrucciones y lo que encuentres aquí puede verse algo diferente. 
 
 ## ¿Para qué sirve?
 
-Existen lugares en los que la señal de telefonía celular es muy débil, puedes verlo en la barras de conexión de tu celular. Por ejemplo, se ve una sola barra o algo que dice *H+,* *E* o incluso que no hay señal. Una antena, que tenga las características necesarias para las condiciones del lugar desde el que te quieres conectar, puede ayudarte a conseguir una mejor calidad de conexión. 
+Existen lugares en los que la señal de telefonía celular es muy débil. Puedes verlo en la barras de conexión de tu celular (podría verse una sola barra o algo que dice *H+,* *E* o, incluso, que no hay señal). Una antena, que tenga las características necesarias para las condiciones del lugar desde el que te quieres conectar, puede ayudarte a conseguir una mejor calidad de conexión. 
 
 Hace poco entendí que la señal de Internet, que llega a los celulares, viaja por ondas electromagnéticas invisibles, y que los celulares tienen una antena pequeña en su interior, que captura esas ondas, permitiéndonos tener acceso a internet. 
 
-Lo que la antena hace, sencillamente, es capturar, y amplificar, la señal de datos específica del celular (3G o 4G): la señal viaja, en ondas electromagnéticas, por el aire, desde un lugar más alto que en el que estas tú -por encima de arboles, edificaciones o colinas- y baja, por un cable, a tu altura. Una vez en ese punto, la señal, puede compartirse generando una red WiFi, o por cable, usando un [módem o enrutador](es/glossary/modem-router-o-enrutador-modem-or-router-conceptorio.md). Sé que estos términos pueden parecer confusos, pero, a medida que avances por los pasos de la instalación, espero puedas tenerlos más claros.
+Lo que la antena hace es capturar y amplificar la señal de datos específica del celular (3G o 4G), es decir, la señal viaja, en ondas electromagnéticas, por el aire, desde un lugar más alto que en el que estás tú -por encima de arboles, edificaciones o colinas- y luego baja, por un cable, a tu altura. Cuando está a tu altura, la señal, puede compartirse por al aire usando una red WiFi, o por cable usando un [módem o enrutador](es/glossary/modem-router-o-enrutador-modem-or-router-conceptorio.md).
+
+Sé que estos términos pueden parecer confusos, pero a medida que avances por los pasos de la instalación lo irás teniendo más claros.
+
+___
 
 ## Antes de empezar, unas cuestiones de seguridad
 
@@ -45,108 +41,104 @@ Recuerda que estas trabajando con equipos eléctricos. Ten cuidado al momento de
 
 ---
 
-## **¿Qué necesitas?**
+## ¿Qué necesitas?
 
 ![Materiales](/assets/images/solv-install3Gantenna/solv-install3Gantenna-materials.webp)
 
-1. [Antena 3-4G](es/glossary/antena-3-4g-3-4g-antenna-conceptorio.md) que hayas comprado  
-2. [Cable coaxial](es/glossary/cable-coaxial-coaxial-cable-conceptorio) de la antena
-3. [Modem](es/glossary/modem-router-o-enrutador-modem-or-router-conceptorio.md) con su respectivo cable de poder, cable de Ethernet y guía de **Inicio Rápido**
-4. [Tarjeta SIM](es/glossary/tarjeta-sim-sim-card-conceptorio) del operador celular que tenga mejor señal en la zona
-5. Computador con [conexión Ethernet](es/glossary/conexion-cable-ethernet-ethernet-cable-connection-conceptorio) y/o [WiFi](es/glossary/wifi-fidelidad-inalambrica-wifi-wireless-fidelity-conceptorio)  o [Teléfono móvil inteligente](es/glossary/telefono-movil-inteligente-smartphone-conceptorio) (Android / IOS) 
-6. Vara alta (de la misma longitud del cable o un poco menos): puede ser un tubo de metal, madera o guadua. Lo importante es que sea lo más recta posible y resistente. 
-7. Soportes de la antena
+1. La [antena 3G-4G](es/glossary/conc-3g-4g-antennas.md) que hayas comprado.  
+2. [Cable coaxial](es/glossary/conc-coaxial-cable.md) para traer la señal de la antena.
+3. [Módem](es/glossary/conc-router.md) con su respectivo cable de poder, cable de Ethernet y guía de inicio rápido (o manual de instrucciones).
+4. [Tarjeta SIM](es/glossary/conc-simcard.md) del operador celular que tenga mejor señal en la zona.
+5. Computador con [conexión Ethernet](es/glossary/conc-ethernet.md) y/o [WiFi](es/glossary/conc-wireless-fidelity.md)  o [teléfono móvil inteligente](es/glossary/conc-smartphone.md) (Android / IOS) 
+6. Una vara alta (de la misma longitud del cable o un poco menos): puede ser un tubo de metal, madera o guadua. Lo importante es que sea lo más recta posible y resistente. 
+7. Soportes de la antena (que permiten colgar la antena a la vara alta).
 8. Llave para apretar tuercas.
-9. Materiales y herramientas para fijar la vara (depende de donde la instales)
+9. Materiales y herramientas para fijar la vara (depende de dónde la instales).
+___
+
+## **¿Cómo se hace?**
+
+Esta solución tiene 6 pasos, unos más sencillos que otros, pero no te preocupes, si yo pude hacerlo, tú también podrás. ¡Empecemos!
+
+>#### PASO 1 → Define el lugar en donde va a quedar instalada la antena y el módem
+
+Antes de desempacar tu compra, define dónde quieres (o quieren) que el módem y la antena se ubiquen permanentemente. Si es en tu casa, puede ser en la sala. Si es en un espacio comunitario, puede ser en un cuarto que sea seguro, pero en el que la señal llegue de todos los que lo quieran usar.
+
+Ten en cuenta que la antena debe ir sujeta de forma segura a la vara, y la vara debe poder asegurarse firmemente, de algún modo, fuera de la vivienda o espacio. Más adelante te explicaremos cómo. 
+
+El módem necesita electricidad, entonces, identifica la toma de corriente a la que lo vas a conectar. 
+    
+Finalmente, define por dónde vas a introducir el cable desde la antena hasta el espacio en donde estará el módem. Puede que tengas que taladrar un hueco en la pared, para no tener que dejar una ventana abierta. ¡OJO! No hagas esto hasta que hayas comprobado en dónde la antena funciona y se conecta mejor. 
+
+![Diagrama de ensamblaje](assets/images/solv-need-3Gantenna/solv-need-3Gantenna-diagram.webp)
+![Ubicación de los componentes](assets/images/solv-install3Gantenna/solv-install3Gantenna-locate.webp)
 
 
+> #### Paso 2: Identifica las torres de telefonía móvil de la zona
+  
+Para que las antenas funcionen lo mejor posible, deben poder "verse" la una a otra o, por lo menos, deberían apuntar hacia el mismo lugar. 
 
-## **¿Cómo hacerlo?**
+Si vives en una región con muchas montañas será un poco más difícil acceder a una buena señal, comparado con un lugar plano. Si este es tu caso, tu antena va a necesitar mayor altura.
 
-Esta solución tiene 6 pasos, unos más sencillos que otros, pero no te preocupes, si yo pude hacerlo, tú también podrás. Entonces… ¡empecemos!
+Ahora **identifica la torre de telefonía más cercana.** Busca torres altas con antenas. Normalmente, están ubicadas en las cuimas de las montañas más altas para permitir mayor cobertura. Es muy importante que la ubiques porque allí es a donde tu antena debe apuntar.
 
-- **Paso 1: Define el lugar donde va a quedar instalada tanto la Antena como el módem**
+![Transmision](assets/images/solv-need-3Gantenna/solv-need-3Gantenna-transmitter.webp)
     
-    Antes de desempacar tú compra, define dónde quieres, o quieren, que el módem y la antena se queden permanentemente. Si es en tu casa, puede ser en la sala. Si es en un espacio comunitario, puede ser en un cuarto que sea seguro y que quede a mano de todos los que lo puedan usar. 
+Si no sabes dónde queda la torre de telefonía celular más cercana, también puedes preguntarle a los vecinos.
     
-    La antena debe ir sujeta de forma segura a la vara. La vara debe poder asegurarse firmemente, de algún modo, fuera de la vivienda o espacio.  Más adelante te explicaremos cómo. 
+![Torre](assets/images/solv-need-3Gantenna/solv-need-3Gantenna-tower.webp)
     
-    El módem necesita electricidad, entonces, identifica la toma de corriente a la que lo vas a conectar. 
+_Tomado de Wikimedia Commons_
     
-    Finalmente, ten en cuenta el lugar por el que vas a introducir el cable de la antena al espacio donde vas a dejar el módem. Puede que tengas que taladrar un hueco en la pared, para que no implique dejar una ventana abierta. Por ahora, no necesitas hacerlo hasta que hayas comprobado dónde la antena funciona y conecta mejor. 
+    
+🎉 Si llegaste hasta aquí, significa que ya lograste establecer la ubicación de los elementos principales de tu solución. En este punto ya definiste...
 
-    ![Diagram](assets/images/solv-need-3Gantenna/solv-need-3Gantenna-diagram.webp)
-    ![Locate](assets/images/solv-install3Gantenna/solv-install3Gantenna-locate.webp)
-    
-- **Paso 2: Identifica las torres de telefonía móvil de la zona**
-    
-    Para que las antenas funcionen, generalmente, deben poder verse una a otra, o por lo menos deberían apuntar hacia el mismo lugar. 
-    
-    Si vives en una región con muchas montañas será un poco más difícil acceder a una buena señal, a diferencia de un lugar plano. 
-    
-    Por lo general, podemos decir que, si hay montañas a tu alrededor, tu antena va a necesitar mayor altura.
-    
-    El siguiente paso es buscar la torre de telefonía más cercana: busca torres altas con antenas. Normalmente, están ubicadas en las cumbres de las montañas más altas para permitir mayor cobertura. Es importante que puedas ubicarla, ya que cuando tengas tu antena en las manos, tendrás que ubicarla mirando hacia esa torre de telefonía.
-    
-    ![Trasmicion](assets/images/solv-need-3Gantenna/solv-need-3Gantenna-transmitter.webp)
-    
-    Si no sabes dónde queda la torre de telefonía celular más cercana puedes también preguntarle a los vecinos.
-    
-   ![Torre](assets/images/solv-need-3Gantenna/solv-need-3Gantenna-tower.webp)
-    
-    Tomado de Wikimedia Commons 
-    
-    
-💡 Ya has logrado establecer las ubicaciones de los elementos principales de tu solución que son:
-
-- dónde instalar tu antena,
-- hacia dónde debe apuntar, es decir, la torre,
-- y dónde pondrás el módem que generará la señal de wifi para conectar computadores o celulares.
+- Dónde instalar tu antena (dónde va a quedar)
+- Hacia dónde debe apuntar, es decir, hacia la torre de telefonía más cercana.
+- Dónde pondrás el módem que generará la señal de WiFi para conectar computadores o celulares.
 
 ¡Vas muy bien! Ahora viene lo fácil: armar la antena.
 
     
-- **Paso 3: Inserta la SIM y conecta la electricidad al módem**
+> #### Paso 3: Inserta la SIM y conecta el módem a la electricidad
     
+Abre la caja del módem. Debe incluir un cable de corriente, un cable de Ethernet (para conectar un computador) y una guía de inicio rápido (instrucciones). Lee la guía cuidadosamente porque cada antena es diferente. Los pasos siguientes de esta solución deben coincidir con los de la guía, sólo que de forma más detallada.
+
+Ten en cuenta que insertar la SIM puede ser complejo. Yo tuve que hacer varios intentos hasta lograrlo. Asegúrate de que la parte metálica de la SIM (el chip) coincida con los contactos metálicos del módem. Abajo te lo explico un poco mejor.
+
+![Caja y componentes de una antena 34-4g](assets/images/solv-install3Gantenna/solv-install3Gantenna-modemelements.webp)
+
+**Identifica el tamaño de tarjeta SIM que corresponda con la bandeja del módem**
     
-    Abre la caja del módem. Debe tener su cable de corriente, un cable de Ethernet que es para conectar un computador y una guía de **inicio rápido**. Lee la guía cuidadosamente. Los pasos siguientes que describo coinciden con esos pasos pero es una explicación más detallada. 
+Primero, abre la tapa del módem en donde se inserta la SIM (usualmente está en la parte de atrás del modem). Identifica el _tamaño de tarjeta que debes insertar._ En las instrucciones del módem (inicio rápido)te lo indica. En el modelo que yo tengo usa el  tamaño Mini SIM.
     
-    Insertar la SIM puede ser complejo. Yo tuve que hacer varios intentos hasta lograrlo. Debes tener cuidado de que la parte metálica o chip de la SIM coincidan con unos contactos metálicos en el modem. Pero no temas, vamos por partes y te acompaño. 
+![Insertsim2](assets/images/solv-install3Gantenna/solv-install3Gantenna-insertsim2.webp)
     
-    ![Box](assets/images/solv-install3Gantenna/solv-install3Gantenna-modemelements.webp)
+**Inserta la tarjeta SIM en la bandeja**
+Notarás que, tanto la bandeja de la SIM como la tarjeta SIM tienen una esquina cortada (biselada). Ésta indica la posición en la que debes insertar la tarjeta. 
     
-    **Identifica el tamaño de tarjeta SIM que correspondan con la bandeja del modem**
+Inserta la SIM cuidadosamente en la bandeja y tápala de regreso. 
     
-    Primero, abre el lugar del modem donde se debe insertar la SIM. Usualmente está en la parte de atrás del modem. Identifica el tamaño de tarjeta que debes insertar. En la guía del modem te lo indica. En el modelo que yo tengo usa el  tamaño Mini SIM.
+Luego, conecta **el cable de poder al módem y a la toma corriente. Luego, enciende el módem como te indica la guía. Puede ser automático o con un botón de encendido**.
     
-   ![Insertsim2](assets/images/solv-install3Gantenna/solv-install3Gantenna-insertsim2.webp)
+![Insertsim](assets/images/solv-install3Gantenna/solv-install3Gantenna-insertsim.webp)
     
-    **Inserta la tarjeta SIM en la bandeja**
-    Notarás que tanto la bandeja de la SIM como la tarjeta SIM tienen una esquina cortada o biselada. Eso te indica la posición en la que debes insertar la tarjeta. 
+![Insertsim3](assets/images/solv-install3Gantenna/solv-install3Gantenna-insertsim3.webp)
     
-    Insértalo cuidadosamente en la bandeja y tápala. 
+**Revisa que el módem está conectado a internet**
     
-    Luego conecta **el cable de poder al módem y luego a la toma corriente. Enciende el módem como te indica la guía. Puede ser automático o en un botón de encendido**.
+En el frente del módem encuentras diferentes indicadores de conexión, y en las instrucciones lo que cada una significa. En el modelo de ejemplo (ver foto abajo), vemos que el primer indicador de izquierda a derecha es si está encendido o apagado. El segundo, si está rojo, significa que no tiene señal. Si está azul o verde significa que está conectado (en este caso está conectado). El tercero dice que está emitiendo una señal inalámbrica o WiFi en el espacio. El cuarto indica si hay un cable ethernet conectado (en este caso no). Y el quinto indicador habla de la potencia de la señal - como las barras del celular (en este caso es muy buena). 
     
-    ![Insertsim](assets/images/solv-install3Gantenna/solv-install3Gantenna-insertsim.webp)
+![Modemindicator](assets/images/solv-install3Gantenna/solv-install3Gantenna-modemindicators.webp)
     
-    ![Insertsim3](assets/images/solv-install3Gantenna/solv-install3Gantenna-insertsim3.webp)
+Ya tienes el módem listo y funcional, vas por la mitad de la solución. Es posible que el indicador de señal, el segundo, esté rojo. Si es tu caso caso, simplemente apaga el módem y vamos a conectarle la antena. 
     
-    **Revisa si el módem está conectado a internet**
+> #### Paso 4: Conecta todos los elementos de la antena e iza la antena
+ 
+ Llegó el momento de armar tu antena. Te recomiendo comenzar por sacar los elementos de la antena. 
+**Ajusta la antena al extremo más alto de la vara**
     
-    En el frente del módem encuentra los distintos indicadores de conexión. La guía te indica que lo que cada una significa. En el modelo que te mostramos el primer indicador de izquierda a derecha es si está encendido o apagado. El segundo, si está rojo, significa que no tiene señal. Si está azul o verde significa que está conectado (en este caso está conectado). El tercero dice que está emitiendo una señal inalámbrica o wifi en el espacio. El cuarto indica si hay un cable ethernet conectado (en este caso no). El quinto indicador habla de la potencia de la señal - como las barras del celular (en este caso es muy buena). 
-    
-    ![Modemindicator](assets/images/solv-install3Gantenna/solv-install3Gantenna-modemindicators.webp)
-    
-    ¡Listo! Ya tienes el módem listo y funcional, vas por la mitad de la solución. Sin embargo, es posible que el indicador de señal, el segundo, esté rojo. En ese caso, simplemente apaga el módem y vamos a conectarle la antena. 
-    
-- **Paso 4: Conecta todos los elementos de la antena e iza la antena**
-    
-    Llegó el momento de armar tu antena. Te recomiendo comenzar por sacar los elementos de la antena. 
-    
-    **Ajusta la antena al extremo más alto de la vara**
-    
-    Comienza ajustando el soporte de la antena a la base de la antena usando los tornillos que trae para eso. Aprieta los tornillos con cuidado asegurándote que quede bien ajustado.
+Comienza ajustando el soporte de la antena a la base de la antena usando los tornillos que trae para eso. Aprieta los tornillos con cuidado asegurándote que quede bien ajustado.
     
     Luego ajusta los soportes de la antena al extremo más alto de la vara. Recuerda que la vara debe ser un poco más corta que la longitud del cable tengas. Los soportes tienen una pieza para “envolver” la vara de tal manera que al apretar las tuercas aprisione la vara como en la imagen.
     
