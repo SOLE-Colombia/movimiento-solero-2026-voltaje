@@ -59,15 +59,15 @@
 .solve-card-title {
   margin: 0;
   font-family: var(--bodyFont);
-  font-size: clamp(0.95rem, 2vw, 1.2rem);
-  font-weight: 600;
-  line-height: 1.3;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.1;
   color: #ffffff;
 }
 
 .solve-card-summary {
   margin: 0;
-  font-size: 17px;
+  font-size: 12px;
   line-height: 1.4;
   color: #ffffff;
   font-family: "Noto Sans", var(--bodyFont);
@@ -92,4 +92,29 @@
   color: #ffffff;
   font-family: "Noto Sans", var(--bodyFont);
   white-space: nowrap;
+}
+
+.solve-card-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  row-gap: 0.35rem;
+  padding: 0.05rem 1rem;
+  background-color: #ffffff;
+  border-top: 3px solid #4f4f4f;
+}
+
+.solve-card-metric {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2rem;
+  line-height: 0;
+}
+
+.solve-card-metric-icon {
+  height: 16px;
+  width: auto;
+  display: block;
 }

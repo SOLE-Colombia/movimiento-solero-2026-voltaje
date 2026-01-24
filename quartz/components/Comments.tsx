@@ -312,7 +312,14 @@ label[for="wl-image-upload"],
 `
 
 export default (() => {
-  const Comments: QuartzComponent = (_props: QuartzComponentProps) => {
+  const Comments: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
+    const isHomePage = fileData.slug === "index" || fileData.slug === "es"
+    const isSectionIndex = fileData.frontmatter?.type === "section-index"
+
+    if (isHomePage || isSectionIndex) {
+      return null
+    }
+
     return (
       <div class="waline-feedback">
         <link

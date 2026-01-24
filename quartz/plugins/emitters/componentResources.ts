@@ -79,6 +79,10 @@ async function joinScripts(scripts: string[]): Promise<string> {
 function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentResources) {
   const cfg = ctx.cfg.configuration
 
+  componentResources.beforeDOMLoaded.unshift(`
+    window.addCleanup = window.addCleanup || (() => {})
+  `)
+
   // popovers
   if (cfg.enablePopovers) {
     componentResources.afterDOMLoaded.push(popoverScript)

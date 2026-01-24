@@ -8,7 +8,8 @@ import { byDateAndAlphabeticalFolderFirst } from "./PageList"
 const difficultyMap: Record<string, number> = {
   "Fácil": 1,
   "Medio": 2,
-  "Complejo": 3,
+  "Difícil": 3,
+  "Complejo": 4,
 }
 
 const costMap: Record<string, number> = {
@@ -16,13 +17,21 @@ const costMap: Record<string, number> = {
   "< USD 25": 1,
   "USD 25 - 50": 2,
   "> USD 50": 3,
-  "Gasto mensual": 3,
+  "Gasto mensual": 4,
+  "Mensual": 4,
 }
 
 const timeMap: Record<string, number> = {
   "Minutos": 1,
   "Horas": 2,
   "Días": 3,
+}
+
+const helpersMap: Record<string, number> = {
+  "Sin ayudantes": 1,
+  "1 persona": 2,
+  "2-3 personas": 3,
+  "Más de 3 personas": 4,
 }
 
 const titleFallback = (page: QuartzPluginData): string => {
@@ -37,6 +46,17 @@ const titleFallback = (page: QuartzPluginData): string => {
 interface SolveFilterGridOptions {
   showFolderCount?: boolean
 }
+
+const clampCount = (value: number, min: number, max: number) =>
+  Math.min(max, Math.max(min, value))
+
+const iconSrc = (metric: string, level: number) => `/assets/icons/solve-${metric}-${level}.svg`
+
+const renderMetricIcon = (level: number, className: string, label: string) => (
+  <span class={`solve-card-metric ${className}`} aria-label={label} title={label}>
+    <img class="solve-card-metric-icon" src={iconSrc(className, level)} alt="" aria-hidden="true" />
+  </span>
+)
 
 export default ((opts?: SolveFilterGridOptions) => {
   const SolveFilterGrid: QuartzComponent = (props: QuartzComponentProps) => {
@@ -53,15 +73,25 @@ export default ((opts?: SolveFilterGridOptions) => {
         <div class="solve-card-grid">
           {list.map((page) => {
             const title = titleFallback(page)
-            const description = page.frontmatter?.description as string | undefined
+            const resumen = (page.frontmatter?.resumen ??
+              page.frontmatter?.description ??
+              page.description) as string | undefined
             const dificultad = page.frontmatter?.dificultad as string | undefined
             const costo = page.frontmatter?.costo as string | undefined
             const tarda = page.frontmatter?.tarda as string | undefined
+            const ayudantes = page.frontmatter?.ayudantes as string | undefined
             const tags = (page.frontmatter?.tags as string[] | undefined) ?? []
             
             const diffNum = dificultad ? (difficultyMap[dificultad] ?? 2) : 2
             const costNum = costo ? (costMap[costo] ?? 1) : 1
             const timeNum = tarda ? (timeMap[tarda] ?? 2) : 2
+            const helpersNum = ayudantes ? (helpersMap[ayudantes] ?? 1) : 1
+            const showMeta = Boolean(dificultad || costo || tarda || ayudantes)
+
+            const diffLevel = clampCount(diffNum, 1, 4)
+            const costLevel = clampCount(costNum + 1, 1, 5)
+            const timeLevel = clampCount(timeNum, 1, 3)
+            const helpersLevel = clampCount(helpersNum, 1, 4)
             
             return (
               <a
@@ -70,12 +100,13 @@ export default ((opts?: SolveFilterGridOptions) => {
                 data-difficulty={diffNum}
                 data-cost={costNum}
                 data-time={timeNum}
+                data-helpers={helpersNum}
                 data-categories={tags.join(",")}
               >
                 <div class="solve-card-body">
                   <h3 class="solve-card-title">{title}</h3>
-                  {description && (
-                    <p class="solve-card-summary">{description}</p>
+                  {resumen && (
+                    <p class="solve-card-summary">{resumen}</p>
                   )}
                 </div>
                 {tags.length > 0 && (
@@ -83,6 +114,22 @@ export default ((opts?: SolveFilterGridOptions) => {
                     {tags.slice(0, 3).map((tag) => (
                       <span class="solve-card-tag">#{tag}</span>
                     ))}
+                  </div>
+                )}
+                {showMeta && (
+                  <div class="solve-card-meta">
+                    {renderMetricIcon(
+                      diffLevel,
+                      "difficulty",
+                      `Dificultad: ${dificultad ?? "Sin dato"}`,
+                    )}
+                    {renderMetricIcon(costLevel, "cost", `Costo: ${costo ?? "Sin dato"}`)}
+                    {renderMetricIcon(timeLevel, "time", `Tarda: ${tarda ?? "Sin dato"}`)}
+                    {renderMetricIcon(
+                      helpersLevel,
+                      "helpers",
+                      `Ayudantes: ${ayudantes ?? "Sin dato"}`,
+                    )}
                   </div>
                 )}
               </a>

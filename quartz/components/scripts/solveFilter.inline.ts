@@ -78,13 +78,14 @@ const setupFilters = () => {
       const cardDiff = parseInt(card.dataset.difficulty || '0')
       const cardCost = parseInt(card.dataset.cost || '0')
       const cardTime = parseInt(card.dataset.time || '0')
+      const cardHelpers = parseInt(card.dataset.helpers || '0')
       const cardCats = (card.dataset.categories || '').split(',').filter(Boolean)
       
       // Discriminative Logic (Exact Match) ONLY if touched
       const matchesDiff = !diffTouched || cardDiff === (diffVal + 1)
       const matchesCost = !costTouched || cardCost === costVal
       const matchesTime = !timeTouched || cardTime === (timeVal + 1)
-      const matchesHelpers = true // No data yet
+      const matchesHelpers = !helpersTouched || cardHelpers === (helpersVal + 1)
       const matchesCat = selectedCats.length === 0 || selectedCats.some(cat => cardCats.includes(cat))
       const matchesPerm = !selectedPermite || cardCats.includes(selectedPermite)
       
