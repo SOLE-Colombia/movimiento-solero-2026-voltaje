@@ -23,6 +23,14 @@ export default ((opts?: Options) => {
       "Conceptorio": "/conceptorio-sole-voltaje",
     }
     
+    const basePath = (() => {
+      if (!cfg.baseUrl) return ""
+      const url = new URL(`https://${cfg.baseUrl}`)
+      const cleaned = url.pathname.replace(/\/$/, "")
+      return cleaned === "/" ? "" : cleaned
+    })()
+    const logoSrc = `${basePath}/static/logo.png`.replace(/\/{2,}/g, "/")
+
     return (
       <footer class={`${displayClass ?? ""}`}>
         <div class="footer-section footer-links">
@@ -85,7 +93,7 @@ export default ((opts?: Options) => {
             </ul>
           )}
           <div class="footer-branding">
-            <img src="/static/logo.png" alt="SOLE Voltaje" class="footer-logo" />
+            <img src={logoSrc} alt="SOLE Voltaje" class="footer-logo" />
           </div>
         </div>
       </footer>

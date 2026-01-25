@@ -150,9 +150,6 @@ async function _navigate(url: URL, isBack: boolean = false) {
   }
 
   notifyNav(getFullSlug(window))
-  // #region agent log
-  fetch('http://localhost:7242/ingest/2b05cd4b-8744-4f9f-86e5-0476cfc6eaa6',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'spa.inline.ts',message:'nav event notified',data:{slug:getFullSlug(window)},timestamp:Date.now(),sessionId:'debug-session'})}).catch(()=>{});
-  // #endregion
   delete announcer.dataset.persist
 }
 
