@@ -40,7 +40,7 @@ export default (() => {
 
         // Mostrar el filtro arriba cuando el sidebar derecho no esté visible
         const updateFilterPlacement = () => {
-          const prefersSidebar = window.matchMedia('(min-width: 1200px)').matches;
+          const prefersSidebar = window.matchMedia('(min-width: 1201px)').matches;
           const rightFilter = document.querySelector('.sidebar.right .inspire-filter');
           const rightVisible = prefersSidebar && rightFilter instanceof HTMLElement && rightFilter.offsetParent !== null;
           document.body?.classList.toggle('inspire-filter-top', !rightVisible);

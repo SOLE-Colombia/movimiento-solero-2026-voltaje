@@ -89,6 +89,7 @@
 .solve-filter-content {
   display: flex;
   flex-direction: column;
+  margin-right: 2rem;
   gap: 1.25rem;
   transition: max-height 0.3s ease-out, opacity 0.3s ease-out;
   
@@ -263,6 +264,9 @@
     }
   }
 
+  .filter-reset-btn {
+    margin-right: 2rem;
+  }
   .solve-filter-btn {
     box-shadow: none;
 

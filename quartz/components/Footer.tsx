@@ -2,13 +2,14 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import style from "./styles/footer.scss"
 import { version } from "../../package.json"
 import { i18n } from "../i18n"
+import { joinSegments, pathToRoot } from "../util/path"
 
 interface Options {
   links: Record<string, string>
 }
 
 export default ((opts?: Options) => {
-  const Footer: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
+  const Footer: QuartzComponent = ({ displayClass, cfg, fileData }: QuartzComponentProps) => {
     const year = new Date().getFullYear()
     const links = opts?.links ?? []
     const translations = i18n(cfg.locale).components.footer
@@ -23,13 +24,8 @@ export default ((opts?: Options) => {
       "Conceptorio": "/conceptorio-sole-voltaje",
     }
     
-    const basePath = (() => {
-      if (!cfg.baseUrl) return ""
-      const url = new URL(`https://${cfg.baseUrl}`)
-      const cleaned = url.pathname.replace(/\/$/, "")
-      return cleaned === "/" ? "" : cleaned
-    })()
-    const logoSrc = `${basePath}/static/logo.png`.replace(/\/{2,}/g, "/")
+    const baseDir = pathToRoot(fileData.slug!)
+    const logoSrc = joinSegments(baseDir, "static/logo.png")
 
     return (
       <footer class={`${displayClass ?? ""}`}>

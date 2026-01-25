@@ -17,7 +17,7 @@ const updateFilterPlacement = () => {
     return
   }
 
-  const prefersSidebar = window.matchMedia('(min-width: 1200px)').matches
+  const prefersSidebar = window.matchMedia('(min-width: 1201px)').matches
   const rightFilter = document.querySelector('.sidebar.right .solve-filter-sidebar')
   const rightVisible = prefersSidebar && rightFilter instanceof HTMLElement && rightFilter.offsetParent !== null
   document.body?.classList.toggle('solve-filter-top', !rightVisible)
