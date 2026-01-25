@@ -302,3 +302,13 @@
     }
   }
 }
+
+body.solve-filter-top {
+  .page-header .solve-filter-sidebar.mobile-only {
+    display: block;
+  }
+
+  .sidebar.right .solve-filter-sidebar {
+    display: none;
+  }
+}

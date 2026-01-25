@@ -10,6 +10,19 @@ const sliderDefaults: Record<string, string> = {
   'permite': '0'
 }
 
+const updateFilterPlacement = () => {
+  const hasSolveFilter = document.querySelector('.solve-filter-sidebar') !== null
+  if (!hasSolveFilter) {
+    document.body?.classList.remove('solve-filter-top')
+    return
+  }
+
+  const prefersSidebar = window.matchMedia('(min-width: 1200px)').matches
+  const rightFilter = document.querySelector('.sidebar.right .solve-filter-sidebar')
+  const rightVisible = prefersSidebar && rightFilter instanceof HTMLElement && rightFilter.offsetParent !== null
+  document.body?.classList.toggle('solve-filter-top', !rightVisible)
+}
+
 const setupFilters = () => {
   const basePath = document.body?.dataset.basepath ?? ''
   const prefix = basePath && location.pathname.startsWith(basePath) ? basePath : ''
@@ -21,6 +34,8 @@ const setupFilters = () => {
       img.setAttribute('src', nextSrc)
     }
   })
+
+  updateFilterPlacement()
 
   const filterContainers = document.querySelectorAll<HTMLElement>('.solve-filter-sidebar')
   const cards = document.querySelectorAll<HTMLElement>('.solve-card')
@@ -283,6 +298,7 @@ const setupFilters = () => {
 const globalState = window as typeof window & {
   _solveFilterNavAttached?: boolean
   _solveFilterSetup?: () => void
+  _solveFilterPlacementAttached?: boolean
 }
 
 const runSetup = () => {
@@ -300,4 +316,10 @@ if (!globalState._solveFilterNavAttached) {
   document.addEventListener("nav", () => {
     globalState._solveFilterSetup?.()
   })
+}
+
+if (!globalState._solveFilterPlacementAttached) {
+  globalState._solveFilterPlacementAttached = true
+  window.addEventListener('resize', updateFilterPlacement)
+  window.addCleanup?.(() => window.removeEventListener('resize', updateFilterPlacement))
 }
