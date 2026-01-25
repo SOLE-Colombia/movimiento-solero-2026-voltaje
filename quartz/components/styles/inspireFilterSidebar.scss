@@ -52,18 +52,24 @@
   }
 }
 
+// Botones de categoría más simples (sin sombra)
+.inspire-filter-btn {
+  box-shadow: none;
+  transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+  &:hover,
+  &:active {
+    transform: none;
+    box-shadow: none;
+  }
+}
+
 // Estilo específico para botones de categoría activos (presionados)
 .inspire-filter-btn.active {
   background-color: #1a84ae !important;
   color: #ffffff !important;
   border-color: #1a84ae !important;
-  transform: translate(3px, 3px);
-  box-shadow: 1px 1px 0 #4f4f4f !important;
-  
-  &:hover {
-    transform: translate(2px, 2px);
-    box-shadow: 2px 2px 0 #4f4f4f !important;
-  }
+  transform: none;
+  box-shadow: none !important;
 }
 
 .inspire-filter-options {
@@ -85,19 +91,20 @@
   }
 
   .inspire-filter-header {
-    justify-content: center;
-    
+    justify-content: space-between;
+    align-items: center;
+
     h3 {
-      width: 100%;
-      text-align: center;
-      margin-bottom: 0.5rem;
+      width: auto;
+      text-align: left;
+      margin-bottom: 0;
     }
   }
 
   .inspire-filter-options {
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: flex-start;
     gap: 0.5rem;
   }
 
@@ -109,6 +116,7 @@
 
   .inspire-filter-reset {
     font-size: 13px;
+    margin-right: 3rem;
     padding: 0.3rem 0.7rem;
   }
 }
@@ -122,24 +130,30 @@
   .inspire-filter-btn,
   .inspire-filter-reset {
     font-size: 12px;
-    padding: 0.25rem 0.6rem;
+    padding: 0.3rem 0.6rem;
     box-shadow: 3px 3px 0 #4f4f4f;
     border-width: 2px;
-
     &:hover {
       box-shadow: 4px 4px 0 #4f4f4f;
     }
-
     &:active {
       box-shadow: 1px 1px 0 #4f4f4f;
     }
   }
 
-  .inspire-filter-btn.active {
-    box-shadow: 1px 1px 0 #4f4f4f;
+  .inspire-filter-reset {
+    margin-right: 1.5rem;
+  }
 
-    &:hover {
-      box-shadow: 2px 2px 0 #4f4f4f;
+  .inspire-filter-btn.active {
+    box-shadow: none;
+  }
+  .inspire-filter-btn {
+    box-shadow: none;
+    &:hover,
+    &:active {
+      box-shadow: none;
+      transform: none;
     }
   }
 }
@@ -154,5 +168,15 @@
   .inspire-filter-btn.active {
     background: #1a84ae;
     color: #ffffff;
+  }
+}
+
+body.inspire-filter-top {
+  .page-header .inspire-filter.mobile-only {
+    display: block;
+  }
+
+  .sidebar.right .inspire-filter {
+    display: none;
   }
 }

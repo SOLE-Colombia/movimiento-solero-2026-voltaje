@@ -11,6 +11,17 @@ const sliderDefaults: Record<string, string> = {
 }
 
 const setupFilters = () => {
+  const basePath = document.body?.dataset.basepath ?? ''
+  const prefix = basePath && location.pathname.startsWith(basePath) ? basePath : ''
+  document.querySelectorAll<HTMLImageElement>('.solve-card-metric-icon[data-icon]').forEach((img) => {
+    const iconName = img.dataset.icon
+    if (!iconName) return
+    const nextSrc = `${prefix}/assets/icons/${iconName}`.replace(/\/{2,}/g, '/')
+    if (img.getAttribute('src') !== nextSrc) {
+      img.setAttribute('src', nextSrc)
+    }
+  })
+
   const filterContainers = document.querySelectorAll<HTMLElement>('.solve-filter-sidebar')
   const cards = document.querySelectorAll<HTMLElement>('.solve-card')
   
@@ -186,6 +197,10 @@ const setupFilters = () => {
   }
 
   filterContainers.forEach(container => {
+    if (container.dataset.solveFilterReady === "true") {
+      return
+    }
+    container.dataset.solveFilterReady = "true"
     const toggleBtn = container.querySelector<HTMLButtonElement>('.filter-toggle-btn')
     const content = container.querySelector<HTMLElement>('.solve-filter-content')
     const resetBtn = container.querySelector<HTMLButtonElement>('.filter-reset-btn')
@@ -254,8 +269,35 @@ const setupFilters = () => {
     })
   })
 
-  updateAllCounts(cards.length)
+  const anyActive = Array.from(filterContainers).some(container => {
+    const hasTouchedSlider = Object.keys(sliderDefaults).some(s =>
+      container.querySelector<HTMLInputElement>(`.${s}-slider`)?.classList.contains('touched')
+    )
+    const hasActiveCat = container.querySelector('.category-btn.active') !== null
+    return hasTouchedSlider || hasActiveCat
+  })
+  filtersActive = anyActive
+  filterCards()
 }
 
-document.addEventListener("nav", setupFilters)
-setupFilters()
+const globalState = window as typeof window & {
+  _solveFilterNavAttached?: boolean
+  _solveFilterSetup?: () => void
+}
+
+const runSetup = () => {
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", setupFilters, { once: true })
+  } else {
+    setupFilters()
+  }
+}
+
+globalState._solveFilterSetup = setupFilters
+runSetup()
+if (!globalState._solveFilterNavAttached) {
+  globalState._solveFilterNavAttached = true
+  document.addEventListener("nav", () => {
+    globalState._solveFilterSetup?.()
+  })
+}

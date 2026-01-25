@@ -65,18 +65,25 @@
   }
 }
 
+// Botones de categorías más simples (sin sombra)
+.solve-filter-btn {
+  box-shadow: none;
+  transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+
+  &:hover,
+  &:active {
+    transform: none;
+    box-shadow: none;
+  }
+}
+
 // Estilo específico para botones activos (hundidos)
 .solve-filter-btn.active {
   background-color: #1a84ae !important;
   color: #ffffff !important;
   border-color: #1a84ae !important;
-  transform: translate(3px, 3px);
-  box-shadow: 1px 1px 0 #4f4f4f !important;
-  
-  &:hover {
-    transform: translate(2px, 2px);
-    box-shadow: 2px 2px 0 #4f4f4f !important;
-  }
+  transform: none;
+  box-shadow: none !important;
 }
 
 .solve-filter-content {
@@ -198,10 +205,28 @@
 // Mobile Responsive
 @media (max-width: 1200px) {
   .solve-filter-sidebar {
-    background: var(--light);
-    border: 2px solid var(--dark);
-    padding: 1rem;
-    margin-bottom: 1rem;
+    background: transparent;
+    border: none;
+    padding: 0;
+    margin: 1rem 0;
+  }
+
+  .solve-filter-header {
+    flex-wrap: wrap;
+    gap: 0.75rem;
+  }
+
+  .filter-toggle-btn {
+    cursor: default;
+
+    .toggle-arrow {
+      display: none;
+    }
+  }
+
+  .solve-filter-content,
+  .solve-filter-content:not(.expanded) {
+    display: flex;
   }
 
   .filter-count-mobile {
@@ -235,6 +260,21 @@
       color: white !important;
       border-color: #1a84ae !important;
       box-shadow: 1px 1px 0 var(--light) !important;
+    }
+  }
+
+  .solve-filter-btn {
+    box-shadow: none;
+
+    &:hover,
+    &:active {
+      box-shadow: none;
+      transform: none;
+    }
+
+    &.active {
+      box-shadow: none !important;
+      transform: none;
     }
   }
 

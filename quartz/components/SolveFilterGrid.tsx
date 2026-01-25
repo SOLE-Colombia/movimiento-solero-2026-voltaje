@@ -1,5 +1,5 @@
 import { QuartzPluginData } from "../plugins/vfile"
-import { FullSlug, resolveRelative } from "../util/path"
+import { resolveRelative } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/solveFilterGrid.scss"
 import { byDateAndAlphabeticalFolderFirst } from "./PageList"
@@ -50,22 +50,9 @@ interface SolveFilterGridOptions {
 const clampCount = (value: number, min: number, max: number) =>
   Math.min(max, Math.max(min, value))
 
-const iconSrc = (baseSlug: FullSlug, metric: string, level: number) =>
-  resolveRelative(baseSlug, `assets/icons/solve-${metric}-${level}.svg` as FullSlug)
-
-const renderMetricIcon = (
-  baseSlug: FullSlug,
-  level: number,
-  className: string,
-  label: string,
-) => (
+const renderMetricIcon = (iconName: string, className: string, label: string) => (
   <span class={`solve-card-metric ${className}`} aria-label={label} title={label}>
-    <img
-      class="solve-card-metric-icon"
-      src={iconSrc(baseSlug, className, level)}
-      alt=""
-      aria-hidden="true"
-    />
+    <img class="solve-card-metric-icon" data-icon={iconName} alt="" aria-hidden="true" />
   </span>
 )
 
@@ -130,16 +117,22 @@ export default ((opts?: SolveFilterGridOptions) => {
                 {showMeta && (
                   <div class="solve-card-meta">
                     {renderMetricIcon(
-                      fileData.slug!,
-                      diffLevel,
+                      `solve-difficulty-${diffLevel}.svg`,
                       "difficulty",
                       `Dificultad: ${dificultad ?? "Sin dato"}`,
                     )}
-                    {renderMetricIcon(fileData.slug!, costLevel, "cost", `Costo: ${costo ?? "Sin dato"}`)}
-                    {renderMetricIcon(fileData.slug!, timeLevel, "time", `Tarda: ${tarda ?? "Sin dato"}`)}
                     {renderMetricIcon(
-                      fileData.slug!,
-                      helpersLevel,
+                      `solve-cost-${costLevel}.svg`,
+                      "cost",
+                      `Costo: ${costo ?? "Sin dato"}`,
+                    )}
+                    {renderMetricIcon(
+                      `solve-time-${timeLevel}.svg`,
+                      "time",
+                      `Tarda: ${tarda ?? "Sin dato"}`,
+                    )}
+                    {renderMetricIcon(
+                      `solve-helpers-${helpersLevel}.svg`,
                       "helpers",
                       `Ayudantes: ${ayudantes ?? "Sin dato"}`,
                     )}
