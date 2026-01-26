@@ -1,5 +1,5 @@
 ---
-title: "Big Box de Jangala: Gestiona un potente router de internet inalámbrico para comunidades en exclusión digital"
+title: "El internet en un caja: Big Box de Jangala"
 date: 2025-12-17
 tags:
   - "Dispositivos"

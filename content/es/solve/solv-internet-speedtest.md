@@ -1,5 +1,5 @@
 ---
-title: "¿Cómo probar la velocidad de tu conexión a Internet?"
+title: "¿Cómo saber la velocidad de tu conexión a Internet?"
 date: 2026-01-26
 tags:
   - "Señal"
@@ -17,7 +17,7 @@ Entender por qué no me funcionan algunas cosas en determinados momentos, me tra
 
 **¿Qué es probar la velocidad de la conexión a internet?**
 
-Una prueba de velocidad de conexión a internet, o _"speed test"_, es una herramienta que mide la rapidez de tu conexión a internet, evaluando la velocidad de **descarga** y **subida** de datos y la **[latencia de red](es/glossary/latencia-latency-conceptorio.md)**. 
+Una prueba de velocidad de conexión a internet, o _"speed test"_, es una herramienta que mide la rapidez de tu conexión a internet, evaluando la velocidad de **descarga** y **subida** de datos y la **[latencia de red →](es/glossary/latencia-latency-conceptorio.md)**. 
 
 ___
 
@@ -75,9 +75,9 @@ Si necesitas hacer una nueva medición presiona el botón de reiniciar.
 
 <br>
 
-> ### Paso 3 → Interpreta los resultados**
+> ### Paso 3 → Interpreta los resultados
 
-Los resultados generalmente muestran la velocidad de descarga, la velocidad de subida y la [latencia](es/glossary/conc-latency.md). Te explico mejor:
+Los resultados generalmente muestran la velocidad de descarga, la velocidad de subida y la [latencia →](es/glossary/conc-latency.md). Te explico mejor:
     
 - **Velocidad de descarga (_download_):** Es la velocidad a la que puedes recibir datos de Internet, como al descargar archivos o ver videos. Entre más alta, mejor.
 - **Velocidad de subida (_upload_):** Es la velocidad a la que puedes enviar datos a Internet, como al enviar correos electrónicos o subir videos a redes sociales. Aquí también, entre más alta, mejor.
@@ -87,14 +87,14 @@ Los resultados generalmente muestran la velocidad de descarga, la velocidad de s
 
 💬❓ Ahora la Gran pregunta, **¿cuánta velocidad es suficiente?** Ingresa a [este enlace →](es/disconnected/disc-travel-speed-light.md) para saber cuánta velocidad necesitas para acceder a diferentes servicios.
 
-> Ahora que sabes tu velocidad de internet y la velocidad que necesitas para acceder a diferentes servicios, puedes [ver más soluciones →]() que **te permitirán conseguir, mejorar o compartir tu internet.** 
+> Ahora que sabes tu velocidad de internet y la velocidad que necesitas para acceder a diferentes servicios, puedes [ver más soluciones →](https://sole-colombia.github.io/voltaje/es/solve) que **te permitirán conseguir, mejorar o compartir tu internet.** 
 
 <br>
 
 **Consideraciones adicionales:**
 
-- **[Conexión por cable →](es/glossary/conexion-cable-ethernet-ethernet-cable-connection-conceptorio)** vs. **[WiFi →](es/glossary/wifi-fidelidad-inalambrica-wifi-wireless-fidelity-conceptorio):** Las pruebas de velocidad por cable [(Ethernet →)](es/glossary/conc-ethernet.md) suelen ser más precisas que las pruebas por WiFi, ya que la conexión WiFi puede verse afectada por interferencias.
-- **[Servidores de prueba →](es/glossary/servidor-server-conceptorio):** Algunos servicios te permiten elegir el servidor de prueba para obtener resultados más precisos o para probar diferentes ubicaciones.
+- **[Conexión por cable →](es/glossary/conc-ethernet.md)** vs. **[WiFi →](es/glossary/conc-wireless-fidelity.md):** Las pruebas de velocidad por cable (Ethernet) suelen ser más precisas que las pruebas por WiFi, ya que la conexión WiFi puede verse afectada por interferencias.
+- **[Servidores de prueba →](es/glossary/conc-server.md):** Algunos servicios te permiten elegir el servidor de prueba para obtener resultados más precisos o para probar diferentes ubicaciones.
 - **Interpretar los resultados:** Compara los resultados con la velocidad contratada con tu proveedor y considera factores como la hora del día y la actividad en tu red, ya que esto puede afectar los resultados.
 
 ___
@@ -124,7 +124,7 @@ ___
 ## Soluciones recomendadas
 
 - Si tu conexión no te alcanza para hacer la prueba en línea, esta solución podría serte útil: [¿Cómo saber qué tan buena es tu conexión a Internet sin una prueba en línea? →](es/solve/solv-internet-quality-diagnosis.md) |
-- Si estás conectado a tu WiFi, tenemos algunas recomendaciones para que aproveches al máximo tu internet: [¿Cómo aprovechar mi ancho de banda? →](.es/solve/solv-bandwidth.md) 
+- Si estás conectado a tu WiFi, tenemos algunas recomendaciones para que aproveches al máximo tu internet: [¿Cómo aprovechar mi ancho de banda? →](es/solve/solv-bandwidth.md) 
 
 __
 

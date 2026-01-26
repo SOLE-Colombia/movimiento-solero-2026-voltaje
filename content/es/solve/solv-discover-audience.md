@@ -1,5 +1,5 @@
 ---
-title: "Descubre a tu audiencia"
+title: "¿Cómo llegarle a las personas que más valorarán tu mensaje?"
 date: 2025-12-17
 tags:
   - "Personas"

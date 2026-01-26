@@ -1,5 +1,5 @@
 ---
-title: "Cómo comprar una conexión temporal a internet satelital"
+title: "¿Cómo comprar una conexión temporal a internet satelital?"
 date: 2025-12-17
 tags:
   - "Señal"

@@ -1,5 +1,5 @@
 ---
-title: "¿Cómo saber qué tipo de señal de Internet tienes?"
+title: "¿Cómo saber qué tipo de señal WiFi tienes?"
 date: 2025-12-17
 tags:
   - "Señal"

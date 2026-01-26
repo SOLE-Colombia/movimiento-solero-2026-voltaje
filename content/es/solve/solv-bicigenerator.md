@@ -1,5 +1,5 @@
 ---
-title: "Bicigenerador"
+title: "¿Cómo generar electricidad usando una bicicleta?"
 date: 2025-12-17
 tags:
   - "Electricidad"

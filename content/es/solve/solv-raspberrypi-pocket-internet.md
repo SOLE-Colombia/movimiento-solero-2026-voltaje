@@ -1,5 +1,5 @@
 ---
-title: "Raspberry Pi: Una pequeña Internet de bolsillo"
+title: "¿Cómo instalar un servidor web en un computador de bolsillo?"
 date: 2025-12-17
 tags:
   - "Dispositivos"
@@ -10,8 +10,6 @@ tarda: "Horas"
 autor: "SOLE Colombia"
 draft: false
 ---
-# **Instala un servidor web en un computador de bolsillo**
-
 
 Hola, soy Gabriel. Soy artista. Los aparatos digitales, su funcionamiento y la forma en la que los humanos interactuamos con ellos, me resultan interesantes. Me considero un cacharrero y te invito, si quieres, a que tú también lo seas.
 

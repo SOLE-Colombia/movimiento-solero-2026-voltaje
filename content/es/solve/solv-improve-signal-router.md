@@ -1,5 +1,5 @@
 ---
-title: "¿Cómo mejorar la señal de tu router?"
+title: "¿Cómo mejorar la señal de tu módem?"
 date: 2025-12-17
 tags:
   - "Señal"

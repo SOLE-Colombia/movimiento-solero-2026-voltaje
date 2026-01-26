@@ -1,5 +1,5 @@
 ---
-title: "Difunde tu mensaje"
+title: "¿Cómo difundir un mensaje?"
 date: 2025-12-17
 tags:
   - "Personas"

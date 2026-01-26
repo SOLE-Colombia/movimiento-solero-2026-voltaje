@@ -1,5 +1,5 @@
 ---
-title: "Buscar señales de WiFi a tu alrededor con una aplicación móvil"
+title: "¿Qué redes libres están disponibles para conectarme a internet?"
 date: 2025-12-17
 tags:
   - "Señal"

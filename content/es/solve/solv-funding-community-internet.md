@@ -1,5 +1,5 @@
 ---
-title: "Haz una colecta para pagar internet comunitario"
+title: "¿Cómo recolectar recursos económicos en comunidad?"
 date: 2025-12-17
 tags:
   - "Personas"

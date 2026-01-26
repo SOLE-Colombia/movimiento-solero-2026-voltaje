@@ -1,5 +1,5 @@
 ---
-title: "¿Cómo comprar un computador para ti?"
+title: "¿Cómo comprar un computador?"
 date: 2025-12-17
 tags:
   - "Dispositivos"
@@ -10,8 +10,6 @@ tarda: "Horas"
 autor: "SOLE Colombia"
 draft: false
 ---
-## Comprar el mejor computador para mi caso
-
 
 Hola, soy Nicolás y, al igual que tú, he estado aprendiendo sobre cómo mejorar mi conexión a internet. No soy un experto en el tema, pero buscando en internet, tutoriales y aprendiendo de la prueba y el error he logrado mejorar la calidad del internet en zonas sin buena conectividad. 
 

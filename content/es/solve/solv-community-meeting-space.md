@@ -1,5 +1,5 @@
 ---
-title: "Pide un Salón Comunal, o cualquier espacio comunitario"
+title: "¿Cómo pedir un salón comunal o cualquier espacio comunitario?"
 date: 2025-12-17
 tags:
   - "Espacio"

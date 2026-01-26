@@ -1,5 +1,5 @@
 ---
-title: "Crea un mensaje potente"
+title: "¿Cómo movilizar a otros con tu causa?"
 date: 2025-12-17
 tags:
   - "Personas"
