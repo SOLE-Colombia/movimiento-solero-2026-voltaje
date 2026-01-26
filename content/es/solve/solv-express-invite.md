@@ -1,6 +1,6 @@
 ---
-title: "¡Aprende a diseñar tu invitación exprés sin ser un experto!"
-date: 2025-12-17
+title: "¡Aprende a diseñar una invitación exprés sin ser un experto!"
+date: 2026-01-26
 tags:
   - "Personas"
 dificultad: "Fácil"
@@ -10,16 +10,13 @@ tarda: "Horas"
 autor: "SOLE Colombia"
 draft: false
 ---
----
-## Las invitaciones son clave para convocar personas.
 
-## La forma, es importante
+¡Hola! Soy Manuela y no soy diseñadora profesional, pero de eso se trata el _cacharreo_, de aprender autónomamente, de resolver haciendo. Me encanta diseñar, dibujar y crear. De hecho, hacer Collage es uno de mis pasatiempos favoritos. Y hoy, quisiera compartir cómo hacer una invitación a partir de mi experiencia.
 
-¡Hola! Soy Manu y no soy diseñadora profesional, pero de eso se trata el cacharreo, de aprender autónomamente. 
+Aquí te voy a hablar principalmente de la **forma**, es decir, de cómo hacer una invitación en términos generales. Puedes consultar también la solución [¿Cómo escribir una buena invitación?]() si estás más interesado/a algunas recomendaciones de contenido.
 
-Me encanta diseñar, dibujar y crear. Hacer Collage es uno de mis pasatiempos favoritos.
 
-## ¿Qué es diseñar una invitación, sin ser un experto?
+## ¿Qué significa diseñar una invitación, sin ser un experto?
 
  Me emociona enseñarte cómo diseñar una invitación increíble para tu próximo SOLE o actividad. En SOLE Colombia hemos aprendido a usar [Canva](/es/glossary/canva-conceptorio), pero puedes hacer tu invitación cómo más te guste, incluso, ¡a mano! ¡tú puedes hacerlo!
 

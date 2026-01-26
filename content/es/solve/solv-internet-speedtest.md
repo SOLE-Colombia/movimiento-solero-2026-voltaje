@@ -29,7 +29,7 @@ Una prueba de velocidad sirve para varias cosas.
 
 2. También te ayuda a **identificar problemas de conexión,** o lugares y situaciones en las que tu señal es mejor o peor. Por ejemplo, para [instalar una antena 3G/4G →](es/solve/solv-install-3G-antenna.md), necesitas medir varias veces la velocidad hasta encontrar la dirección en la tienes mejor recepción.
 
-3. Saber la calidad de tu internet también te permite conocer los [servicios a los que puedes acceder →](es/disconnected/disc-travel-speed-light.md). Por ejemplo, ¿sabes qué velocidad necesitas para ver un video en Youtube?
+3. Saber la calidad de tu internet también te permite conocer los **servicios a los que puedes acceder**. Por ejemplo, ¿sabes qué velocidad necesitas para ver un video en Youtube? ¡Sigue leyendo para descubrirlo!👇🏽
 
 ___
 
