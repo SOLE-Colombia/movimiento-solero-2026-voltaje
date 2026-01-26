@@ -35,10 +35,23 @@ ArticleTitle.css = `
 
 .article-title.section-solve {
   color: #991D79;
+  font-size: 56px;
+  line-height: 0.8;
+  margin-bottom: 1rem;
 }
 
 .article-title.section-inspire {
   color: #27BFB8;
+  font-size: 56px;
+  line-height: 0.8;
+  margin-bottom: 1rem;
+}
+
+.article-title.section-conceptorio {
+  color: #fc794d;
+  font-size: 56px;
+  line-height: 0.8;
+  margin-bottom: 1rem;
 }
 `
 

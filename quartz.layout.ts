@@ -22,6 +22,15 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
+// Helper para detectar páginas de soluciones individuales
+const isSolveSinglePage = (page: { fileData: { slug?: string; frontmatter?: Record<string, unknown> } }) => {
+  const slug = page.fileData.slug ?? ""
+  const isInSolve = slug.startsWith("es/solve/") || slug.startsWith("solve/")
+  const isIndex = slug.endsWith("/solve") || slug.endsWith("/solve/index") || slug.endsWith("solve/index")
+  const isSectionIndex = page.fileData.frontmatter?.type === "section-index"
+  return isInSolve && !isIndex && !isSectionIndex
+}
+
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
@@ -40,11 +49,13 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ConditionalRender({
       component: Component.ContentMeta(),
-      condition: (page) => !isHomePage(page) && page.fileData.frontmatter?.type !== "section-index",
+      // Ocultar ContentMeta en páginas de soluciones (la metadata va en el sidebar)
+      condition: (page) => !isHomePage(page) && page.fileData.frontmatter?.type !== "section-index" && !isSolveSinglePage(page),
     }),
     Component.ConditionalRender({
       component: Component.TagList(),
-      condition: (page) => !isHomePage(page),
+      // Ocultar TagList en páginas de soluciones (las categorías van en el sidebar)
+      condition: (page) => !isHomePage(page) && !isSolveSinglePage(page),
     }),
   ],
   left: [
@@ -153,6 +164,8 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     // Módulo de gráfico desactivado sin eliminar el código.
     // Component.Graph(),
+    // Metadata de soluciones en sidebar derecho
+    Component.SolveMetaSidebar(),
     Component.Backlinks(),
   ],
 }
