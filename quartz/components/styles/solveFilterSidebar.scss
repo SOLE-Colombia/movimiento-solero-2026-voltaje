@@ -89,8 +89,8 @@
 .solve-filter-content {
   display: flex;
   flex-direction: column;
-  margin-right: 2rem;
-  gap: 1.25rem;
+  margin-right: 1.5rem;
+  gap: 1rem;
   transition: max-height 0.3s ease-out, opacity 0.3s ease-out;
   
   &:not(.expanded) {
