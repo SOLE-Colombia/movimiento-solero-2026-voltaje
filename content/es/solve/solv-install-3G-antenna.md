@@ -1,5 +1,5 @@
 ---
-title: "¿Cómo instalar mi antena 3/4G?"
+title: "¿Cómo instalar mi antena 3G/4G?"
 date: 2026-01-24
 tags:
   - "Señal"
@@ -13,17 +13,21 @@ draft: false
 
 ![Previsualización de la antena instalada](/assets/images/solv-need-3Gantenna/solve-need-3Gantenna-welcome.webp)
 
-Hola, soy Sanjay, y no soy un experto en temas de conectividad, pero he aprendido *cacharreando:* es decir, a punta de prueba y error, y también, preguntándole a otras personas sobre el tema. 
+Hola, soy Sanjay, y aunque no soy un experto en temas de conectividad, he aprendido *cacharreando:* es decir, a punta de prueba y error y preguntándole a otras personas sobre el tema. ¡Hoy te acompaño a instalar tu propia antena!
 
-En esta solución, vas a poder instalar una antena 3G/4G que hayas comprado. Si aún no tienes una, puedes ir a la solución ["¿Cómo comprar una antena 3G-4G?" →](/es/solve/como-comprar-una-antena-satelital-solutions-db.md) para saber cuál te funciona mejor.
+Es importante que sepas que **hay muchos tipos de antenas 3G o 4G,** aunque, en general, esta solución debería servirte para instalar la que tengas. Es posible que tu antena venga con un manual o instructivo. Te recomendamos leerlo primero. Pero, si no lo tienes, o si quien te vendió la antena no te explicó cómo hacerlo, ¡lo que viene te puede servir!
 
-¡OJO! Es importante que sepas que **hay muchos tipos de antenas 3G o 4G,** aunque, en general, esta solución debería servirte para instalar la que tengas. 
+___
 
-Es posible que tu antena venga con un manual o instructivo. Te recomendamos leerlo primero. Pero, si no lo tienes, o si quien te vendió la antena no te explicó cómo hacerlo, ¡lo que viene te puede servir!
+## ¿Qué es instalar una antena 3G/4G?
+
+En resumen, es colocar y poner en funcionamiento un equipo que permite mejorar el acceso a señal celular en una zona donde antes era débil. Ten presente que para esta solución necesitas tener la antena. Si aún no tienes una, puedes ir a la solución ["¿Cómo comprar una antena 3G-4G?" →](/es/solve/como-comprar-una-antena-satelital-solutions-db.md) para saber cuál te funciona mejor.
 
 > Recuerda, las instrucciones y lo que encuentres aquí pueden verse algo diferente. 
 
-## ¿Para qué sirve esta solución?
+___
+
+## ¿Para qué sirve?
 
 Existen lugares en los que la señal de telefonía celular es muy débil. Puedes verlo en la barras de conexión de tu celular (podría verse una sola barra o algo que dice *H+,* *E* o, incluso, que no hay señal). Una antena, que tenga las características necesarias para las condiciones del lugar desde el que te quieres conectar, puede ayudarte a conseguir una mejor calidad de conexión. 
 

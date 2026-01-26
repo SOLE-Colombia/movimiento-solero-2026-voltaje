@@ -13,15 +13,17 @@ draft: false
 
 Hola, soy Belén. Hasta hace muy poco, no sabía que uno podría probar la velocidad de mi conexión a Internet. Me pareció muy fácil y muy útil aprender a hacerlo porque me permite saber en cada momento el estado de mi conexión. 
 
-Entender por qué no me funcionan algunas cosas en determinados momentos, me tranquiliza y me permite buscar soluciones. ¿Te gustaría aprender a ti también? ¡Empecemos! 🧭💪🏽  Pero antes...
+Entender por qué no me funcionan algunas cosas en determinados momentos, me tranquiliza y me permite buscar soluciones. ¿Te gustaría aprender a ti también? ¡Empecemos! 🧭💪🏽
 
-**¿Qué es probar la velocidad de la conexión a internet?**
+___
+
+## ¿Qué es probar la velocidad de la conexión a internet?
 
 Una prueba de velocidad de conexión a internet, o _"speed test"_, es una herramienta que mide la rapidez de tu conexión a internet, evaluando la velocidad de **descarga** y **subida** de datos y la **[latencia de red →](es/glossary/latencia-latency-conceptorio.md)**. 
 
 ___
 
-## ¿Para qué sirve esta solución?
+## ¿Para qué sirve?
 
 Una prueba de velocidad sirve para varias cosas. 
 
@@ -126,6 +128,7 @@ ___
 - Si tu conexión no te alcanza para hacer la prueba en línea, esta solución podría serte útil: [¿Cómo saber qué tan buena es tu conexión a Internet sin una prueba en línea? →](es/solve/solv-internet-quality-diagnosis.md) |
 - Si estás conectado a tu WiFi, tenemos algunas recomendaciones para que aproveches al máximo tu internet: [¿Cómo aprovechar mi ancho de banda? →](es/solve/solv-bandwidth.md) 
 
+Recuerda que en **Voltaje** ⚡⚡ puedes encontrar muchas soluciones más para _conectarte sin miedo_ a usar el internet en grupo. ¡Animáte a neguir navegando! [Ver más soluciones →](https://sole-colombia.github.io/voltaje/es/solve)
 __
 
 ## Referencias

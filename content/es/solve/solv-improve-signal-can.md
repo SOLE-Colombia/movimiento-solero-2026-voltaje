@@ -157,7 +157,8 @@ Gracias por llegar hasta el final de esta solución. ¡Esperamos que te haya sid
 
 ## Soluciones relacionadas
 
-- En esta solución encuentras algunos trucos adicionales para mejorar tu señal móvil: [¿¿Cómo amplificar tu señal móvil dentro de un espacio? →](es/solve/solv-amplify-signal-inside.md)
+- Para saber si la solución funciona, mide la velocidad de tu internet con y sin lata: ["¿Cómo probar la velocidad de tu conexión a Internet?" →](es/solve/solv-internet-speedtest.md).
+- En esta solución encuentras algunos trucos adicionales para mejorar tu señal móvil: [¿Cómo amplificar tu señal móvil dentro de un espacio? →](es/solve/solv-amplify-signal-inside.md)
 - Si lo que quieres es mejorar la señal de tu módem WiFi, puedes consultar esta solución: [¿Cómo mejorar la señal de tu router? →](es/solve/solv-improve-signal-router.md)
 
 Recuerda que en **Voltaje** ⚡⚡ puedes encontrar muchas soluciones más para _conectarte sin miedo_ a usar el internet en grupo. ¡Animáte a neguir navegando! [Ver más soluciones →](https://sole-colombia.github.io/voltaje/es/solve)
