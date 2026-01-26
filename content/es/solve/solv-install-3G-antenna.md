@@ -15,7 +15,7 @@ draft: false
 
 Hola, soy Sanjay, y no soy un experto en temas de conectividad, pero he aprendido *cacharreando:* es decir, a punta de prueba y error, y también, preguntándole a otras personas sobre el tema. 
 
-En esta solución, vas a poder instalar una antena 3G/4G que hayas comprado. Si aún no tienes una, puedes ir a la solución ["¿Cómo comprar una antena 3G-4G?"](/es/solve/como-comprar-una-antena-satelital-solutions-db.md) para saber cuál te funciona mejor.
+En esta solución, vas a poder instalar una antena 3G/4G que hayas comprado. Si aún no tienes una, puedes ir a la solución ["¿Cómo comprar una antena 3G-4G?" →](/es/solve/como-comprar-una-antena-satelital-solutions-db.md) para saber cuál te funciona mejor.
 
 ¡OJO! Es importante que sepas que **hay muchos tipos de antenas 3G o 4G,** aunque, en general, esta solución debería servirte para instalar la que tengas. 
 
@@ -45,22 +45,22 @@ Recuerda que estas trabajando con equipos eléctricos. Ten cuidado al momento de
 
 ![Materiales](/assets/images/solv-install3Gantenna/solv-install3Gantenna-materials.webp)
 
-1. La [antena 3G-4G](es/glossary/conc-3g-4g-antennas.md) que hayas comprado.  
-2. [Cable coaxial](es/glossary/conc-coaxial-cable.md) para traer la señal de la antena.
-3. [Módem](es/glossary/conc-router.md) con su respectivo cable de poder, cable de Ethernet y guía de inicio rápido (o manual de instrucciones).
-4. [Tarjeta SIM](es/glossary/conc-simcard.md) del operador celular que tenga mejor señal en la zona.
-5. Computador con [conexión Ethernet](es/glossary/conc-ethernet.md) y/o [WiFi](es/glossary/conc-wireless-fidelity.md)  o [teléfono móvil inteligente](es/glossary/conc-smartphone.md) (Android / IOS) 
+1. La [antena 3G-4G →](es/glossary/conc-3g-4g-antennas.md) que hayas comprado.  
+2. [Cable coaxial →](es/glossary/conc-coaxial-cable.md) para traer la señal de la antena.
+3. [Módem →](es/glossary/conc-router.md) con su respectivo cable de poder, cable de Ethernet y guía de inicio rápido (o manual de instrucciones).
+4. [Tarjeta SIM →](es/glossary/conc-simcard.md) del operador celular que tenga mejor señal en la zona.
+5. Computador con [conexión Ethernet →](es/glossary/conc-ethernet.md) y/o [WiFi →](es/glossary/conc-wireless-fidelity.md)  o [teléfono móvil inteligente →](es/glossary/conc-smartphone.md) (Android / IOS) 
 6. Una vara alta (de la misma longitud del cable o un poco menos): puede ser un tubo de metal, madera o guadua. Lo importante es que sea lo más recta posible y resistente. 
 7. Soportes de la antena (que permiten colgar la antena a la vara alta).
 8. Llave para apretar tuercas.
 9. Materiales y herramientas para fijar la vara (depende de dónde la instales).
 ___
 
-## **¿Cómo se hace?**
+## ¿Cómo se hace?
 
 Esta solución tiene 6 pasos, unos más sencillos que otros, pero no te preocupes, si yo pude hacerlo, tú también podrás. ¡Empecemos!
 
->### PASO 1 → Define el lugar en donde va a quedar instalada la antena y el módem
+> ### PASO 1 → Define el lugar en donde va a quedar instalada la antena y el módem
 
 Antes de desempacar tu compra, define dónde quieres (o quieren) que el módem y la antena se ubiquen permanentemente. Si es en tu casa, puede ser en la sala. Si es en un espacio comunitario, puede ser en un cuarto que sea seguro, pero en el que la señal llegue de todos los que lo quieran usar.
 
@@ -74,7 +74,7 @@ Finalmente, define por dónde vas a introducir el cable desde la antena hasta el
 ![Ubicación de los componentes](assets/images/solv-install3Gantenna/solv-install3Gantenna-locate.webp)
 
 
-> ### Paso 2: Identifica las torres de telefonía móvil de la zona
+> ### Paso 2 → Identifica las torres de telefonía móvil de la zona
 
 Para que las antenas funcionen lo mejor posible, deben poder "verse" la una a otra o, por lo menos, deberían apuntar hacia el mismo lugar. 
 
@@ -99,7 +99,7 @@ _Tomado de Wikimedia Commons_
 ¡Vas muy bien! Ahora viene lo fácil: armar la antena.
 
 
-> ### Paso 3: Inserta la SIM y conecta el módem a la electricidad
+> ### Paso 3 → Inserta la SIM y conecta el módem a la electricidad
 
 Abre la caja del módem. Debe incluir un cable de corriente, un cable de Ethernet (para conectar un computador) y una guía de inicio rápido (instrucciones). Lee la guía cuidadosamente porque cada antena es diferente. Los pasos siguientes de esta solución deben coincidir con los de la guía, sólo que de forma más detallada.
 
@@ -141,7 +141,7 @@ En el frente del módem encuentras diferentes indicadores de conexión, y en las
 
 Terminado este paso, ya tu módem está listo, ¡vas por la mitad de la solución! Si el indicador de conexión (el segundo en el ejemplo) está en rojo, simplemente apaga el módem y vamos a conectarle la antena. 
 
-> ### Paso 4: Conecta todos los elementos de la antena e iza la antena
+> ### Paso 4 → Conecta todos los elementos de la antena e iza la antena
 
 Llegó el momento de armar tu antena. Lo mejor para empezar es sacar y poner juntos todos los elementos que se necesitan para armarla. Luego, empecemos.
 
@@ -175,13 +175,13 @@ En este modelo de módem hay una tapa en la parte de atrás del módem que debes
 
 Ahora puedes izar la antena con la ayuda de otra persona y apuntarla hacia la torre de telefonía que identificaste en el segundo paso. Luego, enciende el módem y listo. Te quedan sólo dos pasos para terminar. ¡Bravo! 👏🏽
 
-> ### Paso 5: Conecta el computador o el celular al módem
+> ### Paso 5→ Conecta el computador o el celular al módem
 
 Enciende el WiFi de tu computador o de tu celular y busca la red del módem. Usualmente encuentras el nombre de la red en una pegatina en la base del módem. Ahí también encontrarás la contraseña para conectarte. Ingresa la información en tu dispositivo y con esto ¡ya estás listo para navegar en Internet!
 
-Si tu computador tiene entrada de [Ethernet](es/glossary/conc-ethernet.md), también puedes conectarte directamente por cable. Conectarse por cable siempre te dará la mejor velocidad de navegación en internet posible. 
+Si tu computador tiene entrada de [Ethernet →](es/glossary/conc-ethernet.md), también puedes conectarte directamente por cable. Conectarse por cable siempre te dará la mejor velocidad de navegación en internet posible. 
 
-![modemnamepassword](assets/images/solv-install3Gantenna/solv-install3Gantenna-modemnamepassword.webp)
+![Nombre del moden y contraseña](assets/images/solv-install3Gantenna/solv-install3Gantenna-modemnamepassword.webp)
 
 Si ya lograste conectarte ve al siguiente paso. Si no, lee lo que viene a continuación
 
@@ -193,8 +193,8 @@ A veces nos encontramos en lugares distantes de las torres de telefonía celular
 
 Ingresa al navegador de tu dispositivo (puede ser Firefox, Google Chrome, Microsoft Edge o Explorer) y escribe la dirección IP de tu módem. Por lo general, esta dirección la encuentras en las misma pegatina bajo del modem. La IP de este modem 👇🏽, por ejemplo, es **192.168.8.1.**
 
-![modemdetails](/assets/images/solv-install3Gantenna/solv-install3Gantenna-modemdetails.webp)
-![password](assets/images/solv-install3Gantenna/solv-install3Gantenna-password.webp)
+![Detalles del módem](/assets/images/solv-install3Gantenna/solv-install3Gantenna-modemdetails.webp)
+![Contraseña del módem](assets/images/solv-install3Gantenna/solv-install3Gantenna-password.webp)
 
 Cuando ingresas a esa dirección IP verás la página de ingreso al módem. Allí te pedirán la contraseña, que también encuentras en la pegatina. Usualmente, la contraseña es **admin** en minúsculas. 
 
@@ -218,20 +218,20 @@ Cada vez que cambies la posición de tu antena, espera unos segundos para ver si
 > 💡 **¿Cómo se mide el uso de internet?**
 > El uso se mide por la cantidad de datos que se descargan en tu computador o celular al hacer _"una consulta"_ (por ejemplo, ver un video, escuchar una canción, leer un artículo en un periódico en línea o recibir un mensaje de texto). El “peso” de cada uno de esos archivos se mide en *bytes* de información y la medida más común cuando compras un plan de datos son las Gigas, Gb o *Gigabytes.* 
 >
->  ¿Sabes qué tantas cosas puedes hacer con 1 Giga (1Gb)? ¡Ingresa a [este enlace](es/disconnected/disc-healthy-informational-diet.md) para saberlo!
+>  ¿Sabes qué tantas cosas puedes hacer con 1 Giga (1Gb)? ¡Ingresa a [este enlace →](es/disconnected/disc-healthy-informational-diet.md) para saberlo!
 
 <br>
 
 > 💡 **¿Qué tan rápido se puede acceder a la información en internet?**
 > Al igual que saber cuánto "pesan" es importante saber a qué velocidad puedes acceder a esos archivos que estas consultando. Esto se mide en *Megabytes por segundo o Mbps* que se descargan a tu computador o celular. 
 > 
-> ¿Sabes qué velocidad necesitas para tener ciertos servicios? ¡Ingresa a [este enlace](es/disconnected/disc-travel-speed-light.md) para saberlo!
+> ¿Sabes qué velocidad necesitas para tener ciertos servicios? ¡Ingresa a [este enlace →](es/disconnected/disc-travel-speed-light.md) para saberlo!
 
 <br>
 
 > 🧭 **Haz pruebas de la velocidad**
 >
->Ahora que conoces sobre el peso y la velocidad de los datos, puedes hacer tu propia *prueba de velocidad* Ésta te permitirá saber qué tan rápido están descargándose los datos desde internet. Para esto consulta la solución [¿Cómo probar la velocidad de tu conexión a Internet?](es/solve/solv-internet-speedtest.md). Allí encontrarás el paso a paso.
+>Ahora que conoces sobre el peso y la velocidad de los datos, puedes hacer tu propia *prueba de velocidad* Ésta te permitirá saber qué tan rápido están descargándose los datos desde internet. Para esto consulta la solución ["¿Cómo probar la velocidad de tu conexión a Internet?" →](es/solve/solv-internet-speedtest.md). Allí encontrarás el paso a paso.
 
 <br>
 
@@ -281,7 +281,7 @@ Así es como se coloca la antena con mayor precisión. ¡Buena suerte capturando
 Como estás usando una antena exterior puede que las condiciones climáticas afecten qué tan rápida o lenta es tu conexión. Por ejemplo, un día muy húmedo puede hacer que tu conexión se vuelva más lenta. No te preocupes, poco a poco irás mejorando tu experiencia de usar el internet juntos a medida que vayas probando nuevas soluciones.
 
     
-> ### Paso 6: Fija la antena
+> ### Paso 6 → Fija la antena
 
 ¡Hemos llegado a nuestro último paso!
 
@@ -311,33 +311,46 @@ Luego, utiliza soportes adecuados para anclar las vara a la base. Si es a una pa
 
 ---
 
-## **¿Qué se logra con esta solución?**
+## ¿Qué se logra con esta solución?
 
 Entre muchas soluciones de conectividad que he probado, esta es de las mejores para generar un espacio para acceder a Internet juntos, permitiendo que varias personas puedan conectarse al toempo a una señal WiFi en lugares en donde la señal de 3G o 4G es débil.
 
 La recomiendo no solo para el hogar, sino para espacios comunes como colegios, bibliotecas, negocios o salones comunales. También sirve en espacios públicos como parques si tienen algún lugar para dejarla bajo seguro y con electricidad constante. 
 
-> **Ten presente que si no hay cobertura de telefonía móvil, esta solución no servirá.** Pero no te desanimes, la cobertura de la telefonía está aumentando paulatinamente en todo el planeta. Mientras tanto, puedes consultar otra herramienta de SOLE llamada ["El Desconectado"](https://sole-colombia.github.io/voltaje/es/disconnected), en donde encontrarás solucoines para lugares en donde no hay internet.
+> **Ten presente que si no hay cobertura de telefonía móvil, esta solución no servirá.** Pero no te desanimes, la cobertura de la telefonía está aumentando paulatinamente en todo el planeta. Mientras tanto, puedes consultar otra herramienta de SOLE llamada ["El Desconectado" →](https://sole-colombia.github.io/voltaje/es/disconnected), en donde encontrarás solucoines para lugares en donde no hay internet.
 
 ---
 
-## **¿Hasta dónde puede llegar esta solución?**
+## ¿Para qué te sirve esta solución?
 
-No es una solución económica (el precio de una antena está entre los $370 - $400 USD (dólares)), pero he visto que puede tener una gran alcance en la medida que se vuelva un punto de acceso a internet comunitario.
+Aunque no es una solución económica (el precio de una antena está entre los $370 - $400 USD; *USD = dólares*), he visto que puede tener una gran impacto en la medida que se vuelva un punto de acceso a **internet comunitario.**
 
-Para esto, la comunidad podría ponerse de acuerdo para comprarla con aportes de todas las personas y mantenerla juntos. Esto puede resultar en un gasto inicial considerable, pero a futuro es más económico que cuando cada persona compra su propio plan de datos individualmente.
+Para esto, la comunidad podría ponerse de acuerdo, comprarla con aportes de todas las personas y mantenerla juntos. Esto puede resultar en un gasto inicial considerable, pero a futuro es más económico que cuando cada persona compra su propio plan de datos individualmente.
 
-> 💡 En SOLE Colombia hemos llevado esta antena a comunidades en las que se instala en un espacio comunitario al que todas las personas pueden acceder. Allí, la comunidad decide cuánto, cuándo y para qué se utiliza el internet. De esta manera, se regula colectivamente la recarga de datos según las necesidades y se aprovechan al máximo de forma compartida.
+> 💡 En SOLE Colombia hemos realizado esta solución con comunidades en las que se instala una antena en un espacio comunitario al que todas las personas pueden acceder. Allí, la comunidad decide cuánto, cuándo y para qué se utiliza el internet. De esta manera, se regula colectivamente la recarga de datos según las necesidades y se aprovechan al máximo de forma compartida.
 > 
 > Por ejemplo, se prioriza que los niños puedan hacer sus tareas o que la comunidad vea una película **en conjunto**, por encima de usos individuales como el acceso a redes sociales. Esto, por supuesto, implica nuevos retos. Pero el punto de partida es claro: ¡ya tienes acceso a internet!
+>
+> > 💬💪🏽 Conoce cómo fue la [experiencia de una comunidad en Cáceres Antioquia →](es/inspire/insp-internetimprove-caceres.md)
 
 <br>
 
-Sabiendo esto, ¿hasta dónde te gustaría llegar a ti? ¿Es ésta una solución que podrías incentivar en donde vives? ¡Esperamos que te haya sido útil! Y si así fue, compártela con otras personas que sepas que les puede servir.
+Sabiendo esto, ¿hasta dónde te gustaría llegar a ti? ¿Es ésta una solución que podrías incentivar en donde vives? ¡Esperamos que te haya sido útil! Y si así fue, **compártela con otras personas** a quienes sepas que les podría servir.
 
----
- 
+¡Hasta pronto! 👋🏽
+
+___
+
+## Soluciones relacionadas
+
+- Si en el lugar donde vives no hay señal móvil, esta solución podría serte útil: [¿Cómo comprar una antena satelital? →](es/solve/solv-buy-satellite-antenna.md)
+  
+- Una vez instalados los equipos, el reto es cuidarlos en comunidad. En esta solución te compartimos un juego que podría ayudarte: [¿Cómo usar el juego para aprender a cuidar equipos en comunidad? →](es/solve/solv-fish-game.md)
+
+Recuerda que en Voltaje puedes encontrar muchas soluciones más para _conectarte sin miedo_ a usar el internet en grupo. ¡Animáte a neguir navegando! [Ver más soluciones →](https://sole-colombia.github.io/voltaje/es/solve)
+
+___
+
 ## Referencias
 
-- [Problemas con el internet](https://problemasconinternet.com/router-blu-castle-4g/)
-
+- [Problemas con el internet →](https://problemasconinternet.com/router-blu-castle-4g/)
