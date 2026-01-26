@@ -21,9 +21,9 @@ En esta solución, vas a poder instalar una antena 3G/4G que hayas comprado. Si 
 
 Es posible que tu antena venga con un manual o instructivo. Te recomendamos leerlo primero. Pero, si no lo tienes, o si quien te vendió la antena no te explicó cómo hacerlo, ¡lo que viene te puede servir!
 
-Recuerda, las instrucciones y lo que encuentres aquí puede verse algo diferente. 
+> Recuerda, las instrucciones y lo que encuentres aquí pueden verse algo diferente. 
 
-## ¿Para qué sirve?
+## ¿Para qué sirve esta solución?
 
 Existen lugares en los que la señal de telefonía celular es muy débil. Puedes verlo en la barras de conexión de tu celular (podría verse una sola barra o algo que dice *H+,* *E* o, incluso, que no hay señal). Una antena, que tenga las características necesarias para las condiciones del lugar desde el que te quieres conectar, puede ayudarte a conseguir una mejor calidad de conexión. 
 
@@ -73,6 +73,7 @@ Finalmente, define por dónde vas a introducir el cable desde la antena hasta el
 ![Diagrama de ensamblaje](assets/images/solv-need-3Gantenna/solv-need-3Gantenna-diagram.webp)
 ![Ubicación de los componentes](assets/images/solv-install3Gantenna/solv-install3Gantenna-locate.webp)
 
+<br>
 
 > ### Paso 2 → Identifica las torres de telefonía móvil de la zona
 
@@ -98,6 +99,7 @@ _Tomado de Wikimedia Commons_
 
 ¡Vas muy bien! Ahora viene lo fácil: armar la antena.
 
+<br>
 
 > ### Paso 3 → Inserta la SIM y conecta el módem a la electricidad
 
@@ -140,6 +142,8 @@ En el frente del módem encuentras diferentes indicadores de conexión, y en las
 - Y el quinto representa la potencia de la señal (como las barras de señal del celular). En este ejemplo, la señal es muy buena. 
 
 Terminado este paso, ya tu módem está listo, ¡vas por la mitad de la solución! Si el indicador de conexión (el segundo en el ejemplo) está en rojo, simplemente apaga el módem y vamos a conectarle la antena. 
+
+<br>
 
 > ### Paso 4 → Conecta todos los elementos de la antena e iza la antena
 
@@ -189,7 +193,9 @@ En este modelo de módem hay una tapa en la parte de atrás del módem que debes
 
 Ahora puedes izar la antena con la ayuda de otra persona y apuntarla hacia la torre de telefonía que identificaste en el segundo paso. Luego, enciende el módem y listo. Te quedan sólo dos pasos para terminar. ¡Bravo! 👏🏽
 
-> ### Paso 5→ Conecta el computador o el celular al módem
+<br>
+
+> ### Paso 5 → Conecta el computador o el celular al módem
 
 Enciende el WiFi de tu computador o de tu celular y busca la red del módem. Usualmente encuentras el nombre de la red en una pegatina en la base del módem. Ahí también encontrarás la contraseña para conectarte. Ingresa la información en tu dispositivo y con esto ¡ya estás listo para navegar en Internet!
 
@@ -325,7 +331,7 @@ A punta de prueba y el error podrás sentirte cada vez más seguro o segura para
 
 ---
 
-## ¿Para qué sirve esta solución?
+## ¿Qué puedes lograr con esta solución?
 
 Entre muchas soluciones de conectividad que he probado, esta es de las mejores para generar un espacio para acceder a Internet juntos, permitiendo que varias personas puedan conectarse al tiempo a una señal WiFi en lugares en donde la señal de 3G o 4G es débil.
 
@@ -336,6 +342,8 @@ La recomiendo no solo para el hogar, sino para espacios comunes como colegios, b
 Aunque no es una solución económica (el precio de una antena está entre los $370 - $400 USD; *USD = dólares*), he visto que puede tener una gran impacto en la medida que se vuelva un punto de acceso a **internet comunitario.**
 
 Para esto, la comunidad podría ponerse de acuerdo, comprarla con aportes de todas las personas y mantenerla juntos. Esto puede resultar en un gasto inicial considerable, pero a futuro es más económico que cuando cada persona compra su propio plan de datos individualmente.
+
+<br>
 
 > 💡 En SOLE Colombia hemos realizado esta solución con comunidades en las que se instala una antena en un espacio comunitario al que todas las personas pueden acceder. Allí, la comunidad decide cuánto, cuándo y para qué se utiliza el internet. De esta manera, se regula colectivamente la recarga de datos según las necesidades y se aprovechan al máximo de forma compartida.
 > 
@@ -357,7 +365,7 @@ ___
   
 - Una vez instalados los equipos, el reto es cuidarlos en comunidad. En esta solución te compartimos un juego que podría ayudarte: [¿Cómo usar el juego para aprender a cuidar equipos en comunidad? →](es/solve/solv-fish-game.md)
 
-Recuerda que en Voltaje puedes encontrar muchas soluciones más para _conectarte sin miedo_ a usar el internet en grupo. ¡Animáte a neguir navegando! [Ver más soluciones →](https://sole-colombia.github.io/voltaje/es/solve)
+Recuerda que en **Voltaje** ⚡⚡ puedes encontrar muchas soluciones más para _conectarte sin miedo_ a usar el internet en grupo. ¡Animáte a neguir navegando! [Ver más soluciones →](https://sole-colombia.github.io/voltaje/es/solve)
 
 ___
 
