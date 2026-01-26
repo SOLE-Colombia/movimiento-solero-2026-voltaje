@@ -153,9 +153,16 @@ Luego ajusta los soportes de la antena al extremo más alto de la vara. Recuerda
 
 ![Anetennasupport](assets/images/solv-install3Gantenna/solv-install3Gantenna-anetennasupport.webp)
 
-![Antennasupport](/assets/images/solv-install3Gantenna/solv-install3Gantenna-antennasupport.webp)
-
-![Antennafix](assets/images/solv-install3Gantenna/solv-install3Gantenna-antennafix.webp)
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/images/solv-install3Gantenna/solv-install3Gantenna-antennasupport.webp" alt="Soporte de la antena colgada a la vara">
+    </td>
+    <td align="center">
+      <img src="assets/images/solv-install3Gantenna/solv-install3Gantenna-antennafix.webp" alt="Antena colagada a la vara final">
+    </td>
+  </tr>
+</table>
 
 **Extiende el cable y conecta el extremo que va al cable de la antena.**
 
@@ -169,9 +176,16 @@ Desenrollar el cable y extenderlo a su máxima longitud ayuda a que sea más fá
 
 En este modelo de módem hay una tapa en la parte de atrás del módem que debes retirar con un poco de fuerza (guarda la tapa en la caja del módem). Ahí encuentras el lugar para conectar el cable. Aprieta la rosca del conector al máximo de manera cuidadosa.
 
-![modemprotections](assets/images/solv-install3Gantenna/solv-install3Gantenna-modemprotections.webp)
-
-![connectcabletomodem](assets/images/solv-install3Gantenna/solv-install3Gantenna-connectcabletomodem.webp)
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/images/solv-install3Gantenna/solv-install3Gantenna-modemprotections.webp" alt="Levantando la tapa del módem">
+    </td>
+    <td align="center">
+      <img src="assets/images/solv-install3Gantenna/solv-install3Gantenna-connectcabletomodem.webp" alt="Cable coaxial conectado al módem">
+    </td>
+  </tr>
+</table>
 
 Ahora puedes izar la antena con la ayuda de otra persona y apuntarla hacia la torre de telefonía que identificaste en el segundo paso. Luego, enciende el módem y listo. Te quedan sólo dos pasos para terminar. ¡Bravo! 👏🏽
 
@@ -262,7 +276,7 @@ A continuación, puedes ver una tabla que indica los _parámetros de la cobertur
 | Excelente	| > -10 dB	| > -80 dBm	| > -65 dBm	| > 20 dB	|
 | Buena	| -10 dB a -15dB	| -80 dBm a -90 dBm	| -65 dBm a -75 dBm	| 13 dB a 20 dB	|
 | Media	| -15 dB a -20 dB	| -90 dBm a -100 dBm	| -75 dBm a -85 dBm	| 0 dB a 13 dB	|
-| Baja	| <-20 dB	| <-100 dBm	| <-85 dBm	| <-0 dB	|
+| Baja	| < -20 dB	| < -100 dBm	| < -85 dBm	| < -0 dB	|
 
 _*Ten en cuenta que ">" significa "mayor que" y "<" significa "menor que". Es decir que "> -10 dB" quiere decir "mayor que -10dB"._
 _*Recuerda que los números negativos funcionan a la inversa que los números positivos. Por ejemplo, -10dB es mayor que -80dB (porque está más cerca del cero)._
@@ -274,13 +288,13 @@ Yo me fijo principalmente en el **RSRP** que es la potencia de la conexión. Te 
 Así es como se coloca la antena con mayor precisión. ¡Buena suerte capturando la señal! Te has vuelto un verdadero cacharrero o cacharrera del internet.
             
 ![rotatedetail](/assets/images/solv-install3Gantenna/solv-install3Gantenna-rotatedetail2.webp)
-            
-<br>
+
     
 >💡 **Ten en cuenta que el clima afecta la señal**
 Como estás usando una antena exterior puede que las condiciones climáticas afecten qué tan rápida o lenta es tu conexión. Por ejemplo, un día muy húmedo puede hacer que tu conexión se vuelva más lenta. No te preocupes, poco a poco irás mejorando tu experiencia de usar el internet juntos a medida que vayas probando nuevas soluciones.
 
-    
+<br>
+
 > ### Paso 6 → Fija la antena
 
 ¡Hemos llegado a nuestro último paso!
@@ -303,25 +317,21 @@ Luego, utiliza soportes adecuados para anclar las vara a la base. Si es a una pa
 ![installed2](assets/images/solv-install3Gantenna/solv-install3Gantenna-installed2.webp)
 
 
-> Una vez fija, has terminado la instalación de una antena 3G/4G que te permitirá tener señal WiFi en un espacio fijo.
-> 
-> Eres, oficialmente, _"el o la cacharrera"_ de tu hogar o comunidad. ¡Felicidades! 👷🏽‍♀️🎉👷🏽 
->
-> A punta de prueba y el error podrás sentirte cada vez más seguro o segura para _cacharrear_, es decir, para resolver haciendo. Ahora, ¿te animarías a hacer otra solución?
+Una vez fija, has terminado la instalación de una antena 3G/4G que te permitirá tener señal WiFi en un espacio fijo.
+
+Eres, oficialmente, _"el o la cacharrera"_ de tu hogar o comunidad. ¡Felicidades! 👷🏽‍♀️🎉👷🏽 
+
+A punta de prueba y el error podrás sentirte cada vez más seguro o segura para _cacharrear_, es decir, para resolver haciendo. Ahora, ¿te animarías a hacer otra solución? ¡Animáte a neguir navegando! [Ver más soluciones →](https://sole-colombia.github.io/voltaje/es/solve)
 
 ---
 
-## ¿Qué se logra con esta solución?
+## ¿Para qué sirve esta solución?
 
-Entre muchas soluciones de conectividad que he probado, esta es de las mejores para generar un espacio para acceder a Internet juntos, permitiendo que varias personas puedan conectarse al toempo a una señal WiFi en lugares en donde la señal de 3G o 4G es débil.
+Entre muchas soluciones de conectividad que he probado, esta es de las mejores para generar un espacio para acceder a Internet juntos, permitiendo que varias personas puedan conectarse al tiempo a una señal WiFi en lugares en donde la señal de 3G o 4G es débil.
 
 La recomiendo no solo para el hogar, sino para espacios comunes como colegios, bibliotecas, negocios o salones comunales. También sirve en espacios públicos como parques si tienen algún lugar para dejarla bajo seguro y con electricidad constante. 
 
 > **Ten presente que si no hay cobertura de telefonía móvil, esta solución no servirá.** Pero no te desanimes, la cobertura de la telefonía está aumentando paulatinamente en todo el planeta. Mientras tanto, puedes consultar otra herramienta de SOLE llamada ["El Desconectado" →](https://sole-colombia.github.io/voltaje/es/disconnected), en donde encontrarás solucoines para lugares en donde no hay internet.
-
----
-
-## ¿Para qué te sirve esta solución?
 
 Aunque no es una solución económica (el precio de una antena está entre los $370 - $400 USD; *USD = dólares*), he visto que puede tener una gran impacto en la medida que se vuelva un punto de acceso a **internet comunitario.**
 

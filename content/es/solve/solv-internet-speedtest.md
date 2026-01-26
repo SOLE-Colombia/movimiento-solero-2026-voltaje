@@ -10,9 +10,6 @@ tarda: "Minutos"
 autor: "SOLE Colombia"
 draft: false
 ---
-# Verifica la calidad real de tu conexión
-
-
 
 Hola, soy Belén. Hasta hace muy poco, no sabía que uno podría probar la velocidad de su conexión a Internet. Me pareció muy fácil y muy útil aprender a hacerlo porque me permite saber en cada momento el estado de mi conexión. Entender por qué no me funcionan algunas cosas en determinados momentos, me tranquiliza y me permite buscar soluciones. 
 
