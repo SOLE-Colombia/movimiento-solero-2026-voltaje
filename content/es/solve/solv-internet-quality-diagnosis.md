@@ -1,5 +1,5 @@
 ---
-title: "¿Cómo saber qué tan buena es tu conexión a Internet?"
+title: "¿Cómo saber qué tan buena es tu conexión a Internet sin una prueba en línea?"
 date: 2025-12-17
 tags:
   - "Señal"
