@@ -563,6 +563,12 @@ img {
   content-visibility: auto;
 }
 
+img[data-icon],
+img.solve-meta-icon {
+  margin: 0;
+  border-radius: 0;
+}
+
 p > img + em {
   display: block;
   transform: translateY(-1rem);
