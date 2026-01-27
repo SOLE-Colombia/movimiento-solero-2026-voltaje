@@ -1,5 +1,5 @@
 ---
-title: "¿¿Cómo instalar el Bog Box de Jangala??"
+title: "¿Cómo instalar el Bog Box de Jangala?"
 date: 2026-01-26
 tags:
   - "Señal"

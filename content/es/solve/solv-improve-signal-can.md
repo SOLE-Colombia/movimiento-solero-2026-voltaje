@@ -39,7 +39,7 @@ ___
 
 ___
 
-## ¡Antes de empezar, algunas cuestiones de seguridad!
+## Antes de empezar, algunas cuestiones de seguridad
 
 Si bien esta solución tiene un nivel de dificultad básico, es importante que tengas en cuenta algunas recomendaciones para tu seguridad:
 
@@ -95,7 +95,7 @@ Ubica la regla en el centro que marcaste previamente y con el marcador haz dos m
   </tr>
 </table>
 
-> 💬❓ ¿Cómo vas hasta el momento? Si tu lata luce como la última imagen 👆🏽, vamos por buen camino. Si no, puedes hacer un nuevo intento siguiendo los mismos pasos. No hay afán, ¡aquí te espero!
+> 💬❓ _¿Cómo vas hasta el momento? Si tu lata luce como la última imagen 👆🏽, vamos por buen camino. Si no, puedes hacer un nuevo intento siguiendo los mismos pasos. No hay afán, ¡aquí te espero!_
 
 Continúa dibujando marcas cada 0.5 cm sobre cada una de las dos que ya dibujaste. Al final deberías tener 7 marcas en cada una de las líneas como se ve en esta imagen:
     
@@ -141,6 +141,8 @@ Como ésta, en Voltaje puedes encontrar muchas soluciones más para poder conect
 - Otra opción es medir la velocidad de descarga en tu celular. Consulta la solución ["¿Cómo probar la velocidad de tu conexión a Internet?" →](es/solve/solv-internet-speedtest.md).
 - Esta solución puede lograr una mejora significativa en la recepción de señal de tu celular en una o máximo dos barras o puntos. Ten en cuenta que **la señal no puede mejorar en lugares donde nunca ha habido señal.**
 
+___
+
 ## ¿Qué puedes lograr con esta solución?
 
 Ten en cuenta que hay dos tipos de señal: la de tu celular con la que puedes realizar llamadas y enviar mensajes de texto, y la señal del WiFi con la que puedes conectarte al internet.
@@ -154,6 +156,8 @@ Pero además, ampliar la señal de tu celular puede servirte para [compartir int
 Gracias por llegar hasta el final de esta solución. ¡Esperamos que te haya sido útil! Y si así fue, **compártela con otras personas** a quienes sepas que les podría servir.
 
 ¡Hasta pronto! 👋🏽
+
+___
 
 ## Soluciones relacionadas
 
