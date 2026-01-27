@@ -1,13 +1,17 @@
 ---
-title: "Buscar señales de WiFi a tu alrededor con una aplicación móvil"
+title: "¿Qué redes WiFi están libres y disponibles para conectarme a internet?"
 date: 2025-12-17
 tags:
   - "Señal"
+resumen: "Busca señales de WiFi a tu alrededor con una aplicación móvil"
+permite:
+  - "Conseguir"
+  - "Mejorar"
 dificultad: "Medio"
 costo: "Gratis"
 ayudantes: "Sin ayudantes"
 tarda: "Minutos"
-autor: "SOLE Colombia"
+autor: "Sanjay"
 draft: false
 ---
 ## Encuentra las redes disponibles a tu alrededor

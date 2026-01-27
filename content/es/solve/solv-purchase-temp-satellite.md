@@ -1,13 +1,16 @@
 ---
-title: "Cómo comprar una conexión temporal a internet satelital"
+title: "¿Cómo comprar una conexión temporal a internet satelital?"
 date: 2025-12-17
 tags:
   - "Señal"
+resumen: "Un código o PIN para acceder a internet satelital."
+permite:
+  - "Conseguir"
 dificultad: "Fácil"
 costo: "Gratis"
 ayudantes: "Sin ayudantes"
 tarda: "Minutos"
-autor: "SOLE Colombia"
+autor: "Belén"
 draft: false
 ---
 ## **Un código o PIN para acceder a internet satelital**

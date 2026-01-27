@@ -3,11 +3,14 @@ title: "¿Cómo comprar un plan celular adecuado para mi?"
 date: 2025-12-17
 tags:
   - "Dispositivos"
+resumen: "Un plan de celular que se ajuste a tus capacidades y necesidades."
+permite:
+  - "Conseguir"
 dificultad: "Medio"
 costo: "> USD 50"
 ayudantes: "Sin ayudantes"
 tarda: "Minutos"
-autor: "SOLE Colombia"
+autor: "Nicolás"
 draft: false
 ---
 ## Comprar un plan de celular que se ajuste a tus capacidades y necesidades

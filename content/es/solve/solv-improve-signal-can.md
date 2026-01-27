@@ -4,11 +4,14 @@ date: 2026-01-25
 tags:
   - "Dispositivos"
   - "Señal"
+resumen: "Haz una pequeña antena para tu celular."
+permite:
+  - "Mejorar"
 dificultad: "Medio"
 costo: "Gratis"
 ayudantes: "Sin ayudantes"
 tarda: "Horas"
-autor: "SOLE Colombia"
+autor: "Mateo"
 draft: false
 ---
 

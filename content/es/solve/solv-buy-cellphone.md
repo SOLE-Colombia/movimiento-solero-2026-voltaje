@@ -3,11 +3,14 @@ title: "¿Cómo comprar un celular adecuado para mí?"
 date: 2025-12-17
 tags:
   - "Dispositivos"
+resumen: "Un celular que se ajuste a tus capacidades y necesidades."
+permite:
+  - "Conseguir"
 dificultad: "Fácil"
 costo: "> USD 50"
 ayudantes: "Sin ayudantes"
 tarda: "Horas"
-autor: "SOLE Colombia"
+autor: "Nicolás"
 draft: false
 ---
 ## Comprar un celular que se ajuste a tus capacidades y necesidades

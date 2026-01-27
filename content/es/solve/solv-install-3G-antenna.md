@@ -3,11 +3,15 @@ title: "¿Cómo instalar mi antena 3/4G?"
 date: 2026-01-24
 tags:
   - "Señal"
+resumen: "Instalar una antena, para tener Internet en un espacio fijo."
+permite:
+  - "Conseguir"
+  - "Mejorar"
 dificultad: "Medio"
 costo: "Gasto mensual"
 ayudantes: "2-3 personas"
 tarda: "Horas"
-autor: "SOLE Colombia"
+autor: "Sanjay"
 draft: false
 ---
 

@@ -1,13 +1,16 @@
 ---
-title: "¿Cómo comprar un computador para ti?"
+title: "¿Cómo comprar un computador?"
 date: 2025-12-17
 tags:
   - "Dispositivos"
+resumen: "El mejor computador que se ajuste nuestra capacidad y necesidades."
+permite:
+  - "Conseguir"
 dificultad: "Fácil"
 costo: "Gratis"
 ayudantes: "Sin ayudantes"
 tarda: "Horas"
-autor: "SOLE Colombia"
+autor: "Nicolás"
 draft: false
 ---
 ## Comprar el mejor computador para mi caso

@@ -3,13 +3,15 @@ title: "¿Tu comunidad necesita apoyo económico para conectarse a Internet?"
 date: 2025-12-17
 tags:
   - "Dispositivos"
-  - "Personas"
   - "Señal"
+resumen: "Algunas organizaciones que apoyan el internet a bajo costo."
+permite:
+  - "Conseguir"
 dificultad: "Medio"
 costo: "USD 25 - 50"
 ayudantes: "2-3 personas"
 tarda: "Días"
-autor: "SOLE Colombia"
+autor: "Belén"
 draft: false
 ---
 ## Algunas organizaciones que apoyan el internet a bajo coste

@@ -5,11 +5,14 @@ tags:
   - "Dispositivos"
   - "Personas"
   - "Señal"
+resumen: "Reiniciar y compartir el internet de su teléfono con otros."
+permite:
+  - "Compartir"
 dificultad: "Medio"
 costo: "USD 25 - 50"
 ayudantes: "2-3 personas"
 tarda: "Días"
-autor: "SOLE Colombia"
+autor: "Nicolás"
 draft: false
 ---
 ## **Reiniciar y compartir el internet de su teléfono con otros**

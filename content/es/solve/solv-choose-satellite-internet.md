@@ -1,13 +1,16 @@
 ---
-title: "¿Qué Internet satelital elegir, según mis necesidades?"
+title: "¿Qué Internet satelital elegir según mis necesidades?"
 date: 2025-12-17
 tags:
   - "Señal"
+resumen: "Invierte bien tu dinero para instalar internet satelital."
+permite:
+  - "Mejorar"
 dificultad: "Medio"
 costo: "Gratis"
 ayudantes: "Sin ayudantes"
 tarda: "Horas"
-autor: "SOLE Colombia"
+autor: "Nicolás"
 draft: false
 ---
 ## Invierte bien tu dinero para instalar Internet

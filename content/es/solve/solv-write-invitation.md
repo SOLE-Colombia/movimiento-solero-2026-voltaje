@@ -3,11 +3,14 @@ title: "¿Cómo escribir una buena invitación?"
 date: 2025-12-17
 tags:
   - "Personas"
+resumen: "Atrae la atención de las personas que necesitas."
+permite:
+  - "Conseguir"
 dificultad: "Fácil"
 costo: "< USD 25"
 ayudantes: "2-3 personas"
 tarda: "Horas"
-autor: "SOLE Colombia"
+autor: "Manuela"
 draft: false
 ---
 ## Crea tu propia invitación

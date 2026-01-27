@@ -1,13 +1,16 @@
 ---
-title: "¿Cómo probar la velocidad de tu conexión a Internet?"
+title: "¿Cómo saber la velocidad de tu conexión a Internet?"
 date: 2026-01-26
 tags:
   - "Señal"
+resumen: "Realiza una prueba de velocidad de tu internet."
+permite:
+  - "Medir"
 dificultad: "Fácil"
 costo: "Gratis"
 ayudantes: "Sin ayudantes"
 tarda: "Minutos"
-autor: "SOLE Colombia"
+autor: "Belén"
 draft: false
 ---
 

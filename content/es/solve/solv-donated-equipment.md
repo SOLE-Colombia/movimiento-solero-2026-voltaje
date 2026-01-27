@@ -4,11 +4,14 @@ date: 2025-12-17
 tags:
   - "Dispositivos"
   - "Personas"
+resumen: "Darle un segundo uso a equipos que de otra manera serían descartados."
+permite:
+  - "Conseguir"
 dificultad: "Medio"
 costo: "Gratis"
 ayudantes: "Sin ayudantes"
 tarda: "Horas"
-autor: "SOLE Colombia"
+autor: "Mateo"
 draft: false
 ---
 ## Darle un segundo uso a equipos que, de otra manera serían descartados

@@ -3,11 +3,14 @@ title: "¿Cómo amplificar tu señal móvil dentro de un espacio?"
 date: 2025-12-17
 tags:
   - "Señal"
+resumen: "Con algunos ajustes, puedes aumentar la potencia de la señal."
+permite:
+  - "Mejorar"
 dificultad: "Fácil"
 costo: "USD 25 - 50"
 ayudantes: "Sin ayudantes"
 tarda: "Horas"
-autor: "SOLE Colombia"
+autor: "Sanjay"
 draft: false
 ---
 ## Con algunos ajustes, puedes aumentar la potencia de la señal.

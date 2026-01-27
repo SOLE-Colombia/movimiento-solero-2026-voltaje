@@ -1,14 +1,17 @@
 ---
-title: "Crea un mensaje potente"
+title: "¿Cómo movilizar a otros con tu causa?"
 date: 2025-12-17
 tags:
   - "Personas"
   - "Espacio"
+resumen: "Crea un mensaje potente para que los demás conecten con tu propósito."
+permite:
+  - "Mejorar"
 dificultad: "Fácil"
 costo: "< USD 25"
 ayudantes: "1 persona"
 tarda: "Horas"
-autor: "SOLE Colombia"
+autor: "Manuela"
 draft: false
 ---
 ## Un mensaje potente puede cambiar el mundo, conecta con tu propósito

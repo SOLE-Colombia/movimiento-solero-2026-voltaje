@@ -1,14 +1,19 @@
 ---
-title: "Big Box de Jangala: Gestiona un potente router de internet inalámbrico para comunidades en exclusión digital"
+title: "El internet en una caja: Big Box de Jangala"
 date: 2025-12-17
 tags:
   - "Dispositivos"
   - "Señal"
+resumen: "Gestiona y configura un potente router de internet inalámbrico."
+permite:
+  - "Conseguir"
+  - "Mejorar"
+  - "Compartir"
 dificultad: "Medio"
 costo: "Gratis"
 ayudantes: "Más de 3 personas"
 tarda: "Horas"
-autor: "SOLE Colombia"
+autor: "Sanjay"
 draft: false
 ---
 ## La conexión a Internet en un maletín

@@ -1,14 +1,17 @@
 ---
-title: "Haz una colecta para pagar internet comunitario"
+title: "¿Cómo recolectar recursos económicos en comunidad?"
 date: 2025-12-17
 tags:
   - "Personas"
   - "Señal"
+resumen: "Haz una colecta para pagar internet comunitario."
+permite:
+  - "Compartir"
 dificultad: "Complejo"
 costo: "Gasto mensual"
 ayudantes: "Más de 3 personas"
 tarda: "Horas"
-autor: "SOLE Colombia"
+autor: "Sanjay"
 draft: false
 ---
 Hola, soy Sanjay y una de mis grandes empresas es darle uso comunitario a los recursos que tenemos disponibles. Me gusta cacharrear, sí, pero también me interesan las maneras en las que los humanos nos coordinamos para vivir mejor juntos. 

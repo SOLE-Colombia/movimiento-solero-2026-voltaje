@@ -1,13 +1,16 @@
 ---
-title: "¿Cómo saber qué tan buena es tu conexión a Internet sin una prueba en línea?"
+title: "¿Cómo saber qué tan buena es tu señal móvil sin una prueba de velocidad?"
 date: 2025-12-17
 tags:
   - "Señal"
+resumen: "Tipos de señal y formas de reconocer qué tan buena es tu señal."
+permite:
+  - "Medir"
 dificultad: "Fácil"
 costo: "Gratis"
 ayudantes: "1 persona"
 tarda: "Minutos"
-autor: "SOLE Colombia"
+autor: "Manuela"
 draft: false
 ---
 Hola, soy Manuela. Soy la cuentera de SOLE Colombia y, aunque no sé mucho de tecnología, he empezado a cogerle el gusto a cacharrear y aprendo muchas cosas que me sacan continuamente de apuros.

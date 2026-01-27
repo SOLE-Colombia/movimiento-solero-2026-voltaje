@@ -7,18 +7,35 @@ const ArticleTitle: QuartzComponent = ({ fileData, displayClass }: QuartzCompone
     const slug = fileData.slug
     const isSolve = slug?.includes("solve/")
     const isInspire = slug?.includes("inspire/")
+    const resumen = (fileData.frontmatter?.resumen ?? fileData.frontmatter?.description) as
+      | string
+      | undefined
+    const summary = typeof resumen === "string" ? resumen.trim() : ""
 
     return (
-      <h1
-        class={classNames(
-          displayClass,
-          "article-title",
-          isSolve ? "section-solve" : "",
-          isInspire ? "section-inspire" : "",
+      <>
+        <h1
+          class={classNames(
+            displayClass,
+            "article-title",
+            isSolve ? "section-solve" : "",
+            isInspire ? "section-inspire" : "",
+          )}
+        >
+          {title}
+        </h1>
+        {(isSolve || isInspire) && summary.length > 0 && (
+          <p
+            class={classNames(
+              "article-resumen",
+              isSolve ? "section-solve" : "",
+              isInspire ? "section-inspire" : "",
+            )}
+          >
+            {summary}
+          </p>
         )}
-      >
-        {title}
-      </h1>
+      </>
     )
   } else {
     return null
@@ -30,6 +47,7 @@ ArticleTitle.css = `
   margin: 2rem 0 0 0;
   color: #27BFB8;
   font-size: 80px;
+  line-height: 0.8;
   font-weight: 400;
 }
 
@@ -52,6 +70,14 @@ ArticleTitle.css = `
   font-size: 56px;
   line-height: 0.8;
   margin-bottom: 1rem;
+}
+
+.article-resumen {
+  margin: -0.5rem 0 1.5rem 0;
+  font-family: "Roboto Mono";
+  color: black;
+  font-size: 20px;
+  font-weight: 400;
 }
 `
 

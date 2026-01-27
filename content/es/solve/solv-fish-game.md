@@ -4,11 +4,14 @@ date: 2025-12-17
 tags:
   - "Dispositivos"
   - "Personas"
+resumen: "Una solución de gobernanza para manejar los recursos comunes."
+permite:
+  - "Compartir"
 dificultad: "Medio"
 costo: "Gratis"
 ayudantes: "Más de 3 personas"
 tarda: "Horas"
-autor: "SOLE Colombia"
+autor: "Mateo"
 draft: false
 ---
 ## Una solución de gobernanza para los recursos comunes
