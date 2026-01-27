@@ -31,6 +31,7 @@ import SolveFilterGrid from "./SolveFilterGrid"
 import SolveFilterSidebar from "./SolveFilterSidebar"
 import SolveMetaSidebar from "./SolveMetaSidebar"
 import InspireFilterSidebar from "./InspireFilterSidebar"
+import HomePopup from "./HomePopup"
 
 export {
   ArticleTitle,
@@ -66,4 +67,5 @@ export {
   SolveFilterSidebar,
   SolveMetaSidebar,
   InspireFilterSidebar,
+  HomePopup,
 }

@@ -35,6 +35,10 @@ const isSolveSinglePage = (page: { fileData: { slug?: string; frontmatter?: Reco
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
+      component: Component.HomePopup(),
+      condition: (page) => isHomePage(page),
+    }),
+    Component.ConditionalRender({
       component: Component.Breadcrumbs({
         showCurrentPage: false,
         rootName: "Inicio",
