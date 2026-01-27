@@ -1,6 +1,6 @@
 ---
 title: "El internet en un caja: Big Box de Jangala"
-date: 2025-12-17
+date: 2026-01-26
 tags:
   - "Dispositivos"
   - "Señal"
@@ -11,107 +11,108 @@ tarda: "Horas"
 autor: "SOLE Colombia"
 draft: false
 ---
-## La conexión a Internet en un maletín
 
-![Youtube](https://www.youtube.com/embed/Fox3N4QHVN4) 
+Hola, soy Sanjay y aunque no soy un experto en temas de conectividad, he aprendido *cacharreando,* es decir, a punta de prueba y error, investigando en internet junto con otras personas y aprendiendo de quienes tienen la experiencia. Déjame contarte brevemente qué es el Big Box de Jangala 👇🏽
 
-Video ideado, creado y producido por SOLE Colombia, 2024
+![Video que describe la experiencia de SOLE con el Big Box de Jangala](https://www.youtube.com/embed/Fox3N4QHVN4) 
+_Video ideado, creado y producido por SOLE Colombia, 2024_
 
-
-
-Hola, soy Sanjay y no soy un experto en temas de conectividad, pero he aprendido *cacharreando,* a punta de prueba y error, al igual que investigando en internet junto con otros. 
 
 ## ¿Qué es gestionar un BigBox de Jangala?
 
-En esta solución, vas a poder contactar a una organización benéfica de Inglaterra que ofrece un modem portátil muy potente que permite hasta 100 personas conectarse a internet a la vez,  que se llama Big Box. 
+En esta solución, vas a poder contactar a una organización en Inglaterra que ofrece un módem portátil muy potente, llamado Big Box, que permite que **hasta 100 personas se conecten a internet al mismo tiempo.**
 
-La organización que lo ofrece se llama Jangala y se dedica a facilitar el acceso a Internet a personas que necesitan ayuda humanitaria urgente o ayuda al desarrollo a más largo plazo. 
+La organización que lo ofrece se llama **[Jangala](https://www.janga.la/)** y se dedica a facilitar el acceso a internet a personas que requieren ayuda humanitaria urgente o apoyo para procesos de desarrollo a más largo plazo.
 
-**¡OJO! Jangala define unos criterios de quiénes pueden recibir y beneficiarse de sus equipos o apoyo**. 
+> ⚠️⚠️ _Es importante que sepas que estos dispositivos no son para uso personal y que debes cumplir algunos criterios de elegibilidad. Son ellos quienes, con base en la información que registras en el formulario de solicitud, evalúan si tu comunidad o proyecto puede acceder a su producto._
 
-Es importante que sepas que estos no son para uso personal y que debes cumplir algunos criterios de elegibilidad. Son ellos quienes, en base a la información que registras en el formulario de solicitud, evalúan si tu comunidad o proyecto puede acceder a su producto. 
+Te animamos a que, **junto con tu comunidad**, imagines de qué manera la conexión a internet podría mejorar sus condiciones de vida y cómo pueden usarla para el bien común. Desarrollen la idea y cuéntensela a Jangala. Estamos seguros de que la considerarán.
 
-Te animamos a que, junto con tu comunidad, inventes una manera en la que la conexión a Internet podría mejorar sus condiciones de vida y cómo pueden usarla para el bien común, desarrollen la idea y cuéntasela a Jangala. Estamos seguros de que la considerarán.
+___
 
 ## ¿Para qué sirve?
 
-Imagina una comunidad sin conectividad. Sin conocimientos técnicos para la instalación, la configuración y el mantenimiento de una red inalámbrica. Ahora piensa que, de un momento a otro, logran conectarse todos a una sola red wifi. 
+Imagina una comunidad sin conectividad, sin conocimientos técnicos para la instalación, configuración y mantenimiento de una red inalámbrica. Ahora piensa que, de un momento a otro, logran conectarse todos a una sola red WiFi. ¿Qué pasaría?
 
-¿Qué pasaría? Entre muchas cosas, toda una comunidad podría pagar un solo plan de Internet y todos podrían conectarse. Mejor aún, conectarse desde equipos compartidos, como computadores o tablets, y tener más velocidad, un experiencia divertida y de aprendizaje colectivo. Eso es lo que podrían lograr si gestionan este dispositivo: el [*Big Box*](https://www.janga.la/get-box) o Caja Grande de [Jangala](http://janga.la).
+Entre muchas cosas, **toda una comunidad podría pagar un solo plan de internet y conectarse de forma compartida.** Mejor aún, podrían hacerlo desde equipos comunes, como computadores o tablets, y contar con mayor velocidad, una mejor experiencia y un proceso de aprendizaje colectivo y divertido.
 
-**Big Box de Jangala es un dispositivo ligero, del tamaño de un maletín, que transforma cualquier forma de conectividad a Internet en WiFi** fácil de gestionar y ampliar, desde decenas a miles de usuarios. Es como si uno tuviera un amplificador para el internet de un teléfono, que le funciona a cientos, o miles, de computadores.
+Eso es lo que podrían lograr si gestionan este dispositivo: el [*Big Box*](https://www.janga.la/get-box) de [Jangala](http://janga.la).
 
-El acceso a Internet se necesita, desesperadamente, en muchas situaciones alrededor del mundo: desde personas que intentan establecer contacto después de un terremoto, hasta proyectos educativos en áreas remotas. Sin embargo, en estas situaciones, Internet a menudo no está disponible: las redes a menudo se caen en situaciones de emergencia y desplegar un acceso efectivo a Internet, en áreas remotas, es complicado, lento y costoso. 
+El Big Box de Jangala es **un dispositivo ligero, del tamaño de un maletín, que transforma cualquier forma de conectividad a internet en una red WiFi fácil de gestionar y ampliar**, desde decenas hasta miles de usuarios. Es como tener un amplificador del internet de un teléfono que puede servir a cientos, o incluso miles, de computadores.
+
+El acceso a internet es una necesidad urgente en muchas situaciones alrededor del mundo: desde personas que intentan establecer contacto después de un terremoto hasta proyectos educativos en áreas remotas. Sin embargo, en estos contextos el internet a menudo no está disponible. Las redes suelen caerse en situaciones de emergencia, y desplegar un acceso efectivo a internet en zonas remotas es complicado, lento y costoso.
 
 **¿Quién es Jangala?** Jangala es una ONG en Reino Unido que busca solucionar esto con sus máquinas. 
 
-Esta solución te servirá para aprender a gestionar este potente modem con la organización Jangala y tener su acompañamiento para lograr adaptar el Big Box a las necesidades de tu contexto o, si haces parte de una organización, a las condiciones de las comunidades con las que trabajan en la organización.
+Esta solución te servirá para aprender a gestionar este potente módem con la organización Jangala y tener su acompañamiento para lograr adaptar el Big Box a las necesidades de tu contexto o, si haces parte de una organización, a las condiciones de las comunidades con las que trabajan en la organización.
 
 Si eres una comunidad de bajos recursos, o en zonas remotas, puedes ser considerado para recibir uno de sus equipos sin costo y de por vida. 
 
-## **¿Qué necesitas?**
+## ¿Qué necesitas?
 
 - Una conexión a internet y un computador (puedes usar un celular también)
-- Entender inglés o traducir con el traductor en línea [***DeepL***](https://sole-sanjay.tiddlyhost.com/#www.deepl.com)
+- Entender inglés o traducir con el traductor en línea **[DeepL](https://www.deepl.com/es/translator)**.
 - Confianza en tu capacidad de gestión
-- Condiciones de exclusión digital, Jangala estimará la posibilidad de para ser receptores un Big Box
+- Condiciones de exclusión digital; Jangala estimará si son aptos para ser receptores un Big Box.
 - ¡Entusiasmo!
 
-## **¿Cómo hacerlo?**
+## ¿Cómo hacerlo?
 
-- **Momento 1: Entrar a www.janga.la y buscar el formulario de solicitud de un Big Box**
+### Paso 1 → Entrar a www.janga.la y buscar el formulario de solicitud de un Big Box
     
-    Ingresen a [Janga get box](https://www.janga.la/get-box) a la sección de solicitar una caja "Request a Box". Ahí pueden decidir si lo que necesitan es un *Get Box* que es más pequeño o un *Big Box*. 
+Ingresen a [Jangala get box](https://www.janga.la/get-box), a la sección de solicitar una caja ("Request a Box"). Ahí pueden decidir si lo que necesitan es un *Get Box* que es más pequeño o un *Big Box*. 
+
+Los siguientes pasos tienen que ver con la solicitud del BigBox.
+
+![box jangala home](https://archive.org/download/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/JangalaBixBox/JangalaBigBox_Home.png)
+
+<br>
     
-    Los siguientes pasos tienen que ver con la solicitud del BigBox.
+### Paso 2 → Diligenciar el formulario en línea
+
+En la sección de Big Box encontrarán un botón que dice ***Apply for a Big Box*** o Solicita una Big Box. 
+
+Es necesario responder las preguntas del formulario, esto ayudará a Jangala a configurar un Big Box que satisfaga mejor las necesidades de tu comunidad. 
+
+El cuestionario se divide en cuatro secciones: 
+
+- En la sección 1 se hacen preguntas sobre ustedes y/o su organización.
+- La sección 2 trata sobre el lugar para el que necesitan un Big Box, incluida la ubicación, la conectividad existente y el suministro eléctrico.
+- La sección 3 trata sobre la configuración Wi-Fi.
+- La sección 4 contiene preguntas finales sobre cómo Big Box marcará la diferencia.
+
+Si hay algo en este formulario que no está claro, o no se aplica a la situación de tu comunidad, no dudes en enviar un correo electrónico a [info@janga.la](mailto:info@janga.la). 
+
+Diligenciar este formulario puede tomar un tiempo y puede que no tengan todas las respuestas claras. Intenten responder a la mayor cantidad de preguntas lo mejor posible y **no olviden presionar el botón "Enviar"**.
     
-    ![box jangala home](https://archive.org/download/f-71-b-658-b-290-e-48-d-3-be-45-e-4733-fe-4874-d/JangalaBixBox/JangalaBigBox_Home.png)
+### Paso 3 → Esperar respuesta y entrar en relación con Jangala
+
+Puede tomar algunas semanas recibir respuesta del equipo de Jangala. **Escribirán al correo electrónico que hayan registrado en el formulario.**
+
+Tengan paciencia y estén atentos a la respuesta… ¡ese momento será muy emocionante!
+
+Es posible que haya más preguntas o que se requiera una reunión virtual con ustedes. En el momento de la reunión podrán aclarar más dudas, definir particularidades de su Big Box y el proceso por el cual lo recibirán por correo postal.
+
+El equipo de Jangala es excepcional: siempre muy amable y dispuesto a ayudar auténticamente. 
     
-- **Momento 2: Diligenciar el formulario en línea**
-    
-    En la sección de Big Box encontrarán un botón que dice *Apply for a Big Box* o Solicita una Big Box. 
-    
-    Es necesario responder las preguntas del formulario, esto ayudará a Jangala a configurar un Big Box que satisfaga mejor las necesidades de tu comunidad. 
-    
-    El cuestionario se divide en cuatro secciones: 
-    
-    - En la sección 1 se hacen preguntas sobre ustedes y/o su organización.
-    - La sección 2 trata sobre el lugar para el que necesitan un Big Box, incluida la ubicación, la conectividad existente y el suministro eléctrico.
-    - La sección 3 trata sobre la configuración Wi-Fi.
-    - La sección 4 contiene preguntas finales sobre cómo Big Box marcará la diferencia.
-    
-    Si hay algo en este formulario que no está claro, o no se aplica a la situación de tu comunidad, no dudes en enviar un correo electrónico a [info@janga.la](mailto:info@janga.la). 
-    
-    Diligenciar este formulario puede tomar un tiempo y puede que no tengan todas las respuestas claras. Intenten responder a la mayor cantidad de preguntas lo mejor posible y **no olviden Enviar**.
-    
-- **Momento 3: Esperar respuesta y entrar en relación con Jangala.**
-    
-    Puede tomar un par de semanas recibir respuesta mediante correo electrónico del equipo de Jangala. Escribirán al correo electrónico que hayan registrado en el formulario. 
-    
-    Tengan paciencia y estén atentos a la respuesta… ¡ese momento será muy emocionante!
-    
-    Es posible que haya más preguntas o que se requiera una reunión virtual con ustedes. En el momento de la reunión podrán aclarar más dudas, definir particularidades de su Big Box y el proceso por el cual lo recibirán por correo postal.
-    
-    El equipo de Jangala es un excepcional: muy amable y dispuesto a ayudar auténticamente. 
-    
-- **Momento 4: Planear y recibir el Big Box por correo postal**
-    
-    Después de aclarar la forma en la que Jangala enviará el equipo, no tomará más de un par de semanas recibir el Big Box con las características que necesitan. 
-    
-    Es muy importante solicitar al equipo Jangala que, en la remisión del correo certificado, sea claro que se trate de una **mercancía sin valor comercial**. Dependiendo del país en donde estén, aduanas puede requerir información específica del equipo para poder recibir el paquete.
-    
-    Por ejemplo, en Colombia es necesario incluir el número de IMEI, con el que se registra un celular, en la factura de envío de un teléfono celular si viene en el paquete que envían. Si no se hace, es necesario nacionalizar el paquete en aduanas que es un proceso complejo y costoso. De cualquier manera, el equipo de Jangala será de gran apoyo para resolver cualquier reto y ellos cubren esos costos.
-    
-- **Momento 5: Instalar el Big Box con el apoyo del equipo de Jangala**
-    
-    Finalmente, solo queda instalar el Big Box en el lugar donde se va a usar ¡y listo!
-    
-    El equipo de Jangala les ofrecerá apoyo para guiarlos en enchufar y usarlo. Por ejemplo, pueden hacerlo por medio [***WhatsApp***](https://sole-sanjay.tiddlyhost.com/#WhatsApp) para ofrecer apoyo casí inmediato. Una vez esté, ¡tendrán Internet por Wifi para 100 personas a 100 metros a la redonda!
-    
-    Ahora solo queda usarlo para el bien común.
+### Paso 4 → Planear y recibir el Big Box por correo postal
+
+Después de aclarar la forma en la que Jangala enviará el equipo, no tomará más de un par de semanas recibir el Big Box con las características que necesitan. 
+
+Es muy importante solicitar al equipo Jangala que, en la remisión del correo certificado, sea claro que se trata de una **mercancía sin valor comercial**, porque, dependiendo del país en donde estén, aduanas puede requerir información específica del equipo para poder recibir el paquete.
+
+Por ejemplo, en Colombia para ingresar un celular, es necesario incluir el número de IMEI (con el que se registra un celular) en la factura de envío del paquete. Si no se hace, se debe nacionalizar el paquete en aduanas que es un proceso complejo y costoso. De cualquier manera, el equipo de Jangala será de gran apoyo para resolver cualquier reto y ellos cubren esos costos.
+ 
+### Paso 5 → Instalar el Big Box con el apoyo del equipo de Jangala
+
+Finalmente, solo queda instalar el Big Box en el lugar donde se va a usar ¡y listo!
+
+El equipo de Jangala les ofrecerá apoyo para guiarlos en enchufar y usarlo. Por ejemplo, pueden hacerlo por medio [***WhatsApp***](https://sole-sanjay.tiddlyhost.com/#WhatsApp) para ofrecer apoyo casí inmediato. Una vez esté, ¡tendrán Internet por Wifi para 100 personas a 100 metros a la redonda!
+
+Ahora solo queda usarlo para el bien común.
     
 
-## **¿Cómo saber si esta solución funciona?**
+## ¿Cómo saber si esta solución funciona?
 
 Cualquiera de los Box proporcionan Wi-Fi a través de cualquier forma de señal de Internet (3G/4G, línea fija, satélite), pueden utilizar energía de diversas fuentes (red eléctrica, batería, encendedor, fuente renovable, generador) y pueden utilizar una antena externa para captar señales 3G/4G donde los teléfonos no pueden. Más abajo encontrarás más características.
 
@@ -123,7 +124,7 @@ Si eres una organización benéfica o un grupo que necesita conectividad, a Jang
 - ¿Puede alimentar puntos de acceso Wi-Fi adicionales? Sí. Pueden utilizarse para conectar hasta 5.000 personas en un área extensa
 - ¿Cuántas redes puede transmitir? Cuatro. Cada una de ellas puede personalizarse en términos de control de contenidos, restricciones de velocidad y restricciones de datos
 
-## **¿Por qué podría funcionar esta solución?**
+## ¿Qué puedes lograr con esta solución?
 
 El Jangala Big Box no resolverá la conectividad si no hay señal de Internet (cableado, móvil o satelital) en su contexto. Pero sí es una oportunidad de conseguir conectividad gratuita o a muy bajo costo para toda una comunidad. Por ejemplo, una escuela o un campamento de refugiados. ¡Imaginen las posibilidades de que tendrían de aprendizaje si usan el internet juntos!
 

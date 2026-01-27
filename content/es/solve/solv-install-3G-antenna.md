@@ -353,7 +353,7 @@ Para esto, la comunidad podría ponerse de acuerdo, comprarla con aportes de tod
 > 
 > Por ejemplo, se prioriza que los niños puedan hacer sus tareas o que la comunidad vea una película **en conjunto**, por encima de usos individuales como el acceso a redes sociales. Esto, por supuesto, implica nuevos retos. Pero el punto de partida es claro: ¡ya tienes acceso a internet!
 >
-> > 💬💪🏽 Conoce cómo fue la [experiencia de una comunidad en Cáceres Antioquia →](es/inspire/insp-internetimprove-caceres.md)
+> > 💬💪🏽 Conoce cómo fue nuestra [experiencia con una comunidad en Cáceres Antioquia →](es/inspire/insp-internetimprove-caceres.md)
 
 <br>
 
