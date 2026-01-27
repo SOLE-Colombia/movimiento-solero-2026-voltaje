@@ -46,6 +46,40 @@ export default (() => {
           document.body?.classList.toggle('inspire-filter-top', !rightVisible);
         };
 
+        // --- URL MANAGEMENT ---
+        const updateUrlOptions = () => {
+          const activeTags = [];
+          document.querySelectorAll('.inspire-filter-btn.active').forEach(btn => {
+            if (btn.dataset.filterTag) {
+              activeTags.push(btn.dataset.filterTag);
+            }
+          });
+          const uniqueTags = [...new Set(activeTags)];
+          
+          const url = new URL(window.location.href);
+          if (uniqueTags.length > 0) {
+            url.searchParams.set('inspire_tags', uniqueTags.join(','));
+          } else {
+            url.searchParams.delete('inspire_tags');
+          }
+          window.history.replaceState({}, '', url);
+        };
+
+        const readUrlOptions = () => {
+          const url = new URL(window.location.href);
+          const tagsParam = url.searchParams.get('inspire_tags');
+          
+          // Clear current active buttons before applying from URL
+          document.querySelectorAll('.inspire-filter-btn.active').forEach(b => b.classList.remove('active'));
+          
+          if (tagsParam) {
+            const tags = tagsParam.split(',');
+            tags.forEach(tag => {
+              document.querySelectorAll(\`button[data-filter-tag="\${tag}"]\`).forEach(b => b.classList.add('active'));
+            });
+          }
+        };
+
         // Función de filtrado
         const filterCards = () => {
           const cards = getCards();
@@ -93,6 +127,7 @@ export default (() => {
               else b.classList.remove('active');
             });
 
+            updateUrlOptions();
             filterCards();
             return;
           }
@@ -106,6 +141,7 @@ export default (() => {
              document.querySelectorAll('.inspire-filter-btn.active').forEach(b => {
                b.classList.remove('active');
              });
+             updateUrlOptions();
              filterCards();
           }
         });
@@ -114,6 +150,7 @@ export default (() => {
         document.addEventListener('nav', () => {
              // Pequeño delay para asegurar que el DOM nuevo esté listo
              setTimeout(() => {
+               readUrlOptions();
                filterCards();
                updateFilterPlacement();
              }, 50);
@@ -123,14 +160,16 @@ export default (() => {
         window.addCleanup?.(() => window.removeEventListener('resize', updateFilterPlacement));
         
         // Ejecución inicial
+        const init = () => {
+          readUrlOptions();
+          filterCards();
+          updateFilterPlacement();
+        };
+
         if (document.readyState === 'complete' || document.readyState === 'interactive') {
-            filterCards();
-            updateFilterPlacement();
+            init();
         } else {
-            document.addEventListener('DOMContentLoaded', () => {
-              filterCards();
-              updateFilterPlacement();
-            });
+            document.addEventListener('DOMContentLoaded', init);
         }
 
       })();
