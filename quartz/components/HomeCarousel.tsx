@@ -2,6 +2,8 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { pathToRoot, joinSegments } from "../util/path"
 // @ts-ignore
 import style from "./styles/homeCarousel.scss"
+// @ts-ignore
+import script from "./scripts/homeCarousel.inline"
 
 interface CarouselCard {
   id: number
@@ -218,82 +220,11 @@ export default (() => {
             , que se construye día a día en comunidad.
           </p>
         </footer>
-
-        <script type="module" dangerouslySetInnerHTML={{
-             __html: `
-            import Swiper from 'https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.mjs';
-
-            const currentSpan = document.getElementById('carousel-current');
-            const totalSpan = document.getElementById('carousel-total');
-            const prevBtn = document.querySelector('.nav-prev');
-            const nextBtn = document.querySelector('.nav-next');
-            const counter = document.querySelector('.home-carousel-counter');
-
-            const swiper = new Swiper('.home-carousel-swiper', {
-              direction: 'vertical',
-              effect: 'cards',
-              grabCursor: true,
-              loop: true,
-              speed: 600,
-              
-              cardsEffect: {
-                rotate: false,
-                perSlideOffset: 10,
-                perSlideRotate: 2,
-                slideShadows: false, 
-              },
-              
-              autoplay: {
-                delay: 5000,
-                disableOnInteraction: false,
-                pauseOnMouseEnter: true
-              },
-              
-              navigation: {
-                nextEl: '.nav-next',
-                prevEl: '.nav-prev',
-              },
-              
-              on: {
-                slideChange: function () {
-                  // +1 because realIndex is 0-based
-                  currentSpan.textContent = this.realIndex + 1;
-                  
-                  // Update colors
-                  const activeSlide = this.slides[this.activeIndex];
-                  // If loop is true, activeSlide might be a duplicate, but the inner card has the data-color
-                  const card = activeSlide.querySelector('.home-carousel-card');
-                  if (card) {
-                    const color = card.getAttribute('data-color');
-                    if (color) {
-                       counter.style.color = color;
-                       prevBtn.style.color = color;
-                       nextBtn.style.color = color;
-                    }
-                  }
-                }
-              }
-            });
-            
-            // Trigger color update initially
-            setTimeout(() => {
-                const activeSlide = swiper.slides[swiper.activeIndex];
-                const card = activeSlide.querySelector('.home-carousel-card');
-                if (card) {
-                    const color = card.getAttribute('data-color');
-                    if (counter && color) {
-                        counter.style.color = color;
-                        prevBtn.style.color = color;
-                        nextBtn.style.color = color;
-                    }
-                }
-            }, 100);
-          `
-        }} />
       </div>
     )
   }
 
   HomeCarousel.css = style
+  HomeCarousel.afterDOMLoaded = script
   return HomeCarousel
 }) satisfies QuartzComponentConstructor
