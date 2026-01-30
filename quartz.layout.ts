@@ -9,7 +9,10 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    Component.Comments(),
+    Component.ConditionalRender({
+      component: Component.Comments(),
+      condition: (page) => !isHomePage(page),
+    }),
   ],
   footer: Component.ConditionalRender({
     component: Component.Footer({
@@ -34,8 +37,9 @@ const isSolveSinglePage = (page: { fileData: { slug?: string; frontmatter?: Reco
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
+    // Home Carousel - solo se muestra en el home
     Component.ConditionalRender({
-      component: Component.HomePopup(),
+      component: Component.HomeCarousel(),
       condition: (page) => isHomePage(page),
     }),
     Component.ConditionalRender({
