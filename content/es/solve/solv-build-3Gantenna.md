@@ -3,7 +3,7 @@ title: Construye una antena 3G casera
 date: 2025-12-17
 tags:
   - Señal
-dificultad: Medio
+dificultad: Complejo
 costo: < USD 25
 ayudantes: 1 persona
 tarda: Horas

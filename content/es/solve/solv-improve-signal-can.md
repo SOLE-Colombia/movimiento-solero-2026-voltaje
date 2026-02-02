@@ -12,7 +12,7 @@ autor: "SOLE Colombia"
 draft: false
 ---
 
-¡Hola!Es un gusto saludarte, mi nombre es Mateo y te acompañaré en el desarrollo de esta solución. Si estás leyendo, escuchando o viendo esto es porque estás interesado/a o tienes curiosidad en saber cómo mejorar la señal de tu celular de manera muy sencilla. Si es así, estás en el lugar indicado.
+¡Hola! Es un gusto saludarte, mi nombre es Mateo y te acompañaré en el desarrollo de esta solución. Si estás leyendo, escuchando o viendo esto es porque estás interesado/a o tienes curiosidad en saber cómo mejorar la señal de tu celular de manera muy sencilla. Si es así, estás en el lugar indicado.
 
 ___
 
@@ -26,7 +26,7 @@ ___
 
 ## ¿Qué necesitas?
 
-![PASO 1 - ALISTA LOS MATERIALES](assets/images/solve-improvewithcan/solve-improvewithcan-materials.webp)
+![PASO 1 - Alista los materiales](assets/images/solve-improvewithcan/solve-improvewithcan-materials.webp)
 
 - Una persona para trabajar en esta solución es suficiente. Aunque en compañía todo se resuelve más fácil. ¡Anímate!
 - Una lata metálica limpia, puede ser de alguna bebida.
@@ -73,6 +73,8 @@ Con la regla y el marcador de punta fina dibuja, sobre la lámina metálica un c
 > ⚠️⚠️ *Ten precaución al realizar todos los cortes. Si tienes, te recomiendo usar guantes de seguridad.*
 
 ![Paso 4 - El cuadrado metálico](assets/images/solve-improvewithcan/solve-improvewithcan-metalsheet-square.webp)
+
+<br>
     
 > ### Paso 2 → Convierte la lata en una antena
 
@@ -121,6 +123,8 @@ Por último, forra tu pieza metálica por lado y lado con cinta transparente gru
 </table>
 
 ¡Terminamos! Ahora, la parte sencilla: usar tu lata para mejorar la señol móvil.
+
+<br>
     
 ### Paso 3 → Instala tu antena en el celular
 
@@ -134,6 +138,7 @@ Usa cinta transparente para pegar esta pieza metálica en el lugar mencionado y 
 
 Como ésta, en Voltaje puedes encontrar muchas soluciones más para poder conectarte sin miedo a usar el internet en grupo. ¡Animáte a neguir navegando! [Ver más soluciones →](https://sole-colombia.github.io/voltaje/es/solve)
     
+___
 
 ## ¿Cómo saber si esta solución funciona?
 

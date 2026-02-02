@@ -5,15 +5,13 @@ tags:
   - "Dispositivos"
   - "Personas"
   - "Señal"
-dificultad: "Medio"
-costo: "USD 25 - 50"
-ayudantes: "2-3 personas"
-tarda: "Días"
+dificultad: "Fácil"
+costo: "Gratis"
+ayudantes: "Sin ayudantes"
+tarda: "Minutos"
 autor: "SOLE Colombia"
 draft: false
 ---
-## **Reiniciar y compartir el internet de su teléfono con otros**
-
 
 ¡Hola! Esta solución la escribió Nicolás, uno de los cacharreros de SOLE Colombia.
 
@@ -25,7 +23,7 @@ La reviso yo, Belén y, aunque me gusta cacharrear, a veces me cuesta entender c
 
 Esa conexión puede tornarse lenta o ineficiente y hay que restaurarla. Pero también podrías querer compartirla con otros, ¿quieres saber cómo? Sigue leyendo.
 
-## **¿Para qué sirve?**
+## ¿Para qué sirve?
 
 Puede que quieras compartir la señal de Internet de tu plan de datos con otras personas. Pero también te puede pasar que, aún teniendo conexión a Internet, las páginas que queremos abrir cargan con dificultad, o la conexión de la llamada de datos no funciona bien.
 
@@ -33,25 +31,23 @@ Casi siempre, la mejor manera de que todo vuelva a empezar y a funcionar, pasa p
 
 Una vez reiniciado ¡podrás compartir la señal de Internet de tu teléfono para hacer SOLE con tu comunidad!
 
-## **¿Qué necesitas?**
+## ¿Qué necesitas?
 
 - Un celular.
 - Datos suficientes en tu celular para compartir a otros.
 - Generosidad.
 
-## **¿Cómo hacerlo?**
+## ¿Cómo hacerlo?
 
-- **Momento 1: Reinicia la conexión de datos**
-    
-    Desliza la parte superior de tu teléfono hacia abajo para acceder al panel de control. Una vez aquí, selecciona la opción **“Datos móviles”**, apágala por unos segundos y enciéndela de nuevo. Espera un momento para que el teléfono acceda a la red celular y ¡listo! Tu conexión estará fresca y funcionando correctamente.
-    
-    
-    ¿Quieres saber otro truco? Activa el modo avión, eso hará que todos los parámetros de tu teléfono, relacionados con la señal de Internet, se reinicien.
+> ### Paso 1 → Reinicia la conexión de datos**
 
+Desliza la parte superior de tu teléfono hacia abajo para acceder al panel de control. Una vez aquí, selecciona la opción **“Datos móviles”**, apágala por unos segundos y enciéndela de nuevo. Espera un momento para que el teléfono acceda a la red celular y ¡listo! Tu conexión estará fresca y funcionando correctamente.
+
+> ¿Quieres saber otro truco? Activa el modo avión, eso hará que todos los parámetros de tu teléfono, relacionados con la señal de Internet, se reinicien.
     
-    ![Reiniciar la conexión de datos](assets/images/solv-share-fromcellphone/solv-share-fromcellphone-restart.webp)
+![Reiniciar la conexión de datos](assets/images/solv-share-fromcellphone/solv-share-fromcellphone-restart.webp)
     
-- **Momento 2: Configura el punto de acceso móvil**
+> ### Momento 2: Configura el punto de acceso móvil**
     
     Dirígete a configuración y busca **“punto de acceso móvil”**, en inglés aparece como **“Hotspot”**. 
     
