@@ -7,7 +7,6 @@ autor: SOLE Colombia
 draft: false
 resumen: La historia de cómo mejoró la conectividad en San Juan Nepomuceno.
 ---
-*Descarga esta Inspiración para usarla desconectado*
 
 Los siguientes fragmentos son la recopilación de testimonios, imágenes y escenas sobre cómo el uso del Internet en grupo en el municipio de **San Juan Nepomuceno** está transformando el acceso a la red para comunidades vecinas, como San José del Peñón y La Haya.
 
@@ -25,9 +24,7 @@ Los siguientes fragmentos son la recopilación de testimonios, imágenes y escen
 </iframe>
 </div>
 
-
-
-Festivales SOLE, Montes de María, (2024).
+*Festivales SOLE, Montes de María, (2024).*
 
 Para llegar a San José del Peñón hay que cruzar siete ríos, cruzas los dedos para que la lluvia no vaya a jugarte una mala pasada y te asombras de la majestuosa belleza de este territorio. No es casualidad que, al llegar, un gran letrero dé la bienvenida con orgullo: *“San José del Peñón, tierra mágica, fértil y poderosa.”*
 
@@ -44,9 +41,7 @@ La geografía de San José del Peñón, con sus montañas y densa vegetación, i
   </iframe>
 </div>
 
-
-
-Gabriel, Vistas de Sintonización, Montes de María, (2024).
+*Gabriel, Vistas de Sintonización, Montes de María, (2024).*
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
@@ -59,13 +54,10 @@ Gabriel, Vistas de Sintonización, Montes de María, (2024).
   </iframe>
 </div>
 
+*Vistas de Sintonización, Montes de María, (2024).*
 
- Vistas de Sintonización, Montes de María, (2024).
+Rafael Antonio García, un cacharrero innato de su comunidad, nos cuenta en sus propias palabras cómo fue el proceso para lograr instalar la antena: ¡Sube el volumen para escuchar su relato!
 
-**Rafael Antonio García, un cacharrero innato de su comunidad, nos cuenta en sus propias palabras cómo fue el proceso para lograr instalar la antena: ¡Sube el volumen para escuchar su relato!**
-
-
-*Rafael Antonio en Vistas de Sintonización, Montes de María, (2024).*
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     src="https://www.youtube.com/embed/ShnTA4SuijY?si=xgObhgyU7f0r2yQu" 
@@ -77,27 +69,26 @@ Gabriel, Vistas de Sintonización, Montes de María, (2024).
   </iframe>
 </div>
 
-
- Rafael Antonio en Vistas de Sintonización, Montes de María, (2024).
+*Rafael Antonio en Vistas de Sintonización, Montes de María, (2024).*
 
 Para cacharrear no hace falta ser un experto, o tener experiencia en la construcción de redes, antenas o cables. Como don Rafael Antonio, tu también puedes animarte a colaborar con otros para crear un bien común. 
 
 Actualmente, la comunidad de San José del Peñón, junto a su comunidad, ha seguido haciendo SOLE por su propia cuenta, y usando el Internet en Grupo para investigar Grandes Preguntas como: *¿Por qué el agua moja?, ¿Por qué los humanos no usamos el 100% de nuestro cerebro? ¿ Por qué hay agua dulce y agua salada?, ¿Por qué los niños nacen sin dientes?*
 
-![Actividades productivas y aprendizaje comunitario en San Juan Nepomuceno](../../../assets/images/insp-internetimprove-nepomuceno/insp-internetimprove-nepomuceno-harvest.webp)
+![Actividades productivas y aprendizaje comunitario en San Juan Nepomuceno](assets/images/insp-internetimprove-nepomuceno/insp-internetimprove-nepomuceno-harvest.webp)
 *SOLE liderado por Embajadoras en Festivales SOLE, Montes de María (2024).*
 
-![Investigación comunitaria sobre conectividad en San Juan Nepomuceno](../../../assets/images/insp-internetimprove-nepomuceno/insp-internetimprove-nepomuceno-investigation1.webp)
+![Investigación comunitaria sobre conectividad en San Juan Nepomuceno](assets/images/insp-internetimprove-nepomuceno/insp-internetimprove-nepomuceno-investigation1.webp)
 *SOLE liderado por Embajadoras en Festivales SOLE, Montes de María (2024).*
 
-
-![Análisis colectivo del acceso a Internet en la comunidad](../../../assets/images/insp-internetimprove-nepomuceno/insp-internetimprove-nepomuceno-investigation2.webp)
+![Análisis colectivo del acceso a Internet en la comunidad](assets/images/insp-internetimprove-nepomuceno/insp-internetimprove-nepomuceno-investigation2.webp)
 *SOLE liderado por Embajadoras en Festivales SOLE, Montes de María (2024).*
-
 
 Eso no es todo, la comunidad de San José del Peñón también creó su propia página web, donde pueden subir sus productos y servicios, compartir sus tradiciones, juegos y todo lo que quieran mostrarle al mundo sobre su comunidad. ¡Échale un vistazo!
 
 [SOLE: San José del Peñón](https://padlet.com/soleensanjosedelpenon/sole-san-jos-del-pe-n-28zlervt6ug9oswr)
+
+<br>
 
 ### Segunda Parada:
 
@@ -116,9 +107,6 @@ Sube el volumen para escuchar en sus propias palabras cómo fue esta experiencia
   </iframe>
 </div>
 
-
-
-
-Mariana Fernández, Visitas de Sintonización, Montes de María, (2024).
+*Mariana Fernández, Visitas de Sintonización, Montes de María, (2024).*
 
 Gracias a la colaboración comunitaria y la implementación de soluciones como el KIT Rural, hoy San José del Peñón y La Haya cuentan con acceso comunitario a Internet, facilitando tanto el aprendizaje como el intercambio cultural en los Montes de María. 

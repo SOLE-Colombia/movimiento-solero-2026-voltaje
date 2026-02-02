@@ -8,7 +8,7 @@ draft: false
 resumen: La historia de cómo mejoró la conectividad en Nuevo México.
 ---
 
-¿Cariño, voluntad de cambio y reconciliación? Se vive en la vereda Nuevo México, la comunidad Nasa Kiwe Tekh Kxsaw ubicada en Santander de Quilichao. 
+¿Cariño, voluntad de cambio y reconciliación? Se vive en la **vereda Nuevo México,** la comunidad Nasa Kiwe Tekh Kxsaw ubicada en Santander de Quilichao. 
 
 ![Investigación comunitaria sobre conectividad en Nuevo México, Santander de Quilichao](assets/images/insp-internetimprove-nuevomexico/insp-internetimprove-nuevomexico-investigation1.webp)
 *Investigación comunitaria sobre conectividad, Nuevo México, Santander de Quilichao (2024).*
@@ -28,9 +28,7 @@ Dejamos instalado un Jangala y una antena omnidireccional en un espacio en el qu
 ![Dispositivo Jangala instalado para mejorar la conectividad comunitaria](assets/images/insp-internetimprove-nuevomexico/insp-internetimprove-nuevomexico-jangala.webp)
 *Implementación del dispositivo Jangala para conectividad comunitaria, Nuevo México, Santander de Quilichao (2024).*
 
-
 Actualmente la comunidad Nasa Kiwe Tekh Kxsaw sigue haciéndose Grandes Preguntas usando el Internet y la tecnología en grupo. Que lo cuenten ellos mismos 👇🏽
-
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 

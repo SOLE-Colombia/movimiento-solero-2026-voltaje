@@ -7,7 +7,6 @@ autor: SOLE Colombia
 draft: false
 resumen: La historia de cómo mejoró la conectividad en El Tambo.
 ---
-*Descarga esta Inspiración para usarla desconectado*
 
 **¿Alguna vez has imaginado un lugar donde toda una comunidad pueda conectarse a Internet, aprender y crear juntos?** En El Tambo, Cauca, ese sueño era una necesidad compartida.
 
@@ -15,24 +14,22 @@ En esta comunidad, la conexión a Internet en las zonas rurales es muy limitada,
 
 En 2023, gracias a nuestros parceros de **ADAPT Peace Building**, conocimos a la comunidad de El Tambo y a sus círculos comunitarios: el círculo de jóvenes, el círculo del agua y el círculo de mujeres. Estos grupos llevaban más de un año trabajando en la construcción de paz y en fortalecer el tejido social. Desde ese primer encuentro, se creó una conexión profunda. Los círculos rápidamente se apropiaron de la metodología SOLE y vieron el Internet en grupo como una herramienta para alcanzar un sueño colectivo: un espacio comunitario con conexión a Internet. Así fue como se encendió la chispa del **SOLE Lab** en esta comunidad.
 
-![Comunidad reunida en el SOLE Lab de El Tambo, Cauca](../../../assets/images/insp-internetimprove-tambo/insp-internetimprove-tambo-group.webp)
+![Comunidad reunida en el SOLE Lab de El Tambo, Cauca](assets/images/insp-internetimprove-tambo/insp-internetimprove-tambo-group.webp)
 *SOLE Lab, El Tambo, Cauca (2024).*
 
-![Sesión de trabajo y encuentro comunitario](../../../assets/images/insp-internetimprove-tambo/insp-internetimprove-tambo-meeting.webp)
+![Sesión de trabajo y encuentro comunitario](assets/images/insp-internetimprove-tambo/insp-internetimprove-tambo-meeting.webp)
 *SOLE Lab, El Tambo, Cauca (2024).*
 
-![Proyección y aprendizaje colectivo en el SOLE Lab](../../../assets/images/insp-internetimprove-tambo/insp-internetimprove-tambo-projection.webp)
+![Proyección y aprendizaje colectivo en el SOLE Lab](assets/images/insp-internetimprove-tambo/insp-internetimprove-tambo-projection.webp)
 *SOLE Lab, El Tambo, Cauca (2024).*
 
-![Sonrisas y participación en el SOLE Lab](../../../assets/images/insp-internetimprove-tambo/insp-internetimprove-tambo-smile.webp)
+![Sonrisas y participación en el SOLE Lab](assets/images/insp-internetimprove-tambo/insp-internetimprove-tambo-smile.webp)
 *SOLE Lab, El Tambo, Cauca (2024).*
 
 
 Durante 2024, los Embajadores de El Tambo se formaron en la metodología SOLE y, junto a **RUTA 4 Taller**, el trabajo colectivo y las manos de la comunidad dieron vida a su propio SOLE Lab: ¡La **Segunda Biblioteca del Futuro en Colombia**!
 
 Así lo describe una de las vecinas del SOLE Lab en el Barrio Obrero:
-
-
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
@@ -45,9 +42,7 @@ Así lo describe una de las vecinas del SOLE Lab en el Barrio Obrero:
   </iframe>
 </div>
 
-
-
-Enchufa Tu SOLE Lab en el Tambo, Cauca, (2024).
+*Enchufa Tu SOLE Lab en el Tambo, Cauca, (2024).*
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
@@ -60,10 +55,7 @@ Enchufa Tu SOLE Lab en el Tambo, Cauca, (2024).
   </iframe>
 </div>
 
-
-
-
-Enchufa Tu SOLE Lab en el Tambo, Cauca, (2024).
+*Enchufa Tu SOLE Lab en el Tambo, Cauca, (2024).*
 
 El SOLE Lab no es una biblioteca común. Es un punto de encuentro donde niños, jóvenes y adultos exploran, crean, sueñan y aprenden juntos. Con acceso a Internet comunitario y espacios de colaboración, el SOLE Lab invita a la comunidad a convertir ideas en acciones, a tomar decisiones colectivas, a disfrutar del aprendizaje autoorganizado en grupo y, por qué no, hasta ver películas.
 
@@ -77,7 +69,7 @@ El SOLE Lab no es una biblioteca común. Es un punto de encuentro donde niños, 
     allowfullscreen>
   </iframe>
 
-Enchufa Tu SOLE Lab en el Tambo, Cauca, (2024).
+*Enchufa Tu SOLE Lab en el Tambo, Cauca, (2024).*
 
 Gracias al SOLE Lab, la conexión a Internet en El Tambo mejoró significativamente. Hoy, cualquiera puede acercarse y disfrutar de una conexión más estable y rápida, permitiendo que estudiantes, familias y vecinxs se conecten, investiguen y creen juntos nuevas formas de usar el Internet. 
 
@@ -94,14 +86,11 @@ Ahora la comunidad de El Tambo puede comunicarse y crear vínculos con otras com
   </iframe>
 </div>
 
-
-
-Enchufa Tu SOLE Lab en el Tambo, Cauca, (2024).
+*Enchufa Tu SOLE Lab en el Tambo, Cauca, (2024).*
 
 Mira algunas de las actividades que ha impulsado en este espacio la comunidad:
 
-![Participación comunitaria en el SOLE Lab de El Tambo, Cauca](../../../assets/images/insp-internetimprove-tambo/insp-internetimprove-tambo-handsup.webp)
+![Participación comunitaria en el SOLE Lab de El Tambo, Cauca](assets/images/insp-internetimprove-tambo/insp-internetimprove-tambo-handsup.webp)
 *Participación comunitaria en el SOLE Lab de El Tambo, Cauca (2024).*
-
 
 **¡Hoy el SOLE Lab nos espera con las puertas abiertas para seguir construyendo el futuro del Internet juntos!**

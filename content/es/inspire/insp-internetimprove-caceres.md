@@ -7,9 +7,6 @@ autor: SOLE Colombia
 draft: false
 resumen: Cinco líderes comunitarios mejoran el acceso a Internet en su comunidad.
 ---
-*Descarga esta Inspiración para usarla desconectado*
-
-[Cmo_mejor_el_Internet_en_Cceres_Antioquia_20250829.pdf](/downloads/cmo-mejor-el-internet-en-cceres-antioquia-20250829.pdf)
 
 En la comunidad de Altos del Tigre, en el municipio de Cáceres, cinco líderes comunitarios están convirtiendo en realidad algo casi imposible: mejorar el acceso a Internet en su comunidad.
 
@@ -31,10 +28,7 @@ Pero esto no los desanimó. Al contrario, se pusieron manos a la obra. Evaluaron
   </iframe>
 </div>
 
-
-
-Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).
-
+*Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).*
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
@@ -47,8 +41,7 @@ Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).
   </iframe>
 </div>
 
-
-Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).
+*Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).*
 
 Así, gracias al Jangala y al esfuerzo de los Embajadores SOLE, y de todas las personas de la comunidad que se unieron para lograr instalar esta solución, Cáceres ahora cuenta con Internet en un punto de acceso comunitario.
 
@@ -63,10 +56,7 @@ Así, gracias al Jangala y al esfuerzo de los Embajadores SOLE, y de todas las p
   </iframe>
 </div>
 
-
-
-Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).
-
+*Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).*
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
@@ -79,15 +69,11 @@ Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).
   </iframe>
 </div>
 
-
-
-Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).
+*Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).*
 
 Y para muchos, este logro significa mucho más que “tener conexión”: es una oportunidad de aprender, de informarse, de estar al día. Niños, jóvenes y adultos ahora pueden acceder a información, participar en sesiones de SOLE y, como dicen ellos, “resolver esas grandes preguntas que antes parecían cosa de otro mundo”.
 
 Escucha lo que tiene por decir uno de los vecinos cacharreros, que se animó a poner la antena del Jangala con todo el parche SOLEro:
-
-
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
@@ -100,8 +86,6 @@ Escucha lo que tiene por decir uno de los vecinos cacharreros, que se animó a p
   </iframe>
 </div>
 
-
-
-Arnulfo, Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).
+*Arnulfo, Visitas de Sintonización en Altos del Tigre, Antioquia, (2024).*
 
 El trabajo de Yadiris, Luz Cenith, Kenia, Blanca Ofir y David Ojeda ha marcado un antes y un después en Cáceres. Hoy, gracias a su dedicación y al Jangala, la comunidad no solo tiene Internet, sino que está transformando cómo lo usa, descubriendo, compartiendo y creando muchas posibilidades para su comunidad.
