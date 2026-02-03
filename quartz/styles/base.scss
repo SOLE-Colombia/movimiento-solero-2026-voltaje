@@ -71,16 +71,19 @@ article {
 
 strong {
   font-weight: $semiBoldWeight;
+  color: var(--darkgray);
 }
 
 a {
   font-weight: $semiBoldWeight;
   text-decoration: none;
-  transition: color 0.2s ease;
-  color: var(--secondary);
+  transition: all 0.2s ease;
+  color: #1a84ae;
+  padding: 0 2px;
+  border-radius: 3px;
 
   &:hover {
-    color: var(--tertiary);
+        color: var(--tertiary);
   }
 
   &.internal {

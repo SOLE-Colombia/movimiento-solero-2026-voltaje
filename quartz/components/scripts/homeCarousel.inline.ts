@@ -56,6 +56,8 @@ function initHomeCarousel() {
       grabCursor: true,
       loop: true,
       speed: 600,
+      preventClicks: false,
+      preventClicksPropagation: false,
       
       cardsEffect: {
         rotate: false,
@@ -128,14 +130,33 @@ function cleanupHomeCarousel() {
   }
 }
 
-// Inicializar en carga de página
-document.addEventListener('DOMContentLoaded', initHomeCarousel)
+const globalState = window as typeof window & {
+  _homeCarouselNavAttached?: boolean
+  _homeCarouselCleanupAttached?: boolean
+}
+
+const runInit = () => {
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initHomeCarousel, { once: true })
+  } else {
+    initHomeCarousel()
+  }
+}
+
+runInit()
 
 // Re-inicializar en navegación SPA (evento personalizado de Quartz)
-document.addEventListener('nav', () => {
-  // Pequeño delay para asegurar que el DOM esté listo
-  setTimeout(initHomeCarousel, 50)
-})
+if (!globalState._homeCarouselNavAttached) {
+  globalState._homeCarouselNavAttached = true
+  document.addEventListener("nav", () => {
+    // Pequeño delay para asegurar que el DOM esté listo
+    setTimeout(initHomeCarousel, 50)
+  })
+}
 
-// Cleanup antes de navegar
-window.addEventListener('beforeunload', cleanupHomeCarousel)
+// Cleanup antes de navegar o salir
+if (!globalState._homeCarouselCleanupAttached) {
+  globalState._homeCarouselCleanupAttached = true
+  window.addEventListener("beforeunload", cleanupHomeCarousel)
+  window.addCleanup?.(() => cleanupHomeCarousel())
+}

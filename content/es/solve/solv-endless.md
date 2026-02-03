@@ -17,11 +17,19 @@ draft: false
 
 ## Un pedazo de internet en los computadores: Instalando Endless OS
 
-![Endless OS Hero](assets/images/solv-endless/hero-endless.webp)
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    src="https://www.youtube.com/embed/2ZeNvxIw3Eg?si=Pg24uqlAFoYy8k8j" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
 
-¡Qué onda! Soy Nicolás. Si estás leyendo esto es porque, como yo, eres de los que no se queda quieto y le gusta "cacharrear" con los computadores para que sirvan de algo más que para escribir en Word. 
+Si estás leyendo esto es porque, como yo, eres de los que no se queda quieto y le gusta "cacharrear" con los computadores para que sirvan de algo más que para escribir en Word. 
 
-He pasado muchas horas peleando con instalaciones de **Dual Boot**, particiones que se borran y memorias USB que no arrancan. Por eso, quiero darte una mano para que lleves "un pedazo de internet" a donde más se necesita, sin que mueras en el intento. Instalar **Endless OS** es como meter una biblioteca gigante en un computador viejo o nuevo, y aquí te explico cómo hacerlo como un profesional del "cacharrreo".
+He pasado muchas horas peleando con instalaciones de **Dual Boot**, particiones que se borran y memorias USB que no arrancan. Por eso, quiero darte una mano para que lleves "un pedazo de internet" a donde más se necesita, sin que fracases en el intento. Instalar **Endless OS** es como meter una biblioteca gigante en un computador viejo o nuevo, y aquí te explico cómo hacerlo como un profesional del "cacharreo".
 
 ## ¿Para qué sirve esto?
 
@@ -40,13 +48,13 @@ He pasado muchas horas peleando con instalaciones de **Dual Boot**, particiones 
 ### 1. El "Check-up" inicial
 Antes de descargar nada, mira si el computador tiene espacio. En Windows, abre el explorador de archivos y fíjate que el "Disco C:" no esté en rojo. Si vas a instalar la versión completa (la que tiene los contenidos), necesitas unos 20GB a 32GB libres.
 
-> **Truco de amigo:** Si el internet está muy lento en la biblioteca, usa un gestor de descargas. Si se corta la luz o el wifi, no pierdes lo que ya bajaste.
+> **Truco cacharrero:** Si el internet está muy lento en la biblioteca, usa un gestor de descargas como jdownloader. Si se corta la luz o el wifi, no pierdes lo que ya bajaste.
 
 ### 2. Descarga: ¿Windows Installer o Imagen ISO?
 Si vas al [sitio oficial de Endless](https://support.endlessos.org/en/installation/windows-installer), verás dos opciones:
 
 * **Instalador de Windows:** Es la más fácil. Es un programa `.exe` que instalas como si fuera un juego. Te crea un **Dual Boot** automático. Al prender el PC, te preguntará: "¿Quieres entrar a Windows o a Endless?".
-* **Imagen ISO:** Esto es para los más avanzados. Te permite crear una USB que "formatea" el PC o que corre desde la memoria.
+* **Imagen ISO:** Esto es para los más avanzados. Te permite crear una USB que "formatea" el PC o que corre desde la memoria. Necesitaras balena etcher para "quemar" la ISO en la USB. Esta opción es buena si el computador no tiene Windows o si quieres usar Endless sin tocar el Windows que ya está.
 
 ### 3. La instalación (El momento de la verdad)
 Si usas el instalador de Windows:
@@ -57,7 +65,7 @@ Si usas el instalador de Windows:
 
 ### 4. El "Salto al BIOS" (Si la USB no arranca)
 Si decidiste usar una USB y el computador ignora la memoria y entra a Windows directo, tienes que entrar al **BIOS/UEFI**. 
-* **El truco:** Apenas prendas el PC, presiona repetidamente `F2`, `F12` o `Delete` (depende de la marca). Busca la pestaña "Boot" y pon la USB de primera en la lista.
+* **El truco:** Apenas prendas el PC, presiona repetidamente `F2`, `F12` o `Delete` (depende de la marca). Busca la pestaña "Boot" o "Arranque" y pon la USB de primera en la lista.
 
 ## Glosario Colectivo (Para hablar en el mismo idioma)
 
@@ -77,13 +85,9 @@ Como quedamos, aquí vamos armando el significado de las palabras raras que usam
 3.  **El foro es tu amigo:** Si algo falla, busca en Google el error seguido de la palabra "Endless OS forum". Siempre hay alguien que ya pasó por ese problema y dejó la solución.
 
 **¿Hasta dónde se puede llegar?**
-Tener Endless es como tener una biblioteca offline. No es el internet infinito de Google, pero para buscar respuestas en un SOLE, es mil veces mejor que un computador vacío. ¡A darle átomos!
+Tener Endless es como tener una biblioteca offline. No es el internet infinito de Google, pero para buscar respuestas en un SOLE, es mil veces mejor que un computador vacío.
 
 ---
-
-## Soluciones recomendadas
-- [¿Cómo aprovechar mi ancho de banda?](es/solve/como-aprovechar-mi-ancho-de-banda-solutions-db)
-- [¿Cómo comprar un celular adecuado para mí?](es/solve/como-comprar-un-celular-adecuado-para-mi-solutions-db)
 
 ## Referencias
 - [Endless OS Foundation](https://endlessos.org/)

@@ -23,7 +23,7 @@ const cards: CarouselCard[] = [
     color: "#E91E8C", // Rosa/magenta
     textColor: "#ffffff",
     icon: `<svg viewBox="0 0 64 64" fill="currentColor"><path d="M36 4h-8l-4 24h8l-8 32 24-36h-12l8-20z"/></svg>`,
-    link: "/es/solve#electricidad",
+    link: "es/solve#electricidad",
   },
   {
     id: 2,
@@ -32,7 +32,7 @@ const cards: CarouselCard[] = [
     color: "#A4C639", // Verde lima
     textColor: "#ffffff",
     icon: `<svg viewBox="0 0 64 64" fill="currentColor"><circle cx="32" cy="32" r="28" fill="none" stroke="currentColor" stroke-width="4"/><ellipse cx="32" cy="32" rx="12" ry="28" fill="none" stroke="currentColor" stroke-width="4"/><line x1="4" y1="32" x2="60" y2="32" stroke="currentColor" stroke-width="4"/><line x1="32" y1="4" x2="32" y2="60" stroke="currentColor" stroke-width="4"/></svg>`,
-    link: "/es/new-here",
+    link: "es/new-here",
   },
   {
     id: 3,
@@ -41,7 +41,7 @@ const cards: CarouselCard[] = [
     color: "#2E86AB", // Azul
     textColor: "#ffffff",
     icon: `<svg viewBox="0 0 64 64" fill="currentColor"><path d="M32 52a4 4 0 100 8 4 4 0 000-8z"/><path d="M32 40c-6.6 0-12 4.5-12 10h4c0-3.3 3.6-6 8-6s8 2.7 8 6h4c0-5.5-5.4-10-12-10z"/><path d="M32 28c-11 0-20 7.5-20 16.7h4c0-7 7.2-12.7 16-12.7s16 5.7 16 12.7h4c0-9.2-9-16.7-20-16.7z"/><path d="M32 16c-15.5 0-28 10.5-28 23.5h4C8 28.3 18.7 20 32 20s24 8.3 24 19.5h4c0-13-12.5-23.5-28-23.5z"/></svg>`,
-    link: "/es/solve#senal",
+    link: "es/solve#senal",
   },
   {
     id: 4,
@@ -50,7 +50,7 @@ const cards: CarouselCard[] = [
     color: "#5C6BC0", // Índigo
     textColor: "#ffffff",
     icon: `<svg viewBox="0 0 64 64" fill="currentColor"><rect x="8" y="20" width="48" height="32" rx="4" fill="none" stroke="currentColor" stroke-width="4"/><path d="M24 36h16M24 44h8" stroke="currentColor" stroke-width="4" stroke-linecap="round"/><circle cx="44" cy="40" r="4"/></svg>`,
-    link: "/es/solve/solv-bandwidth",
+    link: "es/solve/solv-bandwidth",
   },
   {
     id: 5,
@@ -59,7 +59,7 @@ const cards: CarouselCard[] = [
     color: "#26A69A", // Verde azulado
     textColor: "#ffffff",
     icon: `<svg viewBox="0 0 64 64" fill="currentColor"><circle cx="32" cy="32" r="28" fill="none" stroke="currentColor" stroke-width="4"/><path d="M32 32l12-20" stroke="currentColor" stroke-width="4" stroke-linecap="round"/><circle cx="32" cy="32" r="4"/></svg>`,
-    link: "/es/solve/solv-internet-speedtest",
+    link: "es/solve/solv-internet-speedtest",
   },
   {
     id: 6,
@@ -68,7 +68,7 @@ const cards: CarouselCard[] = [
     color: "#8E24AA", // Púrpura
     textColor: "#ffffff",
     icon: `<svg viewBox="0 0 64 64" fill="currentColor"><circle cx="32" cy="16" r="8"/><circle cx="16" cy="28" r="6"/><circle cx="48" cy="28" r="6"/><path d="M20 56V44a12 12 0 0124 0v12" fill="none" stroke="currentColor" stroke-width="4"/><path d="M8 56V48a8 8 0 018-8" fill="none" stroke="currentColor" stroke-width="4"/><path d="M56 56V48a8 8 0 00-8-8" fill="none" stroke="currentColor" stroke-width="4"/></svg>`,
-    link: "/es/inspire",
+    link: "es/inspire",
   },
   {
     id: 7,
@@ -77,7 +77,7 @@ const cards: CarouselCard[] = [
     color: "#FF7043", // Naranja coral
     textColor: "#ffffff",
     icon: `<svg viewBox="0 0 64 64" fill="currentColor"><rect x="12" y="8" width="40" height="48" rx="4" fill="none" stroke="currentColor" stroke-width="4"/><path d="M20 20h24M20 28h24M20 36h16" stroke="currentColor" stroke-width="4" stroke-linecap="round"/></svg>`,
-    link: "/es/solve/solv-pocket-wikipedia",
+    link: "es/solve/solv-pocket-wikipedia",
   },
   {
     id: 8,
@@ -86,7 +86,7 @@ const cards: CarouselCard[] = [
     color: "#E91E8C", // Rosa/magenta
     textColor: "#ffffff",
     icon: `<svg viewBox="0 0 64 64" fill="currentColor"><rect x="16" y="28" width="32" height="28" rx="4" fill="none" stroke="currentColor" stroke-width="4"/><path d="M24 28V20a8 8 0 0116 0v8" fill="none" stroke="currentColor" stroke-width="4"/><circle cx="32" cy="42" r="4"/><line x1="32" y1="46" x2="32" y2="50" stroke="currentColor" stroke-width="4"/></svg>`,
-    link: "/es/solve/solv-share-internet-wirelessly",
+    link: "es/solve/solv-share-internet-wirelessly",
   },
   {
     id: 9,
@@ -95,7 +95,7 @@ const cards: CarouselCard[] = [
     color: "#42A5F5", // Azul claro
     textColor: "#ffffff",
     icon: `<svg viewBox="0 0 64 64" fill="currentColor"><ellipse cx="32" cy="48" rx="24" ry="8" fill="none" stroke="currentColor" stroke-width="4"/><path d="M32 8l-16 32h32z" fill="none" stroke="currentColor" stroke-width="4"/><circle cx="32" cy="24" r="4"/></svg>`,
-    link: "/es/solve/solv-choose-satellite-internet",
+    link: "es/solve/solv-choose-satellite-internet",
   },
   {
     id: 10,
@@ -104,7 +104,7 @@ const cards: CarouselCard[] = [
     color: "#2E86AB", // Azul
     textColor: "#ffffff",
     icon: `<svg viewBox="0 0 64 64" fill="currentColor"><circle cx="32" cy="48" r="8"/><path d="M32 40V24" stroke="currentColor" stroke-width="4"/><path d="M24 16c0-4.4 3.6-8 8-8s8 3.6 8 8" fill="none" stroke="currentColor" stroke-width="4"/><path d="M16 12c0-8.8 7.2-12 16-12s16 3.2 16 12" fill="none" stroke="currentColor" stroke-width="4"/></svg>`,
-    link: "/es/solve/solv-improve-signal-can",
+    link: "es/solve/solv-improve-signal-can",
   },
   {
     id: 11,
@@ -113,7 +113,7 @@ const cards: CarouselCard[] = [
     color: "#66BB6A", // Verde
     textColor: "#ffffff",
     icon: `<svg viewBox="0 0 64 64" fill="currentColor"><circle cx="16" cy="44" r="12" fill="none" stroke="currentColor" stroke-width="4"/><circle cx="48" cy="44" r="12" fill="none" stroke="currentColor" stroke-width="4"/><path d="M16 44l16-20 8 20M32 24l8 0" stroke="currentColor" stroke-width="4" stroke-linecap="round"/></svg>`,
-    link: "/es/solve/solv-bicigenerator",
+    link: "es/solve/solv-bicigenerator",
   },
   {
     id: 12,
@@ -122,7 +122,7 @@ const cards: CarouselCard[] = [
     color: "#FF8A65", // Naranja
     textColor: "#ffffff",
     icon: `<svg viewBox="0 0 64 64" fill="currentColor"><path d="M20 48V32a4 4 0 014-4h16a4 4 0 014 4v16" fill="none" stroke="currentColor" stroke-width="4"/><circle cx="28" cy="20" r="8" fill="none" stroke="currentColor" stroke-width="4"/><circle cx="40" cy="24" r="6" fill="none" stroke="currentColor" stroke-width="4"/><path d="M24 48l-4 8M40 48l4 8M28 48v8" stroke="currentColor" stroke-width="4" stroke-linecap="round"/></svg>`,
-    link: "/es/inspire",
+    link: "es/inspire",
   },
 ]
 
@@ -155,7 +155,7 @@ export default (() => {
                   {cards.map((card) => (
                     <div class="swiper-slide">
                       <a
-                        href={card.link}
+                        href={joinSegments(baseDir, card.link)}
                         class="home-carousel-card"
                         data-color={card.color}
                         style={`--card-color: ${card.color}; --card-text: ${card.textColor};`}
