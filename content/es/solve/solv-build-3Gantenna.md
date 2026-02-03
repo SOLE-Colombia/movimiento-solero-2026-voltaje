@@ -194,7 +194,6 @@ En el otro extremo, con el alambre de cobre, se hace una onda, que será el elem
 
 > ### Paso 7 → Soldar el dipolo
 
-
 Este es uno de los pasos de más cuidado, después de esto pasamos al montaje. Recuerda que el dipolo es uno de los componentes fundamentales de la antena, este debe ir soldado el extremo del cable coaxial que separamos en la malla y el alambre de cobre, y este a su vez se conecta con un alambre de cobre haciendo puente entre cada extremo del dipolo. Primero hacemos el puente con el cable de cobre como se ve en la imagen, donde se trenza cada extremo y luego se suelda.
 
 ![Soldar cable](assets/images/solv-build-3Gantenna/solv-build-3Gantenna-sold.webp)
@@ -206,6 +205,8 @@ Una vez tengamos el cable de cobre soldado a los dos extremos del coaxial podemo
 Recuerda que el dipolo debe estar perpendicular a la canaleta, por esto para evitar movimientos bruscos del cable que cambien esta posición debemos asegurar el cable con unos amarres plásticos.
 
 ![Asegurar cable](assets/images/solv-build-3Gantenna/solv-build-3Gantenna-secure.webp)
+
+<br>
     
 > ### Paso 8 → Montaje final
 
@@ -226,32 +227,36 @@ El proceso de direccionamiento de la antena debe ser realizado lenta y cuidadosa
 
 Ahora, se puede proceder a asegurar el poste en esta posición y ¡listo! ¡A navegar!
     
-___
+**Recomendaciones de puntos de posible dificultad**
 
-## Recomendaciones de puntos de posible dificultad
-
-Si estás usando la soldadura y esta se resbala continuamente, debe ser que la soldadura de estaño que posiblemente compraste no es compatible con el metal de las varillas que estas usando, por lo que te recomendamos buscar otra soldadura o tratar de hacer contacto entre el cable y la varilla apretándolos bien mediante un alambre. Normalmente cada metal es afín a una soldadura del mismo metal (acero con soldadura de acero, estaño con soldadura de estaño).
+Si estás usando la soldadura y se resbala continuamente, debe ser que la soldadura de estaño que posiblemente compraste no es compatible con el metal de las varillas que estas usando, por lo que te recomendamos buscar otra soldadura o tratar de hacer contacto entre el cable y la varilla apretándolos bien mediante un alambre. Normalmente cada metal es afín a una soldadura del mismo metal (acero con soldadura de acero, estaño con soldadura de estaño).
 
 __
 
 ## ¿Cómo saber si esta solución funciona?
 
-Podemos saber si esta solución funciona haciendo pruebas de velocidad, buscando con estas palabras alguna página en internet, esto te dará como resultado la cantidad de Megabites por segundo (Mb/s) tanto en la descarga como en la carga de información. Por otro lado puedes hacer la medición de la calidad de conexión con la red mediante los decibeles (Db), esta esta explicada en anteriormente en la sección “Montaje final”. Para poder contrastar puedes hacer mediciones con y sin la antena para reconocer cuanto mejora la señal con este dispositivo.
+Podemos saber si esta solución funciona haciendo [pruebas de velocidad](es/solve/solv-internet-speedtest.md). Puedes contrastar haciendo mediciones con y sin la antena para reconocer cuánto mejora la señal con este dispositivo.
+
+A punta de prueba y error podrás sentirte cada vez más seguro o segura para _cacharrear_, es decir, para resolver haciendo. Ahora, ¿te animarías a hacer otra solución? ¡Animáte a neguir navegando! [Ver más soluciones →](https://sole-colombia.github.io/voltaje/es/solve)
 
 ___
 
 ## ¿Qué puedes lograr con esta solución?
 
-Esta solución puede funcionar para **mejorar las condiciones de conectividad temporalmente.**  esto porque la antena servirá como un amplificador de la emisión y recepción de onda de tus dispositivos.
+Esta solución puede funcionar para **mejorar las condiciones de conectividad temporalmente.** La antena servirá como un amplificador de la emisión y recepción de onda de tus dispositivos.
+
+Sabiendo esto, ¿hasta dónde te gustaría llegar a ti? ¿Es ésta una solución que podrías hacer en donde vives? ¡Esperamos que te haya sido útil! Y si así fue, **compártela con otras personas** a quienes sepas que les podría servir.
+
+¡Hasta pronto! 👋🏽
 
 ___
 
 ## Soluciones relacionadas
 
-- [**¿Necesito comprar una antena 3G/4G? Cómo tomar la decisión**](es/solve/necesito-comprar-una-antena-3g-4g-como-tomar-la-decision-solutions-db) 
-- [**¿Cómo mejorar mi señal con una lata?**](es/solve/como-mejorar-mi-senal-con-una-lata-solutions-db) 
-- [**¿Tu comunidad necesita apoyo económico para conectarse a Internet?**](es/solve/tu-comunidad-necesita-apoyo-economico-para-conectarse-a-internet-solutions-db) 
-- [**¿Cómo saber qué tipo de señal de Internet tienes?**](es/solve/como-saber-que-tipo-de-senal-de-internet-tienes-solutions-db)
+- Si esta antena no es suficiente, puedes convocar a tu comunidad para comprar una antena comunitaria. Esta solución puede servirte para tomar la decisión: [¿Necesito comprar una antena 3G/4G? →](es/solve/solv-need-3Gantenna.md) 
+- Para amplificar la señal de tu celular también pueden probar esta solución: [¿Cómo mejorar mi señal con una lata? →](es/solve/solv-improve-signal-can.md) 
+- [¿Tu comunidad necesita apoyo económico para conectarse a Internet? →](es/solve/solv-financial-support-connect.md) 
+- [¿Cómo saber qué tipo de señal de Internet tienes? →](es/solve/como-saber-que-tipo-de-senal-de-internet-tienes-solutions-db)
 
 ___
 

@@ -335,7 +335,7 @@ Una vez fija, has terminado la instalación de una antena 3G/4G que te permitir�
 
 Eres, oficialmente, _"el o la cacharrera"_ de tu hogar o comunidad. ¡Felicidades! 👷🏽‍♀️🎉👷🏽 
 
-A punta de prueba y el error podrás sentirte cada vez más seguro o segura para _cacharrear_, es decir, para resolver haciendo. Ahora, ¿te animarías a hacer otra solución? ¡Animáte a neguir navegando! [Ver más soluciones →](https://sole-colombia.github.io/voltaje/es/solve)
+A punta de prueba y error podrás sentirte cada vez más seguro o segura para _cacharrear_, es decir, para resolver haciendo. Ahora, ¿te animarías a hacer otra solución? ¡Animáte a neguir navegando! [Ver más soluciones →](https://sole-colombia.github.io/voltaje/es/solve)
 
 ---
 
