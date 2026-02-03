@@ -23,6 +23,11 @@
   }
 }
 
+.home-carousel-swiper .swiper-wrapper,
+.home-carousel-swiper .swiper-slide {
+  overflow: visible !important;
+}
+
 .swiper-slide {
   height: auto !important; // Altura automática basada en contenido
   width: 100% !important;
@@ -31,6 +36,7 @@
   justify-content: center;
   transition: transform 0.3s;
   border-radius: 0;
+  pointer-events: auto;
 }
 
 // ============ INDIVIDUAL CARD ============
@@ -50,6 +56,8 @@
   border-radius: 0; 
   border: 3px solid #4f4f4f;
   box-shadow: 6px 6px 0 0 #4f4f4f;
+  box-sizing: border-box;
+  pointer-events: auto;
   cursor: pointer;
   flex-shrink: 0;
   overflow: hidden;
@@ -76,10 +84,12 @@
   align-items: center;
   justify-content: center;
 
-  svg {
+  svg,
+  img {
     width: 100%;
     height: 100%;
     object-fit: contain;
+    display: block;
   }
 
   @media #{$mobile} {
@@ -300,11 +310,22 @@
 }
 
 .home-carousel-footer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
   align-items: center;
-  padding: 1rem;
+  padding: 0.5rem 1rem 0.75rem;
   text-align: center;
   font-size: 0.8rem;
   color: var(--gray);
+  box-shadow: none;
+  text-shadow: none;
+  background: transparent;
+  
+  p {
+    max-width: 900px;
+    margin: 0;
+  }
   
   a {
     color: var(--secondary);

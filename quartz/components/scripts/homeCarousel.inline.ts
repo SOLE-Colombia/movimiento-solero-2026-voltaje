@@ -1,6 +1,8 @@
 // HomeCarousel Script - Se ejecuta en cada navegación SPA
 let swiperInstance: any = null
 let swiperLoaded = false
+let lastNavigateAt = 0
+const navThrottleMs = 250
 
 // Cargar Swiper dinámicamente
 async function loadSwiper(): Promise<any> {
@@ -49,6 +51,48 @@ function initHomeCarousel() {
     const prevBtn = document.querySelector('.nav-prev')
     const nextBtn = document.querySelector('.nav-next')
     const counter = document.querySelector('.home-carousel-counter')
+    const container = document.querySelector('.home-carousel-swiper') as HTMLElement | null
+    
+    const getEvent = (a: any, b: any): Event | null => {
+      if (a instanceof Event) return a
+      if (b instanceof Event) return b
+      return null
+    }
+
+    const handleCardNav = (event: Event | null) => {
+      if (!event) return
+      const target = event.target as HTMLElement | null
+      const link = target?.closest("a.home-carousel-card") as HTMLAnchorElement | null
+      if (!link?.href) return
+
+      const mouseEvent = event as MouseEvent
+      if (mouseEvent.metaKey || mouseEvent.ctrlKey || mouseEvent.shiftKey || mouseEvent.altKey || mouseEvent.button === 1) {
+        return
+      }
+      if (swiperInstance && swiperInstance.allowClick === false) {
+        return
+      }
+
+      const now = Date.now()
+      if (now - lastNavigateAt < navThrottleMs) return
+      lastNavigateAt = now
+
+      event.preventDefault()
+      const url = new URL(link.href, window.location.href)
+      const sameOrigin = url.origin === window.location.origin
+      const spaNavigate = (window as any).spaNavigate
+      if (sameOrigin && typeof spaNavigate === "function") {
+        spaNavigate(url)
+        return
+      }
+      window.location.href = url.toString()
+    }
+
+    if (container && !container.dataset.cardNavBound) {
+      container.dataset.cardNavBound = "true"
+      container.addEventListener("click", (event) => handleCardNav(event), true)
+      container.addEventListener("pointerup", (event) => handleCardNav(event), true)
+    }
     
     swiperInstance = new Swiper('.home-carousel-swiper', {
       direction: 'vertical',
@@ -78,6 +122,12 @@ function initHomeCarousel() {
       },
       
       on: {
+        click: function(this: any, a: any, b: any) {
+          handleCardNav(getEvent(a, b))
+        },
+        tap: function(this: any, a: any, b: any) {
+          handleCardNav(getEvent(a, b))
+        },
         slideChange: function(this: any) {
           if (currentSpan) {
             currentSpan.textContent = String(this.realIndex + 1)
