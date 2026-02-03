@@ -6,8 +6,8 @@ import { i18n } from "../i18n"
 import { classNames } from "../util/lang"
 
 const fallbackLabels = {
-  title: "Descargar página",
-  ariaLabel: "Descargar esta página como PDF",
+  title: "Descargar solución",
+  ariaLabel: "Descargar esta solución como PDF",
 }
 
 const DownloadButton: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
@@ -15,6 +15,7 @@ const DownloadButton: QuartzComponent = ({ displayClass, cfg }: QuartzComponentP
 
   return (
     <button
+      type="button"
       class={classNames(displayClass, "download-button")}
       aria-label={translations.ariaLabel}
       title={translations.title}
@@ -33,6 +34,7 @@ const DownloadButton: QuartzComponent = ({ displayClass, cfg }: QuartzComponentP
         <polyline points="7 10 12 15 17 10"></polyline>
         <line x1="12" y1="15" x2="12" y2="3"></line>
       </svg>
+      <span class="download-button-text">{translations.title}</span>
     </button>
   )
 }

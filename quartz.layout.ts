@@ -4,6 +4,11 @@ import * as Component from "./quartz/components"
 const isHomePage = (page: { fileData: { slug?: string } }) =>
   page.fileData.slug === "index" || page.fileData.slug === "es"
 
+const footerLinks = {
+  "SOLE Colombia": "https://www.solecolombia.org/",
+  "GitHub": "https://github.com/SOLE-Colombia/voltaje",
+}
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -16,10 +21,7 @@ export const sharedPageComponents: SharedLayout = {
   ],
   footer: Component.ConditionalRender({
     component: Component.Footer({
-      links: {
-        "SOLE Colombia": "https://www.solecolombia.org/",
-        "GitHub": "https://github.com/SOLE-Colombia/voltaje",
-      },
+      links: footerLinks,
     }),
     condition: () => false,
   }),
@@ -73,8 +75,6 @@ export const defaultContentPageLayout: PageLayout = {
       components: [
         { Component: Component.LanguageToggle() },
         { Component: Component.Darkmode() },
-        { Component: Component.DownloadButton() },
-        { Component: Component.ReaderMode() },
       ],
     }),
     Component.Search(),
@@ -170,6 +170,10 @@ export const defaultContentPageLayout: PageLayout = {
     }),
   ],
   right: [
+    Component.ConditionalRender({
+      component: Component.DownloadButton(),
+      condition: (page) => isSolveSinglePage(page),
+    }),
     // Módulo de gráfico desactivado sin eliminar el código.
     // Component.Graph(),
     // Metadata de soluciones en sidebar derecho
@@ -226,7 +230,6 @@ export const defaultListPageLayout: PageLayout = {
       components: [
         { Component: Component.LanguageToggle() },
         { Component: Component.Darkmode() },
-        { Component: Component.DownloadButton() },
       ],
     }),
     Component.Search(),

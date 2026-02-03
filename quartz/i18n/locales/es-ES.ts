@@ -33,8 +33,8 @@ export default {
       title: "Modo lector",
     },
     download: {
-      title: "Descargar página",
-      ariaLabel: "Descargar esta página como PDF",
+      title: "Descargar solución",
+      ariaLabel: "Descargar esta solución como PDF",
     },
     explorer: {
       title: "Explorador",

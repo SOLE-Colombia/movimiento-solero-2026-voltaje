@@ -33,8 +33,8 @@ export default {
       title: "Reader mode",
     },
     download: {
-      title: "Download page",
-      ariaLabel: "Download this page as PDF",
+      title: "Download solution",
+      ariaLabel: "Download this solution as PDF",
     },
     explorer: {
       title: "Explorer",
