@@ -1,19 +1,20 @@
 ---
 title: "¿Cómo conseguir equipos donados?"
-date: 2025-12-17
+date: 2026-02-03
 tags:
-  - "Dispositivos"
-  - "Personas"
-dificultad: "Medio"
-costo: "Gratis"
-ayudantes: "Sin ayudantes"
-tarda: "Horas"
-autor: "SOLE Colombia"
+  - Dispositivos
+  - Personas
+dificultad: Medio
+costo: Gratis
+ayudantes: Sin ayudantes
+tarda: Horas
+autor: SOLE Colombia
 draft: false
 ---
-## Darle un segundo uso a equipos que, de otra manera serían descartados
 
 Hola, ¿estás ahí? Mi nombre es Mateo y te acompañaré en el desarrollo de esta solución. Si estás leyendo, escuchando o viendo esto es porque estás interesado/a o tienes curiosidad en saber cómo conseguir equipos donados. Si es así, estás en el lugar indicado.
+
+___
 
 ## ¿Qué es conseguir equipos donados?
 
@@ -21,54 +22,70 @@ En pocas palabras, esta solución habla de reúso. Habla de ser coherentes con e
 
 Esta solución sirve para darle una segunda oportunidad a equipos que ya no se necesitan. ¿Sabías que hay empresas que quieren cambiar sus equipos y donar los que tienen? Estos equipos suelen estar en buen estado y tu comunidad podría aprovecharlos. 
 
-## **¿Para qué sirve esta solución?**
+___
+
+## ¿Para qué sirve esta solución?
 
 Si bien esta solución no necesita dinero para la compra de equipos, ten en cuenta que esta solución puede tomar semanas, incluso meses, dependiendo de los pasos que te contaremos a continuación. Por su parte, tienes más posibilidades de recibir una donación si demuestras que el uso de los equipos será comunitario y que su propósito es mejorar la calidad de vida de las personas.
 
-## **¿Qué necesitas?**
+___
+
+## ¿Qué necesitas?
 
 - Persistencia.
 - Paciencia.
-- Busca apoyo de otras personas. El trabajo en equipo aumenta las posibilidades.
+- Apoyo de otras personas. El trabajo en equipo aumenta las posibilidades de conseguirlo.
 
-## **¿Cómo hacerlo?**
+___
+
+## ¿Cómo hacerlo?
 
 **¡Empecemos!**
 
-Esta solución está compuesta por tres pasos en los que te contaremos todo lo que sabemos y hemos aprendido en la Fundación SOLE Colombia sobre cómo conseguir equipos donados. Todos los casos son diferentes, por lo que es importante que estés dispuesto/a a adaptar estos pasos dependiendo de las dificultades que encuentres en el camino. 
+Esta solución se desarrolla en tres pasos en los que te contaremos todo lo que sabemos y hemos aprendido en la Fundación SOLE Colombia sobre cómo conseguir equipos donados. Todos los casos son diferentes, por lo que es importante que estés dispuesto/a a adaptar estos pasos dependiendo de las dificultades que encuentres en el camino. 
 
 
 ![Búsqueda de equipos donados](assets/images/solv-donatedequipment/solv-donatedequipment-search.webp)
 
 *Foto: veerasak Piyawatanakul - [Pexels](https://www.pexels.com/es-es/foto/mujer-con-portatil-negro-mientras-se-inclina-sobre-la-mesa-de-madera-marron-1143513/)*
 
+<br>
+
+> ### Paso 1 → Encuentra a la empresa donante e identifica el modelo de relación
 
 Por lo general, los donantes de equipos son empresas con gran capacidad económica, nómina e infraestructura. Piensa en las empresas de telefonía o computación, universidades o averigua sobre los patrocinadores de los proyectos sociales en tu región. Ahora bien, te sugerimos empezar por las empresas pequeñas. Para esto tienes dos opciones:
 
+- **Opción 1: Busqueda directa**
 
-**Opción 1. Busqueda directa:** puedes buscar empresas o personas que donen equipos a través de internet, redes sociales, consultando con tus redes de contacto o círculos cercanos.
+Puedes buscar empresas o personas que donen equipos a través de internet, redes sociales, consultando con tus redes de contacto o círculos cercanos.
     
-*Para la opción 1, haz una lista de las empresas y las formas que tienes para contactarlas, puede ser a través de las personas que manejan las finanzas de la organización o de los que manejan los equipos de cómputo, lo importante es conseguir un contacto directo de la empresa donante con el que puedas hablar en persona, enviarle un correo, una llamada o una carta. Si le envías una carta o un correo asegúrate que la leerá y, en caso de no ser el responsable de tomar esa decisión, asegúrate que la redireccionará a la persona que necesitan.*
+> 💬 *Para la opción 1, haz una lista de las empresas y las formas que tienes para contactarlas, puede ser a través de las personas que manejan las finanzas de la organización o de los que manejan los equipos de cómputo.*
+> 
+> *La clave es conseguir un **contacto directo** de la empresa donante con quien que puedas hablar en persona, enviarle un correo, una llamada o una carta. Si le envías una carta o un correo asegúrate de que la leerá y, en caso de no ser el responsable de tomar esa decisión, asegúrate de que la redireccionará a la persona que necesitas.*
 
-**Opción 2. Difusión:** puedes escribir un mensaje o anuncio en redes sociales haciendo explícito que: 1. necesitas equipos donados en buen estado; 2. tienes un proyecto comunitario en el cual muchas personas estarán beneficiadas; 3. escribe el número al que pueden contactarte; 4. Deja claridad de quién eres y procura que el mensaje despierte empatía y confianza. Un ejemplo de mensaje puede ser: 
-    
-* “¡Hola a todos y todas! Mi nombre es Amaranta y hago parte de la FUNDACIÓN XYZ ¿Alguien  conoce organizaciones que estén donando equipos de cómputo en buen estado? Estamos buscando apoyo para implementar un proyecto con adultos mayores en zonas rurales de Colombia. Cualquier información o contacto sería de gran ayuda. ¡Gracias! 
+- **Opción 2: Difusión**
 
-Mi número de contacto es **123456789** 
+Puedes escribir un mensaje o anuncio en redes sociales haciendo explícito que: 1. necesitas equipos donados en buen estado; 2. tienes un proyecto comunitario en el cual muchas personas estarán beneficiadas; 3. escribe el número al que pueden contactarte; 4. Deja claridad de quién eres y procura que el mensaje despierte empatía y confianza. Un ejemplo de mensaje puede ser: 
     
-Te sugerimos realizar las dos opciones al tiempo, esto ampliará las posibilidades que tienes para encontrar una empresa donante. 
+> “¡Hola a todos y todas! Mi nombre es Amaranta y hago parte de la FUNDACIÓN XYZ ¿Alguien  conoce organizaciones que estén donando equipos de cómputo en buen estado? Estamos buscando apoyo para implementar un proyecto con adultos mayores en zonas rurales de Colombia. Cualquier información o contacto sería de gran ayuda. ¡Gracias! 
+>
+> Mi número de contacto es **123456789** 
+>    
+> Te sugerimos realizar las dos opciones al tiempo, esto ampliará las posibilidades que tienes para encontrar una empresa donante. 
     
-***¡Ánimo!** En este momento es clave que seas persistente. Esto no tiene una fórmula mágica, es cuestión de tocar puertas y abrir caminos. En todo caso, si has leído o escuchado hasta aquí es porque ya tienes la voluntad de hacerlo y eso lo admiro.* 
+> 💪🏽 ***¡Ánimo!** En este momento es clave que seas persistente. Esto no tiene una fórmula mágica, es cuestión de tocar puertas y abrir caminos. En todo caso, si has leído o escuchado hasta aquí es porque ya tienes la voluntad de hacerlo y eso lo admiro.* 
+
+<br>
     
-- **Momento 2: Encuentra a la empresa donante e identifica el modelo de relación**
-    
-    ![Agree](assets/images/solv-donatedequipment/solv-donatedequipment-agree.webp)
-    
-    Foto de Fauxels: [Pexels](https://www.pexels.com/es-es/foto/foto-de-personas-haciendo-apretones-de-manos-3184416/)
-    
-    Una vez hayas enviado las solicitudes solo te queda esperar e insistir continuamente para recibir respuesta. No dejes enfriar el contacto, si pasa más de una semana sin tener alguna respuesta, vuelve a escribir o ve en persona si es posible. Cuando logres una respuesta afirmativa, ten claridad acerca de cuál es el modelo en el que recibirás los equipos: no todas las empresas donan sus equipos, algunas deciden regalarlos, por lo que hay dos tipos de modelos: 
-    
-    **Opción 1. Regalo de equipos:** puede que encuentres una empresa o persona que regala sus equipos. Familiares pueden regalar equipos. Cuando lo contactes, aseguráte de la modalidad que efectivamente recibirás los equipos en esta modalidad. 
+> ### Paso 2 → Encuentra a la empresa donante e identifica el modelo de relación
+
+![Agree](assets/images/solv-donatedequipment/solv-donatedequipment-agree.webp)
+
+Foto de Fauxels: [Pexels](https://www.pexels.com/es-es/foto/foto-de-personas-haciendo-apretones-de-manos-3184416/)
+
+Una vez hayas enviado las solicitudes solo te queda esperar e insistir continuamente para recibir respuesta. No dejes enfriar el contacto, si pasa más de una semana sin tener alguna respuesta, vuelve a escribir o ve en persona si es posible. Cuando logres una respuesta afirmativa, ten claridad acerca de cuál es el modelo en el que recibirás los equipos: no todas las empresas donan sus equipos, algunas deciden regalarlos, por lo que hay dos tipos de modelos: 
+
+**Opción 1. Regalo de equipos:** puede que encuentres una empresa o persona que regala sus equipos. Familiares pueden regalar equipos. Cuando lo contactes, aseguráte de la modalidad que efectivamente recibirás los equipos en esta modalidad. 
     
     **Opción 2. Donación de equipos:** Ahora bien, para el caso de las empresas que donan es un modelo diferente en el que se le da una segunda oportunidad a equipos que están en buen estado y que pueden ser aprovechados por personas y comunidades que los necesitan. ¿Cómo funciona? Muchas empresas tienen que hacer actualizaciones que requieren cambiar sus equipos o necesitan de nuevas tecnologías para llevar a cabo su trabajo, por lo que deciden donar y así pueden recibir una deducción de sus impuestos.  Es importante resaltar que, para que esto sea posible, las empresas donantes necesitan recibir un certificado de donación.  Si no haces parte de una fundación, debes encontrar un aliado que pueda hacer este certificado por ti. ¿Quién y cómo se emite este certificado para las empresas que quieren donar? Para conseguir un aliado piensa en una entidad sin ánimo de lucro que tenga una figura jurídica activa y pueda emitir estos certificados para las empresas que donarán los equipos. Por ejemplo fundaciones, cooperativas o entidades similares que sean de tu región. Conversa con ellas y cuéntales sobre tu propósito. Si deciden apoyarte, pídeles orientación en este proceso. 
     
