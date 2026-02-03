@@ -25,7 +25,9 @@ export default ((opts?: Options) => {
     }
     
     const baseDir = pathToRoot(fileData.slug!)
-    const logoSrc = joinSegments(baseDir, "static/logo.png")
+    const logoSrc = cfg.baseUrl
+      ? `https://${cfg.baseUrl}/static/logo.png`
+      : joinSegments(baseDir, "static/logo.png")
 
     return (
       <footer class={`${displayClass ?? ""}`}>

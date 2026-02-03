@@ -67,11 +67,11 @@ Puedes buscar empresas o personas que donen equipos a través de internet, redes
 
 Puedes escribir un mensaje o anuncio en redes sociales haciendo explícito que: 1. necesitas equipos donados en buen estado; 2. tienes un proyecto comunitario en el cual muchas personas estarán beneficiadas; 3. escribe el número al que pueden contactarte; 4. Deja claridad de quién eres y procura que el mensaje despierte empatía y confianza. Un ejemplo de mensaje puede ser: 
     
-> “¡Hola a todos y todas! Mi nombre es Amaranta y hago parte de la FUNDACIÓN XYZ ¿Alguien  conoce organizaciones que estén donando equipos de cómputo en buen estado? Estamos buscando apoyo para implementar un proyecto con adultos mayores en zonas rurales de Colombia. Cualquier información o contacto sería de gran ayuda. ¡Gracias! 
->
-> Mi número de contacto es **123456789** 
->    
-> Te sugerimos realizar las dos opciones al tiempo, esto ampliará las posibilidades que tienes para encontrar una empresa donante. 
+>> “¡Hola a todos y todas! Mi nombre es Amaranta y hago parte de la FUNDACIÓN XYZ ¿Alguien  conoce organizaciones que estén donando equipos de cómputo en buen estado? Estamos buscando apoyo para implementar un proyecto con adultos mayores en zonas rurales de Colombia. Cualquier información o contacto sería de gran ayuda. ¡Gracias! 
+>>
+>> Mi número de contacto es **123456789** 
+>>    
+>> Te sugerimos realizar las dos opciones al tiempo, esto ampliará las posibilidades que tienes para encontrar una empresa donante. 
     
 > 💪🏽 ***¡Ánimo!** En este momento es clave que seas persistente. Esto no tiene una fórmula mágica, es cuestión de tocar puertas y abrir caminos. En todo caso, si has leído hasta aquí es porque ya tienes la voluntad de hacerlo y eso es de admirar.* 
 

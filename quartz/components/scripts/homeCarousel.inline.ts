@@ -4,6 +4,7 @@ let swiperLoaded = false
 let lastNavigateAt = 0
 const navThrottleMs = 250
 let pointerStart: { x: number; y: number } | null = null
+let touchStart: { x: number; y: number } | null = null
 const pointerThresholdPx = 8
 let docNavAttached = false
 
@@ -65,11 +66,16 @@ function initHomeCarousel() {
     const handleCardNav = (event: Event | null) => {
       if (!event) return
       const target = event.target as HTMLElement | null
+      if (!target?.closest(".home-carousel-swiper")) return
       if (target?.closest(".home-carousel-nav")) return
+      const otherAnchor = target?.closest("a")
+      if (otherAnchor && !otherAnchor.classList.contains("home-carousel-card")) {
+        return
+      }
       let link = target?.closest("a.home-carousel-card") as HTMLAnchorElement | null
       if (!link) {
-        const slide = target?.closest(".swiper-slide") as HTMLElement | null
-        link = slide?.querySelector("a.home-carousel-card") ?? null
+        const activeSlide = swiperInstance?.slides?.[swiperInstance.activeIndex] as HTMLElement | undefined
+        link = activeSlide?.querySelector("a.home-carousel-card") ?? null
       }
       if (!link?.href) return
 
@@ -83,20 +89,33 @@ function initHomeCarousel() {
         const moved = deltaX > pointerThresholdPx || deltaY > pointerThresholdPx
         if (moved) return
       }
+      if (touchStart && event.type === "touchend") {
+        const touch = (event as TouchEvent).changedTouches?.[0]
+        if (touch) {
+          const deltaX = Math.abs(touch.clientX - touchStart.x)
+          const deltaY = Math.abs(touch.clientY - touchStart.y)
+          const moved = deltaX > pointerThresholdPx || deltaY > pointerThresholdPx
+          if (moved) return
+        }
+      }
 
       const now = Date.now()
       if (now - lastNavigateAt < navThrottleMs) return
       lastNavigateAt = now
 
-      event.preventDefault()
       const url = new URL(link.href, window.location.href)
       const sameOrigin = url.origin === window.location.origin
       const spaNavigate = (window as any).spaNavigate
+      const isClick = event.type === "click"
       if (sameOrigin && typeof spaNavigate === "function") {
+        event.preventDefault()
         spaNavigate(url)
         return
       }
-      window.location.href = url.toString()
+      if (!isClick) {
+        event.preventDefault()
+        window.location.href = url.toString()
+      }
     }
 
     if (container && !container.dataset.cardNavBound) {
@@ -109,8 +128,19 @@ function initHomeCarousel() {
         },
         true,
       )
+      container.addEventListener(
+        "touchstart",
+        (event) => {
+          const touch = (event as TouchEvent).touches?.[0]
+          if (touch) {
+            touchStart = { x: touch.clientX, y: touch.clientY }
+          }
+        },
+        true,
+      )
       container.addEventListener("click", (event) => handleCardNav(event), true)
       container.addEventListener("pointerup", (event) => handleCardNav(event), true)
+      container.addEventListener("touchend", (event) => handleCardNav(event), true)
       container.addEventListener(
         "pointercancel",
         () => {
@@ -118,28 +148,20 @@ function initHomeCarousel() {
         },
         true,
       )
+      container.addEventListener(
+        "touchcancel",
+        () => {
+          touchStart = null
+        },
+        true,
+      )
     }
 
     if (!docNavAttached) {
       docNavAttached = true
-      document.addEventListener(
-        "pointerup",
-        (event) => {
-          const target = event.target as HTMLElement | null
-          if (!target?.closest(".home-carousel-container")) return
-          handleCardNav(event)
-        },
-        true,
-      )
-      document.addEventListener(
-        "click",
-        (event) => {
-          const target = event.target as HTMLElement | null
-          if (!target?.closest(".home-carousel-container")) return
-          handleCardNav(event)
-        },
-        true,
-      )
+      document.addEventListener("click", (event) => handleCardNav(event), true)
+      document.addEventListener("pointerup", (event) => handleCardNav(event), true)
+      document.addEventListener("touchend", (event) => handleCardNav(event), true)
     }
     
     swiperInstance = new Swiper('.home-carousel-swiper', {
@@ -150,6 +172,7 @@ function initHomeCarousel() {
       speed: 600,
       threshold: 10,
       touchStartPreventDefault: false,
+      touchStartForcePreventDefault: false,
       preventClicks: false,
       preventClicksPropagation: false,
       

@@ -7,7 +7,9 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   const title = cfg?.pageTitle ?? i18n(cfg.locale).propertyDefaults.title
   const baseDir = pathToRoot(fileData.slug!)
   const homeHref = baseDir
-  const logoSrc = joinSegments(baseDir, "static/logo.png")
+  const logoSrc = cfg.baseUrl
+    ? `https://${cfg.baseUrl}/static/logo.png`
+    : joinSegments(baseDir, "static/logo.png")
   return (
     <h2 class={classNames(displayClass, "page-title")}>
       <a href={homeHref} aria-label={title}>

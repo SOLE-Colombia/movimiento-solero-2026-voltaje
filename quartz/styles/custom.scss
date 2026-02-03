@@ -49,3 +49,43 @@ body:has(.home-carousel-container) {
     }
   }
 }
+
+/* Diseño anidado para blockquotes dobles (>>)
+   para que se vean como Callouts/Tarjetas integradas */
+
+/* 1. Ocultar estilos del blockquote PADRE solo cuando tiene un hijo */
+blockquote:has(blockquote) {
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important; /* Eliminamos margen extra del padre */
+  background: transparent !important;
+  box-shadow: none !important;
+  
+  &::before {
+    display: none !important;
+  }
+}
+
+/* 2. Estilizar el blockquote HIJO como tarjeta */
+blockquote blockquote {
+  margin: 1.5rem 0 !important;
+  padding: 1rem 1.5rem !important;
+  border: 1px solid var(--secondary);
+  border-radius: 0px;
+  background-color: var(--light);
+  box-shadow: 4px 4px 0 var(--secondary);
+  
+  /* Resetear estilos heredados del blockquote padre si es necesario */
+  font-style: normal !important;
+  color: var(--dark) !important;
+  font-family: var(--bodyFont) !important;
+  
+  /* Ocultar las comillas dobles decorativas del padre si se heredan */
+  &::before {
+    content: none !important;
+  }
+
+  p {
+    margin: 0.5rem 0;
+  }
+}

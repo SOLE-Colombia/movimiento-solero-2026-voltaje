@@ -128,9 +128,11 @@ const cards: CarouselCard[] = [
 ]
 
 export default (() => {
-  const HomeCarousel: QuartzComponent = ({ displayClass, fileData }: QuartzComponentProps) => {
+  const HomeCarousel: QuartzComponent = ({ displayClass, fileData, cfg }: QuartzComponentProps) => {
     const baseDir = pathToRoot(fileData.slug!)
-    const logoSrc = joinSegments(baseDir, "static/logo.png")
+    const logoSrc = cfg.baseUrl
+      ? `https://${cfg.baseUrl}/static/logo.png`
+      : joinSegments(baseDir, "static/logo.png")
 
     return (
       <div class={`home-carousel-container ${displayClass ?? ""}`}>
