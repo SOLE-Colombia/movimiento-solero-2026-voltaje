@@ -1,13 +1,16 @@
 ---
-title: "¿Cómo saber las contraseñas WiFi de mi celular?"
+title: "¿Cómo saber las contraseñas WiFi de mi celular?"
 date: 2025-12-17
 tags:
   - "Señal"
+resumen: "Encuentra (y comparte) las contraseñas que se guardan en tu celular."
+permite:
+  - "Compartir"
 dificultad: "Complejo"
 costo: "Gratis"
 ayudantes: "Sin ayudantes"
 tarda: "Minutos"
-autor: "SOLE Colombia"
+autor: "Belén"
 draft: false
 ---
 ## **Explora la contraseñas de conexión WiFi de tu celular**

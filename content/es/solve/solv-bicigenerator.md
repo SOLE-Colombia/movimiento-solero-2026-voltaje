@@ -3,11 +3,14 @@ title: "¿Cómo generar electricidad usando una bicicleta?"
 date: 2025-12-17
 tags:
   - "Electricidad"
+resumen: "Consigue electricidad construyendo un bicigenerador."
+permite:
+  - "Conseguir"
 dificultad: "Complejo"
 costo: "> USD 50"
 ayudantes: "2-3 personas"
 tarda: "Días"
-autor: "SOLE Colombia"
+autor: "Nicolás"
 draft: false
 ---
 ## Consigue electricidad con una bicicleta.

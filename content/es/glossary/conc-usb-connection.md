@@ -1,10 +1,11 @@
 ---
-title: "Conexión USB | USD Connection"
+title: "Conexión USB"
 date: 2025-07-15
 tags:
   - "Redes y conexiones"
 autor: "Belén"
 draft: false
+resumen: "USB, que significa Bus Universal en Serie (Universal Serial Bus), es una tecnología estandarizada que permite la conexión, comunicación y suministro de energ..."
 ---
 USB, que significa Bus Universal en Serie (Universal Serial Bus), **es una tecnología estandarizada que permite la conexión, comunicación y suministro de energía entre computadoras y dispositivos electrónicos**. 
 

@@ -1,5 +1,5 @@
 ---
-title: "Dirección IP | IP Address"
+title: "Dirección IP"
 date: 2025-07-17
 tags:
   - "Seguridad e identificación"
@@ -7,6 +7,7 @@ tags:
   - "Términos del mundo virtual"
 autor: "Belén"
 draft: false
+resumen: "Una dirección IP es un identificador único asignado a cada dispositivo conectado a una red que utiliza el protocolo de Internet."
 ---
 Una dirección IP es un **identificador único asignado a cada dispositivo conectado a una red que utiliza el protocolo de Internet**. 
 

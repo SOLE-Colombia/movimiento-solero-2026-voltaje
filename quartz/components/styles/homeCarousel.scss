@@ -1,0 +1,381 @@
+@use "../../styles/variables.scss" as *;
+
+// ============ SWIPER CUSTOM STYLES ============
+// Import overrides before base styles if needed, but here we just style the swiper classes
+
+.home-carousel-swiper {
+  width: 100%;
+  max-width: 700px; // Ancho máximo para centrar mejor
+  height: 160px !important; // Altura más compacta
+  padding: 15px !important; // Espacio para sombras y efectos
+  overflow: visible !important; // Permitir que se vean sombras fuera
+  margin: 0 auto; // Centrar
+  
+  // Estabilidad: Ocultar hasta que Swiper inicialice para evitar saltos (FOUC/CLS)
+  opacity: 0;
+  transition: opacity 0.4s ease;
+  &.swiper-initialized {
+    opacity: 1;
+  }
+
+  @media #{$mobile} {
+    height: 160px !important;
+    padding: 15px 0px 15px 0px !important;
+  }
+}
+
+.home-carousel-swiper .swiper-wrapper,
+.home-carousel-swiper .swiper-slide {
+  overflow: visible !important;
+}
+
+.swiper-slide {
+  height: auto !important; // Altura automática basada en contenido
+  width: 100% !important;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.3s;
+  border-radius: 0;
+  pointer-events: auto !important;
+}
+
+// ============ INDIVIDUAL CARD ============
+.home-carousel-card {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  height: auto; // Altura basada en contenido
+  min-height: 100px; // Altura mínima para consistencia
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+  padding: 1.2rem 2.5rem; // Padding balanceado
+  background-color: var(--card-color);
+  color: var(--card-text);
+  text-decoration: none;
+  // Estilo tipo "Solutions"
+  border-radius: 0; 
+  border: 3px solid #4f4f4f;
+  box-shadow: 6px 6px 0 0 #4f4f4f;
+  box-sizing: border-box;
+  pointer-events: auto !important;
+  cursor: pointer;
+  flex-shrink: 0;
+  overflow: hidden;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 8px 8px 0 0 #4f4f4f;
+  }
+
+  @media #{$mobile} {
+    padding: 1rem 1.25rem;
+    gap: 0.8rem;
+    min-height: 150px;
+    height: 150px;
+    box-shadow: 4px 4px 0 0 #4f4f4f;
+  }
+}
+
+.home-carousel-card-icon {
+  width: 56px;
+  height: 56px;
+  flex-shrink: 0;
+  color: #F9C369; // Amarillo dorado
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  svg,
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+  }
+
+  @media #{$mobile} {
+    width: 40px;
+    height: 40px;
+  }
+}
+
+.home-carousel-card-content {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+.home-carousel-card-question {
+  font-family: var(--headerFont);
+  font-size: 1.25rem;
+  line-height: 1.3;
+  display: block;
+  font-weight: 400;
+
+  .highlight {
+    color: var(--card-accent, #F9C369); 
+    font-weight: 700;
+  }
+
+  @media #{$mobile} {
+    font-size: 1.5rem;
+    line-height: 1.2;
+  }
+
+  @media #{$tablet} {
+    font-size: 1.7rem;
+  }
+}
+
+// ============ REST OF LAYOUT ============
+.home-carousel-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--light);
+  overflow: hidden;
+  z-index: 1000;
+  font-family: var(--bodyFont);
+}
+
+.home-carousel-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 2rem;
+  position: relative;
+  z-index: 10;
+  flex-shrink: 0;
+
+  @media #{$mobile} {
+    justify-content: center;
+    padding: 0.75rem 1.5rem 0.5rem 0.5rem;
+  }
+}
+
+.home-carousel-logo {
+  height: 3.5rem;
+  width: auto;
+  
+  @media #{$mobile} {
+    height: 4.5rem;
+  }
+}
+
+.home-carousel-tagline {
+  font-family: var(--headerFont);
+  font-size: 1.2rem;
+  color: var(--dark);
+  margin: 0;
+  
+  @media #{$mobile} {
+    display: none; // Ocultar en móvil si falta espacio
+  }
+}
+
+.home-carousel-main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0 2rem;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  gap: 2rem;
+  
+  @media #{$mobile} {
+    justify-content: flex-start;
+    padding: 0.5rem 1.5rem 1rem 0;
+    gap: 1rem;
+  }
+}
+
+.home-carousel-instruction {
+  font-size: 1.1rem;
+  color: var(--darkgray);
+  margin-bottom: 0.5rem;
+  text-align: center;
+
+  @media #{$mobile} {
+    font-size: 0.95rem;
+    margin-bottom: 0.25rem;
+  }
+}
+
+.home-carousel-wrapper {
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+
+  @media #{$mobile} {
+    gap: 0.25rem;
+  }
+}
+
+// Contenedor principal de los controles y slides
+.home-carousel-center-stage {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  gap: 1rem;
+  
+  @media #{$mobile} {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+}
+
+// Navegación
+.home-carousel-nav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  min-width: 60px;
+  
+  @media #{$mobile} {
+    flex-direction: row;
+    justify-content: center;
+    order: 2; // Poner controles abajo en móvil
+    gap: 0.75rem;
+  }
+}
+
+.home-carousel-nav-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--gray);
+  padding: 5px;
+  transition: transform 0.2s, color 0.2s;
+  
+  svg {
+    width: 32px;
+    height: 32px;
+  }
+  
+  &:hover {
+    color: var(--dark);
+    transform: scale(1.1);
+  }
+}
+
+.home-carousel-counter {
+  font-family: var(--headerFont);
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: var(--gray);
+  padding: 0.5rem 0;
+}
+
+// Botones de acción inferiores
+.home-carousel-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 1rem;
+
+  @media #{$mobile} {
+    width: 100%;
+    gap: 1.75rem;
+    margin-top: 0.5rem;
+  }
+}
+
+.home-carousel-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.8rem;
+  padding: 0.8rem 2rem;
+  font-family: var(--headerFont);
+  font-size: 1.2rem;
+  text-decoration: none;
+  border-radius: 4px;
+  border: 2px solid var(--darkgray);
+  background: var(--light);
+  color: var(--dark);
+  font-weight: 700;
+  transition: all 0.2s;
+  box-shadow: 4px 4px 0 0 var(--highlight);
+  
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 6px 6px 0 0 var(--tertiary);
+    background: white;
+  }
+
+  @media #{$mobile} {
+    width: 100%;
+    justify-content: center;
+    font-size: 1.5rem;
+    padding: 0.7rem 1.2rem;
+  }
+}
+
+.home-carousel-link {
+  font-family: var(--bodyFont);
+  font-size: 0.95rem;
+  color: var(--darkgray);
+  text-decoration: underline;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  justify-content: center;
+  text-align: center;
+  
+  &:hover {
+    color: var(--secondary);
+  }
+
+  @media #{$mobile} {
+    font-size: 0.9rem;
+  }
+}
+
+.home-carousel-footer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5rem 1rem 0.75rem;
+  text-align: center;
+  font-size: 0.8rem;
+  color: var(--gray);
+  box-shadow: none;
+  text-shadow: none;
+  background: transparent;
+  
+  p {
+    max-width: 900px;
+    margin: 0;
+    padding: 0 1rem 0 0;
+  }
+
+  @media #{$mobile} {
+    font-size: 0.7rem;
+    line-height: 1.3;
+    padding: 0.5rem 2rem 0.5rem 0.5rem;
+  }
+  
+  a {
+    color: var(--secondary);
+    text-decoration: none;
+    &:hover { text-decoration: underline; }
+  }
+}

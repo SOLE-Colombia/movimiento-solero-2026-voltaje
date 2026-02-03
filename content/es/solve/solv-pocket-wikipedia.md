@@ -3,11 +3,14 @@ title: "¿Cómo tener acceso a una enciclopedia sin tener internet?"
 date: 2025-12-17
 tags:
   - "Dispositivos"
+resumen: "Instala Kiwix, una Wikipedia de bolsillo en tu RaspberryPi."
+permite:
+  - "Conseguir"
 dificultad: "Fácil"
 costo: "Gratis"
 ayudantes: "Sin ayudantes"
 tarda: "Horas"
-autor: "SOLE Colombia"
+autor: "Nicolás"
 draft: false
 ---
 

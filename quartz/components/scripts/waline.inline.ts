@@ -47,10 +47,23 @@ const initWaline = () => {
         imageUploader: false,
         search: false,
         locale: {
-          reactionTitle: '¿Te funcionó esta nota?',
+          reactionTitle: '¿Te gustaría probar esta solución?',
           placeholder: 'Deja tus inquietudes o comentarios estamos para ayudarte.',
           sofa: 'Aún no hay comentarios. ¡Cuéntanos tu experiencia!',
         },
+      })
+
+      // Redirigir a /es/answers-comments al hacer clic en "Tal vez" o "Sí"
+      target.addEventListener("click", (e) => {
+        const btn = e.target.closest(".wl-reaction-item")
+        if (btn) {
+          const allBtns = Array.from(target.querySelectorAll(".wl-reaction-item"))
+          const index = allBtns.indexOf(btn)
+          if (index === 1 || index === 2) {
+            // Index 1 = "Tal vez", Index 2 = "Sí"
+            window.open("/es/answers-comments", "_blank")
+          }
+        }
       })
     })
     .catch((err) => {

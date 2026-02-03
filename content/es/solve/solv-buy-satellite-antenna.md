@@ -3,11 +3,14 @@ title: "¿Cómo comprar una antena satelital?"
 date: 2025-12-17
 tags:
   - "Señal"
+resumen: "Escoge un servicio de internet para lugares con cero conexión."
+permite:
+  - "Conseguir"
 dificultad: "Medio"
 costo: "Gratis"
 ayudantes: "Más de 3 personas"
 tarda: "Horas"
-autor: "SOLE Colombia"
+autor: "Nicolás"
 draft: false
 ---
 ## ¿Cómo escoger un servicio de internet para lugares no interconectados?

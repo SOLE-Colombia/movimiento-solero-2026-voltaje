@@ -3,11 +3,14 @@ title: "¿Cómo mejorar la señal de tu módem?"
 date: 2025-12-17
 tags:
   - "Señal"
+resumen: "Algunos consejos para sacarle el mayor provecho a tu módem."
+permite:
+  - "Mejorar"
 dificultad: "Medio"
 costo: "Gratis"
 ayudantes: "2-3 personas"
 tarda: "Horas"
-autor: "SOLE Colombia"
+autor: "Manuela"
 draft: false
 ---
 ## **Algunos consejos para sacarle el mayor provecho al router**

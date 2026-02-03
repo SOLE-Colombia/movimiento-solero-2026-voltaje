@@ -34,6 +34,7 @@ PageTitle.css = `
   height: 6rem;
   width: auto;
   object-fit: contain;
+  margin: 0;
 }
 
 /* Responsive: Logo ajustado por breakpoints */

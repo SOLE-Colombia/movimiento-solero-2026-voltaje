@@ -3,11 +3,14 @@ title: "¿Cómo difundir un mensaje?"
 date: 2025-12-17
 tags:
   - "Personas"
+resumen: "Llega al corazón de las personas a las que mueve tu mensaje."
+permite:
+  - "Compartir"
 dificultad: "Medio"
 costo: "< USD 25"
 ayudantes: "2-3 personas"
 tarda: "Días"
-autor: "SOLE Colombia"
+autor: "Manuela"
 draft: false
 ---
 ## Llega al corazón de las personas a las que mueve tu mensaje

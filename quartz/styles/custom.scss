@@ -1,3 +1,51 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// ============ HOME PAGE FULL SCREEN CAROUSEL ============
+// Cuando el HomeCarousel está presente, ocultar el resto del contenido de la página
+body:has(.home-carousel-container) {
+  overflow: hidden;
+  
+  // Ocultar sidebars
+  .left.sidebar,
+  .right.sidebar {
+    display: none !important;
+  }
+  
+  // Ocultar el contenido normal de la página
+  .center {
+    display: block !important;
+    width: 100% !important;
+    max-width: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    
+    // Ocultar todo excepto el carrusel
+    .page-header {
+      .popover-hint > *:not(.home-carousel-container) {
+        display: none !important;
+      }
+    }
+    
+    // Ocultar el contenido del artículo
+    article {
+      display: none !important;
+    }
+    
+    // Ocultar separador y footer
+    > hr,
+    .page-footer {
+      display: none !important;
+    }
+  }
+  
+  // Ajustar el contenedor principal
+  #quartz-root.page {
+    display: block !important;
+    
+    > #quartz-body {
+      display: block !important;
+    }
+  }
+}

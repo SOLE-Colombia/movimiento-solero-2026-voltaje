@@ -1,11 +1,12 @@
 ---
-title: "Identificador SSID | SSID Identifier"
+title: "Identificador SSID"
 date: 2025-07-22
 tags:
   - "Seguridad e identificación"
   - "Redes y conexiones"
 autor: "Belén"
 draft: false
+resumen: "El SSID, o Identificador de Conjunto de Servicios, es el nombre que identifica a una red Wi-Fi."
 ---
 El SSID, o Identificador de Conjunto de Servicios, **es el nombre que identifica a una red Wi-Fi**. 
 

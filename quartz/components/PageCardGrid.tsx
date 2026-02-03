@@ -32,7 +32,7 @@ const getSection = (slug: string): string => {
 }
 
 // Secciones que no muestran imagen (solo color plano)
-const sectionsWithoutImage = ["solve", "inspire", "disconnected", "answers-comments"]
+const sectionsWithoutImage = ["solve", "inspire", "glossary", "disconnected", "answers-comments"]
 
 // Mostrar nivel de dificultad
 const renderDifficultyLabel = (dificultad: string) => {

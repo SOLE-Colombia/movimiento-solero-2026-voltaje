@@ -3,11 +3,14 @@ title: "¡Aprende a diseñar una invitación exprés sin ser un experto!"
 date: 2026-01-26
 tags:
   - "Personas"
+resumen: "Las invitaciones son clave para convocar personas."
+permite:
+  - "Mejorar"
 dificultad: "Fácil"
 costo: "Gratis"
 ayudantes: "1 persona"
 tarda: "Horas"
-autor: "SOLE Colombia"
+autor: "Manuela"
 draft: false
 ---
 

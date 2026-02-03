@@ -3,11 +3,14 @@ title: "¿Cómo instalar un servidor web en un computador de bolsillo?"
 date: 2025-12-17
 tags:
   - "Dispositivos"
+resumen: "Raspberry Pi: Una pequeña Internet de bolsillo."
+permite:
+  - "Conseguir"
 dificultad: "Complejo"
 costo: "> USD 50"
 ayudantes: "2-3 personas"
 tarda: "Horas"
-autor: "SOLE Colombia"
+autor: "Gabriel"
 draft: false
 ---
 

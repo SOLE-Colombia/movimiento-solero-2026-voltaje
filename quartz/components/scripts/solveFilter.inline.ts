@@ -42,7 +42,89 @@ const setupFilters = () => {
   
   if (filterContainers.length === 0 || cards.length === 0) return
 
+  const updateUrlParams = () => {
+    const url = new URL(window.location.href)
+    const container = filterContainers[0]
+    if (!container) return
+
+    // Categories
+    const activeCatBtns = container.querySelectorAll<HTMLButtonElement>('.category-btn.active')
+    const selectedCats = Array.from(activeCatBtns).map(btn => btn.dataset.value || "")
+    if (selectedCats.length > 0) {
+      url.searchParams.set('solve_cats', selectedCats.join(','))
+    } else {
+      url.searchParams.delete('solve_cats')
+    }
+
+    // Sliders
+    Object.keys(sliderDefaults).forEach(s => {
+      const slider = container.querySelector<HTMLInputElement>(`.${s}-slider`)
+      if (slider && slider.classList.contains('touched')) {
+        url.searchParams.set(`solve_${s}`, slider.value)
+      } else {
+        url.searchParams.delete(`solve_${s}`)
+      }
+    })
+
+    window.history.replaceState({}, '', url)
+  }
+
+  const readUrlParams = () => {
+    const url = new URL(window.location.href)
+    
+    // Reset state before reading from URL
+    filterContainers.forEach(container => {
+      container.querySelectorAll('.category-btn.active').forEach(btn => btn.classList.remove('active'))
+      Object.entries(sliderDefaults).forEach(([s, val]) => {
+        const slider = container.querySelector<HTMLInputElement>(`.${s}-slider`)
+        if (slider) {
+          slider.value = val
+          slider.classList.remove('touched')
+          updateSliderLabels(container, s, parseInt(val), false)
+        }
+      })
+    })
+    filtersActive = false
+
+    // Categories
+    const catsParam = url.searchParams.get('solve_cats')
+    if (catsParam) {
+      const cats = catsParam.split(',')
+      filterContainers.forEach(container => {
+        cats.forEach(cat => {
+          const btn = container.querySelector(`.category-btn[data-value="${cat}"]`)
+          if (btn) btn.classList.add('active')
+        })
+      })
+    }
+
+    // Sliders
+    Object.keys(sliderDefaults).forEach(s => {
+      const val = url.searchParams.get(`solve_${s}`)
+      if (val !== null) {
+        filterContainers.forEach(container => {
+          const slider = container.querySelector<HTMLInputElement>(`.${s}-slider`)
+          if (slider) {
+            slider.value = val
+            slider.classList.add('touched')
+            updateSliderLabels(container, s, parseInt(val), true)
+          }
+        })
+      }
+    })
+
+    // Activate filters if URL has params
+    for (const key of url.searchParams.keys()) {
+      if (key.startsWith('solve_')) {
+        filtersActive = true
+        break
+      }
+    }
+  }
+
   console.log(`SolveFilter: Initializing with ${cards.length} cards`)
+
+  readUrlParams()
 
   function updateAllCounts(count: number) {
     filterContainers.forEach((c) => {
@@ -165,6 +247,7 @@ const setupFilters = () => {
     })
 
     filterCards()
+    updateUrlParams()
   }
 
   function resetAllFilters() {
@@ -181,6 +264,7 @@ const setupFilters = () => {
       container.querySelectorAll('.category-btn').forEach(btn => btn.classList.remove('active'))
     })
     filterCards()
+    updateUrlParams()
   }
 
   function resetSingleSlider(sliderName: string) {
@@ -209,6 +293,7 @@ const setupFilters = () => {
     }
     
     filterCards()
+    updateUrlParams()
   }
 
   filterContainers.forEach(container => {
@@ -275,11 +360,12 @@ const setupFilters = () => {
       })
     })
     
-    // Initialize labels (all untouched/gray)
+    // Initialize labels (reflecting URL state or default)
     Object.keys(sliderDefaults).forEach(s => {
       const slider = container.querySelector<HTMLInputElement>(`.${s}-slider`)
       if (slider) {
-        updateSliderLabels(container, s, parseInt(slider.value), false)
+        const isTouched = slider.classList.contains('touched')
+        updateSliderLabels(container, s, parseInt(slider.value), isTouched)
       }
     })
   })

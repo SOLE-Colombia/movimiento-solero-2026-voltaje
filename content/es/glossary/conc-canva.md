@@ -5,6 +5,7 @@ tags:
   - "Programas y aplicaciones"
 autor: "Belén"
 draft: false
+resumen: "Canva es una plataforma de diseño gráfico en línea que permite a cualquier persona, con o sin experiencia en diseño, crear diversos tipos de diseños profesio..."
 ---
 # Plataforma de diseño gráfico.
 

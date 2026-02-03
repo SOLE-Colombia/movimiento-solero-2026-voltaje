@@ -3,11 +3,14 @@ title: "¿Cómo llegarle a las personas que más valorarán tu mensaje?"
 date: 2025-12-17
 tags:
   - "Personas"
+resumen: "Descubre quién es tu audiencia."
+permite:
+  - "Mejorar"
 dificultad: "Medio"
 costo: "Gratis"
 ayudantes: "Sin ayudantes"
 tarda: "Horas"
-autor: "SOLE Colombia"
+autor: "Manuela"
 draft: false
 ---
 ## En comunicación, la audiencia manda

@@ -1,13 +1,17 @@
 ---
-title: "¿Necesito comprar una antena 3G/4G? Cómo tomar la decisión"
+title: "¿Necesito comprar una antena 3G/4G?"
 date: 2025-12-17
 tags:
   - "Señal"
+resumen: "Descubre la antena que más te conviene."
+permite:
+  - "Conseguir"
+  - "Mejorar"
 dificultad: "Medio"
 costo: "Gasto mensual"
 ayudantes: "Sin ayudantes"
 tarda: "Horas"
-autor: "SOLE Colombia"
+autor: "Sanjay"
 draft: false
 ---
 ## Descubre la antena que más te conviene.

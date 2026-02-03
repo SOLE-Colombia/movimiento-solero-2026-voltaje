@@ -1,11 +1,12 @@
 ---
-title: "Interfaz | Interface"
+title: "Interfaz"
 date: 2025-7-22
 tags:
   - "Funcionamiento del computador"
   - "Términos del mundo virtual"
 autor: "Belén"
 draft: false
+resumen: "En términos generales, una interfaz es un punto de contacto o conexión entre dos sistemas, componentes o entidades que permite la interacción y el intercambi..."
 ---
 En términos generales, una interfaz es un **punto de contacto o conexión entre dos sistemas, componentes o entidades que permite la interacción y el intercambio de información entre ellos**. 
 

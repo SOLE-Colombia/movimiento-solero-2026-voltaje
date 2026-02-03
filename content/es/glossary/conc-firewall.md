@@ -1,11 +1,12 @@
 ---
-title: "Cortafuegos | Firewall"
+title: "Cortafuegos"
 date: 2025-07-22
 tags:
   - "Seguridad e identificación"
   - "Funcionamiento del computador"
 autor: "Belén"
 draft: false
+resumen: "Un firewall es un sistema de seguridad de red diseñado para monitorear y controlar el tráfico de red entrante y saliente, actuando como una barrera entre una..."
 ---
 Un firewall es un **sistema de seguridad de red diseñado para monitorear y controlar el tráfico de red entrante y saliente**, actuando como una barrera entre una red interna y redes externas, como Internet. 
 

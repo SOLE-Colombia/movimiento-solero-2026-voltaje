@@ -4,6 +4,11 @@ date: 2026-01-26
 tags:
   - "Dispositivos"
   - "Señal"
+resumen: "Gestiona y configura un potente router de internet inalámbrico."
+permite:
+  - "Conseguir"
+  - "Mejorar"
+  - "Compartir"
 dificultad: "Medio"
 costo: "Gratis"
 ayudantes: "2-3 personas"

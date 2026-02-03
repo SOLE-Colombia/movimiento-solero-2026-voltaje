@@ -3,11 +3,14 @@ title: "¿Cómo pedir un salón comunal o cualquier espacio comunitario?"
 date: 2025-12-17
 tags:
   - "Espacio"
+resumen: "¡Los espacios públicos son de todos!"
+permite:
+  - "Conseguir"
 dificultad: "Fácil"
 costo: "Gratis"
 ayudantes: "2-3 personas"
 tarda: "Días"
-autor: "SOLE Colombia"
+autor: "Manuela"
 draft: false
 ---
 ## Los espacios públicos también son tuyos

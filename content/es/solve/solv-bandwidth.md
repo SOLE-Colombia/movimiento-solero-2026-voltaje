@@ -3,11 +3,14 @@ title: "¿Cómo aprovechar mi ancho de banda?"
 date: 2025-12-17
 tags:
   - "Señal"
+resumen: "Prácticas que te permitirán optimizar tu conexión."
+permite:
+  - "Mejorar"
 dificultad: "Medio"
 costo: "Gratis"
 ayudantes: "2-3 personas"
 tarda: "Horas"
-autor: "SOLE Colombia"
+autor: "Manuela"
 draft: false
 ---
 ## Prácticas que te permitirán optimizar tu conexión.

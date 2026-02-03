@@ -3,11 +3,15 @@ title: "¿Cómo aliarse con lugares que convocan?"
 date: 2025-12-17
 tags:
   - "Personas"
+resumen: "Otros actores pueden hacer que tu mensaje llegue más lejos."
+permite:
+  - "Compartir"
+  - "Conseguir"
 dificultad: "Medio"
 costo: "< USD 25"
 ayudantes: "Sin ayudantes"
 tarda: "Días"
-autor: "SOLE Colombia"
+autor: "Belén"
 draft: false
 ---
 

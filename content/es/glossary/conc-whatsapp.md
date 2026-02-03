@@ -6,6 +6,7 @@ tags:
   - "Términos del mundo virtual"
 autor: "Belén"
 draft: false
+resumen: "WhatsApp es una aplicación de mensajería instantánea y llamadas, propiedad de Meta, que permite a los usuarios enviar mensajes, hacer llamadas de voz y video..."
 ---
 [WhatsApp](https://www.whatsapp.com/?lang=es_LA) es una **aplicación de mensajería instantánea y llamadas,** propiedad de Meta, que permite a los usuarios enviar mensajes, hacer llamadas de voz y video, y compartir archivos a través de internet. 
 

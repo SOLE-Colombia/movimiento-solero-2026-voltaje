@@ -4,11 +4,14 @@ date: 2025-12-17
 tags:
   - "Dispositivos"
   - "Personas"
+resumen: "Descubre lo potente que es usar el Internet en grupo."
+permite:
+  - "Compartir"
 dificultad: "Fácil"
 costo: "Gratis"
 ayudantes: "2-3 personas"
 tarda: "Horas"
-autor: "SOLE Colombia"
+autor: "Sanjay"
 draft: false
 ---
 ---

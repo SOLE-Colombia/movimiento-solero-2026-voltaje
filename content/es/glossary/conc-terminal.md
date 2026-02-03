@@ -1,10 +1,11 @@
 ---
-title: "Terminal o consola | Terminal or console"
+title: "Terminal o consola"
 date: 2025-07-17
 tags:
   - "Funcionamiento del computador"
 autor: "Belén"
 draft: false
+resumen: "En informática, una terminal o consola es un dispositivo con el que te conectas a un computador, en términos más técnicos, es una interfaz de usuario basada ..."
 ---
 En informática, una terminal o consola es un dispositivo con el que te conectas a un computador, en términos más técnicos, es una **interfaz de usuario basada en texto que permite interactuar con un sistema operativo o una aplicación**. 
 

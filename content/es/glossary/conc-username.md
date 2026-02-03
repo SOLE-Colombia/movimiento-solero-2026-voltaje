@@ -1,10 +1,11 @@
 ---
-title: "Nombre de usuario | Username"
+title: "Nombre de usuario"
 date: 2025-07-17
 tags:
   - "Seguridad e identificación"
 autor: "Belén"
 draft: false
+resumen: "Un nombre de usuario es una cadena única de caracteres que identifica a un usuario en un sistema informático, como una red social, un sitio web o una aplicac..."
 ---
 Un nombre de usuario es una **cadena única de caracteres que identifica a un usuario en un sistema informático, como una red social, un sitio web o una aplicación**. 
 

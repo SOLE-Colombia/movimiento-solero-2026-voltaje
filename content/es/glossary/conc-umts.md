@@ -1,10 +1,11 @@
 ---
-title: "UMTS (Sistema Universal de Telecomuniaciones Móviles | UMTS (Universal Mobile"
+title: "UMTS (Sistema Universal de Telecomuniaciones Móviles"
 date: 2025-08-25
 tags:
   - "Redes y conexiones"
 autor: "Belén"
 draft: false
+resumen: "UMTS (Sistema Universal de Telecomunicaciones Móviles) es una tecnología de telefonía móvil de tercera generación (3G) que proporciona acceso a internet de a..."
 ---
 UMTS (Sistema Universal de Telecomunicaciones Móviles) **es una tecnología de telefonía móvil de tercera generación (3G) que proporciona acceso a internet de alta velocidad y servicios multimedia**, sucesora del GSM (2G). 
 

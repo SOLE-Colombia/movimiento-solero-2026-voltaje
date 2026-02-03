@@ -29,7 +29,9 @@ import RandomCardGrid from "./RandomCardGrid"
 import LanguageToggle from "./LanguageToggle"
 import SolveFilterGrid from "./SolveFilterGrid"
 import SolveFilterSidebar from "./SolveFilterSidebar"
+import SolveMetaSidebar from "./SolveMetaSidebar"
 import InspireFilterSidebar from "./InspireFilterSidebar"
+import HomeCarousel from "./HomeCarousel"
 
 export {
   ArticleTitle,
@@ -63,5 +65,7 @@ export {
   LanguageToggle,
   SolveFilterGrid,
   SolveFilterSidebar,
+  SolveMetaSidebar,
   InspireFilterSidebar,
+  HomeCarousel,
 }

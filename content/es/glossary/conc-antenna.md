@@ -1,11 +1,12 @@
 ---
-title: "Antena | Antenna"
+title: "Antena"
 date: 2025-02-24
 tags:
   - "Dispositivos"
   - "Redes y conexiones"
 autor: "SOLE Colombia"
 draft: false
+resumen: "Una Antena es un dispositivo diseñado para transmitir y/o recibir ondas electromagnéticas"
 ---
 # Transmisión y recepción de ondas.
 **Una Antena es un dispositivo diseñado para transmitir y/o recibir ondas electromagnéticas**
