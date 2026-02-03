@@ -1,10 +1,11 @@
 ---
-title: "Símbolo de sistema CMD | Command Prompt CMD"
+title: "Símbolo de sistema CMD"
 date: 2025-07-17
 tags:
   - "Funcionamiento del computador"
 autor: "Belén"
 draft: false
+resumen: "En el contexto de Windows, CMD, o Símbolo del sistema, es una interfaz de línea de comandos que permite interactuar con el sistema operativo mediante comando..."
 ---
 En el contexto de Windows, CMD, o Símbolo del sistema, **es una interfaz de línea de comandos que permite interactuar con el sistema operativo mediante comandos de texto**. 
 

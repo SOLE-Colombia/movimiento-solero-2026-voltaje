@@ -1,11 +1,12 @@
 ---
-title: "Memoria RAM | RAM Memory"
+title: "Memoria RAM"
 date: 2025-02-24
 tags:
   - "Almacenamiento"
   - "Funcionamiento del computador"
 autor: "SOLE Colombia"
 draft: false
+resumen: "---"
 ---
 ---
 

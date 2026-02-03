@@ -1,11 +1,12 @@
 ---
-title: "Tarjeta SIM | SIM Card"
+title: "Tarjeta SIM"
 date: 2025-07-09
 tags:
   - "Dispositivos"
   - "Seguridad e identificación"
 autor: "Belén"
 draft: false
+resumen: "Una tarjeta SIM, o Módulo de Identificación del Abonado, es una pequeña tarjeta extraíble que se inserta en teléfonos móviles y otros dispositivos para ident..."
 ---
 Una tarjeta SIM, o Módulo de Identificación del Abonado, **es una pequeña tarjeta extraíble que se inserta en teléfonos móviles y otros dispositivos para identificarlos en una red celular y permitirles acceder a servicios como llamadas, mensajes y datos**. 
 

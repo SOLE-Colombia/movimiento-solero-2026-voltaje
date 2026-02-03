@@ -1,10 +1,11 @@
 ---
-title: "Conexión/ cable Ethernet | Ethernet cable/ connection"
+title: "Conexión"
 date: 2025-07-09
 tags:
   - "Redes y conexiones"
 autor: "Belén"
 draft: false
+resumen: "Una conexión Ethernet es una tecnología que permite conectar dispositivos electrónicos a una red local (LAN) o a una red de área amplia (WAN) mediante un cab..."
 ---
 Una conexión Ethernet es una **tecnología que permite conectar dispositivos electrónicos a una red local (LAN) o a una red de área amplia (WAN) mediante un cable.** Su función principal es la transmisión de datos entre dispositivos, ya sea para compartir información o para conectarse a internet.
 

@@ -1,10 +1,11 @@
 ---
-title: "LAN - Red local | LAN - Local Area Network"
+title: "LAN - Red local"
 date: 2025-02-24
 tags:
   - "Redes y conexiones"
 autor: "SOLE Colombia"
 draft: false
+resumen: "Una red local, o LAN (Local Area Network), es un grupo de dispositivos (como computadoras, teléfonos, impresoras, etc.) conectados entre sí en un área geográ..."
 ---
 Una red local, o LAN (Local Area Network), es un **grupo de dispositivos (como computadoras, teléfonos, impresoras, etc.) conectados entre sí en un área geográfica limitada, como una casa, una oficina o un edificio.**
 

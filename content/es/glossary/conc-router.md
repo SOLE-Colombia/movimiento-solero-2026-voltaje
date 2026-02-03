@@ -1,11 +1,12 @@
 ---
-title: "Módem, router o enrutador | Modem or router"
+title: "Módem, router o enrutador"
 date: 2025-2-24
 tags:
   - "Dispositivos"
   - "Redes y conexiones"
 autor: "SOLE Colombia"
 draft: false
+resumen: "Un Módem es un dispositivo que nos permite acceder a Internet, al servir de intérprete de las señales necesarias para conectar un computador con el proveedor..."
 ---
 Un Módem es un dispositivo que nos permite acceder a Internet, al servir de intérprete de las señales necesarias para conectar un computador con el proveedor de servicios o ISP.
 

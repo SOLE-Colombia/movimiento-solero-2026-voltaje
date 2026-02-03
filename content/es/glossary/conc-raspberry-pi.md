@@ -6,6 +6,7 @@ tags:
   - "Funcionamiento del computador"
 autor: "SOLE Colombia"
 draft: false
+resumen: "Un Raspberry Pi es un computador del tamaño de una tarjeta de crédito que puedes configurar a tus necesidades."
 ---
 ### ¿Qué es?
 

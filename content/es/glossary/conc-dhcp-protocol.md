@@ -1,10 +1,11 @@
 ---
-title: "Protocolo DHCP | DHCP Protocol"
+title: "Protocolo DHCP"
 date: 2025-07-22
 tags:
   - "Redes y conexiones"
 autor: "Belén"
 draft: false
+resumen: "DHCP, o Protocolo de Configuración Dinámica de Host, es un protocolo de red que permite a los dispositivos obtener automáticamente información de configuraci..."
 ---
 DHCP, o Protocolo de Configuración Dinámica de Host, **es un protocolo de red que permite a los dispositivos obtener automáticamente información de configuración de red, como direcciones IP, sin intervención manual del usuario o administrador de red**. 
 

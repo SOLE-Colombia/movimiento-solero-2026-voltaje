@@ -1,11 +1,12 @@
 ---
-title: "Latencia | Latency"
+title: "Latencia"
 date: 2024-02-29
 tags:
   - "Redes y conexiones"
   - "Términos del mundo virtual"
 autor: "SOLE Colombia"
 draft: false
+resumen: "La latencia es el tiempo exacto que tarda un paquete de datos en ser transmitido por una red."
 ---
 La latencia es el tiempo exacto que tarda un paquete de datos en ser transmitido por una red. 
 

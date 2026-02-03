@@ -1,11 +1,12 @@
 ---
-title: "Antena tipo Yagi | Yagi antenna"
+title: "Antena tipo Yagi"
 date: 2025-9-11
 tags:
   - "Dispositivos"
   - "Redes y conexiones"
 autor: "Belén"
 draft: false
+resumen: "Una antena Yagi es un tipo de antena direccional, conocida por su alta ganancia y capacidad para enfocar la señal en una dirección específica."
 ---
 # Focalizar la señal.
 

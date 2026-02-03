@@ -1,5 +1,5 @@
 ---
-title: "Cliente | Client"
+title: "Cliente"
 date: 2025-07-22
 tags:
   - "Funcionamiento del computador"
@@ -7,6 +7,7 @@ tags:
   - "Términos del mundo virtual"
 autor: "Belén"
 draft: false
+resumen: "En informática, un cliente es una pieza de hardware o software que accede a un servicio o recurso proporcionado por un servidor."
 ---
 # Quienes interactúan con los servidores.
 

@@ -1,10 +1,11 @@
 ---
-title: "Sistema informático (SI) | Information system (IS)"
+title: "Sistema informático (SI)"
 date: 2025-07-22
 tags:
   - "Funcionamiento del computador"
 autor: "Belén"
 draft: false
+resumen: "Entendemos por sistema informático el conjunto de elementos físicos y lógicos que se encargan de recibir, guardar y procesar datos para luego entregarlos en ..."
 ---
 Entendemos por **sistema informático** el **conjunto de elementos físicos y lógicos que se encargan de recibir, guardar y procesar datos para luego entregarlos en forma de resultados**. El esquema de un sistema informático engloba todo aquello que contiene una parte tangible (hardware) y otra lógica (software).
 

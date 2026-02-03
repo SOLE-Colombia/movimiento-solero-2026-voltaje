@@ -1,11 +1,12 @@
 ---
-title: "Nombre de dominio | Domain name"
+title: "Nombre de dominio"
 date: 2025-02-17
 tags:
   - "Términos del mundo virtual"
   - "Seguridad e identificación"
 autor: "Belén"
 draft: false
+resumen: "Un nombre de dominio es una dirección única y fácil de recordar que se utiliza para acceder a un sitio web o a un servicio en internet."
 ---
 Un nombre de dominio es una **dirección única y fácil de recordar que se utiliza para acceder a un sitio web o a un servicio en internet**. 
 

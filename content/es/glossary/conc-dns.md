@@ -1,11 +1,12 @@
 ---
-title: "DNS - Sistema de Nombres de Dominio | DNS - Domain Name System"
+title: "DNS - Sistema de Nombres de Dominio"
 date: 2025-02-24
 tags:
   - "Redes y conexiones"
   - "Términos del mundo virtual"
 autor: "SOLE Colombia"
 draft: false
+resumen: "Antes que nada, recordemos que los computadores entienden mejor números que textos."
 ---
 Antes que nada, recordemos que los computadores entienden mejor números que textos. 
 

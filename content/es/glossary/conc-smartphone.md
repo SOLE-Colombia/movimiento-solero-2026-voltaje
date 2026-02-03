@@ -1,10 +1,11 @@
 ---
-title: "Teléfono móvil inteligente | Smartphone"
+title: "Teléfono móvil inteligente"
 date: 2025-07-09
 tags:
   - "Dispositivos"
 autor: "Belén"
 draft: false
+resumen: "Un teléfono móvil, también conocido como celular, es un dispositivo electrónico portátil que permite realizar y recibir llamadas telefónicas a través de una ..."
 ---
 Un teléfono móvil, también conocido como celular, es un **dispositivo electrónico portátil que permite realizar y recibir llamadas telefónicas a través de una conexión inalámbrica, utilizando una red de comunicaciones móviles**. 
 

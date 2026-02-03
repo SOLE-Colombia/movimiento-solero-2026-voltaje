@@ -1,11 +1,12 @@
 ---
-title: "Código IMEI | IMEI Code"
+title: "Código IMEI"
 date: 2025-07-30
 tags:
   - "Seguridad e identificación"
   - "Términos del mundo virtual"
 autor: "Belén"
 draft: false
+resumen: "El IMEI es un código único de 15 dígitos que identifica a cada teléfono móvil a nivel mundial. Significa \"International Mobile Equipment Identity\" y sirve pa..."
 ---
 El IMEI es un **código único de 15 dígitos que identifica a cada teléfono móvil a nivel mundial**. Significa "International Mobile Equipment Identity" y sirve para identificar un dispositivo específico, como un DNI para celulares, permitiendo que las operadoras puedan distinguirlo en sus redes. (Fuente: [BBVA](https://www.bbva.com/es/codigo-imei-usarlo-cualquier-telefono-movil/#:~:text=Cualquier))
 

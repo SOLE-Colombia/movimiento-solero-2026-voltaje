@@ -1,10 +1,11 @@
 ---
-title: "Sistema operativo (SO) | Operating system (OS)"
+title: "Sistema operativo (SO)"
 date: 2025-07-17
 tags:
   - "Funcionamiento del computador"
 autor: "Belén"
 draft: false
+resumen: "Un sistema operativo (SO) es un software fundamental que actúa como intermediario entre el hardware de un dispositivo (como una computadora o teléfono) y las..."
 ---
 Un sistema operativo (SO) **es un software fundamental que actúa como intermediario entre el hardware de un dispositivo (como una computadora o teléfono) y las aplicaciones que utilizas**. 
 
