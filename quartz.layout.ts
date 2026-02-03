@@ -170,10 +170,6 @@ export const defaultContentPageLayout: PageLayout = {
     }),
   ],
   right: [
-    Component.ConditionalRender({
-      component: Component.DownloadButton(),
-      condition: (page) => isSolveSinglePage(page),
-    }),
     // Módulo de gráfico desactivado sin eliminar el código.
     // Component.Graph(),
     // Metadata de soluciones en sidebar derecho

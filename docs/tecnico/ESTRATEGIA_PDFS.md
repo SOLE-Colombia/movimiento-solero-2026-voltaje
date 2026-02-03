@@ -42,20 +42,73 @@ Usuario descarga PDF generado
 
 ### **Opción 1: Generación Client-Side (Recomendado para Quartz)**
 
-#### Tecnología: jsPDF + html2canvas
+#### Tecnología A: `html2pdf.js` (CDN + plantilla personalizada)
 
 **Ventajas:**
 - ✅ Sin servidor necesario
 - ✅ Funciona en sitio estático (GitHub Pages)
 - ✅ Sin costos adicionales
 - ✅ PDFs siempre actualizados con contenido web
+- ✅ Permite plantilla y branding propios
 
 **Desventajas:**
 - ⚠️ Calidad media (rendering del navegador)
 - ⚠️ Estilos pueden variar
 - ⚠️ Procesa en el navegador del usuario
 
-#### Implementación en Quartz:
+#### Implementación en Quartz (CDN + plantilla)
+
+**Archivos clave:**
+- `quartz/components/scripts/download.inline.ts` (carga CDN + genera PDF)
+- `quartz/components/styles/download.scss` (estilos de la plantilla PDF)
+- `quartz/layout.ts` (decide dónde aparece el botón)
+- `quartz/static/` (assets del PDF: logo, portada, iconos)
+
+**Flujo recomendado:**
+1. **Sube assets** para el PDF dentro de `quartz/static/`.
+   - Ejemplo: `quartz/static/pdf/logo-pdf.png`
+   - Se accede como `/static/pdf/logo-pdf.png`
+2. **Genera la plantilla** dentro del contenedor temporal `pdf-export-root`.
+   - Header con logo + título + resumen + fecha + URL
+   - Cuerpo con el contenido del artículo
+   - Footer con branding
+3. **Carga `html2pdf.js` desde CDN** solo al hacer clic (no pesa el build).
+4. **Descarga el PDF** usando el navegador del usuario.
+5. **Fallback** a `window.print()` si falla la carga del CDN.
+
+**Notas importantes (GitHub Pages):**
+- Usa assets **locales** (`/static/...`) para evitar problemas de CORS.
+- Si usas imágenes externas, deben permitir `cross-origin` o pueden no aparecer.
+- Ad blockers pueden bloquear CDNs: tener fallback a impresión ayuda.
+
+**Snippet base (referencia):**
+```ts
+// download.inline.ts (extracto)
+const HTML2PDF_CDN = "https://cdn.jsdelivr.net/npm/html2pdf.js@0.10.1/dist/html2pdf.bundle.min.js"
+
+// carga dinámica solo cuando el usuario hace clic
+const html2pdf = await loadHtml2Pdf()
+await html2pdf()
+  .set({
+    filename: "nota.pdf",
+    html2canvas: { scale: 2, useCORS: true, backgroundColor: "#ffffff" },
+    jsPDF: { unit: "mm", format: "a4", orientation: "portrait" },
+  })
+  .from(root)
+  .save()
+```
+
+**Personalización visual:**
+Edita estos estilos:
+- `.pdf-header`, `.pdf-title`, `.pdf-summary`, `.pdf-footer`
+en `quartz/components/styles/download.scss`.
+
+**Para activar el botón:**
+En `quartz.layout.ts` agrega el componente `DownloadButton()` en el layout deseado.
+
+---
+
+#### Tecnología B: jsPDF + html2canvas
 
 ```typescript
 // quartz/components/PDFDownload.tsx
@@ -126,6 +179,17 @@ async function generatePDF() {
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
 ```
+
+---
+
+### ⚙️ Plantillas PDF (recomendación práctica)
+
+Para lograr PDFs con identidad visual:
+1. Define una plantilla HTML dentro del contenedor `pdf-export-root`.
+2. Usa assets locales en `quartz/static/`.
+3. Estiliza con CSS en `quartz/components/styles/download.scss`.
+
+Esto permite portadas, bloques de color, tipografía propia, y un pie de página fijo.
 
 ---
 

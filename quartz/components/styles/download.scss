@@ -30,6 +30,11 @@
   }
 }
 
+.download-button.is-loading {
+  opacity: 0.7;
+  cursor: progress;
+}
+
 .download-button svg {
   width: 18px;
   height: 18px;
@@ -47,5 +52,93 @@
 
 .page-header .download-button {
   margin: 0.5rem 0 1rem;
+}
+
+.pdf-export-root {
+  position: fixed;
+  left: -10000px;
+  top: 0;
+  width: 210mm;
+  padding: 12mm;
+  background: #fff;
+  color: #000;
+  box-sizing: border-box;
+
+  .pdf-template {
+    font-family: "Roboto Mono", var(--bodyFont);
+    color: #111;
+  }
+
+  .pdf-header {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+    padding-bottom: 0.75rem;
+    border-bottom: 2px solid #1a84ae;
+    margin-bottom: 1.25rem;
+  }
+
+  .pdf-branding {
+    flex-shrink: 0;
+  }
+
+  .pdf-logo {
+    height: 48px;
+    width: auto;
+    object-fit: contain;
+  }
+
+  .pdf-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+
+  .pdf-title {
+    margin: 0;
+    font-size: 24px;
+    line-height: 1.2;
+    color: #1a84ae;
+    font-weight: 700;
+  }
+
+  .pdf-summary {
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #333;
+  }
+
+  .pdf-info {
+    margin: 0;
+    font-size: 12px;
+    color: #555;
+    word-break: break-word;
+  }
+
+  .pdf-content {
+    font-size: 12pt;
+    line-height: 1.6;
+    color: #111;
+  }
+
+  .pdf-content h2,
+  .pdf-content h3,
+  .pdf-content h4 {
+    color: #1a84ae;
+  }
+
+  .pdf-content a {
+    color: #1a84ae;
+    text-decoration: underline;
+  }
+
+  .pdf-footer {
+    margin-top: 1.5rem;
+    padding-top: 0.75rem;
+    border-top: 1px solid #e5e5e5;
+    font-size: 11px;
+    color: #555;
+  }
 }
 
