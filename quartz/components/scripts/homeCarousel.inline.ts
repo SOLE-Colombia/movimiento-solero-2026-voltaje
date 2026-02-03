@@ -3,6 +3,9 @@ let swiperInstance: any = null
 let swiperLoaded = false
 let lastNavigateAt = 0
 const navThrottleMs = 250
+let pointerStart: { x: number; y: number } | null = null
+const pointerThresholdPx = 8
+let docNavAttached = false
 
 // Cargar Swiper dinámicamente
 async function loadSwiper(): Promise<any> {
@@ -62,15 +65,23 @@ function initHomeCarousel() {
     const handleCardNav = (event: Event | null) => {
       if (!event) return
       const target = event.target as HTMLElement | null
-      const link = target?.closest("a.home-carousel-card") as HTMLAnchorElement | null
+      if (target?.closest(".home-carousel-nav")) return
+      let link = target?.closest("a.home-carousel-card") as HTMLAnchorElement | null
+      if (!link) {
+        const slide = target?.closest(".swiper-slide") as HTMLElement | null
+        link = slide?.querySelector("a.home-carousel-card") ?? null
+      }
       if (!link?.href) return
 
       const mouseEvent = event as MouseEvent
       if (mouseEvent.metaKey || mouseEvent.ctrlKey || mouseEvent.shiftKey || mouseEvent.altKey || mouseEvent.button === 1) {
         return
       }
-      if (swiperInstance && swiperInstance.allowClick === false) {
-        return
+      if (pointerStart && event.type === "pointerup") {
+        const deltaX = Math.abs((event as PointerEvent).clientX - pointerStart.x)
+        const deltaY = Math.abs((event as PointerEvent).clientY - pointerStart.y)
+        const moved = deltaX > pointerThresholdPx || deltaY > pointerThresholdPx
+        if (moved) return
       }
 
       const now = Date.now()
@@ -90,8 +101,45 @@ function initHomeCarousel() {
 
     if (container && !container.dataset.cardNavBound) {
       container.dataset.cardNavBound = "true"
+      container.addEventListener(
+        "pointerdown",
+        (event) => {
+          const e = event as PointerEvent
+          pointerStart = { x: e.clientX, y: e.clientY }
+        },
+        true,
+      )
       container.addEventListener("click", (event) => handleCardNav(event), true)
       container.addEventListener("pointerup", (event) => handleCardNav(event), true)
+      container.addEventListener(
+        "pointercancel",
+        () => {
+          pointerStart = null
+        },
+        true,
+      )
+    }
+
+    if (!docNavAttached) {
+      docNavAttached = true
+      document.addEventListener(
+        "pointerup",
+        (event) => {
+          const target = event.target as HTMLElement | null
+          if (!target?.closest(".home-carousel-container")) return
+          handleCardNav(event)
+        },
+        true,
+      )
+      document.addEventListener(
+        "click",
+        (event) => {
+          const target = event.target as HTMLElement | null
+          if (!target?.closest(".home-carousel-container")) return
+          handleCardNav(event)
+        },
+        true,
+      )
     }
     
     swiperInstance = new Swiper('.home-carousel-swiper', {
@@ -100,6 +148,8 @@ function initHomeCarousel() {
       grabCursor: true,
       loop: true,
       speed: 600,
+      threshold: 10,
+      touchStartPreventDefault: false,
       preventClicks: false,
       preventClicksPropagation: false,
       

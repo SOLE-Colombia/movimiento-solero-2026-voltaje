@@ -12,6 +12,7 @@ interface CarouselCard {
   color: string
   textColor: string
   icon: string // Icon filename (static/icons-home)
+  accentColor?: string // Optional highlight/link color
   link: string
 }
 
@@ -158,7 +159,7 @@ export default (() => {
                         href={card.link.startsWith("http") ? card.link : joinSegments(baseDir, card.link)}
                         class="home-carousel-card"
                         data-color={card.color}
-                        style={`--card-color: ${card.color}; --card-text: ${card.textColor};`}
+                        style={`--card-color: ${card.color}; --card-text: ${card.textColor}; --card-accent: ${card.accentColor ?? "#F9C369"};`}
                       >
                         <div class="home-carousel-card-icon">
                           <img
