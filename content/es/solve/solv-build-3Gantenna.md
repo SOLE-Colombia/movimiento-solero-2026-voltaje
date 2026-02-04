@@ -1,6 +1,6 @@
 ---
 title: "Construye una antena 3G casera"
-date: 2025-12-17
+date: 2026-03-02
 tags:
   - "Señal"
 resumen: "Captura señal con una antena hecha en casa."
@@ -11,7 +11,7 @@ dificultad: "Medio"
 costo: "< USD 25"
 ayudantes: "1 persona"
 tarda: "Horas"
-autor: "Nicolás"
+autor: "SOLE Colombia"
 draft: false
 ---
 
@@ -136,7 +136,7 @@ El dipolo es un elemento doblado en forma de “C”. Su largo total debe ser de
 > ### Paso 5 → Ensamblando la antena
 
 
-Ya vamos llegando a la mitad del proceso ¡No te desanimes falta muy poco! ****Ahora es momento de hacer el montaje de los elementos sobre la canaleta. Esta puede ser reemplazada por madera o algún otro material que haya a la mano, mientras que este no conduzca electricidad.
+Ya vamos llegando a la mitad del proceso ¡No te desanimes falta muy poco! Ahora es momento de hacer el montaje de los elementos sobre la canaleta. Esta puede ser reemplazada por madera o algún otro material que haya a la mano, mientras que este no conduzca electricidad.
 
 ![Canaleta](assets/images/solv-build-3Gantenna/solv-build-3Gantenna-assemble.webp)
 
@@ -226,6 +226,8 @@ El proceso de direccionamiento de la antena debe ser realizado lenta y cuidadosa
 ![Direccionamiento](assets/images/solv-build-3Gantenna/solv-build-3Gantenna-ready.webp)
 
 Ahora, se puede proceder a asegurar el poste en esta posición y ¡listo! ¡A navegar!
+
+<br>
     
 **Recomendaciones de puntos de posible dificultad**
 
@@ -243,7 +245,7 @@ ___
 
 ## ¿Qué puedes lograr con esta solución?
 
-Esta solución puede funcionar para **mejorar las condiciones de conectividad temporalmente.** La antena servirá como un amplificador de la emisión y recepción de onda de tus dispositivos.
+Esta solución puede funcionar para **mejorar las condiciones de tu conectividad temporalmente.** La antena servirá como un amplificador de la emisión y recepción de onda de tus dispositivos.
 
 Sabiendo esto, ¿hasta dónde te gustaría llegar a ti? ¿Es ésta una solución que podrías hacer en donde vives? ¡Esperamos que te haya sido útil! Y si así fue, **compártela con otras personas** a quienes sepas que les podría servir.
 
@@ -253,14 +255,14 @@ ___
 
 ## Soluciones relacionadas
 
-- Si esta antena no es suficiente, puedes convocar a tu comunidad para comprar una antena comunitaria. Esta solución puede servirte para tomar la decisión: [¿Necesito comprar una antena 3G/4G? →](es/solve/solv-need-3Gantenna.md) 
+- Si esta antena no es suficiente, puedes convocar a tu comunidad para comprar una antena 3G/4G comunitaria. Esta solución puede servirte para tomar la decisión: [¿Necesito comprar una antena 3G/4G? →](es/solve/solv-need-3Gantenna.md) 
 - Para amplificar la señal de tu celular también pueden probar esta solución: [¿Cómo mejorar mi señal con una lata? →](es/solve/solv-improve-signal-can.md) 
-- [¿Tu comunidad necesita apoyo económico para conectarse a Internet? →](es/solve/solv-financial-support-connect.md) 
-- [¿Cómo saber qué tipo de señal de Internet tienes? →](es/solve/como-saber-que-tipo-de-senal-de-internet-tienes-solutions-db)
+- Además de antenas, hay otras alternativas para conseguir internet: [¿Tu comunidad necesita apoyo económico para conectarse a Internet? →](es/solve/solv-financial-support-connect.md) 
+- Identificar el tipo de señal tienes puede ayudarte a saber si esta antena casera puede servirte: [¿Cómo saber qué tipo de señal de Internet tienes? →](es/solve/como-saber-que-tipo-de-senal-de-internet-tienes-solutions-db)
 
 ___
 
 ## 8. Referencias
 
-- [Youtube](https://www.youtube.com/embed/bHWrRG_kdn8)
+- Video de YouTube: [Amplificador de señal LTE 4G portátil de 1800 MHz casero →](https://www.youtube.com/embed/bHWrRG_kdn8)
    

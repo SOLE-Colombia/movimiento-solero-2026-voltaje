@@ -109,7 +109,7 @@ Te invitamos a buscar la historia de Alex Cortés, un ingeniero que fundó [Fund
 
 <br>
     
-> ### Paso 3 → Recepción de los equipos y construcción de relación
+> ### Paso 3 → Recepción de los equipos y construcción de la relación
 
 ![Recepción de equipos donados](assets/images/solv-donatedequipment/solv-donatedequipment-recieve.webp)
 
@@ -127,13 +127,19 @@ La entrega de los equipos puede ser un envío, puede que tengas que recogerlos o
 
 - **Opción 1: Regalo de equipo**
 
-Para esta opción, no suele necesitarse papeleo para formalizar la recepción; sin embargo, es posible que quienes regalan los equipos quieran construir una relación a corto y mediano plazo, saber cómo usarás los equipos y para qué. Si no es así, hazlo explícito y manten una buena relación con ellos. Cuando se regalan los equipos, usualmente el papeleo no es necesario, no obstante, desde la Fundación SOLE Colombia, por ejemplo, realizamos una carta con agradecimientos y firmas entre las partes corroborando la entrega de los equipos, su estado y el buen uso que le daremos. 
+En esta modalidad no suele requerirse papeleo para formalizar la entrega. Sin embargo, es probable que los donantes busquen entablar una relación a corto o mediano plazo para conocer el destino y uso de los equipos. Si este es tu caso, te sugerimos hacerlo explícito y mantener una comunicación cordial con ellos.
+
+> *Por ejemplo, aunque no es obligatorio, en la **Fundación SOLE Colombia,** solemos formalizar el proceso mediante una carta de agradecimiento firmada por ambas partes, donde se corrobora la entrega, el estado de los equipos y nuestro compromiso de darles un buen uso.*
 
 <br>
 
 - **Opción 2: Donación de equipos**
 
-Para la entrega haz una solicitud de donación explicando tus intereses, condiciones y la cooperación que construirás.  ¿Cuántos equipos necesitas? ¿En qué estado están los equipos que vas a recibir? ¿Qué necesita la empresa donante de ti? ¿Para qué usarás los equipos? ¿Quiénes serán las personas y comunidades beneficiadas? Para esta opción, sugerimos que, al igual que en la opción 1, contemples la posibilidad de construir un vínculo con la empresa donante. En la Fundación SOLE Colombia usualmente enviamos a las empresas donantes fotografías que agradecen y evidencian el uso comunitario de los equipos, con lo que procuramos abrir la posibilidades de futuras donaciones. 
+Para la entrega haz una solicitud de donación explicando tus intereses, condiciones y la cooperación que construirás.
+
+¿Cuántos equipos necesitas? ¿En qué estado están los equipos que vas a recibir? ¿Qué necesita la empresa donante de ti? ¿Para qué usarás los equipos? ¿Quiénes serán las personas y comunidades beneficiadas? Para esta opción, sugerimos que, al igual que en la opción 1, contemples la posibilidad de construir un vínculo con la empresa donante.
+
+> *En **SOLE Colombia** usualmente enviamos a las empresas donantes fotografías que agradecen y evidencian el uso comunitario de los equipos, con lo que procuramos abrir la posibilidades de futuras donaciones.*
 
 <br>
 
@@ -149,17 +155,29 @@ ___
 
 Cuando recibes equipos que otros no utilizan, has probado que esta solución funciona. También habrás creado una relación con alguien, eso es bonito y potente. Alguien que ha sintonizado con tu propósito y quiere echarte una mano. 
 
+A medida que crees nuevas relaciones te irás sintiendo cada vez más seguro o segura para encontrar posibles donantes. Ahora que cuentas con equipos, ¿te animarías a hacer otra solución? Navega por más [soluciones de Voltaje →](https://sole-colombia.github.io/voltaje/es/solve)
+
 ___
 
-## ¿Por qué podría funcionar esta solución?
+## ¿Qué puedes lograr con esta solución?
 
-Quizá esta relación sea de largo alcance, ¿te imaginas que cada año te puede donar unos cuantos computadores? ¿qué harías entonces con todos esos equipos? Pensar en cómo tú puedes extender esa cobija a otros, es una manera de hacer este mundo un lugar más justo. Si quieres saber qué hacemos en SOLE Colombia con los computadores que nos donan, echa un vistazo a [www.solecolombia.org](http://www.solecolombia.org) 
+Cuando cultivas la relación con tus donantes, es posible que te puedan hacer donaciones más de una vez, ¿te imaginas que cada año te donaran unos cuantos computadores? ¿Qué harías entonces con todos esos equipos?
 
-## Soluciones recomendadas
+> *Si quieres saber qué hacemos en SOLE Colombia con los computadores que nos donan, echa un vistazo en [www.solecolombia.org](http://www.solecolombia.org)*
+
+Pensar en cómo puedes extender este beneficio a otros, es una manera de hacer de este mundo un lugar más justo. ¿Te gustaría intentarlo en tu comunidad? ¿Te fue útil esta solución? ¡Esperamos que te sí! Y si así fue, **compártela con otras personas** a quienes sepas que les podría servir.
+
+¡Hasta pronto! 👋🏽
+
+___
+
+## Soluciones relacionadas
 
 - [¿Cómo compartir los computadores disponibles?](es/solve/como-compartir-los-computadores-disponibles-solutions-db) 
 - [¿Cómo usar el juego para aprender a cuidar equipos en comunidad?](es/solve/como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-solutions-db) 
 - [¿Tu comunidad necesita apoyo económico para conectarse a Internet? ](es/solve/tu-comunidad-necesita-apoyo-economico-para-conectarse-a-internet-solutions-db)  
+
+___
 
 ### Sugerencias
 
