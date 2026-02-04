@@ -22,7 +22,6 @@ Hola, soy Sanjay y aunque no soy un experto en temas de conectividad, he aprendi
 ![Video que describe la experiencia de SOLE con el Big Box de Jangala](https://www.youtube.com/embed/Fox3N4QHVN4) 
 _Video ideado, creado y producido por SOLE Colombia, 2024_
 
-
 ## ¿Qué es gestionar un BigBox de Jangala?
 
 En esta solución, vas a poder contactar a una organización en Inglaterra que ofrece un módem portátil muy potente, llamado Big Box, que permite que **hasta 100 personas se conecten a internet al mismo tiempo.**
@@ -53,6 +52,8 @@ Esta solución te servirá para aprender a gestionar este potente módem con la 
 
 Si eres una comunidad de bajos recursos, o en zonas remotas, puedes ser considerado para recibir uno de sus equipos sin costo y de por vida. 
 
+___
+
 ## ¿Qué necesitas?
 
 - Una conexión a internet y un computador (puedes usar un celular también)
@@ -60,6 +61,8 @@ Si eres una comunidad de bajos recursos, o en zonas remotas, puedes ser consider
 - Confianza en tu capacidad de gestión
 - Condiciones de exclusión digital; Jangala estimará si son aptos para ser receptores un Big Box.
 - ¡Entusiasmo!
+
+___
 
 ## ¿Cómo hacerlo?
 
@@ -150,7 +153,7 @@ ___
 
 ## ¿Qué puedes lograr con esta solución?
 
-El Jangala Big Box es una oportunidad de conseguir conectividad gratuita o a muy bajo costo para toda una comunidad. Por ejemplo, una escuela o un campamento de refugiados. ¡Imagina las posibilidades de que tendrían de aprendizaje si usan el internet juntos!
+El Jangala Big Box es una oportunidad para conseguir conectividad gratuita o a muy bajo costo para toda una comunidad. Por ejemplo, una escuela o un campamento de refugiados. ¡Imagina las posibilidades que tendrían de aprendizaje si usan el internet juntos!
 
 > ⚠️⚠️ *Eso sí, ten en cuenta que el Jangala Big Box no resolverá la conectividad si no hay señal de Internet (por cable, móvil o satelital) en la zona.*
 

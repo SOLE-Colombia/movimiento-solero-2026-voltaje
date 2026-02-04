@@ -103,7 +103,7 @@ Ahora bien, para el caso de las empresas que donan es un modelo diferente en el 
 
 **¿Quién y cómo se emite este certificado para las empresas que quieren donar?** Para conseguir un aliado piensa en una entidad sin ánimo de lucro que tenga una figura jurídica activa y pueda emitir estos certificados para las empresas que donarán los equipos. Por ejemplo fundaciones, cooperativas o entidades similares que sean de tu región. Conversa con ellas y cuéntales sobre tu propósito. Si deciden apoyarte, pídeles orientación en este proceso. 
 
-Te invitamos a buscar la historia de Alex Cortés, un ingeniero que fundó [Fundación Click](https://www.fundacionclick.org/) con el objetivo de darle una segunda vida a computadores que muchas personas, organizaciones o empresas ya no necesitan; decide repararlos, hacerles mantenimientos y regalarlos o donarlosa quienes más lo necesitan. Si quieres saber más de su historia, te invitamos a buscar sobre él, su fundación y su historia.
+Te invitamos a buscar la historia de Alex Cortés, un ingeniero que fundó [Fundación Click →](https://www.fundacionclick.org/) con el objetivo de darle una segunda vida a computadores que muchas personas, organizaciones o empresas ya no necesitan; decide repararlos, hacerles mantenimientos y regalarlos o donarlosa quienes más lo necesitan. Si quieres saber más de su historia, te invitamos a buscar sobre él, su fundación y su historia.
 
 > ⚠️⚠️ ***Importante:** debes dejar claridad acerca de cómo será el uso de los equipos, ya que legalmente los equipos pertenecerán al aliado que conseguiste. No olvides revisar que los equipos que te entreguen sean funcionales. No queremos que termines almacenando basura tecnológica que tendrás que reparar.*
 
@@ -173,13 +173,13 @@ ___
 
 ## Soluciones relacionadas
 
-- [¿Cómo compartir los computadores disponibles?](es/solve/como-compartir-los-computadores-disponibles-solutions-db) 
-- [¿Cómo usar el juego para aprender a cuidar equipos en comunidad?](es/solve/como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-solutions-db) 
-- [¿Tu comunidad necesita apoyo económico para conectarse a Internet? ](es/solve/tu-comunidad-necesita-apoyo-economico-para-conectarse-a-internet-solutions-db)  
+- Tener computadores comunitario trae consigo nuevos retos: [¿Cómo compartir los computadores disponibles? →](es/solve/solv-share-computers.md) 
+- Las herramientas lúdicas pueden contribuir a llegar más fácilmente a acuerdos sobre el uso de equipos comunitarios: [¿Cómo usar el juego para aprender a cuidar equipos en comunidad? →](es/solve/solv-fish-game.md) 
+- Una vez tienen equipos, pueden pasar a resolver un segundo asunto: conexión para usar con los equipos conseguido. Consulta esta solución para conocer formas de conectarse a internet: [¿Tu comunidad necesita apoyo económico para conectarse a Internet? →](es/solve/tu-comunidad-necesita-apoyo-economico-para-conectarse-a-internet-solutions-db)  
 
 ___
 
-### Sugerencias
+### Referencias
 
-- Si quieres saber más, haz clic [aquí](https://www.eltiempo.com/archivo/documento/CMS-16524282) para que puedas leer la nota de prensa que hizo el periódico El Tiempo en el 2016.
-- [Donacion de computadores para desarrollo de proyectos sociales/](https://www.gestionandote.org/donacion-de-computadores-para-desarrollo-de-proyectos-sociales/)
+- Nota de prensa del diario El Tiempo (2016): [Estos ingenieros les dan un nuevo uso a los computadores 'basura' →](https://www.eltiempo.com/archivo/documento/CMS-16524282) para que puedas leer la nota de prensa que hizo el periódico El Tiempo en el 2016.
+- Artículo informativo: [Donacion de computadores para desarrollo de proyectos sociales →](https://www.gestionandote.org/donacion-de-computadores-para-desarrollo-de-proyectos-sociales/)
