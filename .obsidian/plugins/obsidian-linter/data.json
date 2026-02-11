@@ -1,0 +1,87 @@
+{
+  "lintOnSave": true,
+  "recordLintOnSaveLogs": false,
+  "displayChanged": true,
+  "lintOnFileChange": false,
+  "displayLintOnFileChangeNotice": false,
+  "settingsConvertedToConfigKeyValues": true,
+  "foldersToIgnore": [
+    "_staging"
+  ],
+  "filesToIgnore": [],
+  "linterLocale": "system-default",
+  "logLevel": "ERROR",
+  "lintCommands": [],
+  "customRegexes": [],
+  "ruleConfigs": {
+    "yaml-title": {
+      "enabled": true,
+      "titleKey": "title",
+      "mode": "first-h1-or-filename-if-h1-missing"
+    },
+    "yaml-timestamp": {
+      "enabled": true,
+      "dateCreated": true,
+      "dateCreatedKey": "date",
+      "dateCreatedSourceOfTruth": "frontmatter",
+      "dateModified": false,
+      "dateModifiedKey": "date modified",
+      "dateModifiedSourceOfTruth": "user or Linter edits",
+      "format": "YYYY-MM-DD",
+      "convertToUTC": false,
+      "timestampUpdateOnFileContentUpdated": "never"
+    },
+    "format-tags-in-yaml": {
+      "enabled": true
+    },
+    "format-yaml-array": {
+      "enabled": true,
+      "formatAliasKey": true,
+      "aliasArrayStyle": "single-line",
+      "formatTagKey": true,
+      "tagArrayStyle": "multi-line",
+      "formatArrayKeys": true,
+      "defaultArrayStyle": "multi-line",
+      "forceSingleLineArrayStyle": [],
+      "forceMultiLineArrayStyle": [
+        "tags"
+      ]
+    },
+    "yaml-key-sort": {
+      "enabled": true,
+      "priorityKeysAtStartOfYaml": true,
+      "yamlKeyPrioritySortOrder": [
+        "title",
+        "tags",
+        "date",
+        "lang",
+        "draft",
+        "description",
+        "resumen",
+        "autor",
+        "type",
+        "icon",
+        "cardImage"
+      ],
+      "yamlSortOrderForOtherKeys": "None"
+    },
+    "insert-yaml-attributes": {
+      "enabled": true,
+      "textToInsert": [
+        "draft: false",
+        "lang: es",
+        "tags: []"
+      ]
+    },
+    "line-break-at-document-end": {
+      "enabled": true
+    },
+    "trailing-spaces": {
+      "enabled": true,
+      "twoSpaceLineBreak": false
+    },
+    "consecutive-blank-lines": {
+      "enabled": true
+    }
+  }
+}

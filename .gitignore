@@ -71,7 +71,23 @@ GIT-DOCKER.md
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/graph.json
-.obsidian/appearance.json
 .obsidian/plugins/
 # Si quieres compartir plugins y configuración de temas con el equipo, 
 # NO ignores .obsidian/ totalmente, solo los archivos de arriba.
+
+# Vault compartido para el equipo (solo usado en esta rama: feat-ajuste-de-informacion)
+!.obsidian/
+!.obsidian/app.json
+!.obsidian/appearance.json
+!.obsidian/core-plugins.json
+!.obsidian/community-plugins.json
+!.obsidian/templates.json
+!.obsidian/snippets/
+!.obsidian/snippets/**
+!.obsidian/plugins/
+!.obsidian/plugins/obsidian-linter/
+!.obsidian/plugins/obsidian-linter/data.json
+
+# Vault compartido para el equipo en `content/` (si ese folder se abre como Vault)
+!content/.obsidian/
+!content/.obsidian/**

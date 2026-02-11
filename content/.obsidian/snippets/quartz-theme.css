@@ -1,0 +1,152 @@
+/* Quartz visual parity for Obsidian editor (SOLE Voltaje) */
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=Roboto+Mono:wght@400;500;700&family=VT323&display=swap");
+
+:root {
+  --quartz-header-font: "VT323", monospace;
+  --quartz-body-font: "Roboto Mono", monospace;
+  --quartz-code-font: "IBM Plex Mono", monospace;
+}
+
+body.theme-light,
+.theme-light {
+  --background-primary: #f5f5f5;
+  --background-primary-alt: #f5f5f5;
+  --background-secondary: #e5e5e5;
+  --background-secondary-alt: #e5e5e5;
+  --background-modifier-hover: rgba(26, 132, 174, 0.15);
+  --background-modifier-active-hover: rgba(26, 132, 174, 0.2);
+  --background-modifier-border: #9ca3af;
+
+  --text-normal: #4b5563;
+  --text-muted: #4b5563;
+  --text-faint: #9ca3af;
+  --text-accent: #1a84ae;
+  --text-accent-hover: #f9c369;
+  --text-highlight-bg: #f9c36966;
+
+  --interactive-accent: #1a84ae;
+  --interactive-accent-hover: #f9c369;
+  --interactive-success: #1a84ae;
+
+  --h1-color: #1a84ae;
+  --h2-color: #1a84ae;
+  --h3-color: #1a84ae;
+  --h4-color: #1a84ae;
+  --h5-color: #1a84ae;
+  --h6-color: #1a84ae;
+
+  --code-normal: #4b5563;
+  --code-comment: #9ca3af;
+  --code-background: #e5e5e5;
+}
+
+body.theme-dark,
+.theme-dark {
+  --background-primary: #060b16;
+  --background-primary-alt: #060b16;
+  --background-secondary: #1a1f2e;
+  --background-secondary-alt: #1a1f2e;
+  --background-modifier-hover: rgba(249, 195, 105, 0.15);
+  --background-modifier-active-hover: rgba(249, 195, 105, 0.2);
+  --background-modifier-border: #4b5563;
+
+  --text-normal: #d1d5db;
+  --text-muted: #d1d5db;
+  --text-faint: #4b5563;
+  --text-accent: #26bfb8;
+  --text-accent-hover: #f9c369;
+  --text-highlight-bg: #f9c36966;
+
+  --interactive-accent: #26bfb8;
+  --interactive-accent-hover: #f9c369;
+  --interactive-success: #26bfb8;
+
+  --h1-color: #26bfb8;
+  --h2-color: #26bfb8;
+  --h3-color: #26bfb8;
+  --h4-color: #26bfb8;
+  --h5-color: #26bfb8;
+  --h6-color: #26bfb8;
+
+  --code-normal: #d1d5db;
+  --code-comment: #4b5563;
+  --code-background: #1a1f2e;
+}
+
+body,
+.markdown-source-view.mod-cm6 .cm-scroller,
+.markdown-preview-view {
+  font-family: var(--quartz-body-font) !important;
+}
+
+.workspace,
+.workspace-tabs,
+.workspace-tab-container,
+.view-content,
+.markdown-source-view,
+.markdown-preview-view,
+.markdown-reading-view,
+.markdown-source-view.mod-cm6 .cm-scroller,
+.markdown-source-view.mod-cm6 .cm-gutters {
+  background-color: var(--background-primary) !important;
+  color: var(--text-normal) !important;
+}
+
+.markdown-source-view.mod-cm6 .cm-content,
+.markdown-source-view.mod-cm6 .cm-line {
+  color: var(--text-normal);
+}
+
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6,
+.markdown-source-view.mod-cm6 .HyperMD-header {
+  font-family: var(--quartz-header-font) !important;
+  letter-spacing: 0.02em;
+}
+
+.markdown-preview-view code,
+.markdown-preview-view pre,
+.markdown-source-view.mod-cm6 .cm-inline-code,
+.markdown-source-view.mod-cm6 .cm-hmd-codeblock {
+  font-family: var(--quartz-code-font) !important;
+}
+
+a,
+.internal-link,
+.external-link,
+.markdown-source-view.mod-cm6 .cm-link,
+.markdown-source-view.mod-cm6 .cm-hmd-internal-link {
+  color: var(--text-accent) !important;
+}
+
+a:hover,
+.internal-link:hover,
+.external-link:hover,
+.markdown-source-view.mod-cm6 .cm-link:hover,
+.markdown-source-view.mod-cm6 .cm-hmd-internal-link:hover {
+  color: var(--text-accent-hover) !important;
+}
+
+.internal-link,
+.markdown-source-view.mod-cm6 .cm-hmd-internal-link {
+  background-color: var(--background-modifier-hover);
+  border-radius: 5px;
+  padding: 0 0.15rem;
+}
+
+blockquote,
+.callout {
+  border-left: 3px solid var(--interactive-accent);
+  background: var(--background-secondary);
+}
+
+.cm-s-obsidian .cm-selectionBackground,
+.markdown-source-view.mod-cm6 .cm-selectionBackground,
+::selection {
+  background: var(--text-highlight-bg) !important;
+  color: var(--text-normal);
+}
