@@ -202,7 +202,6 @@ traduccion: false
 
 | Plugin | ¿Para qué? |
 |---|---|
-| **Obsidian Git** | Sincronizar automáticamente con GitHub |
 | **Linter** | Formatear automáticamente el Markdown y YAML |
 | **Templater** | Plantillas avanzadas con variables dinámicas |
 | **Dataview** | Consultar y listar notas por propiedades |
@@ -227,19 +226,8 @@ traduccion: false
 | **Icon Folder** | Añadir iconos a las carpetas del explorador |
 | **Kanban** | Tablero visual para gestionar tareas/contenido |
 
-### Configuración recomendada de Obsidian Git
-
-Una vez instalado el plugin **Obsidian Git**:
-
-1. `Ajustes > Obsidian Git`
-2. **Auto backup interval**: `0` (desactivado — hacer commits manuales)
-3. **Pull on startup**: `Activado`
-4. **Commit message**: `docs: {{date}} — {{hostname}}`
-5. **Push on backup**: `Activado`
-6. **Disable push**: `Desactivado`
-
-> ⚠️ Recomendamos commits manuales (`Ctrl/Cmd + P` → "Git: Create backup")
-> para controlar exactamente qué cambios se suben.
+> Nota: En este proyecto **no usamos Obsidian Git** para evitar commits automáticos
+> innecesarios. La sincronización oficial se hace con **GitHub Desktop**.
 
 ---
 
@@ -305,26 +293,7 @@ Además hay colores por **tags temáticos**:
 
 ## Sincronización con GitHub
 
-### Opción A: Con plugin Obsidian Git (recomendado)
-
-El plugin sincroniza directamente desde Obsidian:
-
-| Acción | Atajo | Comando |
-|---|---|---|
-| Hacer backup (commit + push) | `Ctrl+Shift+K` | Git: Create backup |
-| Traer cambios (pull) | `Ctrl+Shift+J` | Git: Pull |
-| Ver cambios pendientes | — | Git: Open source control view |
-
-#### Flujo diario
-
-```
-1. Abrir Obsidian → automáticamente hace pull
-2. Editar notas normalmente
-3. Cuando estés satisfecho → Ctrl+Shift+K (backup)
-4. El plugin hace commit y push automáticamente
-```
-
-### Opción B: Con GitHub Desktop (alternativa visual)
+### Método oficial: GitHub Desktop
 
 Ideal para personas que prefieren una interfaz gráfica.
 
@@ -461,7 +430,6 @@ Con el plugin **Graph Analysis** puedes ver qué notas están
 
 | Recurso | Descripción | Enlace |
 |---|---|---|
-| **Obsidian Git en 4 min** | Tutorial más sencillo de setup | [YouTube](https://www.youtube.com/watch?v=5YZz38U20ws) |
 | **Obsidian desde cero** | Curso completo en español | [YouTube](https://www.youtube.com/results?search_query=obsidian+tutorial+espa%C3%B1ol) |
 | **Nicole van der Hoeven** | Playbook avanzado de Obsidian (inglés) | [Fork My Brain](https://notes.nicolevanderhoeven.com/obsidian-playbook) |
 | **Linking Your Thinking** | Curso sobre grafos de conocimiento | [linkingyourthinking.com](https://www.linkingyourthinking.com/) |
@@ -471,9 +439,8 @@ Con el plugin **Graph Analysis** puedes ver qué notas están
 | Recurso | Descripción |
 |---|---|
 | [Sync Obsidian with Git (gratis)](https://desktopofsamuel.com/how-to-sync-obsidian-vault-for-free-using-git/) | Tutorial completo con GitHub Desktop |
-| [Obsidian Git Forum Tutorial](https://forum.obsidian.md/t/the-easiest-way-to-setup-obsidian-git-to-backup-notes/51429) | Guía del foro oficial |
 | [Digital Garden Guide](https://jzhao.xyz/posts/networked-thought/) | Filosofía de jardines digitales (Quartz) |
-| [Connect Vault with GitHub](https://linked-blog-starter.vercel.app/connect-obsidian-vault-with-github) | Paso a paso con Git token |
+| [GitHub Desktop — Docs](https://docs.github.com/es/desktop) | Documentación oficial (flujo visual) |
 
 ### Conceptos clave
 
@@ -499,12 +466,11 @@ Con el plugin **Graph Analysis** puedes ver qué notas están
 2. Buscar cada plugin por nombre e instalar
 3. **Activar** cada plugin después de instalarlo
 
-### "Obsidian Git no funciona"
+### "GitHub Desktop no detecta cambios"
 
-1. Verificar que `git` está instalado: abrir terminal → `git --version`
-2. Verificar que estás dentro del repositorio clonado
-3. Verificar credenciales: `Ajustes > Obsidian Git > Authentication`
-4. Si usas GitHub Desktop, asegúrate de no tener ambos haciendo push al mismo tiempo
+1. Verifica que el repositorio agregado en GitHub Desktop sea la carpeta `voltaje-dev/`
+2. Asegúrate de que estás editando dentro de `content/` (el vault) y no en otra copia
+3. Si no aparecen cambios: `Repository > Refresh` o reinicia GitHub Desktop
 
 ### "Hay conflictos de merge"
 
@@ -529,12 +495,12 @@ Probablemente son archivos auto-generados por Obsidian:
 ┌─────────────────────────────────────────────────┐
 │                FLUJO DIARIO                     │
 │                                                 │
-│  1. Abrir Obsidian (auto-pull si está config.)  │
-│  2. Editar / crear notas                        │
+│  1. GitHub Desktop: Pull origin                 │
+│  2. Editar / crear notas en Obsidian            │
 │  3. Crear [[enlaces]] entre notas               │
 │  4. Revisar el grafo → buscar huérfanos         │
-│  5. Commit manual (Ctrl+Shift+K)                │
-│  6. Push automático                             │
+│  5. GitHub Desktop: seleccionar cambios         │
+│  6. GitHub Desktop: Commit + Push origin        │
 │                                                 │
 │  ¿Conflicto? → GitHub Desktop → Resolver        │
 └─────────────────────────────────────────────────┘

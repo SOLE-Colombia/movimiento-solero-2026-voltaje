@@ -379,7 +379,8 @@ th {
   letter-spacing: 0.03em;
 }
 
-th, td {
+th,
+td {
   border: 1px solid var(--background-modifier-border);
   padding: 8px 12px;
 }
@@ -519,7 +520,8 @@ button {
     color: #1a84ae !important;
   }
 
-  a, .internal-link {
+  a,
+  .internal-link {
     color: #1a84ae !important;
     text-decoration: underline !important;
   }

@@ -88,6 +88,10 @@ content/.obsidian/workspace-mobile.json
 # Cache y hot-reload internos
 .obsidian/.obsidian-*.json
 content/.obsidian/.obsidian-*.json
+
+# Plugins de comunidad (generan muchos archivos y cambios locales)
+.obsidian/plugins/
+content/.obsidian/plugins/
 .obsidian/plugins/*/styles.css
 content/.obsidian/plugins/*/styles.css
 
@@ -123,5 +127,3 @@ content/.obsidian/themes/
 !content/.obsidian/plugins/
 !content/.obsidian/plugins/obsidian-linter/
 !content/.obsidian/plugins/obsidian-linter/**
-!content/.obsidian/plugins/obsidian-git/
-!content/.obsidian/plugins/obsidian-git/**
