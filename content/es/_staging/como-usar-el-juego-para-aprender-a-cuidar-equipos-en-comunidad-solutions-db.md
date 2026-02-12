@@ -21,11 +21,11 @@ R-reactions: No
 
 *Descarga esta Solución para usarla desconectado*
 
-[Como_usar_el_juego_para_aprender_a_cuidar_equipos_en_comunidad_20250821.pdf](/downloads/como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-20250821.pdf)
+Como_usar_el_juego_para_aprender_a_cuidar_equipos_en_comunidad_20250821.pdf
 
 *Download this Solution to use it disconnected*
 
-[How_to_use_the_game_to_learn_how_to_take_care_of_equipment_in_community_20250821.pdf](/downloads/how-to-use-the-game-to-learn-how-to-take-care-of-equipment-in-community-20250821.pdf)
+How_to_use_the_game_to_learn_how_to_take_care_of_equipment_in_community_20250821.pdf
 
 ### índice
 
@@ -154,7 +154,7 @@ Para empezar, te sorprenderás si te digo que no queremos darte fórmulas mágic
     
     Dale a los participantes la cartulina y los marcadores. Invítalos a escribir acuerdos sobre cómo manejar los recursos o equipos tecnológicos que tienen a su disposición. Te recomendamos descargar la siguiente plantilla para guiarte en la conversación. 
     
-    [Reglas uso y cuidado compartido de equipo tecnológicos.pptx](../../../../../Soluciona 1292bd68c5b681c6b5b5cec1700cc864/Solutions DB 1292bd68c5b681d1b87ccbb89a1b1d39/¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679/Reglas_uso_y_cuidado_compartido_de_equipo_tecnolgicos.pptx)
+    Reglas uso y cuidado compartido de equipo tecnológicos.pptx
     
     Estas preguntas son solamente una guía, por lo que puedes añadir o quitar las preguntas que veas pertinentes. Pídele a los participantes que dejen por escrito los acuerdos a los que llegaron e invítalos a compartirlos con el resto de la comunidad. Esto es fundamental ya que, en momentos de conflicto o dificultades para resolver un problema, pueden volver a lo escrito para llegar a soluciones o para replantear nuevos acuerdos.
     
@@ -175,13 +175,13 @@ La tragedia de los comunes es un problema sobre las relaciones sociales y el com
 
 Queremos compartirte la historia de Alexander, un referente de la comunidad de la vereda en Agrado, ubicada en el Departamento del Cauca. Alexander, junto con su comunidad, logró llegar a un acuerdo sobre cómo usar el internet a través de un acuerdo que hicieron con la tienda que está ubicada al lado de la caseta comunal. Escuchemos su historia: 
 
-[Piendamó.mp4](../../../../../Soluciona 1292bd68c5b681c6b5b5cec1700cc864/Solutions DB 1292bd68c5b681d1b87ccbb89a1b1d39/¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679/Piendam.mp4)
+Piendamó.mp4
 
 ## Soluciones recomendadas
 
-- [¿Cómo instalar mi antena 3/4G?](/como-instalar-mi-antena-3-4g-solutions-db) | [How to install my 3/4G antenna?](/how-to-install-my-3-4g-antenna-solutions-db)
-- [¿Cómo compartir los computadores disponibles?](/como-compartir-los-computadores-disponibles-solutions-db) | [How to share available computers?](/how-to-share-available-computers-solutions-db)
-- [**Haz una colecta para pagar internet comunitario**](/haz-una-colecta-para-pagar-internet-comunitario-solutions-db)  | [**Look for funding to pay for community internet**](/look-for-funding-to-pay-for-community-internet-solutions-db)
+- ¿Cómo instalar mi antena 3/4G? | How to install my 3/4G antenna?
+- ¿Cómo compartir los computadores disponibles? | How to share available computers?
+- **Haz una colecta para pagar internet comunitario**  | **Look for funding to pay for community internet**
 
 ## **Referencias**
 

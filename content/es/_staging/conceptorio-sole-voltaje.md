@@ -11,7 +11,7 @@ fecha: '2025-10-11'
 
 Tantos términos tecnológicos pueden enloquecer. Explóralos y *cacharrea* sin miedo. 
 
-[Conceptorio](Conceptorio 12a2bd68c5b6808baf3be5e67cddb488/Conceptorio 1624106bff984c4590342afeae3e5e0d.csv)
+Conceptorio
 
 ---
 

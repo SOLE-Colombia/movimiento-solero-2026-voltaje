@@ -21,6 +21,6 @@ Etiquetas: Internet, Mejorar, Soluciones, Tarjeta
 
 **Paso 2:** Independendientemente de la velocidad de descarga que tengas, si tienes 1 barrita o más de señal WiFi puedes  usar la solución mejora el alcance de tu router.
 
-[Paso 3: dirígete a la solución Mejora el alcance de tu router](/como-mejorar-la-senal-de-tu-router-solutions-db)
+Paso 3: dirígete a la solución Mejora el alcance de tu router
 
 <img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />

@@ -28,11 +28,11 @@ widget ok: ok
 
 *Descarga esta solución para usarla desconectado*
 
-[Un_futuro_con_Voltaje_una_declaracin_al_futuro_20250825.pdf](/downloads/un-futuro-con-voltaje-una-declaracin-al-futuro-20250825.pdf)
+Un_futuro_con_Voltaje_una_declaracin_al_futuro_20250825.pdf
 
 *Download this solution to use it disconnected*
 
-[A_future_with_Voltage_a_statement_to_the_future_20250817.pdf](/downloads/a-future-with-voltage-a-statement-to-the-future-20250817.pdf)
+A_future_with_Voltage_a_statement_to_the_future_20250817.pdf
 
 **Un futuro con Voltaje**
 

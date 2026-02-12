@@ -51,11 +51,11 @@ R-reactions: No
 
 *Descarga esta solución para usarla desconectado*
 
-[La_Wikipedia_de_bolsillo_20250729.pdf](/downloads/la-wikipedia-de-bolsillo-20250729.pdf)
+La_Wikipedia_de_bolsillo_20250729.pdf
 
 *Download this solution to use it disconnected*
 
-[A_pocket_Wikipedia_20250729.pdf](/downloads/a-pocket-wikipedia-20250729.pdf)
+A_pocket_Wikipedia_20250729.pdf
 
 **Contenido**
 

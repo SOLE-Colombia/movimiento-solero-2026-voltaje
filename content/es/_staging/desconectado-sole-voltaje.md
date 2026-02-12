@@ -109,7 +109,6 @@ SOLE Voltaje fue imaginado para la gente que retos de conectividad diversos. Des
 1. **No tienen dinero para pagarlo**: Puede que haya señal móvil o por cable, sin embargo, representa un costo muy alto para sus gastos personales o familiares.
 2. **No saben para qué es el Internet**: Muchas personas argumentan que no tienen Internet por alguna de las razones anteriores pero también se puede inferir que mucha gente no sabe para qué es el Internet, pues están dispuestos a pagar otros servicios como TV satelital en vez de Internet. En muchas comunidades se cree que Internet es Facebook y Whatsapp pues es lo que viene gratis con su plan de telefonía móvil. 
 
-[Todo comienza con una Gran Pregunta](es/inspire/todo-comienza-con-una-gran-pregunta-inspiration-db.md)
+Todo comienza con una Gran Pregunta
 
 ---
-

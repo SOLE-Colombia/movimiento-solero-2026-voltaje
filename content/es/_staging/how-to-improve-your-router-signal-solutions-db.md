@@ -33,11 +33,11 @@ R-reactions: No
 
 *Download this solution to use it disconnected*
 
-[Como_mejorar_la_seal_de_tu_router_20250729.pdf](/downloads/como-mejorar-la-seal-de-tu-router-20250729.pdf)
+Como_mejorar_la_seal_de_tu_router_20250729.pdf
 
 *Download this solution to use it disconnected*
 
-[How_to_improve_your_router_signal_20250729.pdf](/downloads/how-to-improve-your-router-signal-20250729.pdf)
+How_to_improve_your_router_signal_20250729.pdf
 
 **Content**
 

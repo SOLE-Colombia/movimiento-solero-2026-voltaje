@@ -28,11 +28,11 @@ widget ok: ok
 
 *Descarga esta Inspiración para usarla desconectado*
 
-[Como_hacer_SOLE-Tutorial_20250825.pdf](/downloads/como-hacer-sole-tutorial-20250825.pdf)
+Como_hacer_SOLE-Tutorial_20250825.pdf
 
 *Download this Inspiration to use it disconnected*
 
-[How_to_make_SOLE-Tutorial_20250825.pdf](/downloads/how-to-make-sole-tutorial-20250825.pdf)
+How_to_make_SOLE-Tutorial_20250825.pdf
 
 In this video tutorial we explain how you can create your self-organized learning space. In SOLE Colombia we have taken this disruptive education methodology to many corners of the country... What are you waiting for to start using it?
 

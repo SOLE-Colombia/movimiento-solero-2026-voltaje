@@ -22,8 +22,8 @@ Imagina que tienes esta Gran Pregunta en una sociedad en la que no existe la esc
 
 Esto empezó a cambiar gracias al Internet. Ahora puedes encontrar más rápido la respuesta a tus preguntas y puedes acudir a muchas fuentes. Pero, esto puede traer otros problemas. Y si no tienes internet, ¿qué harías? Continúa explorando estas cartas para aprender más sobre el internet.
 
-[Creado por SOLE Colombia 2024. Puedes imprimir la versión PDF en tamaño carta o media carta y dóblala por las líneas punteadas. ](/downloads/20241217-versin-desconectado-jpg-notionv2.pdf)
+Creado por SOLE Colombia 2024. Puedes imprimir la versión PDF en tamaño carta o media carta y dóblala por las líneas punteadas. 
 
 Creado por SOLE Colombia 2024. Puedes imprimir la versión PDF en tamaño carta o media carta y dóblala por las líneas punteadas. 
 
-[Nuevo formulario](Despertar tu curiosidad 2602bd68c5b6817fb783c6eecdb11aca/Nuevo formulario 2602bd68c5b68116b53ecfd6c7750dc6.csv)
+Nuevo formulario

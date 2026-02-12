@@ -20,11 +20,11 @@ R-reactions: No
 
 *Descarga esta solución para usarla desconectado*
 
-[Construye_una_antena_3G_casera_20250729.pdf](/downloads/construye-una-antena-3g-casera-20250729.pdf)
+Construye_una_antena_3G_casera_20250729.pdf
 
 *Download this solution to use it disconnected*
 
-[Build_a_homemade_3G_antenna_20250729.pdf](/downloads/build-a-homemade-3g-antenna-20250729.pdf)
+Build_a_homemade_3G_antenna_20250729.pdf
 
 **Contenido**
 
@@ -36,7 +36,7 @@ R-reactions: No
 
 Puedes escuchar esta audiolectura mientras desarrollas esta solución. 
 
-[ Construye una antena 3G casera.mp3](../../../../../Soluciona 1292bd68c5b681c6b5b5cec1700cc864/Solutions DB 1292bd68c5b681d1b87ccbb89a1b1d39/Construye una antena 3G casera 12a2bd68c5b68081835bedffa7d7de18/_Construye_una_antena_3G_casera.mp3)
+ Construye una antena 3G casera.mp3
 
 ## Bienvenida
 

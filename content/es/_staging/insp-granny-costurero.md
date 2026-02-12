@@ -24,7 +24,7 @@ traducción: No
 widget ok: ok
 Created Date: 25 de octubre de 2024
 
-SOLE Colombia cuenta con un grupo de voluntarias alrededor del mundo, que nos conectamos a las sesiones de SOLE para acompañar a los participantes, animarlos a encontrar nuevas preguntas relacionadas con lo que les interesa saber, divertirnos y aprender juntos. Este grupo se llama [La Nube de Abuelitas](/la-nube-de-abuelitas-como-cambiar-el-mundo-desde-tu-casa-inspiration-db).
+SOLE Colombia cuenta con un grupo de voluntarias alrededor del mundo, que nos conectamos a las sesiones de SOLE para acompañar a los participantes, animarlos a encontrar nuevas preguntas relacionadas con lo que les interesa saber, divertirnos y aprender juntos. Este grupo se llama La Nube de Abuelitas.
 
 Cuando le cuentas a alguien que estamos convocando a personas voluntarias para formar parte de La Nube de Abuelitas y que el momento donde les contamos de qué se trata ese voluntariado es un *Costurero de Abuelitas,* surgen siempre las mismas preguntas: *¿por qué se llama Costurero? ¿qué es un Costurero?* Y, tengo que confesar, casi me divierte mantener en secreto la razón que nos llevó a elegir ese nombre.
 

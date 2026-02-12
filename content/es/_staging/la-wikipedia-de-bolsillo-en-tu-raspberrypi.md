@@ -186,9 +186,9 @@ Antes que nada asegurate de tener un **Raspberry Pi** funcionando. Si necesitas 
 
 ## Soluciones recomendadas
 
-- [Raspberry Pi:](es/solve/raspberry-pi-una-pequena-internet-de-bolsillo-solutions-db) 
-- [¿Quieres compartir tu internet sin cables? Configura tu Raspberry Pi ](es/solve/quieres-compartir-tu-internet-sin-cables-configura-tu-raspberry-pi-solutions-db) 
-- [¿Cómo conseguir equipos donados?](/como-conseguir-equipos-donados-solutions-db) 
+- Raspberry Pi: 
+- ¿Quieres compartir tu internet sin cables? Configura tu Raspberry Pi  
+- ¿Cómo conseguir equipos donados? 
 
 
 

@@ -38,7 +38,7 @@ Aquí nos juntamos a “cacharrear”. Busca soluciones para retos de señal, el
 
 ## Todas las soluciones
 
-[Solutions DB](Soluciona 1292bd68c5b681c6b5b5cec1700cc864/Solutions DB 1292bd68c5b681d1b87ccbb89a1b1d39.csv)
+Solutions DB
 
 ---
 

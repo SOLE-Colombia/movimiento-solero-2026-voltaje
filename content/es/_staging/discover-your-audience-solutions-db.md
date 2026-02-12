@@ -29,11 +29,11 @@ R-reactions: No
 
 *Download this solution to use it disconnected*
 
-[Descubre_a_tu_audiencia_20250729.pdf](/downloads/descubre-a-tu-audiencia-20250729.pdf)
+Descubre_a_tu_audiencia_20250729.pdf
 
 *Download this solution to use it disconnected*
 
-[Discover_your_audience_20250729.pdf](/downloads/discover-your-audience-20250729.pdf)
+Discover_your_audience_20250729.pdf
 
 **Content**
 
@@ -79,7 +79,7 @@ You will create content that is more relevant to those people, appropriate to th
     
     See how I did with this exercise:
     
-    [Ilustración_sin_título(12).mp4](../../../../../Soluciona 1292bd68c5b681c6b5b5cec1700cc864/Solutions DB 1292bd68c5b681d1b87ccbb89a1b1d39/Descubre a tu audiencia 12a2bd68c5b6804396abdf10642ab64d/Ilustracion_sin_titulo(12).mp4)
+    Ilustración_sin_título(12).mp4.mp4)
     
 - **Moment 2: Create your personas, dig deep to create your ideal person.**
     
@@ -92,7 +92,7 @@ You will create content that is more relevant to those people, appropriate to th
     
     When you have completed this exercise it will be easier to visualize your ideal audience. See how I did it:
     
-    [Ilustración_sin_título(13).mp4](../../../../../Soluciona 1292bd68c5b681c6b5b5cec1700cc864/Solutions DB 1292bd68c5b681d1b87ccbb89a1b1d39/Descubre a tu audiencia 12a2bd68c5b6804396abdf10642ab64d/Ilustracion_sin_titulo(13).mp4)
+    Ilustración_sin_título(13).mp4.mp4)
     
 - **Moment 3: Observe and listen to your people, look for answers.**
     
@@ -125,9 +125,9 @@ It's fun!
 
 ## Recommended solutions
 
-- [Difunde tu mensaje ](/difunde-tu-mensaje-solutions-db)
-- [¿Cómo escribir una buena invitación?](/como-escribir-una-buena-invitacion-solutions-db)
-- [¡Aprende a diseñar tu invitación exprés sin ser un experto!](/aprende-a-disenar-tu-invitacion-expres-sin-ser-un-experto-solutions-db)
+- Difunde tu mensaje 
+- ¿Cómo escribir una buena invitación?
+- ¡Aprende a diseñar tu invitación exprés sin ser un experto!
 
 [https://notionreactions.com/embed/TpJjPIOAag7HGoEqSLWu](https://notionreactions.com/embed/TpJjPIOAag7HGoEqSLWu)
 

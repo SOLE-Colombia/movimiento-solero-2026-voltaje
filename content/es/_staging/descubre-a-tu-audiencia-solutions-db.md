@@ -29,11 +29,11 @@ R-reactions: No
 
 *Descarga esta solución para usarla desconectado*
 
-[Descubre_a_tu_audiencia_20250729.pdf](/downloads/descubre-a-tu-audiencia-20250729.pdf)
+Descubre_a_tu_audiencia_20250729.pdf
 
 *Download this solution to use it disconnected*
 
-[Discover_your_audience_20250729.pdf](/downloads/discover-your-audience-20250729.pdf)
+Discover_your_audience_20250729.pdf
 
 **Contenido**
 
@@ -79,7 +79,7 @@ Crearás contenido más relevante para esas personas, adecuado a sus intereses y
     
     Mira cómo me fue a mí haciendo este ejercicio:
     
-    [Ilustración_sin_título(12).mp4](../../../../../Soluciona 1292bd68c5b681c6b5b5cec1700cc864/Solutions DB 1292bd68c5b681d1b87ccbb89a1b1d39/Descubre a tu audiencia 12a2bd68c5b6804396abdf10642ab64d/Ilustracion_sin_titulo(12).mp4)
+    Ilustración_sin_título(12).mp4.mp4)
     
 - **Momento 2: Crea tus personajes, profundiza para crear tu persona ideal**
     
@@ -92,7 +92,7 @@ Crearás contenido más relevante para esas personas, adecuado a sus intereses y
     
     Cuando hayas terminado este ejercicio será más fácil visualizar tu audiencia ideal. Mira cómo lo hice yo:
     
-    [Ilustración_sin_título(13).mp4](../../../../../Soluciona 1292bd68c5b681c6b5b5cec1700cc864/Solutions DB 1292bd68c5b681d1b87ccbb89a1b1d39/Descubre a tu audiencia 12a2bd68c5b6804396abdf10642ab64d/Ilustracion_sin_titulo(13).mp4)
+    Ilustración_sin_título(13).mp4.mp4)
     
 - **Momento 3: Observa y escucha a tu gente, busca respuestas**
     
@@ -125,9 +125,9 @@ Darle muchas vueltas a las maneras de comunicarnos y a las audiencias que vamos 
 
 ## Soluciones recomendadas
 
-- [Difunde tu mensaje ](/difunde-tu-mensaje-solutions-db)
-- [¿Cómo escribir una buena invitación?](/como-escribir-una-buena-invitacion-solutions-db)
-- [¡Aprende a diseñar tu invitación exprés sin ser un experto!](/aprende-a-disenar-tu-invitacion-expres-sin-ser-un-experto-solutions-db)
+- Difunde tu mensaje 
+- ¿Cómo escribir una buena invitación?
+- ¡Aprende a diseñar tu invitación exprés sin ser un experto!
 
 [https://notionreactions.com/embed/ghlOjGIwGmoK5NpPTtdw](https://notionreactions.com/embed/ghlOjGIwGmoK5NpPTtdw)
 

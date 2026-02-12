@@ -29,7 +29,7 @@ A veces, solo necesitas abrir una ventana para encontrarte con la magia del Inte
 
 ---
 
-[Inspiration DB](Inspírate 2602bd68c5b6812f914bfd7460306dcf/Inspiration DB 2602bd68c5b6813c99b5c134f3309332.csv)
+Inspiration DB
 
 ---
 

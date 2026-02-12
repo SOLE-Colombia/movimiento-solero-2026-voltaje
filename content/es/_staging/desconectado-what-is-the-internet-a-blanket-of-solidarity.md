@@ -102,4 +102,4 @@ SOLE Voltaje fue imaginado para la gente que retos de conectividad diversos. Des
 
 - 
     
-    [Voltaje desconectado](¿Desconectado 2602bd68c5b681999474f369bcc27325/Voltaje desconectado 2602bd68c5b6815d8222dd649b9280db.csv)
+    Voltaje desconectado

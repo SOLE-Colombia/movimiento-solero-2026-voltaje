@@ -20,11 +20,11 @@ R-reactions: No
 
 *Descarga esta solución para usarla desconectado*
 
-[Como_escribir_una_buena_invitacion_20250729.pdf](/downloads/como-escribir-una-buena-invitacion-20250729.pdf)
+Como_escribir_una_buena_invitacion_20250729.pdf
 
 *Download this solution to use it disconnected*
 
-[How_to_write_a_good_invitation_20250729.pdf](/downloads/how-to-write-a-good-invitation-20250729.pdf)
+How_to_write_a_good_invitation_20250729.pdf
 
 ### index
 
@@ -48,7 +48,7 @@ With a few tips and a little creativity, we can make your SOLE, your meetings, p
 
 ## What is it for?
 
-Follow these recommendations or tips when you need to make an invitation. If you are lost and don't know where to start, I recommend you to go first to [**Create a powerful message**](/crea-un-mensaje-potente-solutions-db). This way you will have more tools to make your invitation. 
+Follow these recommendations or tips when you need to make an invitation. If you are lost and don't know where to start, I recommend you to go first to **Create a powerful message**. This way you will have more tools to make your invitation. 
 
 Are you ready to learn how to conquer with words and make your next invitation a success? Let's make a powerful invitation together!
 
@@ -78,7 +78,7 @@ Are you ready to learn how to conquer with words and make your next invitation a
     
     It doesn't matter if you don't get it right the first time, look at all the times I had to erase in the video to make my invitation... We'll be fine-tuning step by step!
     
-    [20240801_SOLE+BOLT_Voltaje_Escribe_tu_invitación_1.mp4](../../../../../Soluciona 1292bd68c5b681c6b5b5cec1700cc864/Solutions DB 1292bd68c5b681d1b87ccbb89a1b1d39/¿Cómo escribir una buena invitación 12a2bd68c5b68097a274ccb479447151/20240801_SOLEBOLT_Voltaje_Escribe_tu_invitacin_1.mp4)
+    20240801_SOLE+BOLT_Voltaje_Escribe_tu_invitación_1.mp4
     
 - **Momento 2: La escritura**
     
@@ -102,7 +102,7 @@ Are you ready to learn how to conquer with words and make your next invitation a
         
         Yo me fui por esta última opción. Mira lo que escribí:
         
-        [20240801_SOLE+BOLT_Escribe_tu_invitación_2.mp4](../../../../../Soluciona 1292bd68c5b681c6b5b5cec1700cc864/Solutions DB 1292bd68c5b681d1b87ccbb89a1b1d39/¿Cómo escribir una buena invitación 12a2bd68c5b68097a274ccb479447151/20240801_SOLEBOLT_Escribe_tu_invitacin_2.mp4)
+        20240801_SOLE+BOLT_Escribe_tu_invitación_2.mp4
         
     - **‘La pulidora’, cómo afinar el mensaje**
         
@@ -113,7 +113,7 @@ Are you ready to learn how to conquer with words and make your next invitation a
         1. Subraya la respuesta a las preguntas  *cómo* y *dónde* (las que escribimos en la sección ‘El contenido’, un poco más arriba en esta Solución). 
         2. Ahora, escribe los datos claros del **día**, la **hora**, la **fecha**, y el **lugar** en dónde vas a convocar a tu gente (sin nada de adorno). 
         
-        [20240801_SOLE+BOLT_Escribe_tu_invitación_3.mp4](../../../../../Soluciona 1292bd68c5b681c6b5b5cec1700cc864/Solutions DB 1292bd68c5b681d1b87ccbb89a1b1d39/¿Cómo escribir una buena invitación 12a2bd68c5b68097a274ccb479447151/20240801_SOLEBOLT_Escribe_tu_invitacin_3.mp4)
+        20240801_SOLE+BOLT_Escribe_tu_invitación_3.mp4
         
         Pon lo que escribiste en tu *cómo*, de la forma más resumida y clara posible. Ejemplo: Si tu *cómo* era una reunión en el salón comunal, pon: “Salón comunal de [Nombre de tu comunidad]”.
         
@@ -125,7 +125,7 @@ Are you ready to learn how to conquer with words and make your next invitation a
         
         Actividad: Usa un verbo en acción para iniciar la frase que cierra tu invitación.
         
-        [20240801_SOLE+BOLT_Escribe_tu_invitación_4.mp4](../../../../../Soluciona 1292bd68c5b681c6b5b5cec1700cc864/Solutions DB 1292bd68c5b681d1b87ccbb89a1b1d39/¿Cómo escribir una buena invitación 12a2bd68c5b68097a274ccb479447151/20240801_SOLEBOLT_Escribe_tu_invitacin_4.mp4)
+        20240801_SOLE+BOLT_Escribe_tu_invitación_4.mp4
         
     
       
@@ -135,15 +135,15 @@ Are you ready to learn how to conquer with words and make your next invitation a
 
 When you need to make an invitation, don't forget that the most important thing is to trust your own abilities; you know your people better than anyone else. You'll be amazed at the power of a few well-chosen words to inspire and rally the community! 
 
-Now it's your turn to conquer your community with your own words, visit [¡Aprende a diseñar tu invitación exprés sin ser un experto!](/aprende-a-disenar-tu-invitacion-expres-sin-ser-un-experto-solutions-db) for more tips on your invitation.
+Now it's your turn to conquer your community with your own words, visit ¡Aprende a diseñar tu invitación exprés sin ser un experto! for more tips on your invitation.
 
 Good luck 😉
 
 ## Recommended solutions
 
-- [Crea un mensaje potente](/crea-un-mensaje-potente-solutions-db) | [Create a powerful message](/create-a-powerful-message-solutions-db)
-- [¡Aprende a diseñar tu invitación exprés sin ser un experto!](/aprende-a-disenar-tu-invitacion-expres-sin-ser-un-experto-solutions-db) | [Learn how to design your express invitation without being an expert!](/learn-how-to-design-your-express-invitation-without-being-an-expert-solutions-db)
-- [Difunde tu mensaje ](/difunde-tu-mensaje-solutions-db) | [Spread your message ](/spread-your-message-solutions-db)
+- Crea un mensaje potente | Create a powerful message
+- ¡Aprende a diseñar tu invitación exprés sin ser un experto! | Learn how to design your express invitation without being an expert!
+- Difunde tu mensaje  | Spread your message 
 
 ## References
 
