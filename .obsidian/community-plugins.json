@@ -1,4 +1,17 @@
 [
+  "obsidian-git",
   "obsidian-linter",
-  "editing-toolbar"
+  "editing-toolbar",
+  "dataview",
+  "templater-obsidian",
+  "obsidian-outliner",
+  "obsidian-icon-folder",
+  "tag-wrangler",
+  "obsidian-auto-link-title",
+  "find-unlinked-files",
+  "graph-analysis",
+  "obsidian-hover-editor",
+  "obsidian-kanban",
+  "obsidian-minimal-settings",
+  "breadcrumbs"
 ]

@@ -67,27 +67,61 @@ build/
 git-docker.sh
 GIT-DOCKER.md
 
-# Obsidian settings
+# ============================================================
+# Obsidian — Archivos compartidos vs auto-generados
+# ============================================================
+# REGLA: Solo compartimos configuraciones INTENCIONALES del equipo.
+# Los archivos que Obsidian modifica solo por abrirse se ignoran.
+# ============================================================
+
+# ---------- Archivos auto-generados (NO comitear) ----------
+# workspace.json cambia cada vez que abres/cierras paneles
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
-.obsidian/graph.json
-.obsidian/plugins/
-# Si quieres compartir plugins y configuración de temas con el equipo, 
-# NO ignores .obsidian/ totalmente, solo los archivos de arriba.
+content/.obsidian/workspace.json
+content/.obsidian/workspace-mobile.json
 
-# Vault compartido para el equipo (solo usado en esta rama: feat-ajuste-de-informacion)
+# graph.json cambia al mover/hacer zoom en el grafo
+# NOTA: Lo versionamos con la config base, pero si solo
+#       cambia la posición/zoom no hay que comitearlo.
+
+# Cache y hot-reload internos
+.obsidian/.obsidian-*.json
+content/.obsidian/.obsidian-*.json
+.obsidian/plugins/*/styles.css
+content/.obsidian/plugins/*/styles.css
+
+# Temas descargados (cada usuario los descarga)
+.obsidian/themes/
+content/.obsidian/themes/
+
+# ---------- Archivos que SÍ compartimos (whitelist) ----------
+# Vault raíz (si se usa)
 !.obsidian/
 !.obsidian/app.json
 !.obsidian/appearance.json
 !.obsidian/core-plugins.json
 !.obsidian/community-plugins.json
 !.obsidian/templates.json
+!.obsidian/graph.json
 !.obsidian/snippets/
 !.obsidian/snippets/**
 !.obsidian/plugins/
 !.obsidian/plugins/obsidian-linter/
-!.obsidian/plugins/obsidian-linter/data.json
+!.obsidian/plugins/obsidian-linter/**
 
-# Vault compartido para el equipo en `content/` (si ese folder se abre como Vault)
+# Vault en content/ (principal para edición)
 !content/.obsidian/
-!content/.obsidian/**
+!content/.obsidian/app.json
+!content/.obsidian/appearance.json
+!content/.obsidian/core-plugins.json
+!content/.obsidian/community-plugins.json
+!content/.obsidian/templates.json
+!content/.obsidian/graph.json
+!content/.obsidian/snippets/
+!content/.obsidian/snippets/**
+!content/.obsidian/plugins/
+!content/.obsidian/plugins/obsidian-linter/
+!content/.obsidian/plugins/obsidian-linter/**
+!content/.obsidian/plugins/obsidian-git/
+!content/.obsidian/plugins/obsidian-git/**

@@ -1,4 +1,16 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "assets"
+  "attachmentFolderPath": "assets",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "es",
+  "showFrontmatter": true,
+  "strictLineBreaks": false,
+  "useMarkdownLinks": false,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "spellcheckLanguages": ["es"],
+  "readableLineLength": true,
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "showInlineTitle": true
 }

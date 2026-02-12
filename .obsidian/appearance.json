@@ -1,7 +1,10 @@
 {
   "theme": "obsidian",
   "cssTheme": "",
+  "baseFontSize": 16,
   "enabledCssSnippets": [
     "quartz-theme"
-  ]
+  ],
+  "monoFont": "IBM Plex Mono",
+  "interfaceFontFamily": "Roboto Mono"
 }

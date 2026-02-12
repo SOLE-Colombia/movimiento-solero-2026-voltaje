@@ -1,4 +1,13 @@
-/* Quartz visual parity for Obsidian editor (SOLE Voltaje) */
+/* ============================================================
+   SOLE Voltaje — Quartz Visual Parity para Obsidian
+   Jardín Digital / Wiki / Biblioteca del Futuro
+   ============================================================
+   Este snippet replica fielmente los estilos de la web Quartz
+   dentro del editor Obsidian para que la experiencia de escritura
+   y lectura sea coherente con el sitio publicado.
+   ============================================================ */
+
+/* ---- Google Fonts (mismas de Quartz) ---- */
 @import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=Roboto+Mono:wght@400;500;700&family=VT323&display=swap");
 
 :root {
@@ -7,8 +16,12 @@
   --quartz-code-font: "IBM Plex Mono", monospace;
 }
 
+/* ============================================================
+   MODO CLARO
+   ============================================================ */
 body.theme-light,
 .theme-light {
+  /* Fondos */
   --background-primary: #f5f5f5;
   --background-primary-alt: #f5f5f5;
   --background-secondary: #e5e5e5;
@@ -17,17 +30,21 @@ body.theme-light,
   --background-modifier-active-hover: rgba(26, 132, 174, 0.2);
   --background-modifier-border: #9ca3af;
 
+  /* Textos */
   --text-normal: #4b5563;
-  --text-muted: #4b5563;
+  --text-muted: #6b7280;
   --text-faint: #9ca3af;
   --text-accent: #1a84ae;
   --text-accent-hover: #f9c369;
   --text-highlight-bg: #f9c36966;
+  --text-selection: rgba(26, 132, 174, 0.25);
 
+  /* Interactivos */
   --interactive-accent: #1a84ae;
   --interactive-accent-hover: #f9c369;
   --interactive-success: #1a84ae;
 
+  /* Headings */
   --h1-color: #1a84ae;
   --h2-color: #1a84ae;
   --h3-color: #1a84ae;
@@ -35,32 +52,49 @@ body.theme-light,
   --h5-color: #1a84ae;
   --h6-color: #1a84ae;
 
+  /* Código */
   --code-normal: #4b5563;
   --code-comment: #9ca3af;
   --code-background: #e5e5e5;
+
+  /* Grafo */
+  --graph-line: #9ca3af80;
+  --graph-node: #1a84ae;
+  --graph-node-focused: #f9c369;
+  --graph-node-tag: #26bfb8;
+  --graph-node-attachment: #9ca3af;
+  --graph-node-unresolved: #e5737380;
 }
 
+/* ============================================================
+   MODO OSCURO
+   ============================================================ */
 body.theme-dark,
 .theme-dark {
+  /* Fondos */
   --background-primary: #060b16;
-  --background-primary-alt: #060b16;
+  --background-primary-alt: #0d1220;
   --background-secondary: #1a1f2e;
   --background-secondary-alt: #1a1f2e;
   --background-modifier-hover: rgba(249, 195, 105, 0.15);
   --background-modifier-active-hover: rgba(249, 195, 105, 0.2);
   --background-modifier-border: #4b5563;
 
+  /* Textos */
   --text-normal: #d1d5db;
-  --text-muted: #d1d5db;
+  --text-muted: #9ca3af;
   --text-faint: #4b5563;
   --text-accent: #26bfb8;
   --text-accent-hover: #f9c369;
   --text-highlight-bg: #f9c36966;
+  --text-selection: rgba(38, 191, 184, 0.25);
 
+  /* Interactivos */
   --interactive-accent: #26bfb8;
   --interactive-accent-hover: #f9c369;
   --interactive-success: #26bfb8;
 
+  /* Headings */
   --h1-color: #26bfb8;
   --h2-color: #26bfb8;
   --h3-color: #26bfb8;
@@ -68,17 +102,40 @@ body.theme-dark,
   --h5-color: #26bfb8;
   --h6-color: #26bfb8;
 
+  /* Código */
   --code-normal: #d1d5db;
   --code-comment: #4b5563;
   --code-background: #1a1f2e;
+
+  /* Grafo */
+  --graph-line: #4b556380;
+  --graph-node: #26bfb8;
+  --graph-node-focused: #f9c369;
+  --graph-node-tag: #1a84ae;
+  --graph-node-attachment: #4b5563;
+  --graph-node-unresolved: #e5737380;
 }
 
-body,
-.markdown-source-view.mod-cm6 .cm-scroller,
-.markdown-preview-view {
+/* ============================================================
+   TIPOGRAFÍA GLOBAL
+   ============================================================ */
+body {
   font-family: var(--quartz-body-font) !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
+.markdown-source-view.mod-cm6 .cm-scroller,
+.markdown-preview-view,
+.markdown-reading-view {
+  font-family: var(--quartz-body-font) !important;
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+/* ============================================================
+   FONDOS CONSISTENTES
+   ============================================================ */
 .workspace,
 .workspace-tabs,
 .workspace-tab-container,
@@ -97,17 +154,76 @@ body,
   color: var(--text-normal);
 }
 
+/* ============================================================
+   HEADINGS — Fuente VT323 con subrayados decorativos
+   ============================================================ */
 .markdown-preview-view h1,
 .markdown-preview-view h2,
 .markdown-preview-view h3,
 .markdown-preview-view h4,
 .markdown-preview-view h5,
 .markdown-preview-view h6,
-.markdown-source-view.mod-cm6 .HyperMD-header {
+.markdown-source-view.mod-cm6 .HyperMD-header,
+.inline-title {
   font-family: var(--quartz-header-font) !important;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.04em;
+  font-weight: 400;
 }
 
+/* H1 — Subrayado grueso tipo "hero" */
+.markdown-preview-view h1,
+.markdown-source-view.mod-cm6 .HyperMD-header-1 {
+  font-size: 2.2rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 4px solid var(--interactive-accent);
+  margin-bottom: 1.5rem;
+}
+
+/* H2 — Subrayado medio amarillo dorado */
+.markdown-preview-view h2,
+.markdown-source-view.mod-cm6 .HyperMD-header-2 {
+  font-size: 1.8rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid var(--interactive-accent-hover);
+  margin-bottom: 1.2rem;
+}
+
+/* H3 — Subrayado sutil punteado */
+.markdown-preview-view h3,
+.markdown-source-view.mod-cm6 .HyperMD-header-3 {
+  font-size: 1.5rem;
+  padding-bottom: 0.2rem;
+  border-bottom: 1px dashed var(--text-faint);
+  margin-bottom: 1rem;
+}
+
+/* H4-H6 — Sin subrayado, más pequeños */
+.markdown-preview-view h4,
+.markdown-source-view.mod-cm6 .HyperMD-header-4 {
+  font-size: 1.3rem;
+}
+.markdown-preview-view h5,
+.markdown-source-view.mod-cm6 .HyperMD-header-5 {
+  font-size: 1.15rem;
+}
+.markdown-preview-view h6,
+.markdown-source-view.mod-cm6 .HyperMD-header-6 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+/* Inline title (nombre del archivo) */
+.inline-title {
+  font-size: 2.4rem !important;
+  color: var(--h1-color) !important;
+  border-bottom: 4px solid var(--interactive-accent) !important;
+  padding-bottom: 0.5rem !important;
+}
+
+/* ============================================================
+   CÓDIGO
+   ============================================================ */
 .markdown-preview-view code,
 .markdown-preview-view pre,
 .markdown-source-view.mod-cm6 .cm-inline-code,
@@ -115,12 +231,27 @@ body,
   font-family: var(--quartz-code-font) !important;
 }
 
+/* Inline code con pill-style */
+.markdown-preview-view code:not(pre code),
+.markdown-source-view.mod-cm6 .cm-inline-code:not(.cm-formatting) {
+  background-color: var(--code-background);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+/* ============================================================
+   ENLACES — Estilo Quartz con highlight
+   ============================================================ */
 a,
 .internal-link,
 .external-link,
 .markdown-source-view.mod-cm6 .cm-link,
 .markdown-source-view.mod-cm6 .cm-hmd-internal-link {
   color: var(--text-accent) !important;
+  text-decoration: none !important;
+  font-weight: 600;
+  transition: all 0.2s ease;
 }
 
 a:hover,
@@ -131,22 +262,265 @@ a:hover,
   color: var(--text-accent-hover) !important;
 }
 
+/* Internal links con fondo sutil como en Quartz */
 .internal-link,
 .markdown-source-view.mod-cm6 .cm-hmd-internal-link {
   background-color: var(--background-modifier-hover);
   border-radius: 5px;
-  padding: 0 0.15rem;
+  padding: 0 0.2rem;
+  line-height: 1.4rem;
 }
 
+.internal-link:hover,
+.markdown-source-view.mod-cm6 .cm-hmd-internal-link:hover {
+  background-color: var(--background-modifier-active-hover);
+}
+
+/* ============================================================
+   BLOCKQUOTES Y CALLOUTS
+   ============================================================ */
 blockquote,
 .callout {
   border-left: 3px solid var(--interactive-accent);
   background: var(--background-secondary);
+  border-radius: 0 8px 8px 0;
+  padding: 0.8rem 1.2rem;
+  margin: 1rem 0;
 }
 
+/* Callout tipo card con sombra brutal (como la web) */
+.callout[data-callout="card"],
+.callout[data-callout="solution"],
+.callout[data-callout="solve"] {
+  border: 3px solid var(--text-faint);
+  border-left: 3px solid var(--text-faint);
+  box-shadow: 4px 4px 0 0 var(--text-faint);
+  border-radius: 0;
+}
+
+.callout[data-callout="card"]:hover,
+.callout[data-callout="solution"]:hover,
+.callout[data-callout="solve"]:hover {
+  transform: translateY(-2px);
+  box-shadow: 6px 6px 0 0 var(--text-faint);
+}
+
+/* ============================================================
+   SELECCIÓN DE TEXTO
+   ============================================================ */
 .cm-s-obsidian .cm-selectionBackground,
 .markdown-source-view.mod-cm6 .cm-selectionBackground,
 ::selection {
-  background: var(--text-highlight-bg) !important;
+  background: var(--text-selection) !important;
   color: var(--text-normal);
+}
+
+/* ============================================================
+   HIGHLIGHT / MARCA == ==
+   ============================================================ */
+mark,
+.markdown-preview-view mark,
+.cm-highlight {
+  background-color: var(--text-highlight-bg) !important;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
+/* ============================================================
+   TAGS — Estilo pill
+   ============================================================ */
+.tag,
+.cm-hashtag {
+  background-color: var(--background-modifier-hover) !important;
+  color: var(--text-accent) !important;
+  border: 1px solid var(--text-accent) !important;
+  border-radius: 12px !important;
+  padding: 2px 8px !important;
+  font-size: 0.85em;
+  font-weight: 500;
+}
+
+.tag:hover,
+.cm-hashtag:hover {
+  background-color: var(--background-modifier-active-hover) !important;
+  color: var(--text-accent-hover) !important;
+  border-color: var(--text-accent-hover) !important;
+}
+
+/* ============================================================
+   PROPIEDADES / FRONTMATTER
+   ============================================================ */
+.metadata-container {
+  background-color: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 8px;
+  padding: 0.8rem;
+  margin-bottom: 1rem;
+}
+
+.metadata-property {
+  border-bottom: 1px solid var(--background-modifier-border);
+  padding: 4px 0;
+}
+
+/* ============================================================
+   TABLAS
+   ============================================================ */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  background-color: var(--interactive-accent);
+  color: #fff;
+  font-family: var(--quartz-header-font);
+  font-size: 1.1em;
+  letter-spacing: 0.03em;
+}
+
+th, td {
+  border: 1px solid var(--background-modifier-border);
+  padding: 8px 12px;
+}
+
+tr:nth-child(even) {
+  background-color: var(--background-secondary);
+}
+
+tr:hover {
+  background-color: var(--background-modifier-hover);
+}
+
+/* ============================================================
+   CHECKBOXES
+   ============================================================ */
+input[type="checkbox"] {
+  accent-color: var(--interactive-accent);
+}
+
+input[type="checkbox"]:checked + * {
+  text-decoration: line-through;
+  color: var(--text-faint);
+}
+
+/* ============================================================
+   HORIZONTAL RULES
+   ============================================================ */
+hr {
+  border: none;
+  border-top: 2px solid var(--interactive-accent);
+  opacity: 0.4;
+  margin: 2rem 0;
+}
+
+/* ============================================================
+   IMÁGENES
+   ============================================================ */
+img:not(.emoji) {
+  border-radius: 4px;
+  max-width: 100%;
+}
+
+.markdown-preview-view img {
+  display: block;
+  margin: 1rem auto;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 4px;
+}
+
+/* ============================================================
+   SIDEBAR Y NAVEGACIÓN
+   ============================================================ */
+.nav-file-title,
+.nav-folder-title {
+  font-family: var(--quartz-body-font);
+  font-size: 0.9em;
+}
+
+.nav-file-title.is-active,
+.nav-folder-title.is-active {
+  color: var(--text-accent);
+  background-color: var(--background-modifier-hover);
+  border-radius: 4px;
+}
+
+/* ============================================================
+   SCROLLBAR PERSONALIZADA
+   ============================================================ */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--background-primary);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--text-faint);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}
+
+/* ============================================================
+   EMBEDS — Notas embebidas
+   ============================================================ */
+.markdown-embed {
+  border: 1px solid var(--background-modifier-border);
+  border-left: 3px solid var(--interactive-accent);
+  border-radius: 0 8px 8px 0;
+  padding: 0.8rem;
+  margin: 0.5rem 0;
+  background-color: var(--background-secondary);
+}
+
+.markdown-embed-title {
+  font-family: var(--quartz-header-font);
+  color: var(--text-accent);
+}
+
+/* ============================================================
+   TOOLTIPS / POPOVERS (vista previa al hover)
+   ============================================================ */
+.popover {
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* ============================================================
+   ANIMACIONES SUTILES
+   ============================================================ */
+.nav-file-title,
+.nav-folder-title,
+.internal-link,
+a,
+.tag,
+button {
+  transition: all 0.15s ease;
+}
+
+/* ============================================================
+   PRINT / PDF — Ajustes de impresión
+   ============================================================ */
+@media print {
+  body {
+    background: white !important;
+    color: black !important;
+  }
+
+  .markdown-preview-view h1,
+  .markdown-preview-view h2,
+  .markdown-preview-view h3 {
+    color: #1a84ae !important;
+  }
+
+  a, .internal-link {
+    color: #1a84ae !important;
+    text-decoration: underline !important;
+  }
 }
