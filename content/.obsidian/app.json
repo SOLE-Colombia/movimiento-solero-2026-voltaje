@@ -1,4 +1,5 @@
 {
+  "monoFont": "IBM Plex Mono",
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "assets",
   "newFileLocation": "folder",
@@ -8,7 +9,7 @@
   "useMarkdownLinks": false,
   "showLineNumber": true,
   "spellcheck": true,
-  "spellcheckLanguages": ["es"],
+  "spellcheckLanguages": null,
   "readableLineLength": true,
   "defaultViewMode": "source",
   "livePreview": true,

@@ -5,6 +5,5 @@
   "enabledCssSnippets": [
     "quartz-theme"
   ],
-  "monoFont": "IBM Plex Mono",
   "interfaceFontFamily": "Roboto Mono"
 }
