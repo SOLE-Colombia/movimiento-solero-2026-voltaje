@@ -37,7 +37,7 @@ El día después, ¿cómo la contribución de los participantes se vuelve en alg
 - ¿Cómo se va hacer?: A través de actividades de cacharreo y de SOLEs alternativos en donde participantes pueden probar esta Estación según su motivación.
 - ¿Para qué?: Si la gente experimenta un taller creativo de cacharreo y SOLEo alternativo puede vivir e imaginar casos de uso en sus retos o proyectos personales u organizacionales y darnos retroalimentación respecto a las preguntas del propósito del evento.
 
-[20240523_SOLE+BOLT_Voltaje_Evento Pre-lanzamiento SOLE Voltaje_Estación cacharreo y SOLE alternativo.pdf](/downloads/20240523-solebolt-voltaje-evento-pre-lanzamiento-sole-voltaje-estacin-cacharreo-y-sole-alternativo.pdf)
+20240523_SOLE+BOLT_Voltaje_Evento Pre-lanzamiento SOLE Voltaje_Estación cacharreo y SOLE alternativo.pdf
 
 ## Online
 

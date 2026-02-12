@@ -211,8 +211,6 @@ traduccion: false
 
 | Plugin | ¿Para qué? |
 |---|---|
-| **Graph Analysis** | Análisis del grafo: notas cercanas, clusters |
-| **Find Unlinked Files** | Encontrar notas huérfanas sin enlaces |
 | **Auto Link Title** | Al pegar un URL, obtiene el título automáticamente |
 | **Breadcrumbs** | Navegación jerárquica entre notas padre/hijo |
 | **Hover Editor** | Editar notas enlazadas sin salir de la actual |
@@ -222,8 +220,7 @@ traduccion: false
 | Plugin | ¿Para qué? |
 |---|---|
 | **Tag Wrangler** | Renombrar y gestionar tags masivamente |
-| **Outliner** | Mejorar el manejo de listas anidadas |
-| **Icon Folder** | Añadir iconos a las carpetas del explorador |
+| **Iconize** | Añadir iconos a las carpetas del explorador |
 | **Kanban** | Tablero visual para gestionar tareas/contenido |
 
 > Nota: En este proyecto **no usamos Obsidian Git** para evitar commits automáticos

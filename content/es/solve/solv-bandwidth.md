@@ -71,7 +71,7 @@ Imagina que el **ancho de banda** es como un camión gigante de mercancía, así
     
     A veces, la conexión se siente lenta porque hay muchas personas en tu vecindario usando el mismo canal de Wi-Fi. Cambiar el canal puede hacer que tu conexión sea más rápida y fluida. Es como mover tu fiesta a un lugar donde hay menos ruido.
     
-    [**Ve a Mejora la señal de tu Router para seguir el paso a paso**](/como-mejorar-la-senal-de-tu-router-solutions-db) 
+    **Ve a Mejora la señal de tu Router para seguir el paso a paso** 
     
 - **Momento 5: Mantén Tu Router en Forma**
     
@@ -97,8 +97,8 @@ También puedes monitorear tu consumo de datos, el uso de datos de las aplicacio
 
 ## Soluciones recomendadas
 
-- [¿Cómo comprar un plan celular adecuado para mi?](es/solve/como-comprar-un-plan-celular-adecuado-para-mi-solutions-db) 
-- [¿Cómo probar la velocidad de tu conexión a Internet?](es/solve/como-probar-la-velocidad-de-tu-conexion-a-internet-solutions-db) 
-- [¿Cómo saber qué tipo de señal de Internet tienes?](es/solve/como-saber-que-tipo-de-senal-de-internet-tienes-solutions-db) 
+- ¿Cómo comprar un plan celular adecuado para mi? 
+- ¿Cómo probar la velocidad de tu conexión a Internet? 
+- ¿Cómo saber qué tipo de señal de Internet tienes? 
 ---
 

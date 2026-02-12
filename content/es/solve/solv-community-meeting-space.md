@@ -138,8 +138,8 @@ Muchas veces es suficiente con recordar a la persona con quien hiciste la solici
 
 ## Soluciones recomendadas
 
-- [Descubre a tu audiencia](es/solve/descubre-a-tu-audiencia-solutions-db) 
-- [Difunde tu mensaje ](es/solve/difunde-tu-mensaje-solutions-db) 
+- Descubre a tu audiencia 
+- Difunde tu mensaje  
 
 
 

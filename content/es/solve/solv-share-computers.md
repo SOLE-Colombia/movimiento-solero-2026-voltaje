@@ -74,5 +74,5 @@ Está solución no te permitirá conseguir computadores de manera permanente y e
 
 ## Soluciones recomendadas
 
-- [¿Cómo aliarse con lugares que convocan?](es/solve/como-aliarse-con-lugares-que-convocan-solutions-db) 
+- ¿Cómo aliarse con lugares que convocan? 
  

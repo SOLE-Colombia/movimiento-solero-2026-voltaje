@@ -16,7 +16,7 @@ Cuanto menor sea la latencia, mejor será la conexión a internet.
 
 Para calcular la latencia se utilizan dos parámetros: el **ping**, una unidad de medida que se expresa en milisegundos (ms)., y el **lag**, que se refiere al retardo excesivo.
 
-Puedes medir ambos parámetros con un [test de velocidad](es/inspire/como-probar-la-velocidad-de-tu-conexion-a-internet-solutions-db)
+Puedes medir ambos parámetros con un test de velocidad
 
 ### ¿Qué es el ping?
 

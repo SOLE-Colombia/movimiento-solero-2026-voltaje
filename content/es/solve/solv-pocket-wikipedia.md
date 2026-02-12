@@ -51,7 +51,7 @@ Esta receta hace parte de la serie de cosas útiles que puedes hacer con tu [**
         
         <img src="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp" alt="image.png" srcset="/assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-400w.webp 400w, /assets\images\Antena 3 4G 3 4G Antenna 22b2bd68c5b68076a24ccc4e1d6ff4af\image-800w.webp 800w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
         
-        El primer componente que vamos a descargar es la aplicación que nos va a permitir servir el archivo comprimido de la wikipedia, para que podamos acceder a él desde nuestra [**red local**](/lan-red-local-lan-local-area-network-conceptorio).
+        El primer componente que vamos a descargar es la aplicación que nos va a permitir servir el archivo comprimido de la wikipedia, para que podamos acceder a él desde nuestra **red local**.
         
         <img src="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp" alt="image.png" srcset="/assets\images\Conexión cable Ethernet Ethernet cable connection 22b2bd68c5b680fa90ceecc23bea76db\image 1-275w.webp 275w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
         
@@ -168,6 +168,6 @@ Esta receta hace parte de la serie de cosas útiles que puedes hacer con tu [**
 
 ## Soluciones recomendadas
 
-- [Raspberry Pi: Una pequeña Internet de bolsillo](/raspberry-pi-una-pequena-internet-de-bolsillo-solutions-db) | [Raspberry Pi: A small pocket-sized Internet](/raspberry-pi-a-small-pocket-sized-internet-solutions-db)
-- [¿Quieres compartir tu internet sin cables? Configura tu Raspberry Pi ](/quieres-compartir-tu-internet-sin-cables-configura-tu-raspberry-pi-solutions-db) | [Do you want to share your internet wirelessly? Configure your Raspberry Pi ](/do-you-want-to-share-your-internet-wirelessly-configure-your-raspberry-pi-solutions-db)
-- [¿Cómo conseguir equipos donados?](/como-conseguir-equipos-donados-solutions-db) | [How to get donated equipment?](/how-to-get-donated-equipment-solutions-db)
+- Raspberry Pi: Una pequeña Internet de bolsillo | Raspberry Pi: A small pocket-sized Internet
+- ¿Quieres compartir tu internet sin cables? Configura tu Raspberry Pi  | Do you want to share your internet wirelessly? Configure your Raspberry Pi 
+- ¿Cómo conseguir equipos donados? | How to get donated equipment?

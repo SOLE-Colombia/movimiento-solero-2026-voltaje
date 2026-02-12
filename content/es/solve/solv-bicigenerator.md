@@ -187,9 +187,9 @@ Esta solución solo permite tener independencia energética de un router y un co
 
 ## Soluciones recomendadas
 
-- [**Construye una antena 3G casera**](/es/solve/construye-una-antena-3g-casera-solutions-db) 
-- [**¿Tu comunidad necesita apoyo económico para conectarse a Internet?**](/es/solve/tu-comunidad-necesita-apoyo-economico-para-conectarse-a-internet-solutions-db) 
-- [**¿Cómo usar el juego para aprender a cuidar equipos en comunidad?**](/es/solve/como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-solutions-db) 
+- **Construye una antena 3G casera** 
+- **¿Tu comunidad necesita apoyo económico para conectarse a Internet?** 
+- **¿Cómo usar el juego para aprender a cuidar equipos en comunidad?** 
 ## Referencias
 
 - [Google Sites](https://sites.google.com/a/bicimaquinas.com/bicimaquinas3/bicimaquinas-1)

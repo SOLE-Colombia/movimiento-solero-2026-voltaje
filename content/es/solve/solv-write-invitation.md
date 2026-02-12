@@ -32,7 +32,7 @@ Con unos cuantos consejos y un poco de creatividad, podemos hacer que tu SOLE, t
 
 ## Para qué sirve?
 
-Sigue estas recomendaciones o consejos cuando necesites hacer una invitación. Si estás perdido y no sabes por dónde empezar te recomiendo ir primero a [**Crea un mensaje potente**](es/solve/crea-un-mensaje-potente-solutions-db). Así tendrás más herramientas para hacer tu invitación. 
+Sigue estas recomendaciones o consejos cuando necesites hacer una invitación. Si estás perdido y no sabes por dónde empezar te recomiendo ir primero a **Crea un mensaje potente**. Así tendrás más herramientas para hacer tu invitación. 
 
 ¿Estás listo/a para aprender cómo conquistar con palabras y lograr que tu próxima convocatoria sea todo un éxito? ¡Vamos a hacer una invitación potente juntos!
 
@@ -113,15 +113,15 @@ Actividad: Usa un verbo en acción para iniciar la frase que cierra tu invitaci�
 
 Cuando necesites hacer una invitación, no olvides que lo más importante es confiar en tus propias habilidades; tú conoces mejor que nadie a los tuyos. ¡Te sorprenderá el poder de unas palabras bien elegidas para inspirar y reunir a la comunidad! 
 
-Ahora es tu turno de conquistar a tu comunidad con tus propias palabras, visita [¡Aprende a diseñar tu invitación exprés sin ser un experto!](es/solve/aprende-a-disenar-tu-invitacion-expres-sin-ser-un-experto-solutions-db) para más consejos sobre tu invitación.
+Ahora es tu turno de conquistar a tu comunidad con tus propias palabras, visita ¡Aprende a diseñar tu invitación exprés sin ser un experto! para más consejos sobre tu invitación.
 
 Buena suerte 😉
 
 ## Soluciones recomendadas
 
-- [Crea un mensaje potente](es/solve/crea-un-mensaje-potente-solutions-db)
-- [¡Aprende a diseñar tu invitación exprés sin ser un experto!](es/solve/aprende-a-disenar-tu-invitacion-expres-sin-ser-un-experto-solutions-db) 
-- [Difunde tu mensaje ](es/solve/difunde-tu-mensaje-solutions-db) 
+- Crea un mensaje potente
+- ¡Aprende a diseñar tu invitación exprés sin ser un experto! 
+- Difunde tu mensaje  
 ## Referencias
 
 - **“El Círculo Dorado”de Simon Sinek:** [Dizalo](https://dizalo.com/branding/que-es-el-circulo-dorado-de-simon-sinek-y-como-podemos-usarlo/)

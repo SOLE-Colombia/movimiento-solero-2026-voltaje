@@ -120,7 +120,7 @@ Asimismo, entre menos peces cojamos, más peces se reproducirán en la mesa y la
     
 Dale a los participantes la cartulina y los marcadores. Invítalos a escribir acuerdos sobre cómo manejar los recursos o equipos tecnológicos que tienen a su disposición. Te recomendamos descargar la siguiente plantilla para guiarte en la conversación. 
 
-[Reglas uso y cuidado compartido de equipo tecnológicos.pptx](¿Cómo usar el juego para aprender a cuidar equipos 12a2bd68c5b6801a8d61de57be65d679/Reglas_uso_y_cuidado_compartido_de_equipo_tecnolgicos.pptx)
+Reglas uso y cuidado compartido de equipo tecnológicos.pptx
 
 Estas preguntas son solamente una guía, por lo que puedes añadir o quitar las preguntas que veas pertinentes. Pídele a los participantes que dejen por escrito los acuerdos a los que llegaron e invítalos a compartirlos con el resto de la comunidad. Esto es fundamental ya que, en momentos de conflicto o dificultades para resolver un problema, pueden volver a lo escrito para llegar a soluciones o para replantear nuevos acuerdos.
     
@@ -145,9 +145,9 @@ Queremos compartirte la historia de Alexander, un referente de la comunidad de l
 
 ## Soluciones recomendadas
 
-- [¿Cómo instalar mi antena 3 - 4G?](es/solve/como-instalar-mi-antena-3-4g-solutions-db) 
-- [¿Cómo compartir los computadores disponibles?](es/solve/como-compartir-los-computadores-disponibles-solutions-db) 
-- [**Haz una colecta para pagar internet comunitario**](es/solve/haz-una-colecta-para-pagar-internet-comunitario-solutions-db)  
+- ¿Cómo instalar mi antena 3 - 4G? 
+- ¿Cómo compartir los computadores disponibles? 
+- **Haz una colecta para pagar internet comunitario**  
 
 ## **Referencias**
 

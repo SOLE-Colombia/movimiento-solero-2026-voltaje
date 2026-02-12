@@ -51,7 +51,7 @@ Desliza la parte superior de tu teléfono hacia abajo para acceder al panel de c
     
     Dirígete a configuración y busca **“punto de acceso móvil”**, en inglés aparece como **“Hotspot”**. 
     
-    En este menú busca la opción **“Establecer un punto de acceso móvil”**. Te aparecerán varios datos, por ahora solo nos interesa configurar el nombre de la [red WiFi](/es/glossary/wifi-fidelidad-inalambrica-wifi-wireless-fidelity-conceptorio) que crees y la contraseña de acceso. 
+    En este menú busca la opción **“Establecer un punto de acceso móvil”**. Te aparecerán varios datos, por ahora solo nos interesa configurar el nombre de la red WiFi que crees y la contraseña de acceso. 
     
     Una vez los cambies presiona en el chulo (o el aspa) para guardar la nueva configuración.
     
@@ -80,8 +80,8 @@ Esta receta no te servirá si la señal de telefonía en tu zona no es de buena 
 
 ## **Soluciones recomendadas**
 
-- [¿Cómo mejorar la señal de tu router?](es/solve/como-mejorar-la-senal-de-tu-router-solutions-db) 
-- [¿Cómo mejorar mi señal con una lata?](es/solve/como-mejorar-mi-senal-con-una-lata-solutions-db) 
-- [¿Cómo saber las contraseñas WiFi de mi celular?](es/solve/como-saber-las-contrasenas-wifi-de-mi-celular-solutions-db) 
+- ¿Cómo mejorar la señal de tu router? 
+- ¿Cómo mejorar mi señal con una lata? 
+- ¿Cómo saber las contraseñas WiFi de mi celular? 
 
 ---

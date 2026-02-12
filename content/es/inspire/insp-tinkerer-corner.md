@@ -97,7 +97,7 @@ Ahora el ensayo completo:
 
 *ensayo pdf*
 
-Recuperado de: [https://mirror.anarhija.net/es.theanarchistlibrary.org/mirror/u/uk/ursula-k-le-guin-la-teoria-de-la-bolsa-de-transporte-de-la-ficcion.pdf](/downloads/ursula-k-le-guin-la-teoria-de-la-bolsa-de-transporte-de-la-ficcion-1.pdf) 
+Recuperado de: https://mirror.anarhija.net/es.theanarchistlibrary.org/mirror/u/uk/ursula-k-le-guin-la-teoria-de-la-bolsa-de-transporte-de-la-ficcion.pdf 
 
 ### El kit de cacharreo, la colección de juguetes y de pociones
 

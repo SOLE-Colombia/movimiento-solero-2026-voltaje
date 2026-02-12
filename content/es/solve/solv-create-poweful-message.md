@@ -104,9 +104,9 @@ Es muy importante que tu mensaje cree una conexión emocional con quien lo recib
 
 ## Soluciones recomendadas
 
-- [Descubre a tu audiencia](es/solve/descubre-a-tu-audiencia-solutions-db) 
-- [Difunde tu mensaje ](es/solve/difunde-tu-mensaje-solutions-db) 
-- [¡Aprende a diseñar tu invitación exprés sin ser un experto!](es/solve/aprende-a-disenar-tu-invitacion-expres-sin-ser-un-experto-solutions-db) 
+- Descubre a tu audiencia 
+- Difunde tu mensaje  
+- ¡Aprende a diseñar tu invitación exprés sin ser un experto! 
 
 ## Referencias
 

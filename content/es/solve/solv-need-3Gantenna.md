@@ -42,7 +42,7 @@ Gabriel y yo hemos descubierto que comprar una antena comercial, 3G o 4G, es de 
 
 Lo que la antena hace, sencillamente, es capturar y amplificar la señal de datos, específica del celular (3G ó 4G), que viene en ondas electromagnéticas, por el aire, desde un lugar más alto que en el que estas tú -por encima de árboles, edificaciones o colinas- y bajarla, por un cable, a tu altura. 
 
-Una vez en ese punto, la señal se puede compartir en ese espacio a través de generar una red WiFi, o por cable, usando un [módem](es/glossary/modem-router-o-enrutador-modem-or-router-conceptorio.md) o *enrutador*. Sé que estos términos pueden parecer confusos, pero, a medida que avances por estas recomendaciones, tendrás más claridad sobre ellos.
+Una vez en ese punto, la señal se puede compartir en ese espacio a través de generar una red WiFi, o por cable, usando un módem o *enrutador*. Sé que estos términos pueden parecer confusos, pero, a medida que avances por estas recomendaciones, tendrás más claridad sobre ellos.
 
 ![Diagrama para ubicar Antena y Modem](assets/images/solv-need-3Gantenna/solv-need-3Gantenna-diagram.webp)
 
@@ -88,7 +88,7 @@ A continuación te presentamos los 4 momentos de lo que nosotros consideramos pa
     
     No es una solución económica, pero es la manera más confiable de establecer un punto de acceso a Internet para tu comunidad, si se encuentran en lugares con baja cobertura de telefonía móvil. 
     
-    **Si no hay cobertura de telefonía móvil, no vas a lograr conectividad con una de estas antenas.** Para conseguirla, tendrás que recurrir a soluciones como las que describimos en la solución de [¿Cómo comprar un servicio de internet satelital para lugares no interconectados?](es/solve/como-comprar-una-antena-satelital-solutions-db) en donde existen diversas soluciones satelitales, aunque tienden a ser más costosas. 
+    **Si no hay cobertura de telefonía móvil, no vas a lograr conectividad con una de estas antenas.** Para conseguirla, tendrás que recurrir a soluciones como las que describimos en la solución de ¿Cómo comprar un servicio de internet satelital para lugares no interconectados? en donde existen diversas soluciones satelitales, aunque tienden a ser más costosas. 
     
 - **Momento 2: De acuerdo con lo que necesitas, estas son las preguntas para hacerte**
 - **¿Dónde estoy ubicado geográficamente?**
@@ -184,7 +184,7 @@ Tienes que tener en cuenta que, para que la antena funcione, es necesario que es
 
 **Antena**
 
-La antena necesaria es una [***tipo yagi***](es/glossary/antena-tipo-yagi-yagi-antenna-conceptorio). Puede ser similar a la de la imagen arriba, o puede, también, estar encapsulada en un protector plástico, que protegerá la antena y sus conexiones de las condiciones climáticas, alargando su vida útil.
+La antena necesaria es una ***tipo yagi***. Puede ser similar a la de la imagen arriba, o puede, también, estar encapsulada en un protector plástico, que protegerá la antena y sus conexiones de las condiciones climáticas, alargando su vida útil.
 
 Una cosa que hay que tener en cuenta, con la antena, es su potencia. Este dato está expresado en Db: una antena de 65Db tendrá más potencia que una de 15Db. Como regla general, cuanto más lejos se encuentra la antena del proveedor, será necesaria una antena con mayor potencia para poder establecer una conexión.
 
@@ -192,7 +192,7 @@ Una cosa que hay que tener en cuenta, con la antena, es su potencia. Este dato e
 
 **Cable**
 
-El cable para conectar la antena al módem es parecido al cable coaxial, que se usa en las conexiones de televisión. Sin embargo, no es el mismo. Hay una amplia variedad de tipos de cable, pero, mínimamente, en este tipo de aplicaciones, se deben usar cables como el [RG-6](es/glossary/cable-rg6-rg6-cable-conceptorio). Ahora bien, es recomendable usar cables blindados, que minimicen la pérdida de señal y reduzcan la producción de ruido en el sistema.
+El cable para conectar la antena al módem es parecido al cable coaxial, que se usa en las conexiones de televisión. Sin embargo, no es el mismo. Hay una amplia variedad de tipos de cable, pero, mínimamente, en este tipo de aplicaciones, se deben usar cables como el RG-6. Ahora bien, es recomendable usar cables blindados, que minimicen la pérdida de señal y reduzcan la producción de ruido en el sistema.
 
 No debes modificar el cable que te entregue el proveedor de ninguna manera: el empalme entre cable y conectores en los extremos se lleva a cabo de manera que se minimice el ruido en el sistema, **cualquier alteración puede hacer totalmente inservibles todos los componentes**.
 
@@ -200,7 +200,7 @@ No debes modificar el cable que te entregue el proveedor de ninguna manera: el e
 
 **Módem / Router**
 
-Normalmente, los kits de antenas, vienen con un [módem y un enrutador](es/glossary/modem-router-o-enrutador-modem-or-router-conceptorio), que te permitirá conectarte y compartir la señal de la red móvil captada por la antena. 
+Normalmente, los kits de antenas, vienen con un módem y un enrutador, que te permitirá conectarte y compartir la señal de la red móvil captada por la antena. 
 
 Si ya cuentas con un módem, al momento de comprar, verifica que este pueda conectarse a la antena y, en dado caso, que el proveedor te envíe los adaptadores necesarios para realizar la conexión.
 
@@ -237,6 +237,6 @@ Una sola antena y una sola conexión, en grupo, será más que suficiente para p
 
 ## Soluciones recomendadas
 
-- [¿Cómo usar el juego para aprender a cuidar equipos en comunidad?](es/solve/como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-solutions-db)
-- [¿Cómo comprar una antena satelital?](es/solve/como-comprar-una-antena-satelital-solutions-db)
+- ¿Cómo usar el juego para aprender a cuidar equipos en comunidad?
+- ¿Cómo comprar una antena satelital?
 

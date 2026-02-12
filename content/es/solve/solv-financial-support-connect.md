@@ -41,7 +41,7 @@ Contactar con algunas de ellas puede llevarte a conseguir acceso a internet para
 
 ## **¿Cómo hacerlo?**
 
-- **Momento 1: Piensa en la mejor pregunta que puedes hacerle a internet y atrévete a bucear para encontrar… ¡puedes [hacer un SOLE](es/inspire/como-hacer-sole-tutorial-inspiration-db)!**
+- **Momento 1: Piensa en la mejor pregunta que puedes hacerle a internet y atrévete a bucear para encontrar… ¡puedes hacer un SOLE!**
     
     En el caso de Colombia, puede ser algo como “¿qué iniciativas que conectan a internet comunidades rurales, remotas y de bajos ingresos en Colombia?”, o “¿cómo conseguir internet subvencionada en Colombia?”, o “¿qué organizaciones conectan comunidades a Internet de bajo coste en Colombia?” ¡sé creativo en la pregunta para encontrar respuestas variadas!
     
@@ -151,10 +151,10 @@ Cuando las personas nos unimos para conseguir cosas, el límite es el cielo.
 
 ## **Soluciones recomendadas**
 
-- [**¿Necesito comprar una antena 3G/4G? Cómo tomar la decisión**](es/solve/necesito-comprar-una-antena-3g-4g-como-tomar-la-decision-solutions-db) 
-- [¿Cómo conseguir equipos donados?](es/solve/como-conseguir-equipos-donados-solutions-db) 
-- [¿Cómo compartir los computadores disponibles?](es/solve/como-compartir-los-computadores-disponibles-solutions-db)
-- [Big Box de Jangala: **Gestiona un potente router de internet inalámbrico para comunidades en exclusión digital**](es/solve/big-box-de-jangala-gestiona-un-potente-router-de-internet-inalambrico-para-comunidades-en-exclusion) 
+- **¿Necesito comprar una antena 3G/4G? Cómo tomar la decisión** 
+- ¿Cómo conseguir equipos donados? 
+- ¿Cómo compartir los computadores disponibles?
+- Big Box de Jangala: **Gestiona un potente router de internet inalámbrico para comunidades en exclusión digital** 
 
 
 

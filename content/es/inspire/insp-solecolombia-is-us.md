@@ -27,5 +27,5 @@ resumen: Estamos creando un futuro equitativo y hermoso juntos.
 </div>
 ## Contenido relacionado
 
-- [SOLE Colombia: Lo que somos](/sole-colombia-lo-que-somos-inspiration-db)
-- [¿Cómo hacer SOLE? - Tutorial](/como-hacer-sole-tutorial-inspiration-db) | [How to make SOLE? - Tutorial](/how-to-make-sole-tutorial-inspiration-db)
+- SOLE Colombia: Lo que somos
+- ¿Cómo hacer SOLE? - Tutorial | How to make SOLE? - Tutorial

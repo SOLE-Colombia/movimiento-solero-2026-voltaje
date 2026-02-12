@@ -100,7 +100,7 @@ Instalar la señal satelital implica que has tenido que instalar un paquete de p
     3. **Verifica la orientación de la antena hacia el satélite:** para esto, necesitarás verificar los ángulos de elevación (vertical) y azimut (horizontal). Para ello necesitarás una brújula y una aplicación de alineación de antenas, así como un medidor de señal. Puedes ir haciendo ajustes progresivos para ir afinando la recepción de señal.
     4. **Verifica la conexión del router:** revisa que esté encendido, el cable Ethernet conectado correctamente al modem satelital y al router y que el cable esté en buen estado.
     5. **Verifica la señal en tu dispositivo:** algunos sistemas de internet satelital cuentan con un software de monitorización de la señal que puede aportarte datos valiosos para saber si está conectado correctamente.
-    6. **Prueba la velocidad:** puedes hacer una verificación consultando [Ser un científico del Internet](es/inspire/ser-un-cientifico-del-internet-voltaje-desconectado)
+    6. **Prueba la velocidad:** puedes hacer una verificación consultando Ser un científico del Internet
     7. Si nada funciona, contacta con tu proveedor de servicio, puede haber algún error en la configuración.
 
 ## ¿Cómo saber si esta solución funciona?
@@ -115,7 +115,7 @@ Recuerda que Internet es de todos y para todos, cuanto más lo conozcamos, mejor
 
 ## Soluciones recomendadas
 
-- [¿Cómo saber qué tan buena es tu conexión a Internet?](es/solve/como-saber-que-tan-buena-es-tu-conexion-a-internet-solutions-db) 
-- [¿Cómo aprovechar mi ancho de banda?](es/solve/como-aprovechar-mi-ancho-de-banda-solutions-db) 
-- [¿Cómo probar la velocidad de tu conexión a Internet?](es/solve/como-probar-la-velocidad-de-tu-conexion-a-internet-solutions-db) 
+- ¿Cómo saber qué tan buena es tu conexión a Internet? 
+- ¿Cómo aprovechar mi ancho de banda? 
+- ¿Cómo probar la velocidad de tu conexión a Internet? 
 

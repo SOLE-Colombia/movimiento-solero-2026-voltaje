@@ -198,9 +198,9 @@ Esta pregunta es difícil de responder, pero creo que la podemos reformular de l
 
 ## Soluciones relacionadas
 
-- [¿Cómo comprar un celular adecuado para mí?](/es/solve/como-comprar-un-celular-adecuado-para-mi-solutions-db) 
-- [¿Cómo aprovechar mi ancho de banda?](/es/solve//como-aprovechar-mi-ancho-de-banda-solutions-db) 
-- [¿Cómo compartir Internet desde mi celular?](/es/solve//como-compartir-internet-desde-mi-celular-solutions-db) 
+- ¿Cómo comprar un celular adecuado para mí? 
+- ¿Cómo aprovechar mi ancho de banda? 
+- ¿Cómo compartir Internet desde mi celular? 
 
 ## Imagenes
 

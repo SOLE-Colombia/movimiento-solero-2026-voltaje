@@ -10,7 +10,7 @@ resumen: "Antes que nada, recordemos que los computadores entienden mejor númer
 ---
 Antes que nada, recordemos que los computadores entienden mejor números que textos. 
 
-Por eso, las [***direcciones IP***](/es/glossary/direccion-ip-ip-address-conceptorio) que se usan en las redes de computadores son cadenas de números, y no nombres como *el computador de la escuela en el salón 101*. Al contrario, a nosotros los humanos, se nos facilita lidiar con textos que tengan sentido en nuestro idioma y, muchas veces, se nos dificultan los números.
+Por eso, las ***direcciones IP*** que se usan en las redes de computadores son cadenas de números, y no nombres como *el computador de la escuela en el salón 101*. Al contrario, a nosotros los humanos, se nos facilita lidiar con textos que tengan sentido en nuestro idioma y, muchas veces, se nos dificultan los números.
 
 Para solucionar esta diferencia de lenguajes en las direcciones de red, se desarrolló el protocolo DNS: Sistema de Nombres de Dominio (por sus siglas en inglés).
 
@@ -46,7 +46,7 @@ Imagina que quieres llamar a un amigo. En lugar de usar su número de teléfono
 
 Antes que nada, recordemos que los computadores entienden mejor números que textos. 
 
-Por eso, las [***direcciones IP***](/es/glossary/direccion-ip-ip-address-conceptorio) que se usan en las redes de computadores son cadenas de números, y no nombres como *el computador de la escuela en el salón 101*. Al contrario, a nosotros los humanos, se nos facilita lidiar con textos que tengan sentido en nuestro idioma y, muchas veces, se nos dificultan los números.
+Por eso, las ***direcciones IP*** que se usan en las redes de computadores son cadenas de números, y no nombres como *el computador de la escuela en el salón 101*. Al contrario, a nosotros los humanos, se nos facilita lidiar con textos que tengan sentido en nuestro idioma y, muchas veces, se nos dificultan los números.
 
 Para solucionar esta diferencia de lenguajes en las direcciones de red, se desarrolló el protocolo DNS: Sistema de Nombres de Dominio (por sus siglas en inglés).
 

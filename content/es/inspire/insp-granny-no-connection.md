@@ -26,8 +26,8 @@ Desde aquí agradecemos a todas las que no desfallecieron, a las que enviaron un
 
 ## Contenido relacionado
 
-- [**Preguntas y respuestas sobre la experiencia de ser una Abuelita**](/preguntas-y-respuestas-sobre-la-experiencia-de-ser-una-abuelita-inspiration-db) | [Questions and answers of the Abuelita experience](/questions-and-answers-of-the-abuelita-experience-inspiration-db)
-- [La Nube de Abuelitas: cómo cambiar el mundo desde tu casa](/la-nube-de-abuelitas-como-cambiar-el-mundo-desde-tu-casa-inspiration-db) | [La Nube de Abuelitas: how to change the world from your home](/la-nube-de-abuelitas-how-to-change-the-world-from-your-home-inspiration-db)
-- [¿Cómo hacer SOLE? - Tutorial](/como-hacer-sole-tutorial-inspiration-db) | [How to make SOLE? - Tutorial](/how-to-make-sole-tutorial-inspiration-db)
+- **Preguntas y respuestas sobre la experiencia de ser una Abuelita** | Questions and answers of the Abuelita experience
+- La Nube de Abuelitas: cómo cambiar el mundo desde tu casa | La Nube de Abuelitas: how to change the world from your home
+- ¿Cómo hacer SOLE? - Tutorial | How to make SOLE? - Tutorial
 
 

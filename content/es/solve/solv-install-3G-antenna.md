@@ -25,7 +25,7 @@ ___
 
 ## ¿Qué es instalar una antena 3G/4G?
 
-En resumen, es colocar y poner en funcionamiento un equipo que permite mejorar el acceso a señal celular en una zona donde antes era débil. Ten presente que para esta solución necesitas tener la antena. Si aún no tienes una, puedes ir a la solución ["¿Cómo comprar una antena 3G-4G?" →](/es/solve/como-comprar-una-antena-satelital-solutions-db.md) para saber cuál te funciona mejor.
+En resumen, es colocar y poner en funcionamiento un equipo que permite mejorar el acceso a señal celular en una zona donde antes era débil. Ten presente que para esta solución necesitas tener la antena. Si aún no tienes una, puedes ir a la solución "¿Cómo comprar una antena 3G-4G?" → para saber cuál te funciona mejor.
 
 > Recuerda, las instrucciones y lo que encuentres aquí pueden verse algo diferente. 
 
@@ -37,7 +37,7 @@ Existen lugares en los que la señal de telefonía celular es muy débil. Puedes
 
 Hace poco entendí que la señal de Internet, que llega a los celulares, viaja por ondas electromagnéticas invisibles, y que los celulares tienen una antena pequeña en su interior, que captura esas ondas, permitiéndonos tener acceso a internet. 
 
-Lo que la antena hace es capturar y amplificar la señal de datos específica del celular (3G o 4G), es decir, la señal viaja, en ondas electromagnéticas, por el aire, desde un lugar más alto que en el que estás tú -por encima de arboles, edificaciones o colinas- y luego baja, por un cable, a tu altura. Cuando está a tu altura, la señal, puede compartirse por al aire usando una red WiFi, o por cable usando un [módem o enrutador](es/glossary/modem-router-o-enrutador-modem-or-router-conceptorio.md).
+Lo que la antena hace es capturar y amplificar la señal de datos específica del celular (3G o 4G), es decir, la señal viaja, en ondas electromagnéticas, por el aire, desde un lugar más alto que en el que estás tú -por encima de arboles, edificaciones o colinas- y luego baja, por un cable, a tu altura. Cuando está a tu altura, la señal, puede compartirse por al aire usando una red WiFi, o por cable usando un módem o enrutador.
 
 Sé que estos términos pueden parecer confusos, pero a medida que avances por los pasos de la instalación lo irás teniendo más claros.
 

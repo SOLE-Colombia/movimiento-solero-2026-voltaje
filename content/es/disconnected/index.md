@@ -19,21 +19,21 @@ Lo interesante de este juego de cartas es que puede ampliarse tanto como queramo
 
 Este juego no tiene un orden específico, por lo que puedes empezar por cualquier de los tres tipos de cartas. ¡Empecemos!
 
-[Descarga aquí el juego de cartas del Desconectado](es/disconnected/descarga-aqui-el-juego-de-cartas-del-desconectado-desconectado.md)
+Descarga aquí el juego de cartas del Desconectado
 
-[Instrucciones para jugar SOLE Voltaje Desconectado](es/disconnected/instrucciones-para-jugar-sole-voltaje-desconectado-desconectado.md)
+Instrucciones para jugar SOLE Voltaje Desconectado
 
 ### **Cartas Cacharreras: ¿Cómo está tu señal?**
 
-Para entender cómo funciona el internet en cualquier parte del mundo en el que estés, puedes empezar por cacharrear la señal que tengas. Pero ¿qué señal tienes? ¿Cómo funciona? Tenemos dos cartas que te ayudarán a responder estas preguntas en la práctica: [**¿cómo cacharrear tu señal móvil?**](es/disconnected/como-cacharrear-tu-senal-movil-voltaje-desconectado.md) o [**¿cómo cacharrear tu señal WiFi?**](es/disconnected/como-cacharrear-tu-senal-wifi-voltaje-desconectado.md) Esta primera distinción te permitirá distinguir cómo llega la señal de internet a cualquier dispositivo. Abre cualquiera de las dos cartas y sigue las instrucciones para empezar a navegar. 
+Para entender cómo funciona el internet en cualquier parte del mundo en el que estés, puedes empezar por cacharrear la señal que tengas. Pero ¿qué señal tienes? ¿Cómo funciona? Tenemos dos cartas que te ayudarán a responder estas preguntas en la práctica: **¿cómo cacharrear tu señal móvil?** o **¿cómo cacharrear tu señal WiFi?** Esta primera distinción te permitirá distinguir cómo llega la señal de internet a cualquier dispositivo. Abre cualquiera de las dos cartas y sigue las instrucciones para empezar a navegar. 
 
-[Sin título](¿Desconectado 1292bd68c5b681cba770d407771654ee/Sin título 1602bd68c5b680f7b1fdff1931ec64f5.csv)
+Sin título
 
 ### Cartas Navegadoras: ¿Qué te gustaría más?
 
 Estas cartas te ayudarán a navegar por el internet mientras aprendes sobre la importancia de hacernos Grandes Preguntas. También aprenderás sobre cómo viaja el internet, qué tan rápido es, qué señal tienes, cómo aprovecharla y mucho más.Para jugar este juego puedes seguir los siguientes pasos:
 
-1. Escoge 2 cartas aleatorias y coloca en medio la carta [¿qué te gustaría más?](es/disconnected/que-te-gustaria-mas-sin-titulo.md)
+1. Escoge 2 cartas aleatorias y coloca en medio la carta ¿qué te gustaría más?
 
 
 2. Responde qué te gustaría más: ¿Cuál de las dos cartas prefieres? ¿Ser inter para viajar por un cable a través de la tierra y los oceanos o Viajar a la velocidad de la luz? Combina las cartas como lo desees.

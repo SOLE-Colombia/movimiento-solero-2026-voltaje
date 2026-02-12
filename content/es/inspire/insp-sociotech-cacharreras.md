@@ -14,7 +14,7 @@ Nos propusimos crear este espacio divergente que estas explorando llamado **SOLE
 ![Trayectoria socio-técnica de la Comunidad de Cacharreras](../../../assets/images/insp-sociotech-cacharreras/nsp-sociotech-cacharreras-canvas.webp)
 
 - Micro-eventos: Son los acontecimientos significativos particulares que suceden en cada una de las trayectorias.
-- Trayectoria socio-técnica: Una trayectoria socio-técnica es un proceso de co-construcción de productos, procesos productivos y organizacionales, instituciones, relaciones usuario-productor, procesos de aprendizaje, relaciones problema-solución, procesos de construcción de funcionamiento/no funcionamiento de una tecnología, racionalidades, políticas y estrategias determinadas. Para entender más sobre el análisis socio-técnico puedes ir nuestro [conceptorio](https://www.notion.so/1992bd68c5b680a9a298f368c4d7d5d4?pvs=21).
+- Trayectoria socio-técnica: Una trayectoria socio-técnica es un proceso de co-construcción de productos, procesos productivos y organizacionales, instituciones, relaciones usuario-productor, procesos de aprendizaje, relaciones problema-solución, procesos de construcción de funcionamiento/no funcionamiento de una tecnología, racionalidades, políticas y estrategias determinadas. Para entender más sobre el análisis socio-técnico puedes ir nuestro conceptorio.
 
 Enunciando tres grandes controversias de interés de esta trayectoria tenemos:
 

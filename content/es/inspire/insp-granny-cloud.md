@@ -31,8 +31,8 @@ Quédate pendiente en nuestras redes sociales y demás plataformas (echa un vist
 
 ## Contenido relacionado
 
-- [**Preguntas y respuestas sobre la experiencia de ser una Abuelita**](/preguntas-y-respuestas-sobre-la-experiencia-de-ser-una-abuelita-inspiration-db) |
-- [La Nube de Abuelitas: qué pasa cuando no hay conexión](/la-nube-de-abuelitas-que-pasa-cuando-no-hay-conexion-inspiration-db) |
-- [¿Qué es un Costurero de Abuelitas, en SOLE Colombia?](/que-es-un-costurero-de-abuelitas-en-sole-colombia-inspiration-db) |
-- [¿Cómo hacer SOLE? - Tutorial](/como-hacer-sole-tutorial-inspiration-db) | [How to make SOLE? - Tutorial](/how-to-make-sole-tutorial-inspiration-db)
+- **Preguntas y respuestas sobre la experiencia de ser una Abuelita** |
+- La Nube de Abuelitas: qué pasa cuando no hay conexión |
+- ¿Qué es un Costurero de Abuelitas, en SOLE Colombia? |
+- ¿Cómo hacer SOLE? - Tutorial | How to make SOLE? - Tutorial
 

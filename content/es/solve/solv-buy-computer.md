@@ -156,9 +156,9 @@ Con esto que acabamos de ver, ya no te pueden meter los dedos a la boca, **¡es 
 
 ## Soluciones relacionadas
 
-- [¿Cómo compartir los computadores disponibles?](es/solve/como-compartir-los-computadores-disponibles-solutions-db) 
-- [¿Cómo conseguir equipos donados?](es/solve/como-conseguir-equipos-donados-solutions-db) 
-- [¿Cómo usar el juego para aprender a cuidar equipos en comunidad?](es/solve/como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-solutions-db) 
+- ¿Cómo compartir los computadores disponibles? 
+- ¿Cómo conseguir equipos donados? 
+- ¿Cómo usar el juego para aprender a cuidar equipos en comunidad? 
 
 ## Referencias
 

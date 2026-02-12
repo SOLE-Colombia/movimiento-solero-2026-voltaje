@@ -19,21 +19,21 @@ Si quieres hacer parte de una comunidad de cacharreros que comparte preguntas, c
 
 para que algún miembro de nuestra comunidad cacharrera pueda responder. Queremos contarte que somos una comunidad descentralizada, ¿qué quiere decir esto? Que cualquier persona con inquietudes parecidas a las tuyas puede responder a tus preguntas o comentarios, incluso tu yo del futuro. 
 
-[Responses](Pregunta Comenta 1292bd68c5b681d0b97ae7d5e9b62321/Responses 12a2bd68c5b6801b8592c30d9b09b919.csv)
+Responses
 
 ---
 
-[¿Nuevo aquí?](/nuevo-aqui-sole-voltaje)
+¿Nuevo aquí?
 
-[Inspírate](/inspirate-sole-voltaje)
+Inspírate
 
-[Soluciona](/soluciona-sole-voltaje)
+Soluciona
 
 [Pregunta/Comenta](/pregunta-comenta-sole-voltaje)
 
-[¿Desconectado?](/desconectado-sole-voltaje)
+¿Desconectado?
 
-[Conceptorio](/conceptorio-sole-voltaje)
+Conceptorio
 
 *SOLE Voltaje is a project by [SOLE Colombia](https://www.solecolombia.org/) supported by [Internet Society Foundation](https://www.isocfoundation.org/)*
 

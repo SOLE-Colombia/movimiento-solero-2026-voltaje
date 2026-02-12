@@ -161,6 +161,6 @@ ___
 
 ## Soluciones relacionadas
 
-- Tener un "Big Box" significa que debemos cuidarlo en comunidad. Usando una herramienta lúdica pueden aprender a hacerlo juntos: [¿Cómo usar el juego para aprender a cuidar equipos en comunidad?](es/solve/como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-solutions-db) 
-- El internet comunitario es más poderoso cuando se usa en grupo. Te comparto algunas recomendaciones para buscar un espacio de reunión: [Pide un Salón Comunal, o cualquier espacio comunitario](es/solve/pide-un-salon-comunal-o-cualquier-espacio-comunitario-solutions-db) 
-- Recuerda que el Jangala Big Box necesita de algún tipo de señal para funcionar. Si lo haces a través de una SIM Card (señal celular), esta solución puede ayudarte a decidir qué plan de internet comprar: [¿Cómo comprar un plan celular adecuado para mi?](es/solve/como-comprar-un-plan-celular-adecuado-para-mi-solutions-db) 
+- Tener un "Big Box" significa que debemos cuidarlo en comunidad. Usando una herramienta lúdica pueden aprender a hacerlo juntos: ¿Cómo usar el juego para aprender a cuidar equipos en comunidad? 
+- El internet comunitario es más poderoso cuando se usa en grupo. Te comparto algunas recomendaciones para buscar un espacio de reunión: Pide un Salón Comunal, o cualquier espacio comunitario 
+- Recuerda que el Jangala Big Box necesita de algún tipo de señal para funcionar. Si lo haces a través de una SIM Card (señal celular), esta solución puede ayudarte a decidir qué plan de internet comprar: ¿Cómo comprar un plan celular adecuado para mi? 

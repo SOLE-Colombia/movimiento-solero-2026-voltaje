@@ -74,7 +74,7 @@ Crearás contenido más relevante para esas personas, adecuado a sus intereses y
     Ahora que tienes una idea clara de quiénes son tus potenciales participantes, es hora de observar y escuchar.
     
     1. Comienza a interactuar con tu audiencia potencial a través de **encuestas**, **entrevistas** o simplemente **observando sus interacciones** en línea. 
-    2. Anota cualquier **respuesta, comentario o patrón** que te ayude a entender mejor sus necesidades y preferencias y [difunde tu mensaje,](es/solve/difunde-tu-mensaje-solutions-db) teniendo en cuenta sus reacciones o comportamientos. 
+    2. Anota cualquier **respuesta, comentario o patrón** que te ayude a entender mejor sus necesidades y preferencias y difunde tu mensaje, teniendo en cuenta sus reacciones o comportamientos. 
 
 ## ¿Cómo saber si esta solución funciona?
 
@@ -100,7 +100,7 @@ Darle muchas vueltas a las maneras de comunicarnos y a las audiencias que vamos 
 
 ## Soluciones recomendadas
 
-- [Descubre a tu audiencia](es/solve/descubre-a-tu-audiencia-solutions-db) 
-- [Difunde tu mensaje ](es/solve/difunde-tu-mensaje-solutions-db) 
-- [¡Aprende a diseñar tu invitación exprés sin ser un experto!](es/solve/aprende-a-disenar-tu-invitacion-expres-sin-ser-un-experto-solutions-db) 
-- [¿Cómo conseguir equipos donados?](es/solve/como-conseguir-equipos-donados-solutions-db) 
+- Descubre a tu audiencia 
+- Difunde tu mensaje  
+- ¡Aprende a diseñar tu invitación exprés sin ser un experto! 
+- ¿Cómo conseguir equipos donados? 

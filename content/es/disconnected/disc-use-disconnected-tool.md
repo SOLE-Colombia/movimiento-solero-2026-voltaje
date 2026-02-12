@@ -21,7 +21,7 @@ draft: false
 
 Usa el juego de cartas para entre **2 y 10 jugadores** que encuentras en 
 
-[¿Desconectado?](es/disconnected/desconectado-sole-voltaje.md)
+¿Desconectado?
 
 **¿Cómo jugarlo?**
 
@@ -33,14 +33,14 @@ Usa el juego de cartas para entre **2 y 10 jugadores** que encuentras en
     
     Para jugar este juego puedes seguir los siguientes pasos:
     
-    1. Reparte aleatoriamente 2 o 3 Cartas Navegadoras a cada uno de los participantes, dependiendo de cuántos jugadores tengas, mostrando la cara que tiene las imágenes, como si estuvieran sacando cartas de una baraja y coloca en medio la carta [¿qué te gustaría más?](es/disconnected/que-te-gustaria-mas-sin-titulo.md)
+    1. Reparte aleatoriamente 2 o 3 Cartas Navegadoras a cada uno de los participantes, dependiendo de cuántos jugadores tengas, mostrando la cara que tiene las imágenes, como si estuvieran sacando cartas de una baraja y coloca en medio la carta ¿qué te gustaría más?
     2. Los jugadores, por parejas o el grupo entero, responden qué les gustaría más: ¿Cuál de las dos cartas prefieres? ¿Ser internet para viajar por un cable a través de la tierra y los oceanos o Viajar a la velocidad de la luz? Combina las cartas como lo desees.
     3. Voltean la carta que escogieron, leen lo que dice en voz alta y conectan con las otras Cartas que aparecen allí. 
     4. Hacen varias rondas en las que cada uno comparte qué le gustaría más, leyendo la información y entendiendo en equipo los conceptos que están allí. 
     5. ¿Aprendieron algo nuevo? ¿Qué aprendieron?
 2. **[Creación]: Cartas Cacharreras: ¿Cómo está tu señal? y Cartas Conectivas: ¿Qué quieren hacer? (30 min)**
     
-    Para entender cómo funciona el internet en cualquier parte del mundo en el que estén, pueden empezar por cacharrear la señal que tengan. Pero ¿qué señal tienen? ¿Cómo funciona? Tenemos dos **Cartas Cacharreras** que les ayudarán a responder estas preguntas en la práctica: [**¿cómo cacharrear tu señal móvil?**](es/disconnected/como-cacharrear-tu-senal-movil-voltaje-desconectado.md)** o [**¿cómo cacharrear tu señal WiFi?**](es/disconnected/como-cacharrear-tu-senal-wifi-voltaje-desconectado.md) Esta primera distinción les permitirá distinguir cómo llega la señal de internet a cualquier dispositivo. 
+    Para entender cómo funciona el internet en cualquier parte del mundo en el que estén, pueden empezar por cacharrear la señal que tengan. Pero ¿qué señal tienen? ¿Cómo funciona? Tenemos dos **Cartas Cacharreras** que les ayudarán a responder estas preguntas en la práctica: **¿cómo cacharrear tu señal móvil?**** o **¿cómo cacharrear tu señal WiFi?** Esta primera distinción les permitirá distinguir cómo llega la señal de internet a cualquier dispositivo. 
     
     ![Cartas Cacharreras](assets/images/desconectado-directions/desconectado-directions-cards-cacharreras.webp)
     
@@ -53,7 +53,7 @@ Usa el juego de cartas para entre **2 y 10 jugadores** que encuentras en
         1. ¿Qué nivel de intensidad tiene? ¿Cuál es más rápido? ¿Qué pueden hacer con es velocidad de descarga según la tarjeta? ¿Cuánto pagan por su plan vs. qué velocidad les da? 
         2. Si no tenemos señal, ¿qué otras alternativas creen que podríamos tener para poder responder una Gran Pregunta que tengamos? Leamos juntos la Carta de **Despertar tu curiosidad** y luego exploremos todas las Cartas para ver qué podríamos hacer para tener responder una Gran Pregunta y también para conseguir internet.
             
-            [**Despertar tu curiosidad**](es/disconnected/despertar-tu-curiosidad-voltaje-desconectado.md)
+            **Despertar tu curiosidad**
             
     3. Luego cuéntales que con la señal que tienen - o no - hay varias opciones. Presenta las  **Cartas Conectivas:** les mostrarán diferentes soluciones de conectividad que podrán encontrar en la página web de **Desconectado o impresas**. 
         

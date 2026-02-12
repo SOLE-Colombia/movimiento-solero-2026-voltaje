@@ -112,16 +112,16 @@ En SOLE Voltaje tenemos la idea que usar el Internet en grupo para aprender es u
 
 [¿Qué es el Internet? | Notion](https://solecolombia.notion.site/Qu-es-el-Internet-1312bd68c5b6808db416cdf1fbb0a552)
 
-- [¿Cómo se transmite la señal de Internet?](/como-se-transmite-la-senal-de-internet-inspiration-db)
-- [¿Cómo se mide el uso de Internet?](/como-se-mide-el-uso-de-internet-inspiration-db)
-- [**¿Qué tan rápido se puede acceder a la información en Internet?**](/que-tan-rapido-se-puede-acceder-a-la-informacion-en-internet-inspiration-db)
-- [¿Cómo saber qué tan rápido es el Internet?](/como-saber-que-tan-rapido-es-el-internet-inspiration-db)
+- ¿Cómo se transmite la señal de Internet?
+- ¿Cómo se mide el uso de Internet?
+- **¿Qué tan rápido se puede acceder a la información en Internet?**
+- ¿Cómo saber qué tan rápido es el Internet?
 
 [¿Cómo funciona el Internet? | Notion](https://solecolombia.notion.site/C-mo-funciona-el-Internet-1362bd68c5b680c3b903ead1b7123665)
 
 ## SOLUCION: Y si no tengo internet, ¿cómo hacemos para buscarlo?
 
-[¿Cómo saber qué tipo de señal de Internet tienes?](/como-saber-que-tipo-de-senal-de-internet-tienes-solutions-db) 
+¿Cómo saber qué tipo de señal de Internet tienes? 
 
 1. ¿Cómo saber qué tipo de señal tienes?
     1. 

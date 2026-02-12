@@ -79,8 +79,8 @@ ___
 ## Soluciones relacionadas
 
 - Para conocer el paso a paso de solicitud de un Jangala Big Box consulta esta solución: [¿Cómo instalar el Big Box de Jangala?](es/solve/solv-jangala-install-box.md)
-- Tener un "Big Box" significa que debemos cuidarlo en comunidad. Usando una herramienta lúdica pueden aprender a hacerlo juntos: [¿Cómo usar el juego para aprender a cuidar equipos en comunidad?](es/solve/como-usar-el-juego-para-aprender-a-cuidar-equipos-en-comunidad-solutions-db) 
-- El internet comunitario es más poderoso cuando se usa en grupo. Te comparto algunas recomendaciones para buscar un espacio de reunión: [Pide un Salón Comunal, o cualquier espacio comunitario](es/solve/pide-un-salon-comunal-o-cualquier-espacio-comunitario-solutions-db)
+- Tener un "Big Box" significa que debemos cuidarlo en comunidad. Usando una herramienta lúdica pueden aprender a hacerlo juntos: ¿Cómo usar el juego para aprender a cuidar equipos en comunidad? 
+- El internet comunitario es más poderoso cuando se usa en grupo. Te comparto algunas recomendaciones para buscar un espacio de reunión: Pide un Salón Comunal, o cualquier espacio comunitario
 
 <br>
 

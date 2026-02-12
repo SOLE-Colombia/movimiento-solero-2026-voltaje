@@ -66,7 +66,7 @@ Esta solución es una opción que puedes pagar junto con las personas de la comu
         
         *Imagen: [Equipo CPE WiMAX Alvarion](https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg) - Wikipedia* 
         
-        Lo primero que necesitas es contactar con una empresa que ofrezca estos servicios y que tenga un [repetidor](es/glossary/modem-router-o-enrutador-modem-or-router-conceptorio.md) cerca de tu casa para poder enviarte la señal de internet. Posteriormente, tienes que poner una antena en la fachada de tu casa. Esta antena tendrá que apuntar directamente al repetidor de la empresa que te va a dar el servicio o a un punto de conexión intermedio que se utilice para salvar los obstáculos que se interpongan entre tu antena y su repetidor. La instalación de la antena la hará la propia compañía.
+        Lo primero que necesitas es contactar con una empresa que ofrezca estos servicios y que tenga un repetidor cerca de tu casa para poder enviarte la señal de internet. Posteriormente, tienes que poner una antena en la fachada de tu casa. Esta antena tendrá que apuntar directamente al repetidor de la empresa que te va a dar el servicio o a un punto de conexión intermedio que se utilice para salvar los obstáculos que se interpongan entre tu antena y su repetidor. La instalación de la antena la hará la propia compañía.
         
     - **Starlink**
         
@@ -86,14 +86,14 @@ Ya tenemos una introducción de las opciones disponibles, ahora podemos pasar al
     **Ventajas**
     
     - **Cobertura global:** Esto significa que las personas que viven en regiones apartadas o en zonas rurales pueden acceder a Internet de manera confiable.
-    - **Acceso rápido:** Más rápido que los [servicios DSL](es/solve/como-saber-que-tipo-de-senal-de-internet-tienes-solutions-db.md) y de acceso telefónico con velocidades de hasta 25 Mbps y 100 Mbps. Si bien el internet satelital solía tener una reputación de ser lento, en la actualidad es posible disfrutar de velocidades comparables a las conexiones terrestres.
+    - **Acceso rápido:** Más rápido que los servicios DSL y de acceso telefónico con velocidades de hasta 25 Mbps y 100 Mbps. Si bien el internet satelital solía tener una reputación de ser lento, en la actualidad es posible disfrutar de velocidades comparables a las conexiones terrestres.
     - **Conectividad constante:** Una de las ventajas más destacadas del la antena parabólica es su capacidad para proporcionar una conexión constante y estable. A diferencia de las conexiones terrestres que pueden verse afectadas por interrupciones en la infraestructura o por condiciones climáticas adversas, el internet satelital no depende de cables físicos y se basa en satélites en órbita para la transmisión de datos. Esto garantiza una conexión confiable y continua, incluso en áreas propensas a desastres naturales.
     - **Alta flexibilidad y movilidad:** El internet satelital también ofrece flexibilidad y movilidad. Puedes tener acceso a Internet desde cualquier lugar cubierto por la señal del satélite, lo que lo convierte en una opción ideal para personas que viajan con frecuencia, trabajadores remotos o aquellos que necesitan conectividad en áreas temporales o en expansión.
     - **No necesita de un servicio telefónico residencial:** No es un requisito tener línea telefónica para acceder a este servicio de Internet.
     
     **Desventajas**
     
-    - **Alta** [latencia:](es/glossary/latencia-latency-conceptorio.md) Una de las principales desventajas de la antena parabólica es la latencia, es decir, el tiempo que tarda la señal en viajar desde el satélite hasta la Tierra. Debido a la distancia que debe recorrer la señal, la latencia puede ser mayor en comparación con las conexiones terrestres. Esto puede afectar las actividades en tiempo real, como videoconferencias o juegos en línea, donde incluso pequeños retrasos pueden ser notables.
+    - **Alta** latencia: Una de las principales desventajas de la antena parabólica es la latencia, es decir, el tiempo que tarda la señal en viajar desde el satélite hasta la Tierra. Debido a la distancia que debe recorrer la señal, la latencia puede ser mayor en comparación con las conexiones terrestres. Esto puede afectar las actividades en tiempo real, como videoconferencias o juegos en línea, donde incluso pequeños retrasos pueden ser notables.
     - **Alto costo:** El internet satelital tiende a ser más costoso en comparación con otras opciones de conectividad. Los precios de servicio son más altos que otros tipos de internet, esto debido a los costosos costos de equipo, operación y satélites.
     - **Condiciones del tiempo:** El buen funcionamiento del internet por satélite puede depender de buenas condiciones climáticas. Para el uso de la antena parabólica se necesita un cielo despejado. La estabilidad de la señal podría llegar a verse comprometida por la lluvia o las tormentas eléctricas.
     - **Limitaciones de datos:** Muchos proveedores de internet satelital aplican límites de datos mensuales en sus planes. Esto significa que los usuarios tienen una cantidad limitada de datos que pueden descargar y cargar durante un período determinado. Si se excede este límite, la velocidad puede reducirse o pueden aplicarse cargos adicionales.
@@ -101,7 +101,7 @@ Ya tenemos una introducción de las opciones disponibles, ahora podemos pasar al
     
     **Ventajas**
     
-    - **Alta fluidez y baja latencia:** Esto permite tener una conexión rápida y fluida con bajas [latencias](es/glossary/latencia-latency-conceptorio.md).
+    - **Alta fluidez y baja latencia:** Esto permite tener una conexión rápida y fluida con bajas latencias.
     - **No necesita de un servicio telefónico residencial:** No es un requisito tener linea telefónica para acceder al servicio de Internet.
     - **LLamadas por VoIP:** Habrá empresas que con la instalación de esta tecnología te permitirán realizar llamadas VoIP (es una tecnología que le permite realizar y recibir llamadas de voz a través de Internet).
     
@@ -170,10 +170,10 @@ Puedes tener en cuenta los siguientes criterios y pensarlos en función de las p
 
 ## Soluciones recomendadas
 
-- [**Haz una colecta para pagar internet comunitario**](es/solve/haz-una-colecta-para-pagar-internet-comunitario-solutions-db) 
-- [**¿Necesito comprar una antena 3G/4G? Cómo tomar la decisión**](es/solve//necesito-comprar-una-antena-3g-4g-como-tomar-la-decision-solutions-db) 
-- [¿Qué Internet satelital elegir, según mis necesidades? ](es/solve/que-internet-satelital-elegir-segun-mis-necesidades-solutions-db) 
-- [¿Tu comunidad necesita apoyo económico para conectarse a Internet? ](es/solve/tu-comunidad-necesita-apoyo-economico-para-conectarse-a-internet-solutions-db) 
+- **Haz una colecta para pagar internet comunitario** 
+- **¿Necesito comprar una antena 3G/4G? Cómo tomar la decisión** 
+- ¿Qué Internet satelital elegir, según mis necesidades?  
+- ¿Tu comunidad necesita apoyo económico para conectarse a Internet?  
 
 ## Referencias
 

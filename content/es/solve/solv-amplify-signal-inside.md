@@ -60,9 +60,9 @@ Recuerda, para las comunidades expertas en SOLE, tener una conexión sólida es 
 
 ## **Soluciones recomendadas**
 
-- [¿Cómo compartir Internet desde mi celular?](es/solve/como-compartir-internet-desde-mi-celular-solutions-db) 
-- [¿Cómo mejorar mi señal con una lata?](es/solve/como-mejorar-mi-senal-con-una-lata-solutions-db) 
-- [¿Cómo probar la velocidad de tu conexión a Internet?](es/solve/como-probar-la-velocidad-de-tu-conexion-a-internet-solutions-db) 
+- ¿Cómo compartir Internet desde mi celular? 
+- ¿Cómo mejorar mi señal con una lata? 
+- ¿Cómo probar la velocidad de tu conexión a Internet? 
 ## Referencias
 
 - [Kiwix](https://www.kiwix.org/en/)

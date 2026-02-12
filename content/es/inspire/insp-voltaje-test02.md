@@ -93,9 +93,9 @@ Comprobar si se realizaron las mejoras adecuadas a las soluciones probadas en la
 
 **Soluciones**
 
-[Construye una antena 3G casera](https://www.notion.so/79b996e8129d4fc2afd6b7a75fa20627?pvs=21)
+Construye una antena 3G casera
 
-[¿Cómo mejorar mi señal con una lata?](https://www.notion.so/446b12a0cf3f43f8950660d603383f3c?pvs=21)
+¿Cómo mejorar mi señal con una lata?
 
 **Participantes y su perfil (antes de hacer la prueba):**
 
@@ -155,9 +155,9 @@ Debido a que cada una logró terminar una de las soluciones pensamos en la sigui
 | 4 | Compartir los enlaces en notion de las 2 soluciones modificadas.
 Les compartimos las soluciones que modificadamos a partir de los comentarios de 4 de nuestras cacharreras (Amalia, Catalina, Sabina y Natalia):
 **Construye una antena 3G casera**
-[https://www.notion.so/solecolombia/Construye-una-antena-3G-casera-79b996e8129d4fc2afd6b7a75fa20627](https://www.notion.so/79b996e8129d4fc2afd6b7a75fa20627?pvs=21)
+https://www.notion.so/solecolombia/Construye-una-antena-3G-casera-79b996e8129d4fc2afd6b7a75fa20627
 *¿Cómo mejorar mi señal con una lata?*
-[https://www.notion.so/solecolombia/C-mo-mejorar-mi-se-al-con-una-lata-446b12a0cf3f43f8950660d603383f3c](https://www.notion.so/446b12a0cf3f43f8950660d603383f3c?pvs=21) |
+https://www.notion.so/solecolombia/C-mo-mejorar-mi-se-al-con-una-lata-446b12a0cf3f43f8950660d603383f3c |
 
 **Prueba #02B -Ejecución-virtual de dos soluciones nuevas**
 
@@ -176,7 +176,7 @@ Recibir retroalimentación sobre la experiencia según el formato:
 
 **Soluciones**
 
-- Instalación de la antena 3G [https://solecolombia.notion.site/C-mo-instalar-una-antena-3-4G-37213361ffa344c4b9723952b4bc0d63?pvs=4](https://www.notion.so/37213361ffa344c4b9723952b4bc0d63?pvs=21)
+- Instalación de la antena 3G https://solecolombia.notion.site/C-mo-instalar-una-antena-3-4G-37213361ffa344c4b9723952b4bc0d63?pvs=4
 
 **Participantes y su perfil (antes de hacer la prueba):** Embajadoras de OIM.
 

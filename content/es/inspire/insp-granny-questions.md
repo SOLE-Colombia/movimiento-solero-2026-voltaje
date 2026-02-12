@@ -39,9 +39,9 @@ Siempre hay oportunidades para unirse a este movimiento global para transformar 
 
 ## Contenido relacionado
 
-- [La Nube de Abuelitas: cómo cambiar el mundo desde tu casa](/la-nube-de-abuelitas-como-cambiar-el-mundo-desde-tu-casa-inspiration-db) | [La Nube de Abuelitas: how to change the world from your home](/la-nube-de-abuelitas-how-to-change-the-world-from-your-home-inspiration-db)
-- [La Nube de Abuelitas: qué pasa cuando no hay conexión](/la-nube-de-abuelitas-que-pasa-cuando-no-hay-conexion-inspiration-db) |
-- [¿Qué es un Costurero de Abuelitas, en SOLE Colombia?](/que-es-un-costurero-de-abuelitas-en-sole-colombia-inspiration-db) |
-- [¿Cómo hacer SOLE? - Tutorial](/como-hacer-sole-tutorial-inspiration-db) | [How to make SOLE? - Tutorial](/how-to-make-sole-tutorial-inspiration-db)
+- La Nube de Abuelitas: cómo cambiar el mundo desde tu casa | La Nube de Abuelitas: how to change the world from your home
+- La Nube de Abuelitas: qué pasa cuando no hay conexión |
+- ¿Qué es un Costurero de Abuelitas, en SOLE Colombia? |
+- ¿Cómo hacer SOLE? - Tutorial | How to make SOLE? - Tutorial
 
 

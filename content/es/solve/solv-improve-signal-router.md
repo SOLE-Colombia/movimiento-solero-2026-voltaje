@@ -20,9 +20,9 @@ draft: false
 
 ## ¿Qué es mejorar la señal de tu router?
 
-Justo, cuando más la necesitas, la conexión  desaparece, ¿te ha pasado? A mí, más de una vez. Pero no te preocupes, porque estás a punto de aprender cómo mejorar la señal de tu [**Router**](es/glossary/modem-router-o-enrutador-modem-or-router-conceptorio.md) para que eso ocurra con menos frecuencia.
+Justo, cuando más la necesitas, la conexión  desaparece, ¿te ha pasado? A mí, más de una vez. Pero no te preocupes, porque estás a punto de aprender cómo mejorar la señal de tu **Router** para que eso ocurra con menos frecuencia.
 
-Además, te enseñaré cómo optimizar la configuración del [**Router**](es/glossary/modem-router-o-enrutador-modem-or-router-conceptorio.md) para que navegues más rápido cambiando los servidores [**DNS**](es/glossary/dns-sistema-de-nombres-de-dominio-dns-domain-name-system-conceptorio.md) y ajustando el canal de [**WiFi**](es/glossary/wifi-fidelidad-inalambrica-wifi-wireless-fidelity-conceptorio.md). ¡Esto no es difícil y lo puedes hacer desde casa! Así que prepárate, que vamos a sacarle el máximo provecho a tu red.
+Además, te enseñaré cómo optimizar la configuración del **Router** para que navegues más rápido cambiando los servidores **DNS** y ajustando el canal de **WiFi**. ¡Esto no es difícil y lo puedes hacer desde casa! Así que prepárate, que vamos a sacarle el máximo provecho a tu red.
 
 ## **¿Para qué sirve?**
 
@@ -132,7 +132,7 @@ Espero que estos consejos te sean útiles y que ya no tengas más cortes de Inte
 
 ## Soluciones relacionadas
 
-- [¿Cómo probar la velocidad de tu conexión a Internet?](es/solve/como-probar-la-velocidad-de-tu-conexion-a-internet-solutions-db.md) |
-- [¿Cómo aprovechar mi ancho de banda?](es/solve/como-aprovechar-mi-ancho-de-banda-solutions-db.md) 
-- [¿Cómo saber qué tipo de señal de Internet tienes?](es/solve/como-saber-que-tipo-de-senal-de-internet-tienes-solutions-db.md) 
+- ¿Cómo probar la velocidad de tu conexión a Internet? |
+- ¿Cómo aprovechar mi ancho de banda? 
+- ¿Cómo saber qué tipo de señal de Internet tienes? 
 

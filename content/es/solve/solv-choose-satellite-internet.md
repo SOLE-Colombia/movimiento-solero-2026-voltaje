@@ -70,7 +70,7 @@ La opción más popular de internet en la ruralidad es el internet por satélite
 
 Imagen tomada de [Wikipedia](https://es.wikipedia.org/wiki/WiMAX#/media/Archivo:Alvarion_CPE.jpg) 
 
-El funcionamiento de WiMAX es sencillo, ya que es un [repetidor](es/glossary/modem-router-o-enrutador-modem-or-router-conceptorio.md) de la empresa que quieres contratar emitiendo las señales de microondas que te llegan a la antena. Por lo tanto, lo primero que necesitas es contactar con una empresa que ofrezca estos servicios y que tenga un repetidor cerca de tu casa para poder enviarte la señal. Luego, tienes que poner una  antena en la fachada de tu casa. Esta antena tendrá que apuntar directamente al repetidor de la empresa que te va a dar el servicio o a un punto de conexión intermedio que se utilice para salvar los obstáculos que se interpongan entre tu antena y su repetidor. La instalación de la antena la hará la propia compañía.
+El funcionamiento de WiMAX es sencillo, ya que es un repetidor de la empresa que quieres contratar emitiendo las señales de microondas que te llegan a la antena. Por lo tanto, lo primero que necesitas es contactar con una empresa que ofrezca estos servicios y que tenga un repetidor cerca de tu casa para poder enviarte la señal. Luego, tienes que poner una  antena en la fachada de tu casa. Esta antena tendrá que apuntar directamente al repetidor de la empresa que te va a dar el servicio o a un punto de conexión intermedio que se utilice para salvar los obstáculos que se interpongan entre tu antena y su repetidor. La instalación de la antena la hará la propia compañía.
 
 - **Starlink**
 
@@ -115,12 +115,12 @@ Aunque este análisis lo hicimos en 2024 para Colombia, puede ser útil para otr
 
 Por latencia por referiremos al tiempo que tarda la señal en viajar desde el satélite hasta la Tierra. Para el caso de **Starlink** el Internet de banda ancha es de alta velocidad y baja latencia. Tendrá latencias de alrededor de 20ms, comparado con la media de 600ms. 
 
-Por su parte, **WiMax** permite tener una conexión rápida y fluida con bajas [latencias](es/glossary/latencia-latency-conceptorio.md). 
+Por su parte, **WiMax** permite tener una conexión rápida y fluida con bajas latencias. 
 
 Ahora bien, la velocidad del **internet satelital** puede ser menor en comparación con las conexiones terrestres. Esto puede afectar las actividades en tiempo real, como videoconferencias o juegos en línea, donde incluso pequeños retrasos pueden ser notables.
 
 ## Soluciones relacionadas
 
-- [**¿Necesito comprar una antena 3G/4G? Cómo tomar la decisión**](es/solve/necesito-comprar-una-antena-3g-4g-como-tomar-la-decision-solutions-db) 
-- [**¿Tu comunidad necesita apoyo económico para conectarse a Internet?**](es/solve/tu-comunidad-necesita-apoyo-economico-para-conectarse-a-internet-solutions-db) 
+- **¿Necesito comprar una antena 3G/4G? Cómo tomar la decisión** 
+- **¿Tu comunidad necesita apoyo económico para conectarse a Internet?** 
 

@@ -11,11 +11,11 @@ cardImage: /assets/images/home-newhere/home-newhere-notionia-menu.webp
 
 ¡Bienvenido a **SOLE Voltaje**! Una iniciativa de [SOLE Colombia](https://www.solecolombia.org/) dedicada a mejorar el acceso al conocimiento a través de soluciones comunitarias para utilizar el Internet en grupo. Hay tres pasos para comenzar a usar SOLE Voltaje:
 
-1. [Inspírate](index link de inspire): Explora nuestras preguntas provocadoras, videos e historias de las comunidades con las que hemos trabajado.
-2. [Soluciona](index link de solve): Encuentra una solución que ayude a aumentar la conectividad en tu lugar, tu comunidad o tu región. Las soluciones están organizadas en categorías de señal, electricidad, dispositivos, personas y espacio, porque para utilizar el internet en grupo necesitas más que sólo conectividad.
-3. [¿Tienes preguntas?](link de pregunta/comenta): Comparte lo que aprendes, escríbenos con tus preguntas, únete a nuestro **grupo de chacarreros en Whatsapp** y ayuda a construir este movimiento por un internet más inclusivo.
+1. Inspírate: Explora nuestras preguntas provocadoras, videos e historias de las comunidades con las que hemos trabajado.
+2. Soluciona: Encuentra una solución que ayude a aumentar la conectividad en tu lugar, tu comunidad o tu región. Las soluciones están organizadas en categorías de señal, electricidad, dispositivos, personas y espacio, porque para utilizar el internet en grupo necesitas más que sólo conectividad.
+3. ¿Tienes preguntas?: Comparte lo que aprendes, escríbenos con tus preguntas, únete a nuestro **grupo de chacarreros en Whatsapp** y ayuda a construir este movimiento por un internet más inclusivo.
 
-También tienes una experiencia para saber qué es el Internet y cómo funciona y un invitación a que nos ayudes a extender la cobija de solidaridad para que otros también se puedan conectar: [SOLE Voltaje Desconectado](index link de desconectado).
+También tienes una experiencia para saber qué es el Internet y cómo funciona y un invitación a que nos ayudes a extender la cobija de solidaridad para que otros también se puedan conectar: SOLE Voltaje Desconectado.
 
 ## Nuestra ética cacharrera
 
@@ -49,7 +49,7 @@ Con el tiempo, esperamos que personas en zonas rurales y comunidades excluidas d
 
 También hay un propósito pedagógico detrás de esta guía para invitar a la gente a utilizar la tecnología, en un sentido amplio, para aprender. 
 
-Nos gustaría volver a atraer a los usuarios actuales e invitar a los nuevos a sentir curiosidad por Internet y su funcionamiento, y por cómo pueden utilizarlo en grupo para aprender lo que necesitan o les interesa. Por eso, dentro de las soluciones también hay un [conceptorio](index link de conceptorio) de términos que enseña a los usuarios conceptos técnicos y no técnicos para que se conviertan en “cacharreros” activos de Internet.
+Nos gustaría volver a atraer a los usuarios actuales e invitar a los nuevos a sentir curiosidad por Internet y su funcionamiento, y por cómo pueden utilizarlo en grupo para aprender lo que necesitan o les interesa. Por eso, dentro de las soluciones también hay un conceptorio de términos que enseña a los usuarios conceptos técnicos y no técnicos para que se conviertan en “cacharreros” activos de Internet.
 
 ### **¿Qué es SOLE Colombia?**
 

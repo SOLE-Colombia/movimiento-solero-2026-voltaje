@@ -143,11 +143,11 @@ Recuerda que no siempre lograrás convencer a todas las personas de trabajar con
 
 ## Soluciones recomendadas
 
-- [Difunde tu mensaje ](es/solve/difunde-tu-mensaje-solutions-db) 
-- [Descubre a tu audiencia](es/solve/descubre-a-tu-audiencia-solutions-db) 
-- [¿Cómo escribir una buena invitación?](es/solve/como-escribir-una-buena-invitacion-solutions-db) 
-- [Crea un mensaje potente](es/solve/crea-un-mensaje-potente-solutions-db) 
-- [¿Cómo conseguir equipos donados?](es/solve/como-conseguir-equipos-donados-solutions-db) 
+- Difunde tu mensaje  
+- Descubre a tu audiencia 
+- ¿Cómo escribir una buena invitación? 
+- Crea un mensaje potente 
+- ¿Cómo conseguir equipos donados? 
 
 ---
 

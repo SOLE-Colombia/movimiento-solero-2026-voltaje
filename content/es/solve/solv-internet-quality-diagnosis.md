@@ -42,7 +42,7 @@ Al optimizar la señal, tendrás una conexión más rápida y estable para poder
 
 - **Paso 1: Toma tu celular y observa si tienes señal móvil**
     
-    Mira en una esquina superior de tu celular. Allí encontrarás unas barras de señal móvil: Si ves una o más barras, el teléfono está recibiendo señal y leyendo tu [tarjeta SIM](es/glossary/tarjeta-sim-sim-card-conceptorio).
+    Mira en una esquina superior de tu celular. Allí encontrarás unas barras de señal móvil: Si ves una o más barras, el teléfono está recibiendo señal y leyendo tu tarjeta SIM.
     
 - **Paso 2: ¿Qué tan buena es la conexión?**
   -  No tengo barras de señal móvil
@@ -55,17 +55,17 @@ Al optimizar la señal, tendrás una conexión más rápida y estable para poder
     
 - **Tipos de conexión móvil y ¿para qué sirven?**
     
-    **G:** Abrevia una conexión [**GPRS**](es/glossary/gprs-servicio-general-de-paquetes-via-radio-gprs-general-packet-radio-services-conceptorio.md), **la más lenta de todas** las tecnologías. Es una red de [**segunda generación o 2G**](es/glossary/red-2g-2g-net-conceptorio) es utilizada **para enviar mensajes de texto**.
+    **G:** Abrevia una conexión **GPRS**, **la más lenta de todas** las tecnologías. Es una red de **segunda generación o 2G** es utilizada **para enviar mensajes de texto**.
     
-    **E:** Abrevia una [conexión **EDGE**](es/glossary/conexion-edge-edge-connection-conceptorio), es una versión mejorada del GPRS, también llamado **2.5G**, y sirve **para hacer búsquedas en internet**.
+    **E:** Abrevia una conexión **EDGE**, es una versión mejorada del GPRS, también llamado **2.5G**, y sirve **para hacer búsquedas en internet**.
     
-    **3G**: Denominada como [**UMTS**](es/glossary/umts-sistema-universal-de-telecomuniaciones-moviles-umts-universal-mobile-telecommunications-system-conceptorio) es una red de **tercera generación o 3G**, ideada **para contenidos multimedia**.
+    **3G**: Denominada como **UMTS** es una red de **tercera generación o 3G**, ideada **para contenidos multimedia**.
     
-    **H**: Utiliza la [tecnología **HSPA**](es/glossary/tecnologia-hspa-acceso-de-paquetes-de-alta-velocidad-hspa-technology-conceptorio.md), un **3G mejorado**, y es más que suficiente **para acceder a las redes sociales o escuchar música en Internet.**
+    **H**: Utiliza la tecnología **HSPA**, un **3G mejorado**, y es más que suficiente **para acceder a las redes sociales o escuchar música en Internet.**
     
-    **H+**: Es un [**HSPA**](es/glossary/tecnologia-hspa-acceso-de-paquetes-de-alta-velocidad-hspa-technology-conceptorio) evolucionado **para ver videos en línea o descargarloa más rápidamente**.
+    **H+**: Es un **HSPA** evolucionado **para ver videos en línea o descargarloa más rápidamente**.
     
-    **4G**: Es la tecnología también llamada [**LTE**](es/glossary/conexion-4g-o-lte-lte-or-4g-connection-conceptorio), es considerada como la **cuarta generación o 4G**. La velocidad de esta red **alcanza los 100 Mbps de descarga y 50 Mbps de subida,** lo que llamamos **banda ancha.** ¡Rapídisima!
+    **4G**: Es la tecnología también llamada **LTE**, es considerada como la **cuarta generación o 4G**. La velocidad de esta red **alcanza los 100 Mbps de descarga y 50 Mbps de subida,** lo que llamamos **banda ancha.** ¡Rapídisima!
     
     **5G**: Es la tecnología más rápida todas, por ahora, y llega a ser **100 veces más rápida que el 4G**. Necesitas un teléfono que soporte 5G para poder usarlo.
     
@@ -92,7 +92,7 @@ Quizá puedas también tomar decisiones sobre convocar a una colecta con tus vec
 
 ## Soluciones recomendadas
 
-- [¿Cómo aprovechar mi ancho de banda?](es/solve/como-aprovechar-mi-ancho-de-banda-solutions-db) 
-- [¿Cómo comprar un plan celular adecuado para mi?](es/solve/como-comprar-un-plan-celular-adecuado-para-mi-solutions-db) 
-- [¿Qué Internet satelital elegir, según mis necesidades? ](es/solve/que-internet-satelital-elegir-segun-mis-necesidades-solutions-db) 
+- ¿Cómo aprovechar mi ancho de banda? 
+- ¿Cómo comprar un plan celular adecuado para mi? 
+- ¿Qué Internet satelital elegir, según mis necesidades?  
 

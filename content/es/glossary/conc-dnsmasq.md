@@ -10,7 +10,7 @@ resumen: "Dnsmasq es un software que proporciona almacenamiento en caché para 
 ---
 ## Español
 
-**Dnsmasq** es un software que proporciona almacenamiento en caché para el sistema de nombres de dominio ([DNS](/es/glossary/dns-sistema-de-nombres-de-dominio-dns-domain-name-system-conceptorio)), servidor de protocolo de configuración dinámica de host ([DHCP](https://es.wikipedia.org/wiki/DHCP)), enrutador de publicidad y funciones de arranque de red para pequeñas redes informáticas, creado como [software libre](https://es.wikipedia.org/wiki/Software_libre).
+**Dnsmasq** es un software que proporciona almacenamiento en caché para el sistema de nombres de dominio (DNS), servidor de protocolo de configuración dinámica de host ([DHCP](https://es.wikipedia.org/wiki/DHCP)), enrutador de publicidad y funciones de arranque de red para pequeñas redes informáticas, creado como [software libre](https://es.wikipedia.org/wiki/Software_libre).
 
 dnsmasq tiene bajos requerimientos de recursos del sistema, puede ejecutarse en [Linux](https://es.wikipedia.org/wiki/Linux), [BSD](https://es.wikipedia.org/wiki/BSD), [Android](https://es.wikipedia.org/wiki/Android) y [macOS](https://es.wikipedia.org/wiki/MacOS), y está incluido en la mayoría de las distribuciones Linux. 
 

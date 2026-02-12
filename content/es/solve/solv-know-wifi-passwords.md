@@ -44,7 +44,7 @@ ___
 
 > ### Paso 6 → Explorar tus contraseñas
 
-Lo primero, accede a la “Configuración” de tu teléfono. A continuación, sigue la sección [**WiFi**](es/glossary/wifi-fidelidad-inalambrica-wifi-wireless-fidelity-conceptorio), donde verás todas las redes disponibles a tu alrededor. Presiona la red de Internet a la que ya tienes acceso y de la que quieres conocer la contraseña. Al hacerlo, aparecerá un código QR con esta información. Luego toma un pantallazo de esta imagen.
+Lo primero, accede a la “Configuración” de tu teléfono. A continuación, sigue la sección **WiFi**, donde verás todas las redes disponibles a tu alrededor. Presiona la red de Internet a la que ya tienes acceso y de la que quieres conocer la contraseña. Al hacerlo, aparecerá un código QR con esta información. Luego toma un pantallazo de esta imagen.
 
 ![PASO 1 - EXPLORA TUS CONTRASEÑAS](assets/images/solv-know-wifipasswords/solv-know-wifipasswords-explore.webp)
 
@@ -87,7 +87,7 @@ ___
 ## Soluciones relacionadas
 
 - Te puede ser útil buscar señales de WiFi a tu alrededor con una aplicación móvil. Aquí te explicamos cómo: [¿Qué redes libres están disponibles para conectarme a internet? →](es/solve/solv-find-wifi-app.md)
-- Si no logras encontrar contraseñas y lo que buscabas era que otra persona se conectara, puedes también ¡tú compartir tu internet! [¿Cómo compartir Internet desde mi celular? →](es/solve/como-compartir-internet-desde-mi-celular-solutions-db) 
+- Si no logras encontrar contraseñas y lo que buscabas era que otra persona se conectara, puedes también ¡tú compartir tu internet! ¿Cómo compartir Internet desde mi celular? → 
 
 <br>
 

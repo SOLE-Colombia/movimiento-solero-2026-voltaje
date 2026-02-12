@@ -141,7 +141,7 @@ https://docs.google.com/presentation/d/e/2PACX-1vTpcRPTSpgqWM9giJwjYb1W5a11bbBJA
 
 ### Materiales
 
-[Sin título](Prueba # 03 SOLE Voltaje 2602bd68c5b681d293f4f2410940093d/Sin título 2602bd68c5b68119a87ed381bd5ccc90.csv)
+Sin título
 
 | **Material** | **Referente** | **Cantidad** |
 | --- | --- | --- |

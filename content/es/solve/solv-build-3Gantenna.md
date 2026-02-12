@@ -178,7 +178,7 @@ Se puede añadir un poco de pegamento epóxico sobre la varilla, para garantizar
     
 > ### Paso 6 → Preparar el cable
 
-Mientras el pegamento se seca, se puede avanzar con la preparación del[cable coaxial](es/glossary/cable-coaxial-coaxial-cable-conceptorio) puedes revisar la anterior entrada para entender cómo está conformado un cable coaxial antes de desarmarlo.
+Mientras el pegamento se seca, se puede avanzar con la preparación delcable coaxial puedes revisar la anterior entrada para entender cómo está conformado un cable coaxial antes de desarmarlo.
 
 ![Cable](assets/images/solv-build-3Gantenna/solv-build-3Gantenna-cable.webp)
 
@@ -258,7 +258,7 @@ ___
 - Si esta antena no es suficiente, puedes convocar a tu comunidad para comprar una antena 3G/4G comunitaria. Esta solución puede servirte para tomar la decisión: [¿Necesito comprar una antena 3G/4G? →](es/solve/solv-need-3Gantenna.md) 
 - Para amplificar la señal de tu celular también pueden probar esta solución: [¿Cómo mejorar mi señal con una lata? →](es/solve/solv-improve-signal-can.md) 
 - Además de antenas, hay otras alternativas para conseguir internet: [¿Tu comunidad necesita apoyo económico para conectarse a Internet? →](es/solve/solv-financial-support-connect.md) 
-- Identificar el tipo de señal tienes puede ayudarte a saber si esta antena casera puede servirte: [¿Cómo saber qué tipo de señal de Internet tienes? →](es/solve/como-saber-que-tipo-de-senal-de-internet-tienes-solutions-db)
+- Identificar el tipo de señal tienes puede ayudarte a saber si esta antena casera puede servirte: ¿Cómo saber qué tipo de señal de Internet tienes? →
 
 ___
 

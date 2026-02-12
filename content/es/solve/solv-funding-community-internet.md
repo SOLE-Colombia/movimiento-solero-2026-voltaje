@@ -51,7 +51,7 @@ Estas recomendaciones son relevantes a la hora de hacer colectas de dinero con f
     
     En este caso **¿qué es eso que nos une en esta colecta, que nos inspira a movernos para conseguir los fondos?** Cuando estés estableciendo el propósito de algún proyecto es momento de preguntarnos incansablemente el *para qué*, hasta que estemos convencidos.
     
-    [Hacer SOLE](es/inspire/como-hacer-sole-tutorial-inspiration-db) es una gran manera de encontrar un propósito para la colecta, además de pagarlo entre todos, pueden aprender, dialogar y crear comunidades florecientes, usando el internet en grupo. Pagar el internet entre todos ¡permite usarlo para hacer SOLE, o para cualquier cosa que se les ocurra!
+    Hacer SOLE es una gran manera de encontrar un propósito para la colecta, además de pagarlo entre todos, pueden aprender, dialogar y crear comunidades florecientes, usando el internet en grupo. Pagar el internet entre todos ¡permite usarlo para hacer SOLE, o para cualquier cosa que se les ocurra!
     
     Por ejemplo:
     
@@ -88,7 +88,7 @@ Estas recomendaciones son relevantes a la hora de hacer colectas de dinero con f
     
     Así, si le interesa y puede ser parte de esta colecta, ¡súmese a esta lista! ¡ya pronto podremos tener internet para nosotros! 
     
-    Todos los gastos y pagos de los recibos los enviaré el primero de cada mes a un grupo de [***WhatsApp***](es/glossary/whatsapp-wapp-conceptorio) y por ahí podremos estar al tanto de cualquier novedad 
+    Todos los gastos y pagos de los recibos los enviaré el primero de cada mes a un grupo de ***WhatsApp*** y por ahí podremos estar al tanto de cualquier novedad 
     
     ¿Se suma a la causa?
 
@@ -122,9 +122,9 @@ El siguiente paso sería cómo mejorar las condiciones de esta conectividad, sin
 
 ## Soluciones relacionadas
 
-- [**Crea un mensaje potente**](es/solve/crea-un-mensaje-potente-solutions-db) 
-- [**Descubre a tu audiencia**](es/solve/descubre-a-tu-audiencia-solutions-db) 
-- [**¿Necesito comprar una antena 3G/4G? Cómo tomar la decisión**](es/solve/necesito-comprar-una-antena-3g-4g-como-tomar-la-decision-solutions-db)  
+- **Crea un mensaje potente** 
+- **Descubre a tu audiencia** 
+- **¿Necesito comprar una antena 3G/4G? Cómo tomar la decisión**  
 
 ## Referencias
 

@@ -122,7 +122,7 @@ En 2023 solo tuve un trabajo y tenía oficina con internet. Ya no necesitaba via
     
     Luego de tener claro los operadores disponibles en tu territorio y saber cuales son los de mejor desempeño, procede a preguntar sobre los planes prepago y pospago que ofrecen. A continuación te presentamos unas tablas comparativas de los **planes prepago pospago** que ofrecían para 2023. 
     
-    [Tarifas planes prepago 7-10 días](¿Cómo comprar un plan celular adecuado para mi 12a2bd68c5b680b790a0ed2d55ea777b/Tarifas planes prepago 7-10 días 12a2bd68c5b681f5b6ebf61446300f4e.csv)
+    Tarifas planes prepago 7-10 días
     
     *Selectra, ¿Cuál es el mejor plan prepago celular en Colombia?*
     
@@ -228,11 +228,11 @@ Este tipo de razonamientos son los que nos gustaría que tuvieras al tomar una d
 
 ## Soluciones recomendadas
 
-- [**Cómo comprar una conexión temporal a internet satelital** ](es/solve/como-comprar-una-conexion-temporal-a-internet-satelital-solutions-db) 
-- [¿Cómo aprovechar mi ancho de banda?](es/solve/como-aprovechar-mi-ancho-de-banda-solutions-db) 
-- [¿Cómo comprar un celular adecuado para mí?](es/solve/como-comprar-un-celular-adecuado-para-mi-solutions-db)
-- [**Haz una colecta para pagar internet comunitario**](es/solve/haz-una-colecta-para-pagar-internet-comunitario-solutions-db) 
-- [¿Cómo comprar una antena satelital?](es/solve/como-comprar-una-antena-satelital-solutions-db) 
+- **Cómo comprar una conexión temporal a internet satelital**  
+- ¿Cómo aprovechar mi ancho de banda? 
+- ¿Cómo comprar un celular adecuado para mí?
+- **Haz una colecta para pagar internet comunitario** 
+- ¿Cómo comprar una antena satelital? 
 
 ## Referencias
 

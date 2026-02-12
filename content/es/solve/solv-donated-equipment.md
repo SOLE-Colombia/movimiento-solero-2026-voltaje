@@ -175,7 +175,7 @@ ___
 
 - Tener computadores comunitario trae consigo nuevos retos: [¿Cómo compartir los computadores disponibles? →](es/solve/solv-share-computers.md) 
 - Las herramientas lúdicas pueden contribuir a llegar más fácilmente a acuerdos sobre el uso de equipos comunitarios: [¿Cómo usar el juego para aprender a cuidar equipos en comunidad? →](es/solve/solv-fish-game.md) 
-- Una vez tienen equipos, pueden pasar a resolver un segundo asunto: conexión para usar con los equipos conseguido. Consulta esta solución para conocer formas de conectarse a internet: [¿Tu comunidad necesita apoyo económico para conectarse a Internet? →](es/solve/tu-comunidad-necesita-apoyo-economico-para-conectarse-a-internet-solutions-db)  
+- Una vez tienen equipos, pueden pasar a resolver un segundo asunto: conexión para usar con los equipos conseguido. Consulta esta solución para conocer formas de conectarse a internet: ¿Tu comunidad necesita apoyo económico para conectarse a Internet? →  
 
 ___
 

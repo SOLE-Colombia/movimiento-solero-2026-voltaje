@@ -22,7 +22,7 @@ ___
 
 ## ¿Qué es probar la velocidad de la conexión a internet?
 
-Una prueba de velocidad de conexión a internet, o _"speed test"_, es una herramienta que mide la rapidez de tu conexión a internet, evaluando la velocidad de **descarga** y **subida** de datos y la **[latencia de red →](es/glossary/latencia-latency-conceptorio.md)**. 
+Una prueba de velocidad de conexión a internet, o _"speed test"_, es una herramienta que mide la rapidez de tu conexión a internet, evaluando la velocidad de **descarga** y **subida** de datos y la **latencia de red →**. 
 
 ___
 

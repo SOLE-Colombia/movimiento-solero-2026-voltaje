@@ -20,13 +20,13 @@ draft: false
 
 ## ¿Qué es difundir tu mensaje?
 
-Cuando se trata de difundir [un mensaje](es/solve/crea-un-mensaje-potente-solutions-db) que realmente nos importa, queremos asegurarnos de que llegue a la mayor cantidad posible de personas, y que, además, esas personas respondan nuestro llamado. 
+Cuando se trata de difundir un mensaje que realmente nos importa, queremos asegurarnos de que llegue a la mayor cantidad posible de personas, y que, además, esas personas respondan nuestro llamado. 
 
 En esta solución te comparto algunas estrategias para que puedas probar cuál es el medio más indicado para transmitir tu mensaje.  
 
 ## ¿Para qué sirve?
 
-Saber cómo difundir mejor tu mensaje te permitirá llegar a [tu audiencia](es/solve/descubre-a-tu-audiencia-solutions-db) de manera más eficiente. Podrás llegar a un público más amplio, más especializado en lo que quieres contarle, podrás informar, difundir, contagiar… ¡de la mejor manera posible! 
+Saber cómo difundir mejor tu mensaje te permitirá llegar a tu audiencia de manera más eficiente. Podrás llegar a un público más amplio, más especializado en lo que quieres contarle, podrás informar, difundir, contagiar… ¡de la mejor manera posible! 
 
 Que otros puedan apreciar el valor y la importancia de lo que dices está relacionado con la manera en la que lo difundes, así que, si quieres ‘llegar mejor’ y tomar decisiones más estratégicas, es necesario que 
 
@@ -42,7 +42,7 @@ Que otros puedan apreciar el valor y la importancia de lo que dices está relaci
 
 - **Momento 0: Define qué quieres contar y qué es lo que quieres que tu audiencia haga**
     
-    Para definir en detalle tu mensaje, puedes repasar la solución [**Crea un mensaje potente**](es/solve/crea-un-mensaje-potente-solutions-db), donde podrás definir exactamente qué quieres difundir y cuál es el propósito de tu comunicación.
+    Para definir en detalle tu mensaje, puedes repasar la solución **Crea un mensaje potente**, donde podrás definir exactamente qué quieres difundir y cuál es el propósito de tu comunicación.
     
     Ahora, para saber si tu difusión está siendo potente, necesitas incluir en tu mensaje un aspecto clave: la llamada a la acción, o lo que se llama en comunicación Call To Action. Se refiere a aquella acción que estás pidiéndole a la persona que haga, una vez ha recibido tu mensaje y que te confirmará a ti que, efectivamente, ha sido así. 
     
@@ -50,9 +50,9 @@ Que otros puedan apreciar el valor y la importancia de lo que dices está relaci
     
 - **Momento 1: Lo primero, cuál es tu audiencia objetivo ¿a quién quieres dirigirte?**
     
-    Es necesario que pienses en [tu audiencia](es/solve/descubre-a-tu-audiencia-solutions-db) antes de decidir el canal que vas a usar para transmitir tu mensaje. Puedes adaptarte a diferentes medios, lo importante es que el mensaje llegue a la persona que quieres alcanzar.
+    Es necesario que pienses en tu audiencia antes de decidir el canal que vas a usar para transmitir tu mensaje. Puedes adaptarte a diferentes medios, lo importante es que el mensaje llegue a la persona que quieres alcanzar.
     
-    Ten en cuenta que, si te has asociado con un lugar que convoca (puedes ver la solución [¿Cómo aliarse con lugares que convocan?](es/solve/como-aliarse-con-lugares-que-convocan-solutions-db) puede ser que tu aliado ya conozca muy bien a las personas que sabe convocar. Si es así, puedes dejarte asesorar por tu aliado y ¡aprender de su manera de hacer las cosas!
+    Ten en cuenta que, si te has asociado con un lugar que convoca (puedes ver la solución ¿Cómo aliarse con lugares que convocan? puede ser que tu aliado ya conozca muy bien a las personas que sabe convocar. Si es así, puedes dejarte asesorar por tu aliado y ¡aprender de su manera de hacer las cosas!
     
     Si ya tienes claro a quiénes quieres invitar o convocar con tu mensaje, una buena táctica es usar los medios de comunicación más usados por esas personas.
     
@@ -85,7 +85,7 @@ Aquí tienes un ejemplo de cómo podría ser una invitación enviada por WhatsAp
 
 Pega carteleras, flyers, volantes, que transmitan tu mensaje en lugares estratégicos. Ve a los lugares dónde se reúne tu comunidad como tiendas locales o centros comunitarios. 
 
-También puedes tocar la puerta de tus vecinos y entrégales la [invitación](https://www.notion.so/1803914493dc4bf5811aac25bf2bbb8b?pvs=21) en mano.
+También puedes tocar la puerta de tus vecinos y entrégales la invitación en mano.
 
 Aquí te comparto algunos carteles que hemos puesto en tiendas para invitar a la comunidad de Boca de Camarones a construir La Biblioteca del futuro: 
 
@@ -155,7 +155,7 @@ Escríbenos a [**@sole_colombia**](https://www.instagram.com/sole_colombia/?hl=e
 
 ## Soluciones recomendadas
 
-- [Descubre a tu audiencia](es/solve/descubre-a-tu-audiencia-solutions-db) 
-- [¿Cómo aliarse con lugares que convocan?](es/solve/como-aliarse-con-lugares-que-convocan-solutions-db) 
-- [¿Cómo escribir una buena invitación?](es/solve/como-escribir-una-buena-invitacion-solutions-db) 
-- [Crea un mensaje potente](es/solve/crea-un-mensaje-potente-solutions-db) 
+- Descubre a tu audiencia 
+- ¿Cómo aliarse con lugares que convocan? 
+- ¿Cómo escribir una buena invitación? 
+- Crea un mensaje potente 
