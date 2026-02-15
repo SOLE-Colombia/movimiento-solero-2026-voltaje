@@ -1,5 +1,5 @@
 ---
-title: "Prueba #02 SOLE Voltaje"
+title: "Prueba 02 SOLE Voltaje"
 date: 2024-10-25
 tags:
   - Metodologías
@@ -85,7 +85,7 @@ Generar un espacio de intercambio entre diversos usuarios que hayan participado 
 - Para las pruebas virtuales este será el canal de comunicación.
 - Se invitará al grupo al final de las pruebas presenciales.
 
-**Prueba #02A - Iteración lectora-virtual soluciones de la prueba #01**
+**Prueba 02A - Iteración lectora-virtual soluciones de la prueba 01**
 
 **Objetivo**
 
@@ -159,7 +159,7 @@ https://www.notion.so/solecolombia/Construye-una-antena-3G-casera-79b996e8129d4f
 *¿Cómo mejorar mi señal con una lata?*
 https://www.notion.so/solecolombia/C-mo-mejorar-mi-se-al-con-una-lata-446b12a0cf3f43f8950660d603383f3c |
 
-**Prueba #02B -Ejecución-virtual de dos soluciones nuevas**
+**Prueba 02B -Ejecución-virtual de dos soluciones nuevas**
 
 **Tamaño de la muestra:**
 
@@ -322,7 +322,7 @@ Con base en lo que ocurra en las dos semanas de prueba, evaluaremos la pertinenc
 - Hay que diseñar una comunicación que permita identificar cuál es el perfil de personas que son motivadas para ser cacharreros.
 - No podemos dejar que solo entren a Voltaje por la “necesidad”, debemos hacer que también entren por la “motivación”.
 
-**Prueba #02C -Ejecución-presencial dos soluciones nuevas**
+**Prueba 02C -Ejecución-presencial dos soluciones nuevas**
 
 **Objetivo**
 
@@ -346,7 +346,7 @@ Internet para lugares no interconectados.
 
 **Agenda**
 
-**Prueba #02D -Ejecución-presencial comparación entre categorías**
+**Prueba 02D -Ejecución-presencial comparación entre categorías**
 
 **Objetivo**
 
@@ -372,7 +372,7 @@ Internet para lugares no interconectados.
     - PRESENCIAL “Reiniciar y compartir el internet de su teléfono con otros”.
 - **PRUEBA DE COMPARACIÓN ENTRE CATEGORIAS: comprobar los cambios necesarios entre las pruebas sobre cómo “convocar a tu comunidad” y “la señal de internet es mala”.** Las otras dos participantes de la prueba 01 podrían trabajar en las dos pruebas nuevas sobre “cómo convocar a tu comunidad”.
 
-<img src="/assets\images\Prueba # 02 SOLE Voltaje 12a2bd68c5b68020bb47d48c9175a22f\image1-800w.webp" alt="" srcset="/assets\images\Prueba # 02 SOLE Voltaje 12a2bd68c5b68020bb47d48c9175a22f\image1-400w.webp 400w, /assets\images\Prueba # 02 SOLE Voltaje 12a2bd68c5b68020bb47d48c9175a22f\image1-800w.webp 800w, /assets\images\Prueba # 02 SOLE Voltaje 12a2bd68c5b68020bb47d48c9175a22f\image1-1200w.webp 1200w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 800px, 1200px" loading="lazy" />
+![Prueba 02 SOLE Voltaje](assets/images/insp-voltajetest02/solv-voltajetest02-resource.webp)
 
 3. Reunión virtual opcional para que el o la participante nos cuente cómo le fue con la prueba.
 

@@ -11,7 +11,7 @@ Nos propusimos crear este espacio divergente que estas explorando llamado **SOLE
 
 - Macro-eventos: Son unas fases que diseñamos para el desarrollo y puesta en marcha de SOLE Voltaje. Se pueden ver en el siguiente esquema:
 
-![Trayectoria socio-técnica de la Comunidad de Cacharreras](../../../assets/images/insp-sociotech-cacharreras/nsp-sociotech-cacharreras-canvas.webp)
+![Trayectoria socio-técnica de la Comunidad de Cacharreras](assets/images/insp-sociotech-cacharreras/nsp-sociotech-cacharreras-canvas.webp)
 
 - Micro-eventos: Son los acontecimientos significativos particulares que suceden en cada una de las trayectorias.
 - Trayectoria socio-técnica: Una trayectoria socio-técnica es un proceso de co-construcción de productos, procesos productivos y organizacionales, instituciones, relaciones usuario-productor, procesos de aprendizaje, relaciones problema-solución, procesos de construcción de funcionamiento/no funcionamiento de una tecnología, racionalidades, políticas y estrategias determinadas. Para entender más sobre el análisis socio-técnico puedes ir nuestro conceptorio.

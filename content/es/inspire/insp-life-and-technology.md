@@ -16,8 +16,8 @@ resumen: Metodología para tejer historias usando la tecnología.
 
 Figura 1. Fotografía con las conexiones que realizaron los participantes sobre sus experiencias de vida en relación con la tecnología.
 
-![Vida y tecnología](../../../assets/images/insp-life-and-technology/insp-life-and-technology1.webp)
-![Vida y tecnología](../../../assets/images/insp-life-and-technology/insp-life-and-technology2.webp)
+![Vida y tecnología](assets/images/insp-life-and-technology/insp-life-and-technology1.webp)
+![Vida y tecnología](assets/images/insp-life-and-technology/insp-life-and-technology2.webp)
 
 **Propósito:** Reconocernos mutuamente como parte del proyecto SOLE Lab a través de nuestras historias de vida en relación con la tecnología
 
