@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "es-ES", // Español de Colombia
-    baseUrl: "sole-colombia.github.io/voltaje",
+    baseUrl: "sole-colombia.github.io/movimiento-solero-2026-voltaje",
     ignorePatterns: ["private", "templates", ".obsidian", "_staging", "**/_staging/**"],
     defaultDateType: "modified",
     theme: {

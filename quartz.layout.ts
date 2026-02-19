@@ -6,7 +6,7 @@ const isHomePage = (page: { fileData: { slug?: string } }) =>
 
 const footerLinks = {
   "SOLE Colombia": "https://www.solecolombia.org/",
-  "GitHub": "https://github.com/SOLE-Colombia/voltaje",
+  "GitHub": "https://github.com/SOLE-Colombia/movimiento-solero-2026-voltaje",
 }
 
 // components shared across all pages
